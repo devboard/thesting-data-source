@@ -1,0 +1,23 @@
+preset: symfony
+
+risky: false
+
+enabled:
+  - align_double_arrow
+  - align_equals
+  - ordered_imports
+  - phpdoc_order
+
+disabled:
+  - unalign_double_arrow
+  - unalign_equals
+
+finder:
+  path:
+    - "app/"
+    - "features/bootstrap/"
+    - "spec/"
+    - "src/"
+    - "tests/"
+  name:
+    - "*.php"

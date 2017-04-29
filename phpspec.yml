@@ -1,0 +1,7 @@
+formatter.name: progress
+extensions:
+  Cjm\PhpSpec\Extension\TypeHintedMethodsExtension: ~
+suites:
+    acme_suite:
+        namespace: Devboard\Thesting\Source
+        psr4_prefix: Devboard\Thesting\Source

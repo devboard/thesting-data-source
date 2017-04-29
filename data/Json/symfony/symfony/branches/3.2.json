@@ -1,0 +1,82 @@
+{
+  "name": "3.2",
+  "commit": {
+    "sha": "d5a95323da080de2de3c0cdc0f8947b2ee251b92",
+    "commit": {
+      "author": {
+        "name": "Nicolas Grekas",
+        "email": "nicolas.grekas@gmail.com",
+        "date": "2017-02-03T12:11:38Z"
+      },
+      "committer": {
+        "name": "Nicolas Grekas",
+        "email": "nicolas.grekas@gmail.com",
+        "date": "2017-02-03T12:11:38Z"
+      },
+      "message": "Merge branch '2.8' into 3.2\n\n* 2.8:\n  [FrameworkBundle][Console] JsonDescriptor: Respect original output\n  [Process] Non ASCII characters disappearing during the escapeshellarg",
+      "tree": {
+        "sha": "8639a57bae3fc6da1a31742f63876a1d3f6e6ce9",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/8639a57bae3fc6da1a31742f63876a1d3f6e6ce9"
+      },
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/d5a95323da080de2de3c0cdc0f8947b2ee251b92",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/symfony/symfony/commits/d5a95323da080de2de3c0cdc0f8947b2ee251b92",
+    "html_url": "https://github.com/symfony/symfony/commit/d5a95323da080de2de3c0cdc0f8947b2ee251b92",
+    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/d5a95323da080de2de3c0cdc0f8947b2ee251b92/comments",
+    "author": {
+      "login": "nicolas-grekas",
+      "id": 243674,
+      "avatar_url": "https://avatars.githubusercontent.com/u/243674?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/nicolas-grekas",
+      "html_url": "https://github.com/nicolas-grekas",
+      "followers_url": "https://api.github.com/users/nicolas-grekas/followers",
+      "following_url": "https://api.github.com/users/nicolas-grekas/following{/other_user}",
+      "gists_url": "https://api.github.com/users/nicolas-grekas/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/nicolas-grekas/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/nicolas-grekas/subscriptions",
+      "organizations_url": "https://api.github.com/users/nicolas-grekas/orgs",
+      "repos_url": "https://api.github.com/users/nicolas-grekas/repos",
+      "events_url": "https://api.github.com/users/nicolas-grekas/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/nicolas-grekas/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "nicolas-grekas",
+      "id": 243674,
+      "avatar_url": "https://avatars.githubusercontent.com/u/243674?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/nicolas-grekas",
+      "html_url": "https://github.com/nicolas-grekas",
+      "followers_url": "https://api.github.com/users/nicolas-grekas/followers",
+      "following_url": "https://api.github.com/users/nicolas-grekas/following{/other_user}",
+      "gists_url": "https://api.github.com/users/nicolas-grekas/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/nicolas-grekas/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/nicolas-grekas/subscriptions",
+      "organizations_url": "https://api.github.com/users/nicolas-grekas/orgs",
+      "repos_url": "https://api.github.com/users/nicolas-grekas/repos",
+      "events_url": "https://api.github.com/users/nicolas-grekas/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/nicolas-grekas/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "4fd91481c28090ea9a09e18cf1bac61afd7c608b",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/4fd91481c28090ea9a09e18cf1bac61afd7c608b",
+        "html_url": "https://github.com/symfony/symfony/commit/4fd91481c28090ea9a09e18cf1bac61afd7c608b"
+      },
+      {
+        "sha": "151fe329d0149677891ad80107edb5c6ee09eb1b",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/151fe329d0149677891ad80107edb5c6ee09eb1b",
+        "html_url": "https://github.com/symfony/symfony/commit/151fe329d0149677891ad80107edb5c6ee09eb1b"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/symfony/symfony/branches/3.2",
+    "html": "https://github.com/symfony/symfony/tree/3.2"
+  }
+}

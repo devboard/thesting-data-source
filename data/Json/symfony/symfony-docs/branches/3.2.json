@@ -1,0 +1,82 @@
+{
+  "name": "3.2",
+  "commit": {
+    "sha": "42c7ea84cdd0ac31d17e4ba67344b4f6eca419e2",
+    "commit": {
+      "author": {
+        "name": "Christian Flothmann",
+        "email": "christian.flothmann@sensiolabs.de",
+        "date": "2017-02-03T16:11:53Z"
+      },
+      "committer": {
+        "name": "Christian Flothmann",
+        "email": "christian.flothmann@sensiolabs.de",
+        "date": "2017-02-03T16:11:53Z"
+      },
+      "message": "Merge branch '3.1' into 3.2\n\n* 3.1:\n  [#7427] fix line length\n  Add apcu cache driver to doctrine config reference\n  Change type of arguments min and max\n  [#7383] minor rewording\n  Added a note about not using the ClassLoader component\n  Update guard_authentication.rst\n  More clear description of factory service creation\n  [#7376] minor wording improvement\n  Added a tip about the expanded YAML syntax\n  Added a minor help note about Request::setTrustedProxies\n  Fix Apache 2.4 UDS instructions\n  remove unused options parameter from loadManifest\n  See #7362 bundles/override > Rewrite translations block",
+      "tree": {
+        "sha": "b6b966c21f5c83f1418e83e71f5f0c8ff1d934c8",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/b6b966c21f5c83f1418e83e71f5f0c8ff1d934c8"
+      },
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/42c7ea84cdd0ac31d17e4ba67344b4f6eca419e2",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/42c7ea84cdd0ac31d17e4ba67344b4f6eca419e2",
+    "html_url": "https://github.com/symfony/symfony-docs/commit/42c7ea84cdd0ac31d17e4ba67344b4f6eca419e2",
+    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/42c7ea84cdd0ac31d17e4ba67344b4f6eca419e2/comments",
+    "author": {
+      "login": "xabbuh",
+      "id": 1957048,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1957048?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/xabbuh",
+      "html_url": "https://github.com/xabbuh",
+      "followers_url": "https://api.github.com/users/xabbuh/followers",
+      "following_url": "https://api.github.com/users/xabbuh/following{/other_user}",
+      "gists_url": "https://api.github.com/users/xabbuh/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/xabbuh/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/xabbuh/subscriptions",
+      "organizations_url": "https://api.github.com/users/xabbuh/orgs",
+      "repos_url": "https://api.github.com/users/xabbuh/repos",
+      "events_url": "https://api.github.com/users/xabbuh/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/xabbuh/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "xabbuh",
+      "id": 1957048,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1957048?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/xabbuh",
+      "html_url": "https://github.com/xabbuh",
+      "followers_url": "https://api.github.com/users/xabbuh/followers",
+      "following_url": "https://api.github.com/users/xabbuh/following{/other_user}",
+      "gists_url": "https://api.github.com/users/xabbuh/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/xabbuh/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/xabbuh/subscriptions",
+      "organizations_url": "https://api.github.com/users/xabbuh/orgs",
+      "repos_url": "https://api.github.com/users/xabbuh/repos",
+      "events_url": "https://api.github.com/users/xabbuh/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/xabbuh/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ea544607095d7d2c97dd8fac7cf2962d48513970",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/ea544607095d7d2c97dd8fac7cf2962d48513970",
+        "html_url": "https://github.com/symfony/symfony-docs/commit/ea544607095d7d2c97dd8fac7cf2962d48513970"
+      },
+      {
+        "sha": "a6386100a27dce7c5c922f4d5f0b9d16508deec2",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/a6386100a27dce7c5c922f4d5f0b9d16508deec2",
+        "html_url": "https://github.com/symfony/symfony-docs/commit/a6386100a27dce7c5c922f4d5f0b9d16508deec2"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/symfony/symfony-docs/branches/3.2",
+    "html": "https://github.com/symfony/symfony-docs/tree/3.2"
+  }
+}

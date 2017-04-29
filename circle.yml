@@ -1,0 +1,110 @@
+version: 2
+stages:
+  build:
+    docker:
+      - image: msvrtan/square:0.2.0
+    workDir: /var/www
+    steps:
+      - run:
+          name: Additional jobs
+          command: |
+            curl --user ${CIRCLE_API_TOKEN}: \
+              --data build_parameters[CIRCLE_JOB]=humbug \
+              --data revision=$CIRCLE_SHA1 \
+              https://circleci.com/api/v1.1/project/github/$CIRCLE_PROJECT_USERNAME/$CIRCLE_PROJECT_REPONAME/tree/$CIRCLE_BRANCH
+            curl --user ${CIRCLE_API_TOKEN}: \
+              --data build_parameters[CIRCLE_JOB]=highest \
+              --data revision=$CIRCLE_SHA1 \
+              https://circleci.com/api/v1.1/project/github/$CIRCLE_PROJECT_USERNAME/$CIRCLE_PROJECT_REPONAME/tree/$CIRCLE_BRANCH
+
+      - checkout
+
+      - restore_cache:
+          key: cache-{{ checksum "composer.lock" }}
+
+      - run:
+          name: Disable xdebug
+          command: ./etc/circleci2/disable-xdebug.sh
+
+      - run:
+          name: Composer install
+          command: composer install --no-interaction
+
+      - run:
+          name: PHPUnit
+          command: ./bin/phpunit
+
+      - run:
+          name: PHPSpec
+          command: ./bin/phpspec run --no-interaction
+
+      - run:
+          name: Check codestandards
+          command: ./bin/phing check-codestandards
+
+      - run:
+          name: Static analysis
+          command: ./bin/phing phpstan
+
+      - save_cache:
+          key: cache-{{ checksum "composer.lock" }}
+          paths:
+            - /var/www/vendor
+            - /var/www/bin
+
+  humbug:
+    docker:
+      - image: msvrtan/square:0.2.0
+    workDir: /var/www
+    steps:
+      - checkout
+
+      - restore_cache:
+          key: cache-{{ checksum "composer.lock" }}
+
+      - run:
+          name: Humbug
+          command: ./bin/humbug
+
+      - store_artifacts:
+          path: build
+          destination: build
+
+  highest:
+    docker:
+      - image: msvrtan/square:0.2.0
+    workDir: /var/www
+    steps:
+      - checkout
+
+      - restore_cache:
+          key: cache-{{ checksum "composer.lock" }}
+
+      - run:
+          name: Disable xdebug
+          command: ./etc/circleci2/disable-xdebug.sh
+
+      - run:
+          name: Delete composer.lock
+          command: rm composer.lock
+
+      - run:
+          name: Composer install
+          command: composer install --no-interaction
+
+      - run:
+          name: PHPUnit
+          command: ./bin/phpunit
+
+      - run:
+          name: PHPSpec
+          command: ./bin/phpspec run --no-interaction
+
+      - run:
+          name: Check codestandards
+          command: ./bin/phing check-codestandards
+
+      - run:
+          name: Static analysis
+          command: ./bin/phing phpstan
+

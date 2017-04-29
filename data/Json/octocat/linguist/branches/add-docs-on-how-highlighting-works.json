@@ -1,0 +1,77 @@
+{
+  "name": "add-docs-on-how-highlighting-works",
+  "commit": {
+    "sha": "d29ec3bf51561c618498febce853c324de5a58a6",
+    "commit": {
+      "author": {
+        "name": "Garen Torikian",
+        "email": "gjtorikian@gmail.com",
+        "date": "2015-04-22T01:44:57Z"
+      },
+      "committer": {
+        "name": "Garen Torikian",
+        "email": "gjtorikian@gmail.com",
+        "date": "2015-04-22T01:44:57Z"
+      },
+      "message": "Indicate how we come at the highlighting word",
+      "tree": {
+        "sha": "15d6932dbe60c582c8b72ae7a6df175a9f481cef",
+        "url": "https://api.github.com/repos/octocat/linguist/git/trees/15d6932dbe60c582c8b72ae7a6df175a9f481cef"
+      },
+      "url": "https://api.github.com/repos/octocat/linguist/git/commits/d29ec3bf51561c618498febce853c324de5a58a6",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/octocat/linguist/commits/d29ec3bf51561c618498febce853c324de5a58a6",
+    "html_url": "https://github.com/octocat/linguist/commit/d29ec3bf51561c618498febce853c324de5a58a6",
+    "comments_url": "https://api.github.com/repos/octocat/linguist/commits/d29ec3bf51561c618498febce853c324de5a58a6/comments",
+    "author": {
+      "login": "gjtorikian",
+      "id": 64050,
+      "avatar_url": "https://avatars.githubusercontent.com/u/64050?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/gjtorikian",
+      "html_url": "https://github.com/gjtorikian",
+      "followers_url": "https://api.github.com/users/gjtorikian/followers",
+      "following_url": "https://api.github.com/users/gjtorikian/following{/other_user}",
+      "gists_url": "https://api.github.com/users/gjtorikian/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/gjtorikian/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/gjtorikian/subscriptions",
+      "organizations_url": "https://api.github.com/users/gjtorikian/orgs",
+      "repos_url": "https://api.github.com/users/gjtorikian/repos",
+      "events_url": "https://api.github.com/users/gjtorikian/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/gjtorikian/received_events",
+      "type": "User",
+      "site_admin": true
+    },
+    "committer": {
+      "login": "gjtorikian",
+      "id": 64050,
+      "avatar_url": "https://avatars.githubusercontent.com/u/64050?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/gjtorikian",
+      "html_url": "https://github.com/gjtorikian",
+      "followers_url": "https://api.github.com/users/gjtorikian/followers",
+      "following_url": "https://api.github.com/users/gjtorikian/following{/other_user}",
+      "gists_url": "https://api.github.com/users/gjtorikian/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/gjtorikian/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/gjtorikian/subscriptions",
+      "organizations_url": "https://api.github.com/users/gjtorikian/orgs",
+      "repos_url": "https://api.github.com/users/gjtorikian/repos",
+      "events_url": "https://api.github.com/users/gjtorikian/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/gjtorikian/received_events",
+      "type": "User",
+      "site_admin": true
+    },
+    "parents": [
+      {
+        "sha": "f4289a235b0190b93356917d3c77a2d4d5683503",
+        "url": "https://api.github.com/repos/octocat/linguist/commits/f4289a235b0190b93356917d3c77a2d4d5683503",
+        "html_url": "https://github.com/octocat/linguist/commit/f4289a235b0190b93356917d3c77a2d4d5683503"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/octocat/linguist/branches/add-docs-on-how-highlighting-works",
+    "html": "https://github.com/octocat/linguist/tree/add-docs-on-how-highlighting-works"
+  }
+}

@@ -1,0 +1,17 @@
+formatter.name: progress
+extensions:
+  Cjm\PhpSpec\Extension\TypeHintedMethodsExtension: ~
+  PhpSpecCodeCoverage\CodeCoverageExtension: ~
+suites:
+    acme_suite:
+        namespace: Devboard\GitHub
+        psr4_prefix: Devboard\GitHub
+code_coverage:
+  format:
+    - html
+    - clover
+    - php
+  output:
+    html: build/phpspec/coverage
+    clover: build/logs/clover.xml
+    php: build/cov/coverage.cov

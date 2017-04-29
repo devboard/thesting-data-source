@@ -1,0 +1,16 @@
+
+nulldev_skeleton:
+    code:
+      path: "src/"
+      prefix: "Devboard\\Thesting\\Source\\"
+      autoload_type: "psr4"
+    phpspec:
+      path: "spec/"
+      prefix: "spec\\Devboard\\Thesting\\Source\\"
+      autoload_type: "psr4"
+      enabled: true
+    phpunit:
+      path: "tests/"
+      prefix: "tests\\Devboard\\Thesting\\Source\\"
+      autoload_type: "psr4"
+      enabled: true

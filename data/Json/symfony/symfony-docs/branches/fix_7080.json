@@ -1,0 +1,77 @@
+{
+  "name": "fix_7080",
+  "commit": {
+    "sha": "b2194c34d701d5b9bb40f2621506624d0253d015",
+    "commit": {
+      "author": {
+        "name": "Javier Eguiluz",
+        "email": "javier.eguiluz@gmail.com",
+        "date": "2016-10-26T07:25:39Z"
+      },
+      "committer": {
+        "name": "Javier Eguiluz",
+        "email": "javier.eguiluz@gmail.com",
+        "date": "2016-10-26T07:25:39Z"
+      },
+      "message": "Fixed a broken link to FastCgiExternalServer directive documentation",
+      "tree": {
+        "sha": "1bcb92090958729a276d16ab5ced74adba782be2",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/1bcb92090958729a276d16ab5ced74adba782be2"
+      },
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/b2194c34d701d5b9bb40f2621506624d0253d015",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/b2194c34d701d5b9bb40f2621506624d0253d015",
+    "html_url": "https://github.com/symfony/symfony-docs/commit/b2194c34d701d5b9bb40f2621506624d0253d015",
+    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/b2194c34d701d5b9bb40f2621506624d0253d015/comments",
+    "author": {
+      "login": "javiereguiluz",
+      "id": 73419,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73419?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/javiereguiluz",
+      "html_url": "https://github.com/javiereguiluz",
+      "followers_url": "https://api.github.com/users/javiereguiluz/followers",
+      "following_url": "https://api.github.com/users/javiereguiluz/following{/other_user}",
+      "gists_url": "https://api.github.com/users/javiereguiluz/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/javiereguiluz/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/javiereguiluz/subscriptions",
+      "organizations_url": "https://api.github.com/users/javiereguiluz/orgs",
+      "repos_url": "https://api.github.com/users/javiereguiluz/repos",
+      "events_url": "https://api.github.com/users/javiereguiluz/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/javiereguiluz/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "javiereguiluz",
+      "id": 73419,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73419?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/javiereguiluz",
+      "html_url": "https://github.com/javiereguiluz",
+      "followers_url": "https://api.github.com/users/javiereguiluz/followers",
+      "following_url": "https://api.github.com/users/javiereguiluz/following{/other_user}",
+      "gists_url": "https://api.github.com/users/javiereguiluz/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/javiereguiluz/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/javiereguiluz/subscriptions",
+      "organizations_url": "https://api.github.com/users/javiereguiluz/orgs",
+      "repos_url": "https://api.github.com/users/javiereguiluz/repos",
+      "events_url": "https://api.github.com/users/javiereguiluz/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/javiereguiluz/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "67deef269b7b2ea35a88c408bec2b642e93fee2c",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/67deef269b7b2ea35a88c408bec2b642e93fee2c",
+        "html_url": "https://github.com/symfony/symfony-docs/commit/67deef269b7b2ea35a88c408bec2b642e93fee2c"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/symfony/symfony-docs/branches/fix_7080",
+    "html": "https://github.com/symfony/symfony-docs/tree/fix_7080"
+  }
+}

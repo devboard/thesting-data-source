@@ -1,0 +1,22 @@
+/bin/
+/composer.phar
+/tmp
+/vendor/
+/.php_cs.cache
+
+#PHPStorm folder
+/.idea
+#backup files from unix editors
+*~
+#merge files
+*.orig
+#Ignoring shell scripts in root folder
+/*.sh
+#Ignoring MacDS_Store files
+.DS_Store
+#Ignoring ant build xml
+/.ant-targets-build.xml
+
+#Ignoring .vagrant folder
+/.vagrant
+

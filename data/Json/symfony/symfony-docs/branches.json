@@ -1,0 +1,128 @@
+[
+  {
+    "name": "2.0",
+    "commit": {
+      "sha": "88065b04761ff810009f3379b46513640aa7dc47",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/88065b04761ff810009f3379b46513640aa7dc47"
+    }
+  },
+  {
+    "name": "2.1",
+    "commit": {
+      "sha": "89c6f1d8437d2c950f3a641140579b437d5346ef",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/89c6f1d8437d2c950f3a641140579b437d5346ef"
+    }
+  },
+  {
+    "name": "2.2",
+    "commit": {
+      "sha": "88e25d50213a629d7fb959e7737eeac652aa26d5",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/88e25d50213a629d7fb959e7737eeac652aa26d5"
+    }
+  },
+  {
+    "name": "2.3",
+    "commit": {
+      "sha": "3a728bad4e7c9c94d63937d490dddf9e0fb8f7b7",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/3a728bad4e7c9c94d63937d490dddf9e0fb8f7b7"
+    }
+  },
+  {
+    "name": "2.4",
+    "commit": {
+      "sha": "3d883123a7ad820c94e756d96ac32855fd0bac63",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/3d883123a7ad820c94e756d96ac32855fd0bac63"
+    }
+  },
+  {
+    "name": "2.5",
+    "commit": {
+      "sha": "747696a806a6e474eede862c308546ab32bacec9",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/747696a806a6e474eede862c308546ab32bacec9"
+    }
+  },
+  {
+    "name": "2.6",
+    "commit": {
+      "sha": "149576e043a8b47f3ef51fb81825ccc65fb4f0ec",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/149576e043a8b47f3ef51fb81825ccc65fb4f0ec"
+    }
+  },
+  {
+    "name": "2.7",
+    "commit": {
+      "sha": "060751705cf864544d74cf5f756bcc8b5652f9cc",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/060751705cf864544d74cf5f756bcc8b5652f9cc"
+    }
+  },
+  {
+    "name": "2.8",
+    "commit": {
+      "sha": "4a77589fa23dd9de78cfeb3114d00507c5f48c59",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/4a77589fa23dd9de78cfeb3114d00507c5f48c59"
+    }
+  },
+  {
+    "name": "3.0",
+    "commit": {
+      "sha": "49492b7dc1c4961350c200004c106c7b562e6ed7",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/49492b7dc1c4961350c200004c106c7b562e6ed7"
+    }
+  },
+  {
+    "name": "3.1",
+    "commit": {
+      "sha": "a6386100a27dce7c5c922f4d5f0b9d16508deec2",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/a6386100a27dce7c5c922f4d5f0b9d16508deec2"
+    }
+  },
+  {
+    "name": "3.2",
+    "commit": {
+      "sha": "42c7ea84cdd0ac31d17e4ba67344b4f6eca419e2",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/42c7ea84cdd0ac31d17e4ba67344b4f6eca419e2"
+    }
+  },
+  {
+    "name": "bundle_classes",
+    "commit": {
+      "sha": "469d0ea2bee868ae03ae46e9647b5413c8a53377",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/469d0ea2bee868ae03ae46e9647b5413c8a53377"
+    }
+  },
+  {
+    "name": "console_private_commands",
+    "commit": {
+      "sha": "a05ae81e6c5839380a7b520e6088b73115c8a794",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/a05ae81e6c5839380a7b520e6088b73115c8a794"
+    }
+  },
+  {
+    "name": "email_test",
+    "commit": {
+      "sha": "a0cb8f8fa279c0d066d221e759e61a3f31a512af",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/a0cb8f8fa279c0d066d221e759e61a3f31a512af"
+    }
+  },
+  {
+    "name": "fix_7080",
+    "commit": {
+      "sha": "b2194c34d701d5b9bb40f2621506624d0253d015",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/b2194c34d701d5b9bb40f2621506624d0253d015"
+    }
+  },
+  {
+    "name": "master",
+    "commit": {
+      "sha": "562949164b2f36204102bd233d54b114fbcb6d47",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/562949164b2f36204102bd233d54b114fbcb6d47"
+    }
+  },
+  {
+    "name": "template-proofing",
+    "commit": {
+      "sha": "a30b0e3456759b4b890ef997c32ae36ba0176b07",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/a30b0e3456759b4b890ef997c32ae36ba0176b07"
+    }
+  }
+]

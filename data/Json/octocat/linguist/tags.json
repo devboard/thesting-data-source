@@ -1,0 +1,272 @@
+[
+  {
+    "name": "v4.8.8",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.8.8",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.8.8",
+    "commit": {
+      "sha": "3f4b8368e81430e3353cb5ad8b781cd044697347",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/3f4b8368e81430e3353cb5ad8b781cd044697347"
+    }
+  },
+  {
+    "name": "v4.8.7",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.8.7",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.8.7",
+    "commit": {
+      "sha": "e78e9e47478d12e7b06c37d5444aeb418b18ea0e",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/e78e9e47478d12e7b06c37d5444aeb418b18ea0e"
+    }
+  },
+  {
+    "name": "v4.8.6",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.8.6",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.8.6",
+    "commit": {
+      "sha": "8845cd9c58605900f6916d91d58ae4e67bf61f21",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/8845cd9c58605900f6916d91d58ae4e67bf61f21"
+    }
+  },
+  {
+    "name": "v4.8.5",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.8.5",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.8.5",
+    "commit": {
+      "sha": "aa2319a052686017b1d35fce7526ec36c3e2d65b",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/aa2319a052686017b1d35fce7526ec36c3e2d65b"
+    }
+  },
+  {
+    "name": "v4.8.4",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.8.4",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.8.4",
+    "commit": {
+      "sha": "7174130e46f99a5d51b560035787f6b09d06efb3",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/7174130e46f99a5d51b560035787f6b09d06efb3"
+    }
+  },
+  {
+    "name": "v4.8.3",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.8.3",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.8.3",
+    "commit": {
+      "sha": "0f3644d23aad7030a48ed00486341834a4c36ca7",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/0f3644d23aad7030a48ed00486341834a4c36ca7"
+    }
+  },
+  {
+    "name": "v4.8.2",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.8.2",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.8.2",
+    "commit": {
+      "sha": "21d7f99a4ed346487bc4cf6b59d5abfde856d1b7",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/21d7f99a4ed346487bc4cf6b59d5abfde856d1b7"
+    }
+  },
+  {
+    "name": "v4.8.1",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.8.1",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.8.1",
+    "commit": {
+      "sha": "e6ab516fb720875feac6f2a21b340c21a530547b",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/e6ab516fb720875feac6f2a21b340c21a530547b"
+    }
+  },
+  {
+    "name": "v4.8.0",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.8.0",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.8.0",
+    "commit": {
+      "sha": "1efd9b384d2143f551ef12826b2b23bd5f720e2d",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/1efd9b384d2143f551ef12826b2b23bd5f720e2d"
+    }
+  },
+  {
+    "name": "v4.7.6",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.7.6",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.7.6",
+    "commit": {
+      "sha": "3d1555e2789005ed2729bf0f61bc8ec90fbe3de4",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/3d1555e2789005ed2729bf0f61bc8ec90fbe3de4"
+    }
+  },
+  {
+    "name": "v4.7.5",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.7.5",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.7.5",
+    "commit": {
+      "sha": "ab33fccdddfa62ad86a3cfe55218e4ff40365e87",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/ab33fccdddfa62ad86a3cfe55218e4ff40365e87"
+    }
+  },
+  {
+    "name": "v4.7.4",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.7.4",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.7.4",
+    "commit": {
+      "sha": "0c071990cb5cfca076962745e3392dff4adbc950",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/0c071990cb5cfca076962745e3392dff4adbc950"
+    }
+  },
+  {
+    "name": "v4.7.3",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.7.3",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.7.3",
+    "commit": {
+      "sha": "7133c3b11a485e7120b9c48d4900ede1951c4391",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/7133c3b11a485e7120b9c48d4900ede1951c4391"
+    }
+  },
+  {
+    "name": "v4.7.2",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.7.2",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.7.2",
+    "commit": {
+      "sha": "c8b30a62f9caf50609e4abc515469a5dda9b9584",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/c8b30a62f9caf50609e4abc515469a5dda9b9584"
+    }
+  },
+  {
+    "name": "v4.7.1",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.7.1",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.7.1",
+    "commit": {
+      "sha": "7247c80facc2711c6c8e9000d5d97dd259e1be25",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/7247c80facc2711c6c8e9000d5d97dd259e1be25"
+    }
+  },
+  {
+    "name": "v4.7.0",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.7.0",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.7.0",
+    "commit": {
+      "sha": "6b56a243e71923a48eb02f108cd08d7b5e93395b",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/6b56a243e71923a48eb02f108cd08d7b5e93395b"
+    }
+  },
+  {
+    "name": "v4.6.4",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.6.4",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.6.4",
+    "commit": {
+      "sha": "ae42cc0307d1312790989d6201a628cb2b976f0a",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/ae42cc0307d1312790989d6201a628cb2b976f0a"
+    }
+  },
+  {
+    "name": "v4.6.3",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.6.3",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.6.3",
+    "commit": {
+      "sha": "98b99e38bb7665b98027702eb309a946edf62d20",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/98b99e38bb7665b98027702eb309a946edf62d20"
+    }
+  },
+  {
+    "name": "v4.6.0",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.6.0",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.6.0",
+    "commit": {
+      "sha": "473282d64c812cae0ba681d85005f37ec85b1a4d",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/473282d64c812cae0ba681d85005f37ec85b1a4d"
+    }
+  },
+  {
+    "name": "v4.5.15",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.5.15",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.5.15",
+    "commit": {
+      "sha": "9aa24a216af95a4d304752bd9c4839cf71b140e6",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/9aa24a216af95a4d304752bd9c4839cf71b140e6"
+    }
+  },
+  {
+    "name": "v4.5.14",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.5.14",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.5.14",
+    "commit": {
+      "sha": "c7bab11ebed857d69e614e8df58732b95a1915e7",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/c7bab11ebed857d69e614e8df58732b95a1915e7"
+    }
+  },
+  {
+    "name": "v4.5.13",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.5.13",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.5.13",
+    "commit": {
+      "sha": "5aae7a400088d7991537066f01259c59c1d1a4c7",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/5aae7a400088d7991537066f01259c59c1d1a4c7"
+    }
+  },
+  {
+    "name": "v4.5.11",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.5.11",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.5.11",
+    "commit": {
+      "sha": "ca51415540816f32ef6d3782da7146e3e0cc53ac",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/ca51415540816f32ef6d3782da7146e3e0cc53ac"
+    }
+  },
+  {
+    "name": "v4.5.10",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.5.10",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.5.10",
+    "commit": {
+      "sha": "16a4b4947f4ba59800ee1b93aa9b5f943727b7c3",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/16a4b4947f4ba59800ee1b93aa9b5f943727b7c3"
+    }
+  },
+  {
+    "name": "v4.5.9",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.5.9",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.5.9",
+    "commit": {
+      "sha": "c570646c2da8a2dfd191039ee5330ffc4407f282",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/c570646c2da8a2dfd191039ee5330ffc4407f282"
+    }
+  },
+  {
+    "name": "v4.5.8",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.5.8",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.5.8",
+    "commit": {
+      "sha": "cf471af677a71959b8e4ca8b68bddd09d42cd994",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/cf471af677a71959b8e4ca8b68bddd09d42cd994"
+    }
+  },
+  {
+    "name": "v4.5.7",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.5.7",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.5.7",
+    "commit": {
+      "sha": "ee3081fb4c73a90633c52f4158a3db411fdafac4",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/ee3081fb4c73a90633c52f4158a3db411fdafac4"
+    }
+  },
+  {
+    "name": "v4.5.6",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.5.6",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.5.6",
+    "commit": {
+      "sha": "4757da73f0d7d479302991ce6bb13fd07d203cbb",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/4757da73f0d7d479302991ce6bb13fd07d203cbb"
+    }
+  },
+  {
+    "name": "v4.5.5",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.5.5",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.5.5",
+    "commit": {
+      "sha": "6062d3b25cbe99b8660724250436eeb249483119",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/6062d3b25cbe99b8660724250436eeb249483119"
+    }
+  },
+  {
+    "name": "v4.5.4",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.5.4",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.5.4",
+    "commit": {
+      "sha": "78d4abe808ad211584d9ecf6977bc4f1bd059a32",
+      "url": "https://api.github.com/repos/octocat/linguist/commits/78d4abe808ad211584d9ecf6977bc4f1bd059a32"
+    }
+  }
+]
