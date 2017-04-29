@@ -1,29 +1,29 @@
 {
   "name": "2.7",
   "commit": {
-    "sha": "f0d13f47084c3dcb393a6b9d1cea23bf742771ed",
+    "sha": "c84ee65b99c72faa9cf4e0ac53ee78b62151082d",
     "commit": {
       "author": {
         "name": "Fabien Potencier",
         "email": "fabien.potencier@gmail.com",
-        "date": "2017-02-03T21:25:39Z"
+        "date": "2017-04-29T15:58:47Z"
       },
       "committer": {
         "name": "Fabien Potencier",
         "email": "fabien.potencier@gmail.com",
-        "date": "2017-02-03T21:25:39Z"
+        "date": "2017-04-29T15:58:47Z"
       },
-      "message": "bug #21430 Casting TableCell value to string. (jaydiablo)\n\nThis PR was squashed before being merged into the 2.7 branch (closes #21430).\n\nDiscussion\n----------\n\nCasting TableCell value to string.\n\n| Q             | A\n| ------------- | ---\n| Branch?       | 2.7\n| Bug fix?      | yes\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets | #21429\n| License       | MIT\n| Doc PR        |\n\nPHP throws a catchable fatal error when the value from this method is\nused in strstr in the Table class. This fixes the error by casting to a string before returning the value.\n\nCommits\n-------\n\n1e5707fed3 Casting TableCell value to string.",
+      "message": "minor #22453 Fix minor phpdoc mismatches with the code(detected by phan) (TysonAndre)\n\nThis PR was squashed before being merged into the 2.7 branch (closes #22453).\n\nDiscussion\n----------\n\nFix minor phpdoc mismatches with the code(detected by phan)\n\n| Q             | A\n| ------------- | ---\n| Branch?       | master\n| Bug fix?      | no\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets | none\n| License       | MIT\n| Doc PR        | no\n\nFix minor mismatches between phpdoc and the type of the code itself, detected by etsy/phan (Prevent confusion in the future)\nThe actual return types of a few functions have changed from int to bool where preg_match or `&` was used.\nFix optional param before required param in src/Symfony/Component/Serializer/Normalizer/AbstractObjectNormalizer.php\n\nThe config used and the rest of the output is at https://gist.github.com/TysonAndre/91bed0e16583301f1e6e5cc2a4807081 (Uses some patches to etsy/phan that weren't merged to master yet)\n\nCommits\n-------\n\n12f1239565 Fix minor phpdoc mismatches with the code(detected by phan)",
       "tree": {
-        "sha": "04c226dddfe022f79a0b9222397dae7d0f7b355f",
-        "url": "https://api.github.com/repos/symfony/symfony/git/trees/04c226dddfe022f79a0b9222397dae7d0f7b355f"
+        "sha": "6fb34ae45f0cc6e08434c9aeb91c22b6ecca700c",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/6fb34ae45f0cc6e08434c9aeb91c22b6ecca700c"
       },
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/f0d13f47084c3dcb393a6b9d1cea23bf742771ed",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/c84ee65b99c72faa9cf4e0ac53ee78b62151082d",
       "comment_count": 0
     },
-    "url": "https://api.github.com/repos/symfony/symfony/commits/f0d13f47084c3dcb393a6b9d1cea23bf742771ed",
-    "html_url": "https://github.com/symfony/symfony/commit/f0d13f47084c3dcb393a6b9d1cea23bf742771ed",
-    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/f0d13f47084c3dcb393a6b9d1cea23bf742771ed/comments",
+    "url": "https://api.github.com/repos/symfony/symfony/commits/c84ee65b99c72faa9cf4e0ac53ee78b62151082d",
+    "html_url": "https://github.com/symfony/symfony/commit/c84ee65b99c72faa9cf4e0ac53ee78b62151082d",
+    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/c84ee65b99c72faa9cf4e0ac53ee78b62151082d/comments",
     "author": {
       "login": "fabpot",
       "id": 47313,
@@ -64,14 +64,14 @@
     },
     "parents": [
       {
-        "sha": "ff33768eda5bee4ad0b3b0086241dfcb5d35d143",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/ff33768eda5bee4ad0b3b0086241dfcb5d35d143",
-        "html_url": "https://github.com/symfony/symfony/commit/ff33768eda5bee4ad0b3b0086241dfcb5d35d143"
+        "sha": "c669b88403479254921d8d962fc2919b88f9b9fe",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/c669b88403479254921d8d962fc2919b88f9b9fe",
+        "html_url": "https://github.com/symfony/symfony/commit/c669b88403479254921d8d962fc2919b88f9b9fe"
       },
       {
-        "sha": "1e5707fed398ea972268823fcc2cb04e0847de39",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/1e5707fed398ea972268823fcc2cb04e0847de39",
-        "html_url": "https://github.com/symfony/symfony/commit/1e5707fed398ea972268823fcc2cb04e0847de39"
+        "sha": "12f1239565f94a4fc9d4593190f7bc59c2dd0743",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/12f1239565f94a4fc9d4593190f7bc59c2dd0743",
+        "html_url": "https://github.com/symfony/symfony/commit/12f1239565f94a4fc9d4593190f7bc59c2dd0743"
       }
     ]
   },

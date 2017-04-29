@@ -41,7 +41,7 @@
       "events_url": "https://api.github.com/users/aroben/events{/privacy}",
       "received_events_url": "https://api.github.com/users/aroben/received_events",
       "type": "User",
-      "site_admin": true
+      "site_admin": false
     },
     "committer": {
       "login": "aroben",
@@ -60,7 +60,7 @@
       "events_url": "https://api.github.com/users/aroben/events{/privacy}",
       "received_events_url": "https://api.github.com/users/aroben/received_events",
       "type": "User",
-      "site_admin": true
+      "site_admin": false
     },
     "parents": [
       {

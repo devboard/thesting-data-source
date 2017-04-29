@@ -1,29 +1,29 @@
 {
   "name": "2.8",
   "commit": {
-    "sha": "4a77589fa23dd9de78cfeb3114d00507c5f48c59",
+    "sha": "a5ea888c1912ada0807e35f90bb8abde8107be3e",
     "commit": {
       "author": {
         "name": "Christian Flothmann",
         "email": "christian.flothmann@sensiolabs.de",
-        "date": "2017-02-03T15:58:18Z"
+        "date": "2017-04-27T18:57:07Z"
       },
       "committer": {
         "name": "Christian Flothmann",
         "email": "christian.flothmann@sensiolabs.de",
-        "date": "2017-02-03T15:58:18Z"
+        "date": "2017-04-27T18:57:07Z"
       },
-      "message": "Merge branch '2.7' into 2.8\n\n* 2.7:\n  [#7427] fix line length\n  Add apcu cache driver to doctrine config reference\n  Change type of arguments min and max\n  [#7383] minor rewording\n  Added a note about not using the ClassLoader component\n  More clear description of factory service creation\n  [#7376] minor wording improvement\n  Added a tip about the expanded YAML syntax\n  Added a minor help note about Request::setTrustedProxies\n  Fix Apache 2.4 UDS instructions\n  See #7362 bundles/override > Rewrite translations block",
+      "message": "minor #7824 Fixed the form types of the buttons in the Form reference (javiereguiluz)\n\nThis PR was squashed before being merged into the 2.8 branch (closes #7824).\n\nDiscussion\n----------\n\nFixed the form types of the buttons in the Form reference\n\nThis fixes #6864.\n\nCommits\n-------\n\n7239fb9 Fixed the form types of the buttons in the Form reference",
       "tree": {
-        "sha": "1e52a5c5f3f6d398ed8a10d6f58f658a859b429c",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/1e52a5c5f3f6d398ed8a10d6f58f658a859b429c"
+        "sha": "1f8402e426dfd99cdb91889149e97b2013b40aff",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/1f8402e426dfd99cdb91889149e97b2013b40aff"
       },
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/4a77589fa23dd9de78cfeb3114d00507c5f48c59",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/a5ea888c1912ada0807e35f90bb8abde8107be3e",
       "comment_count": 0
     },
-    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/4a77589fa23dd9de78cfeb3114d00507c5f48c59",
-    "html_url": "https://github.com/symfony/symfony-docs/commit/4a77589fa23dd9de78cfeb3114d00507c5f48c59",
-    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/4a77589fa23dd9de78cfeb3114d00507c5f48c59/comments",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/a5ea888c1912ada0807e35f90bb8abde8107be3e",
+    "html_url": "https://github.com/symfony/symfony-docs/commit/a5ea888c1912ada0807e35f90bb8abde8107be3e",
+    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/a5ea888c1912ada0807e35f90bb8abde8107be3e/comments",
     "author": {
       "login": "xabbuh",
       "id": 1957048,
@@ -64,14 +64,14 @@
     },
     "parents": [
       {
-        "sha": "c8e0b0c7fd05903294e51872e99ada5628b892e8",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/c8e0b0c7fd05903294e51872e99ada5628b892e8",
-        "html_url": "https://github.com/symfony/symfony-docs/commit/c8e0b0c7fd05903294e51872e99ada5628b892e8"
+        "sha": "ce1b83dd5bcb08c0e52e218f5061eb0d4381fdcc",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/ce1b83dd5bcb08c0e52e218f5061eb0d4381fdcc",
+        "html_url": "https://github.com/symfony/symfony-docs/commit/ce1b83dd5bcb08c0e52e218f5061eb0d4381fdcc"
       },
       {
-        "sha": "060751705cf864544d74cf5f756bcc8b5652f9cc",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/060751705cf864544d74cf5f756bcc8b5652f9cc",
-        "html_url": "https://github.com/symfony/symfony-docs/commit/060751705cf864544d74cf5f756bcc8b5652f9cc"
+        "sha": "7239fb904a831408b1efb668ab70a9e880da113d",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/7239fb904a831408b1efb668ab70a9e880da113d",
+        "html_url": "https://github.com/symfony/symfony-docs/commit/7239fb904a831408b1efb668ab70a9e880da113d"
       }
     ]
   },

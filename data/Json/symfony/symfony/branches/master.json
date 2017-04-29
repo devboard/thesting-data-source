@@ -1,29 +1,29 @@
 {
   "name": "master",
   "commit": {
-    "sha": "ed6a2ed3ebf5cf2c4a278f871be87fdd6df1bf79",
+    "sha": "8872833c5d6a46ea27a4483e650617361660d946",
     "commit": {
       "author": {
         "name": "Fabien Potencier",
         "email": "fabien.potencier@gmail.com",
-        "date": "2017-02-03T21:28:46Z"
+        "date": "2017-04-29T16:33:57Z"
       },
       "committer": {
         "name": "Fabien Potencier",
         "email": "fabien.potencier@gmail.com",
-        "date": "2017-02-03T21:28:46Z"
+        "date": "2017-04-29T16:33:57Z"
       },
-      "message": "minor #21522 [SecurityBundle] Add AutowiringTypesTest (chalasr)\n\nThis PR was merged into the 3.3-dev branch.\n\nDiscussion\n----------\n\n[SecurityBundle] Add AutowiringTypesTest\n\n| Q             | A\n| ------------- | ---\n| Branch?       | master\n| Tests pass?   | yes\n| Fixed tickets | https://github.com/symfony/symfony/pull/21517#discussion_r99351908\n| License       | MIT\n\nCommits\n-------\n\nd1001d4bac [SecurityBundle] Add AutowiringTypesTest",
+      "message": "feature #22527 [DI] Throw useful exception on bad XML argument tags (nicolas-grekas)\n\nThis PR was merged into the 3.3-dev branch.\n\nDiscussion\n----------\n\n[DI] Throw useful exception on bad XML argument tags\n\n| Q             | A\n| ------------- | ---\n| Branch?       | 3.3\n| Bug fix?      | no\n| New feature?  | yes\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets | #22525\n| License       | MIT\n| Doc PR        | -\n\nI still think that the feature request in #22525 would make things better.\nBut at least, let's make thing fail loudly, instead of silently today, with the associated usual wtfs :)\n\nCommits\n-------\n\n91828ecd17 [DI] Throw useful exception on bad XML argument tags",
       "tree": {
-        "sha": "95ac00cafeb1cae77505edc5663fc380eda308f9",
-        "url": "https://api.github.com/repos/symfony/symfony/git/trees/95ac00cafeb1cae77505edc5663fc380eda308f9"
+        "sha": "0e915c09faae8092778ddb46ad32839484cf13b4",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/0e915c09faae8092778ddb46ad32839484cf13b4"
       },
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/ed6a2ed3ebf5cf2c4a278f871be87fdd6df1bf79",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/8872833c5d6a46ea27a4483e650617361660d946",
       "comment_count": 0
     },
-    "url": "https://api.github.com/repos/symfony/symfony/commits/ed6a2ed3ebf5cf2c4a278f871be87fdd6df1bf79",
-    "html_url": "https://github.com/symfony/symfony/commit/ed6a2ed3ebf5cf2c4a278f871be87fdd6df1bf79",
-    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/ed6a2ed3ebf5cf2c4a278f871be87fdd6df1bf79/comments",
+    "url": "https://api.github.com/repos/symfony/symfony/commits/8872833c5d6a46ea27a4483e650617361660d946",
+    "html_url": "https://github.com/symfony/symfony/commit/8872833c5d6a46ea27a4483e650617361660d946",
+    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/8872833c5d6a46ea27a4483e650617361660d946/comments",
     "author": {
       "login": "fabpot",
       "id": 47313,
@@ -64,14 +64,14 @@
     },
     "parents": [
       {
-        "sha": "7c5dcfcdb88bb30eec3849ec8ca2acee75ffe571",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/7c5dcfcdb88bb30eec3849ec8ca2acee75ffe571",
-        "html_url": "https://github.com/symfony/symfony/commit/7c5dcfcdb88bb30eec3849ec8ca2acee75ffe571"
+        "sha": "35608f57d5fe0d2a5007c3d814d85050eb7be804",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/35608f57d5fe0d2a5007c3d814d85050eb7be804",
+        "html_url": "https://github.com/symfony/symfony/commit/35608f57d5fe0d2a5007c3d814d85050eb7be804"
       },
       {
-        "sha": "d1001d4bac9d3f87dbc8506856745f3603818939",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/d1001d4bac9d3f87dbc8506856745f3603818939",
-        "html_url": "https://github.com/symfony/symfony/commit/d1001d4bac9d3f87dbc8506856745f3603818939"
+        "sha": "91828ecd17c3dd2dc74d9c7e946ca93de2d3864e",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/91828ecd17c3dd2dc74d9c7e946ca93de2d3864e",
+        "html_url": "https://github.com/symfony/symfony/commit/91828ecd17c3dd2dc74d9c7e946ca93de2d3864e"
       }
     ]
   },
