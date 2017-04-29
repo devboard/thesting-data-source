@@ -8,7 +8,7 @@ use Devboard\Thesting\Source\JsonSource;
 
 /**
  * @covers \Devboard\Thesting\Source\JsonSource
- * @group  unit
+ * @group  integration
  */
 class JsonSourceTest extends \PHPUnit_Framework_TestCase
 {
@@ -40,6 +40,21 @@ class JsonSourceTest extends \PHPUnit_Framework_TestCase
     public function testGetTags(string $repo, int $expectedCount)
     {
         $this->assertCount($expectedCount, $this->sut->getTags($repo));
+    }
+
+    public function testGetGitHubPushEventData()
+    {
+        $this->assertCount(43, $this->sut->getGitHubPushEventData());
+    }
+
+    public function testGetGitHubPushEventBranchesData()
+    {
+        $this->assertCount(39, $this->sut->getGitHubPushEventBranchesData());
+    }
+
+    public function testGetGitHubPushEventTagsData()
+    {
+        $this->assertCount(4, $this->sut->getGitHubPushEventTagsData());
     }
 
     public function provideReposAndBranchCount(): array

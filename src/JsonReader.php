@@ -48,10 +48,29 @@ class JsonReader
         return $this->getFilesIn($repo, 'branches');
     }
 
+    public function getPushEventFiles(string $repo): array
+    {
+        return $this->getFilesIn($repo, 'push');
+    }
+
+    public function getPushEventBranchFiles(string $repo): array
+    {
+        return $this->getFilesIn($repo, 'push/branch');
+    }
+
+    public function getPushEventTagFiles(string $repo): array
+    {
+        return $this->getFilesIn($repo, 'push/tag');
+    }
+
     private function getFilesIn(string $repo, string $folderName): array
     {
         $path   = sprintf('%s/%s/%s/', $this->getBasePath(), $repo, $folderName);
         $finder = new Finder();
+
+        if (false === is_dir($path)) {
+            return [];
+        }
 
         $data = [];
         foreach ($finder->files()->in($path)->getIterator() as $item) {

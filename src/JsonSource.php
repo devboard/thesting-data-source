@@ -89,7 +89,7 @@ class JsonSource
         $results = [];
 
         foreach ($this->reader->getBranchFiles($repo) as $item) {
-            $results[]  = $this->decode($this->reader->loadBranchContent($repo, $this->extractName($item)));
+            $results[] = $this->decode($this->reader->loadBranchContent($repo, $this->extractName($item)));
         }
 
         return $results;
@@ -100,7 +100,46 @@ class JsonSource
         $results = [];
 
         foreach ($this->reader->getTagFiles($repo) as $item) {
-            $results[]  = $this->decode($this->reader->loadTagContent($repo, $this->extractName($item)));
+            $results[] = $this->decode($this->reader->loadTagContent($repo, $this->extractName($item)));
+        }
+
+        return $results;
+    }
+
+    public function getGitHubPushEventData(): array
+    {
+        $results = [];
+
+        foreach ($this->supportedRepoNames as $repo) {
+            foreach ($this->reader->getPushEventFiles($repo) as $file) {
+                $results[] = $this->decode(file_get_contents($file->getPathname()));
+            }
+        }
+
+        return $results;
+    }
+
+    public function getGitHubPushEventBranchesData(): array
+    {
+        $results = [];
+
+        foreach ($this->supportedRepoNames as $repo) {
+            foreach ($this->reader->getPushEventBranchFiles($repo) as $file) {
+                $results[] = $this->decode(file_get_contents($file->getPathname()));
+            }
+        }
+
+        return $results;
+    }
+
+    public function getGitHubPushEventTagsData(): array
+    {
+        $results = [];
+
+        foreach ($this->supportedRepoNames as $repo) {
+            foreach ($this->reader->getPushEventTagFiles($repo) as $file) {
+                $results[] = $this->decode(file_get_contents($file->getPathname()));
+            }
         }
 
         return $results;
