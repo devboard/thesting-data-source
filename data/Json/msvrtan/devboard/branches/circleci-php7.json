@@ -1,0 +1,77 @@
+{
+  "name": "circleci-php7",
+  "commit": {
+    "sha": "91c3cd19c0c0669b5f71cafd8b8e80f9fd52935e",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-01-09T21:23:40Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-05-05T19:06:07Z"
+      },
+      "message": "Running PHP7 on CircleCI",
+      "tree": {
+        "sha": "41ed51e950340d0daa40b2841cfccc89ff35a2ae",
+        "url": "https://api.github.com/repos/msvrtan/devboard/git/trees/41ed51e950340d0daa40b2841cfccc89ff35a2ae"
+      },
+      "url": "https://api.github.com/repos/msvrtan/devboard/git/commits/91c3cd19c0c0669b5f71cafd8b8e80f9fd52935e",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/msvrtan/devboard/commits/91c3cd19c0c0669b5f71cafd8b8e80f9fd52935e",
+    "html_url": "https://github.com/msvrtan/devboard/commit/91c3cd19c0c0669b5f71cafd8b8e80f9fd52935e",
+    "comments_url": "https://api.github.com/repos/msvrtan/devboard/commits/91c3cd19c0c0669b5f71cafd8b8e80f9fd52935e/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6976c6f94027c5b77108ca43d9dccba28898dbb5",
+        "url": "https://api.github.com/repos/msvrtan/devboard/commits/6976c6f94027c5b77108ca43d9dccba28898dbb5",
+        "html_url": "https://github.com/msvrtan/devboard/commit/6976c6f94027c5b77108ca43d9dccba28898dbb5"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/msvrtan/devboard/branches/circleci-php7",
+    "html": "https://github.com/msvrtan/devboard/tree/circleci-php7"
+  }
+}

@@ -1,29 +1,29 @@
 {
   "name": "3.2",
   "commit": {
-    "sha": "d5a95323da080de2de3c0cdc0f8947b2ee251b92",
+    "sha": "c590e85c1b125a0d6098841a1e49a1fd327815a4",
     "commit": {
       "author": {
         "name": "Nicolas Grekas",
         "email": "nicolas.grekas@gmail.com",
-        "date": "2017-02-03T12:11:38Z"
+        "date": "2017-04-28T12:55:39Z"
       },
       "committer": {
         "name": "Nicolas Grekas",
         "email": "nicolas.grekas@gmail.com",
-        "date": "2017-02-03T12:11:38Z"
+        "date": "2017-04-28T12:55:39Z"
       },
-      "message": "Merge branch '2.8' into 3.2\n\n* 2.8:\n  [FrameworkBundle][Console] JsonDescriptor: Respect original output\n  [Process] Non ASCII characters disappearing during the escapeshellarg",
+      "message": "bug #22568 [EventDispatcher] fix getting priorities of listeners during dispatch (dmaicher)\n\nThis PR was merged into the 3.2 branch.\n\nDiscussion\n----------\n\n[EventDispatcher] fix getting priorities of listeners during dispatch\n\n| Q             | A\n| ------------- | ---\n| Branch?       | 3.2\n| Bug fix?      | yes\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets | #22520\n| License       | MIT\n| Doc PR        | -\n\nThe WebProfiler collects listener info during dispatching the `kernel.terminate` event which caused issues while retrieving priorities as the wrappers are registered instead of the real listeners.\n\nCommits\n-------\n\n79b71c0 [EventDispatcher] fix getting priorities of listeners during dispatch",
       "tree": {
-        "sha": "8639a57bae3fc6da1a31742f63876a1d3f6e6ce9",
-        "url": "https://api.github.com/repos/symfony/symfony/git/trees/8639a57bae3fc6da1a31742f63876a1d3f6e6ce9"
+        "sha": "c91a5e5deeaf5710d274553eb210946d6de884ef",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/c91a5e5deeaf5710d274553eb210946d6de884ef"
       },
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/d5a95323da080de2de3c0cdc0f8947b2ee251b92",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/c590e85c1b125a0d6098841a1e49a1fd327815a4",
       "comment_count": 0
     },
-    "url": "https://api.github.com/repos/symfony/symfony/commits/d5a95323da080de2de3c0cdc0f8947b2ee251b92",
-    "html_url": "https://github.com/symfony/symfony/commit/d5a95323da080de2de3c0cdc0f8947b2ee251b92",
-    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/d5a95323da080de2de3c0cdc0f8947b2ee251b92/comments",
+    "url": "https://api.github.com/repos/symfony/symfony/commits/c590e85c1b125a0d6098841a1e49a1fd327815a4",
+    "html_url": "https://github.com/symfony/symfony/commit/c590e85c1b125a0d6098841a1e49a1fd327815a4",
+    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/c590e85c1b125a0d6098841a1e49a1fd327815a4/comments",
     "author": {
       "login": "nicolas-grekas",
       "id": 243674,
@@ -64,14 +64,14 @@
     },
     "parents": [
       {
-        "sha": "4fd91481c28090ea9a09e18cf1bac61afd7c608b",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/4fd91481c28090ea9a09e18cf1bac61afd7c608b",
-        "html_url": "https://github.com/symfony/symfony/commit/4fd91481c28090ea9a09e18cf1bac61afd7c608b"
+        "sha": "eb1e27737eec06d1c33676eefc9a9b5f9cc2ad72",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/eb1e27737eec06d1c33676eefc9a9b5f9cc2ad72",
+        "html_url": "https://github.com/symfony/symfony/commit/eb1e27737eec06d1c33676eefc9a9b5f9cc2ad72"
       },
       {
-        "sha": "151fe329d0149677891ad80107edb5c6ee09eb1b",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/151fe329d0149677891ad80107edb5c6ee09eb1b",
-        "html_url": "https://github.com/symfony/symfony/commit/151fe329d0149677891ad80107edb5c6ee09eb1b"
+        "sha": "79b71c069dc2ecbafdce190b78f5a9f989ada033",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/79b71c069dc2ecbafdce190b78f5a9f989ada033",
+        "html_url": "https://github.com/symfony/symfony/commit/79b71c069dc2ecbafdce190b78f5a9f989ada033"
       }
     ]
   },

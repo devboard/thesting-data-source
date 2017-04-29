@@ -1,0 +1,77 @@
+{
+  "name": "139-stop-running-humbug-on-circleci",
+  "commit": {
+    "sha": "7848fd733db69bc9257ca0e31ed698bacf722fc5",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2017-03-23T22:13:57Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2017-03-23T22:13:57Z"
+      },
+      "message": "Stop running humbug #139\n\nAlso split test tasks into separate steps on CircleCI",
+      "tree": {
+        "sha": "8f615a673a307c5b511d474a8463bd01c2d2cbb6",
+        "url": "https://api.github.com/repos/msvrtan/devboard-core/git/trees/8f615a673a307c5b511d474a8463bd01c2d2cbb6"
+      },
+      "url": "https://api.github.com/repos/msvrtan/devboard-core/git/commits/7848fd733db69bc9257ca0e31ed698bacf722fc5",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/msvrtan/devboard-core/commits/7848fd733db69bc9257ca0e31ed698bacf722fc5",
+    "html_url": "https://github.com/msvrtan/devboard-core/commit/7848fd733db69bc9257ca0e31ed698bacf722fc5",
+    "comments_url": "https://api.github.com/repos/msvrtan/devboard-core/commits/7848fd733db69bc9257ca0e31ed698bacf722fc5/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "4e5ddcd68a78ae414791bb649b988815570a0871",
+        "url": "https://api.github.com/repos/msvrtan/devboard-core/commits/4e5ddcd68a78ae414791bb649b988815570a0871",
+        "html_url": "https://github.com/msvrtan/devboard-core/commit/4e5ddcd68a78ae414791bb649b988815570a0871"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/msvrtan/devboard-core/branches/139-stop-running-humbug-on-circleci",
+    "html": "https://github.com/msvrtan/devboard-core/tree/139-stop-running-humbug-on-circleci"
+  }
+}

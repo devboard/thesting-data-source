@@ -1,0 +1,77 @@
+{
+  "name": "clean-up-code",
+  "commit": {
+    "sha": "19a6098405d09090f879268ccf1e6eb6c6ff4963",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2017-02-05T10:46:03Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2017-02-05T10:55:18Z"
+      },
+      "message": "Rename Github to GitHub (capital H) in config files",
+      "tree": {
+        "sha": "dd1f2cfad260994eb693ba3d8aed485ad4c8cf3f",
+        "url": "https://api.github.com/repos/msvrtan/github-lib/git/trees/dd1f2cfad260994eb693ba3d8aed485ad4c8cf3f"
+      },
+      "url": "https://api.github.com/repos/msvrtan/github-lib/git/commits/19a6098405d09090f879268ccf1e6eb6c6ff4963",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/msvrtan/github-lib/commits/19a6098405d09090f879268ccf1e6eb6c6ff4963",
+    "html_url": "https://github.com/msvrtan/github-lib/commit/19a6098405d09090f879268ccf1e6eb6c6ff4963",
+    "comments_url": "https://api.github.com/repos/msvrtan/github-lib/commits/19a6098405d09090f879268ccf1e6eb6c6ff4963/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ea5819ea10bd36e69cdf87d1bd317dd00da951e7",
+        "url": "https://api.github.com/repos/msvrtan/github-lib/commits/ea5819ea10bd36e69cdf87d1bd317dd00da951e7",
+        "html_url": "https://github.com/msvrtan/github-lib/commit/ea5819ea10bd36e69cdf87d1bd317dd00da951e7"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/msvrtan/github-lib/branches/clean-up-code",
+    "html": "https://github.com/msvrtan/github-lib/tree/clean-up-code"
+  }
+}

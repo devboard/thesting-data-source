@@ -1,0 +1,173 @@
+[
+  {
+    "name": "v0.5.1",
+    "zipball_url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/v0.5.1",
+    "tarball_url": "https://api.github.com/repos/devboard/github-object-api-facade/tarball/v0.5.1",
+    "commit": {
+      "sha": "a4d5dab9e09f8d2a3280ebb4e1e4792b8e49d4c6",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/a4d5dab9e09f8d2a3280ebb4e1e4792b8e49d4c6"
+    }
+  },
+  {
+    "name": "v0.5.0",
+    "zipball_url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/v0.5.0",
+    "tarball_url": "https://api.github.com/repos/devboard/github-object-api-facade/tarball/v0.5.0",
+    "commit": {
+      "sha": "b26b22ed16365ac4615ba9efe824abc7835dcbea",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/b26b22ed16365ac4615ba9efe824abc7835dcbea"
+    }
+  },
+  {
+    "name": "v0.4.5",
+    "zipball_url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/v0.4.5",
+    "tarball_url": "https://api.github.com/repos/devboard/github-object-api-facade/tarball/v0.4.5",
+    "commit": {
+      "sha": "f83cc80d9e98d303a5ad029cfbf5a24597763996",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/f83cc80d9e98d303a5ad029cfbf5a24597763996"
+    }
+  },
+  {
+    "name": "v0.4.4",
+    "zipball_url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/v0.4.4",
+    "tarball_url": "https://api.github.com/repos/devboard/github-object-api-facade/tarball/v0.4.4",
+    "commit": {
+      "sha": "bb83609adcb1bc8d35d31fdb76e22af24178cab9",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/bb83609adcb1bc8d35d31fdb76e22af24178cab9"
+    }
+  },
+  {
+    "name": "v0.4.3",
+    "zipball_url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/v0.4.3",
+    "tarball_url": "https://api.github.com/repos/devboard/github-object-api-facade/tarball/v0.4.3",
+    "commit": {
+      "sha": "fdd07b3206104bee580f686d21594c3bba85c33d",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/fdd07b3206104bee580f686d21594c3bba85c33d"
+    }
+  },
+  {
+    "name": "v0.4.2",
+    "zipball_url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/v0.4.2",
+    "tarball_url": "https://api.github.com/repos/devboard/github-object-api-facade/tarball/v0.4.2",
+    "commit": {
+      "sha": "edf8ccb5e8404e7772fd7f4122dbddbb525151af",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/edf8ccb5e8404e7772fd7f4122dbddbb525151af"
+    }
+  },
+  {
+    "name": "v0.4.1",
+    "zipball_url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/v0.4.1",
+    "tarball_url": "https://api.github.com/repos/devboard/github-object-api-facade/tarball/v0.4.1",
+    "commit": {
+      "sha": "5237e65f9fed933ff64a4a7989da89d149dfd63e",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/5237e65f9fed933ff64a4a7989da89d149dfd63e"
+    }
+  },
+  {
+    "name": "v0.4.0",
+    "zipball_url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/v0.4.0",
+    "tarball_url": "https://api.github.com/repos/devboard/github-object-api-facade/tarball/v0.4.0",
+    "commit": {
+      "sha": "3e5383a1353ef200f6b6f5cd7416cdc9213c35a7",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/3e5383a1353ef200f6b6f5cd7416cdc9213c35a7"
+    }
+  },
+  {
+    "name": "v0.3.1",
+    "zipball_url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/v0.3.1",
+    "tarball_url": "https://api.github.com/repos/devboard/github-object-api-facade/tarball/v0.3.1",
+    "commit": {
+      "sha": "ccf3033aacf1eac8a46befadb6df215935cb56b0",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/ccf3033aacf1eac8a46befadb6df215935cb56b0"
+    }
+  },
+  {
+    "name": "v0.3.0",
+    "zipball_url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/v0.3.0",
+    "tarball_url": "https://api.github.com/repos/devboard/github-object-api-facade/tarball/v0.3.0",
+    "commit": {
+      "sha": "68e25ad95ec7807182ab9a82784f4c88119c6ee4",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/68e25ad95ec7807182ab9a82784f4c88119c6ee4"
+    }
+  },
+  {
+    "name": "v0.2.3",
+    "zipball_url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/v0.2.3",
+    "tarball_url": "https://api.github.com/repos/devboard/github-object-api-facade/tarball/v0.2.3",
+    "commit": {
+      "sha": "54bce68a5ce1cb044ff1f734bd800e5ec42d365f",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/54bce68a5ce1cb044ff1f734bd800e5ec42d365f"
+    }
+  },
+  {
+    "name": "v0.2.2",
+    "zipball_url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/v0.2.2",
+    "tarball_url": "https://api.github.com/repos/devboard/github-object-api-facade/tarball/v0.2.2",
+    "commit": {
+      "sha": "9b824d1e4eb1daf90d3e335f3ccfda1bd2d8082e",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/9b824d1e4eb1daf90d3e335f3ccfda1bd2d8082e"
+    }
+  },
+  {
+    "name": "v0.2.1",
+    "zipball_url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/v0.2.1",
+    "tarball_url": "https://api.github.com/repos/devboard/github-object-api-facade/tarball/v0.2.1",
+    "commit": {
+      "sha": "cd5f418757d57d93ad8e949af7ae6a95345891ff",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/cd5f418757d57d93ad8e949af7ae6a95345891ff"
+    }
+  },
+  {
+    "name": "v0.2.0",
+    "zipball_url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/v0.2.0",
+    "tarball_url": "https://api.github.com/repos/devboard/github-object-api-facade/tarball/v0.2.0",
+    "commit": {
+      "sha": "fc2ff65050e27f28a5464e94d8c3882717d2dd3f",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/fc2ff65050e27f28a5464e94d8c3882717d2dd3f"
+    }
+  },
+  {
+    "name": "0.1.4",
+    "zipball_url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/0.1.4",
+    "tarball_url": "https://api.github.com/repos/devboard/github-object-api-facade/tarball/0.1.4",
+    "commit": {
+      "sha": "84bf1d65940bf7dc665b4f8b01ab0a50cad28124",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/84bf1d65940bf7dc665b4f8b01ab0a50cad28124"
+    }
+  },
+  {
+    "name": "0.1.3",
+    "zipball_url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/0.1.3",
+    "tarball_url": "https://api.github.com/repos/devboard/github-object-api-facade/tarball/0.1.3",
+    "commit": {
+      "sha": "d2ebe9d5e4cab2813f3b9a29931a9bd8e0e53ca7",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/d2ebe9d5e4cab2813f3b9a29931a9bd8e0e53ca7"
+    }
+  },
+  {
+    "name": "0.1.2",
+    "zipball_url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/0.1.2",
+    "tarball_url": "https://api.github.com/repos/devboard/github-object-api-facade/tarball/0.1.2",
+    "commit": {
+      "sha": "5a2f005519df434108f9b3ada07782f42fdb2525",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/5a2f005519df434108f9b3ada07782f42fdb2525"
+    }
+  },
+  {
+    "name": "0.1.1",
+    "zipball_url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/0.1.1",
+    "tarball_url": "https://api.github.com/repos/devboard/github-object-api-facade/tarball/0.1.1",
+    "commit": {
+      "sha": "8f61a38f39041a4f9ceb26e8aeb859eae2051c89",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/8f61a38f39041a4f9ceb26e8aeb859eae2051c89"
+    }
+  },
+  {
+    "name": "0.1.0",
+    "zipball_url": "https://api.github.com/repos/devboard/github-object-api-facade/zipball/0.1.0",
+    "tarball_url": "https://api.github.com/repos/devboard/github-object-api-facade/tarball/0.1.0",
+    "commit": {
+      "sha": "6bd4f9caabc1596eca30d05053d8e33826749bb3",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/6bd4f9caabc1596eca30d05053d8e33826749bb3"
+    }
+  }
+]

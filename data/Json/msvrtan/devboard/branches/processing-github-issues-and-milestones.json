@@ -1,0 +1,77 @@
+{
+  "name": "processing-github-issues-and-milestones",
+  "commit": {
+    "sha": "4dcee30f82faec39de235d46bd727df80169665b",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-02-18T10:47:26Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-02-18T11:01:27Z"
+      },
+      "message": "Processing github issues and milestone data #287 & #288",
+      "tree": {
+        "sha": "fe13750567dfbd50b98167f0b84425267e15e1c5",
+        "url": "https://api.github.com/repos/msvrtan/devboard/git/trees/fe13750567dfbd50b98167f0b84425267e15e1c5"
+      },
+      "url": "https://api.github.com/repos/msvrtan/devboard/git/commits/4dcee30f82faec39de235d46bd727df80169665b",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/msvrtan/devboard/commits/4dcee30f82faec39de235d46bd727df80169665b",
+    "html_url": "https://github.com/msvrtan/devboard/commit/4dcee30f82faec39de235d46bd727df80169665b",
+    "comments_url": "https://api.github.com/repos/msvrtan/devboard/commits/4dcee30f82faec39de235d46bd727df80169665b/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c596e4ef8fc7a57e9a4694f9964f241a24e9eb44",
+        "url": "https://api.github.com/repos/msvrtan/devboard/commits/c596e4ef8fc7a57e9a4694f9964f241a24e9eb44",
+        "html_url": "https://github.com/msvrtan/devboard/commit/c596e4ef8fc7a57e9a4694f9964f241a24e9eb44"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/msvrtan/devboard/branches/processing-github-issues-and-milestones",
+    "html": "https://github.com/msvrtan/devboard/tree/processing-github-issues-and-milestones"
+  }
+}

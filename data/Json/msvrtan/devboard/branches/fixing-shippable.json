@@ -1,0 +1,77 @@
+{
+  "name": "fixing-shippable",
+  "commit": {
+    "sha": "e3d561e33a156401edbe1f3776f6f174a5fd8e69",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-01-19T19:01:20Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-01-19T19:01:20Z"
+      },
+      "message": "Cleaning up shippable.yml2",
+      "tree": {
+        "sha": "d75cff76b4bb5ee5a2925c363853fbdd26291cc3",
+        "url": "https://api.github.com/repos/msvrtan/devboard/git/trees/d75cff76b4bb5ee5a2925c363853fbdd26291cc3"
+      },
+      "url": "https://api.github.com/repos/msvrtan/devboard/git/commits/e3d561e33a156401edbe1f3776f6f174a5fd8e69",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/msvrtan/devboard/commits/e3d561e33a156401edbe1f3776f6f174a5fd8e69",
+    "html_url": "https://github.com/msvrtan/devboard/commit/e3d561e33a156401edbe1f3776f6f174a5fd8e69",
+    "comments_url": "https://api.github.com/repos/msvrtan/devboard/commits/e3d561e33a156401edbe1f3776f6f174a5fd8e69/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f7b7722a91b76013bd9b335c6041fc40f74075d9",
+        "url": "https://api.github.com/repos/msvrtan/devboard/commits/f7b7722a91b76013bd9b335c6041fc40f74075d9",
+        "html_url": "https://github.com/msvrtan/devboard/commit/f7b7722a91b76013bd9b335c6041fc40f74075d9"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/msvrtan/devboard/branches/fixing-shippable",
+    "html": "https://github.com/msvrtan/devboard/tree/fixing-shippable"
+  }
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "0.3.x",
+    "commit": {
+      "sha": "8f37f89160c682b846f3d66e1abf2fc5b515bd11",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade-bundle/commits/8f37f89160c682b846f3d66e1abf2fc5b515bd11"
+    }
+  },
+  {
+    "name": "0.4.x",
+    "commit": {
+      "sha": "ec994accc44afbaf469e8839fe6e31f918c0119d",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade-bundle/commits/ec994accc44afbaf469e8839fe6e31f918c0119d"
+    }
+  },
+  {
+    "name": "0.5.x",
+    "commit": {
+      "sha": "e3e3305de81d6fd147354ea85035112661549bcf",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade-bundle/commits/e3e3305de81d6fd147354ea85035112661549bcf"
+    }
+  },
+  {
+    "name": "master",
+    "commit": {
+      "sha": "ec994accc44afbaf469e8839fe6e31f918c0119d",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade-bundle/commits/ec994accc44afbaf469e8839fe6e31f918c0119d"
+    }
+  }
+]

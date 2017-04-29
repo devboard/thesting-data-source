@@ -1,0 +1,77 @@
+{
+  "name": "hacking-snapshot",
+  "commit": {
+    "sha": "c7ce325525c952b1c7792aa510bc3a4b3093affc",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-08-06T19:03:53Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-08-06T19:03:53Z"
+      },
+      "message": "Run travis on all branches",
+      "tree": {
+        "sha": "f277ee67217aaea9077009ee90a39aa514c0e63c",
+        "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/f277ee67217aaea9077009ee90a39aa514c0e63c"
+      },
+      "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/c7ce325525c952b1c7792aa510bc3a4b3093affc",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/msvrtan/broadway/commits/c7ce325525c952b1c7792aa510bc3a4b3093affc",
+    "html_url": "https://github.com/msvrtan/broadway/commit/c7ce325525c952b1c7792aa510bc3a4b3093affc",
+    "comments_url": "https://api.github.com/repos/msvrtan/broadway/commits/c7ce325525c952b1c7792aa510bc3a4b3093affc/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "91473c03e04b9def2ed980021735ed4d88aad169",
+        "url": "https://api.github.com/repos/msvrtan/broadway/commits/91473c03e04b9def2ed980021735ed4d88aad169",
+        "html_url": "https://github.com/msvrtan/broadway/commit/91473c03e04b9def2ed980021735ed4d88aad169"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/msvrtan/broadway/branches/hacking-snapshot",
+    "html": "https://github.com/msvrtan/broadway/tree/hacking-snapshot"
+  }
+}

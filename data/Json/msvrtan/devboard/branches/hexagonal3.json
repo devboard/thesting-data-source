@@ -1,0 +1,77 @@
+{
+  "name": "hexagonal3",
+  "commit": {
+    "sha": "e46c58ef26fe3a4e842f47c92863e3bb23263240",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-02-13T19:51:43Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-02-13T19:51:43Z"
+      },
+      "message": "big squash",
+      "tree": {
+        "sha": "9c081ee9ed0dc9cd499e474dcad43d91f327605e",
+        "url": "https://api.github.com/repos/msvrtan/devboard/git/trees/9c081ee9ed0dc9cd499e474dcad43d91f327605e"
+      },
+      "url": "https://api.github.com/repos/msvrtan/devboard/git/commits/e46c58ef26fe3a4e842f47c92863e3bb23263240",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/msvrtan/devboard/commits/e46c58ef26fe3a4e842f47c92863e3bb23263240",
+    "html_url": "https://github.com/msvrtan/devboard/commit/e46c58ef26fe3a4e842f47c92863e3bb23263240",
+    "comments_url": "https://api.github.com/repos/msvrtan/devboard/commits/e46c58ef26fe3a4e842f47c92863e3bb23263240/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "20690f6ed132a885041e6c37d50bec9f5933ddfc",
+        "url": "https://api.github.com/repos/msvrtan/devboard/commits/20690f6ed132a885041e6c37d50bec9f5933ddfc",
+        "html_url": "https://github.com/msvrtan/devboard/commit/20690f6ed132a885041e6c37d50bec9f5933ddfc"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/msvrtan/devboard/branches/hexagonal3",
+    "html": "https://github.com/msvrtan/devboard/tree/hexagonal3"
+  }
+}

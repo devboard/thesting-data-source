@@ -1,0 +1,44 @@
+[
+  {
+    "name": "0.2.x",
+    "commit": {
+      "sha": "54bce68a5ce1cb044ff1f734bd800e5ec42d365f",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/54bce68a5ce1cb044ff1f734bd800e5ec42d365f"
+    }
+  },
+  {
+    "name": "0.3.x",
+    "commit": {
+      "sha": "ccf3033aacf1eac8a46befadb6df215935cb56b0",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/ccf3033aacf1eac8a46befadb6df215935cb56b0"
+    }
+  },
+  {
+    "name": "0.4.x",
+    "commit": {
+      "sha": "cddfb2f24a2baff6b7a2fba53d3f62966df29cf6",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/cddfb2f24a2baff6b7a2fba53d3f62966df29cf6"
+    }
+  },
+  {
+    "name": "0.5.x",
+    "commit": {
+      "sha": "882a4ef3f2d4c0c73d96a90a00812775a84a251a",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/882a4ef3f2d4c0c73d96a90a00812775a84a251a"
+    }
+  },
+  {
+    "name": "core-structures",
+    "commit": {
+      "sha": "5359716dd622ec3258116a2fffd2b90fb22f885a",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/5359716dd622ec3258116a2fffd2b90fb22f885a"
+    }
+  },
+  {
+    "name": "master",
+    "commit": {
+      "sha": "a4d5dab9e09f8d2a3280ebb4e1e4792b8e49d4c6",
+      "url": "https://api.github.com/repos/devboard/github-object-api-facade/commits/a4d5dab9e09f8d2a3280ebb4e1e4792b8e49d4c6"
+    }
+  }
+]

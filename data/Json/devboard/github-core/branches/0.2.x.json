@@ -1,0 +1,82 @@
+{
+  "name": "0.2.x",
+  "commit": {
+    "sha": "1948327bc2b9b5579b67818194195d33708c5f0b",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "msvrtan@users.noreply.github.com",
+        "date": "2016-03-02T10:38:17Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "msvrtan@users.noreply.github.com",
+        "date": "2016-03-02T10:38:17Z"
+      },
+      "message": "Merge pull request #24 from msvrtan/0.2.x\n\nAdding factory methods on Id's to generate themselves from value",
+      "tree": {
+        "sha": "2d2dc7cf96fc78982d5fb6b12357e0a70252efba",
+        "url": "https://api.github.com/repos/devboard/github-core/git/trees/2d2dc7cf96fc78982d5fb6b12357e0a70252efba"
+      },
+      "url": "https://api.github.com/repos/devboard/github-core/git/commits/1948327bc2b9b5579b67818194195d33708c5f0b",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/devboard/github-core/commits/1948327bc2b9b5579b67818194195d33708c5f0b",
+    "html_url": "https://github.com/devboard/github-core/commit/1948327bc2b9b5579b67818194195d33708c5f0b",
+    "comments_url": "https://api.github.com/repos/devboard/github-core/commits/1948327bc2b9b5579b67818194195d33708c5f0b/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "3cec9f0e66278d8791c13eab311fad5d24da369c",
+        "url": "https://api.github.com/repos/devboard/github-core/commits/3cec9f0e66278d8791c13eab311fad5d24da369c",
+        "html_url": "https://github.com/devboard/github-core/commit/3cec9f0e66278d8791c13eab311fad5d24da369c"
+      },
+      {
+        "sha": "fad367e2c298a0fe3f37586f5f509ec44cf92039",
+        "url": "https://api.github.com/repos/devboard/github-core/commits/fad367e2c298a0fe3f37586f5f509ec44cf92039",
+        "html_url": "https://github.com/devboard/github-core/commit/fad367e2c298a0fe3f37586f5f509ec44cf92039"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/devboard/github-core/branches/0.2.x",
+    "html": "https://github.com/devboard/github-core/tree/0.2.x"
+  }
+}

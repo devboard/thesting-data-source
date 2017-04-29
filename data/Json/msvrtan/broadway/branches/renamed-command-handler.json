@@ -1,0 +1,77 @@
+{
+  "name": "renamed-command-handler",
+  "commit": {
+    "sha": "4b23b2632654f887d7c8937a437028c7cdf230ed",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-04-20T13:07:37Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-04-20T13:09:49Z"
+      },
+      "message": "Prefixed command_handler tag with broadway",
+      "tree": {
+        "sha": "be63af069bfbb4d17ebad8c2744555462887a428",
+        "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/be63af069bfbb4d17ebad8c2744555462887a428"
+      },
+      "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/4b23b2632654f887d7c8937a437028c7cdf230ed",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/msvrtan/broadway/commits/4b23b2632654f887d7c8937a437028c7cdf230ed",
+    "html_url": "https://github.com/msvrtan/broadway/commit/4b23b2632654f887d7c8937a437028c7cdf230ed",
+    "comments_url": "https://api.github.com/repos/msvrtan/broadway/commits/4b23b2632654f887d7c8937a437028c7cdf230ed/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c32d90ae546d1e7f17baf6d696d6a09634a5e574",
+        "url": "https://api.github.com/repos/msvrtan/broadway/commits/c32d90ae546d1e7f17baf6d696d6a09634a5e574",
+        "html_url": "https://github.com/msvrtan/broadway/commit/c32d90ae546d1e7f17baf6d696d6a09634a5e574"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/msvrtan/broadway/branches/renamed-command-handler",
+    "html": "https://github.com/msvrtan/broadway/tree/renamed-command-handler"
+  }
+}

@@ -1,77 +1,77 @@
 {
   "name": "2.8",
   "commit": {
-    "sha": "151fe329d0149677891ad80107edb5c6ee09eb1b",
+    "sha": "07fc0602e1f577aad38deaa986aa6113a7774c08",
     "commit": {
       "author": {
-        "name": "Nicolas Grekas",
-        "email": "nicolas.grekas@gmail.com",
-        "date": "2017-02-03T12:08:06Z"
+        "name": "Fabien Potencier",
+        "email": "fabien.potencier@gmail.com",
+        "date": "2017-04-29T15:44:59Z"
       },
       "committer": {
-        "name": "Nicolas Grekas",
-        "email": "nicolas.grekas@gmail.com",
-        "date": "2017-02-03T12:08:06Z"
+        "name": "Fabien Potencier",
+        "email": "fabien.potencier@gmail.com",
+        "date": "2017-04-29T15:44:59Z"
       },
-      "message": "Merge branch '2.7' into 2.8\n\n* 2.7:\n  [Process] Non ASCII characters disappearing during the escapeshellarg",
+      "message": "bug #22550 Allow Upper Case property names in ObjectNormalizer (insekticid)\n\nThis PR was merged into the 2.8 branch.\n\nDiscussion\n----------\n\nAllow Upper Case property names in ObjectNormalizer\n\n| Q             | A\n| ------------- | ---\n| Branch?       | 2.8\n| Bug fix?      | yes\n| New feature?  | no\n| BC breaks?    | yes\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets | #22547\n| License       | MIT\n\nSame problem that has been fixed here https://github.com/symfony/symfony/pull/22265\nand here https://github.com/api-platform/core/pull/1037\n\nObjectNormalizer returns $id instead of $Id. It is bad naming convention, but is possible\n\n```php\nclass Entity {\n    protected $Id;\n\n    public function getId()\n    {\n        return $this->Id;\n    }\n}\n```\n\nCommits\n-------\n\nb2b4faa3c0 Allow Upper Case property names in ObjectNormalizer",
       "tree": {
-        "sha": "a0c127822f389a9c5836bdebae6671ad51853d98",
-        "url": "https://api.github.com/repos/symfony/symfony/git/trees/a0c127822f389a9c5836bdebae6671ad51853d98"
+        "sha": "68ded4c861314ff0a8eba9045fd6a8fa76744fb7",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/68ded4c861314ff0a8eba9045fd6a8fa76744fb7"
       },
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/151fe329d0149677891ad80107edb5c6ee09eb1b",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/07fc0602e1f577aad38deaa986aa6113a7774c08",
       "comment_count": 0
     },
-    "url": "https://api.github.com/repos/symfony/symfony/commits/151fe329d0149677891ad80107edb5c6ee09eb1b",
-    "html_url": "https://github.com/symfony/symfony/commit/151fe329d0149677891ad80107edb5c6ee09eb1b",
-    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/151fe329d0149677891ad80107edb5c6ee09eb1b/comments",
+    "url": "https://api.github.com/repos/symfony/symfony/commits/07fc0602e1f577aad38deaa986aa6113a7774c08",
+    "html_url": "https://github.com/symfony/symfony/commit/07fc0602e1f577aad38deaa986aa6113a7774c08",
+    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/07fc0602e1f577aad38deaa986aa6113a7774c08/comments",
     "author": {
-      "login": "nicolas-grekas",
-      "id": 243674,
-      "avatar_url": "https://avatars.githubusercontent.com/u/243674?v=3",
+      "login": "fabpot",
+      "id": 47313,
+      "avatar_url": "https://avatars.githubusercontent.com/u/47313?v=3",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/nicolas-grekas",
-      "html_url": "https://github.com/nicolas-grekas",
-      "followers_url": "https://api.github.com/users/nicolas-grekas/followers",
-      "following_url": "https://api.github.com/users/nicolas-grekas/following{/other_user}",
-      "gists_url": "https://api.github.com/users/nicolas-grekas/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/nicolas-grekas/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/nicolas-grekas/subscriptions",
-      "organizations_url": "https://api.github.com/users/nicolas-grekas/orgs",
-      "repos_url": "https://api.github.com/users/nicolas-grekas/repos",
-      "events_url": "https://api.github.com/users/nicolas-grekas/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/nicolas-grekas/received_events",
+      "url": "https://api.github.com/users/fabpot",
+      "html_url": "https://github.com/fabpot",
+      "followers_url": "https://api.github.com/users/fabpot/followers",
+      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+      "organizations_url": "https://api.github.com/users/fabpot/orgs",
+      "repos_url": "https://api.github.com/users/fabpot/repos",
+      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/fabpot/received_events",
       "type": "User",
       "site_admin": false
     },
     "committer": {
-      "login": "nicolas-grekas",
-      "id": 243674,
-      "avatar_url": "https://avatars.githubusercontent.com/u/243674?v=3",
+      "login": "fabpot",
+      "id": 47313,
+      "avatar_url": "https://avatars.githubusercontent.com/u/47313?v=3",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/nicolas-grekas",
-      "html_url": "https://github.com/nicolas-grekas",
-      "followers_url": "https://api.github.com/users/nicolas-grekas/followers",
-      "following_url": "https://api.github.com/users/nicolas-grekas/following{/other_user}",
-      "gists_url": "https://api.github.com/users/nicolas-grekas/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/nicolas-grekas/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/nicolas-grekas/subscriptions",
-      "organizations_url": "https://api.github.com/users/nicolas-grekas/orgs",
-      "repos_url": "https://api.github.com/users/nicolas-grekas/repos",
-      "events_url": "https://api.github.com/users/nicolas-grekas/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/nicolas-grekas/received_events",
+      "url": "https://api.github.com/users/fabpot",
+      "html_url": "https://github.com/fabpot",
+      "followers_url": "https://api.github.com/users/fabpot/followers",
+      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+      "organizations_url": "https://api.github.com/users/fabpot/orgs",
+      "repos_url": "https://api.github.com/users/fabpot/repos",
+      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/fabpot/received_events",
       "type": "User",
       "site_admin": false
     },
     "parents": [
       {
-        "sha": "a43e1832bf20dd4471a6ef6705c8c399f113ab48",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/a43e1832bf20dd4471a6ef6705c8c399f113ab48",
-        "html_url": "https://github.com/symfony/symfony/commit/a43e1832bf20dd4471a6ef6705c8c399f113ab48"
+        "sha": "04e48bd1201c3cacae6cd5749c301ea72345c6c8",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/04e48bd1201c3cacae6cd5749c301ea72345c6c8",
+        "html_url": "https://github.com/symfony/symfony/commit/04e48bd1201c3cacae6cd5749c301ea72345c6c8"
       },
       {
-        "sha": "01a0250d49238843d7b1efa795e527e7f416fab9",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/01a0250d49238843d7b1efa795e527e7f416fab9",
-        "html_url": "https://github.com/symfony/symfony/commit/01a0250d49238843d7b1efa795e527e7f416fab9"
+        "sha": "b2b4faa3c03220a0dc5a6e23782402fe1dccd612",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/b2b4faa3c03220a0dc5a6e23782402fe1dccd612",
+        "html_url": "https://github.com/symfony/symfony/commit/b2b4faa3c03220a0dc5a6e23782402fe1dccd612"
       }
     ]
   },

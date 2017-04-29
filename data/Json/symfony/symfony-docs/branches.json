@@ -51,15 +51,15 @@
   {
     "name": "2.7",
     "commit": {
-      "sha": "060751705cf864544d74cf5f756bcc8b5652f9cc",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/060751705cf864544d74cf5f756bcc8b5652f9cc"
+      "sha": "5905e69d9a70925e36e933125544e8dd1cce1454",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/5905e69d9a70925e36e933125544e8dd1cce1454"
     }
   },
   {
     "name": "2.8",
     "commit": {
-      "sha": "4a77589fa23dd9de78cfeb3114d00507c5f48c59",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/4a77589fa23dd9de78cfeb3114d00507c5f48c59"
+      "sha": "a5ea888c1912ada0807e35f90bb8abde8107be3e",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/a5ea888c1912ada0807e35f90bb8abde8107be3e"
     }
   },
   {
@@ -79,8 +79,29 @@
   {
     "name": "3.2",
     "commit": {
-      "sha": "42c7ea84cdd0ac31d17e4ba67344b4f6eca419e2",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/42c7ea84cdd0ac31d17e4ba67344b4f6eca419e2"
+      "sha": "b2a0e5094f3df8aa8682e29fab9e263cb87667fd",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/b2a0e5094f3df8aa8682e29fab9e263cb87667fd"
+    }
+  },
+  {
+    "name": "CoolGoose-patch-1",
+    "commit": {
+      "sha": "06f67b40e7c410db4523363b48ad6e4c68f997d4",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/06f67b40e7c410db4523363b48ad6e4c68f997d4"
+    }
+  },
+  {
+    "name": "HeahDude-form-empty_data-option",
+    "commit": {
+      "sha": "f37548947d5ec8a54d81e586e147616d225a65cf",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/f37548947d5ec8a54d81e586e147616d225a65cf"
+    }
+  },
+  {
+    "name": "berbadger-patch-3",
+    "commit": {
+      "sha": "dfe9d117655212f2ae58b3503f1b86e79d74bfcb",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/dfe9d117655212f2ae58b3503f1b86e79d74bfcb"
     }
   },
   {
@@ -91,31 +112,17 @@
     }
   },
   {
-    "name": "console_private_commands",
+    "name": "di-3.3-changes",
     "commit": {
-      "sha": "a05ae81e6c5839380a7b520e6088b73115c8a794",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/a05ae81e6c5839380a7b520e6088b73115c8a794"
-    }
-  },
-  {
-    "name": "email_test",
-    "commit": {
-      "sha": "a0cb8f8fa279c0d066d221e759e61a3f31a512af",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/a0cb8f8fa279c0d066d221e759e61a3f31a512af"
-    }
-  },
-  {
-    "name": "fix_7080",
-    "commit": {
-      "sha": "b2194c34d701d5b9bb40f2621506624d0253d015",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/b2194c34d701d5b9bb40f2621506624d0253d015"
+      "sha": "2636bea4550d8a8254f167c63e55604d589817f7",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/2636bea4550d8a8254f167c63e55604d589817f7"
     }
   },
   {
     "name": "master",
     "commit": {
-      "sha": "562949164b2f36204102bd233d54b114fbcb6d47",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/562949164b2f36204102bd233d54b114fbcb6d47"
+      "sha": "f9dafd689e1e4e1ae036baf9035bcad7c5c842fe",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/f9dafd689e1e4e1ae036baf9035bcad7c5c842fe"
     }
   },
   {
@@ -123,6 +130,13 @@
     "commit": {
       "sha": "a30b0e3456759b4b890ef997c32ae36ba0176b07",
       "url": "https://api.github.com/repos/symfony/symfony-docs/commits/a30b0e3456759b4b890ef997c32ae36ba0176b07"
+    }
+  },
+  {
+    "name": "weaverryan-patch-1",
+    "commit": {
+      "sha": "a52aee3dceba3357dd59558677811a2ff86d1357",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/a52aee3dceba3357dd59558677811a2ff86d1357"
     }
   }
 ]

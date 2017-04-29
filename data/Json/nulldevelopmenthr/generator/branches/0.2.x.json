@@ -1,0 +1,77 @@
+{
+  "name": "0.2.x",
+  "commit": {
+    "sha": "e25460d8d6d93bf521123189437ff2eb570ce2ab",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-10-31T19:32:06Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "msvrtan@users.noreply.github.com",
+        "date": "2016-11-01T19:47:42Z"
+      },
+      "message": "Fixing code standards",
+      "tree": {
+        "sha": "80d03a5fd0c7d8a3d9118bdedb57ad24e0cb6efc",
+        "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/trees/80d03a5fd0c7d8a3d9118bdedb57ad24e0cb6efc"
+      },
+      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/e25460d8d6d93bf521123189437ff2eb570ce2ab",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/e25460d8d6d93bf521123189437ff2eb570ce2ab",
+    "html_url": "https://github.com/nulldevelopmenthr/generator/commit/e25460d8d6d93bf521123189437ff2eb570ce2ab",
+    "comments_url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/e25460d8d6d93bf521123189437ff2eb570ce2ab/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "712ba73969579bcb7a18612dd79924f29cba1d6b",
+        "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/712ba73969579bcb7a18612dd79924f29cba1d6b",
+        "html_url": "https://github.com/nulldevelopmenthr/generator/commit/712ba73969579bcb7a18612dd79924f29cba1d6b"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/nulldevelopmenthr/generator/branches/0.2.x",
+    "html": "https://github.com/nulldevelopmenthr/generator/tree/0.2.x"
+  }
+}

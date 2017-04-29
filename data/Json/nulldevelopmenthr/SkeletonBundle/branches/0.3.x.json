@@ -1,0 +1,77 @@
+{
+  "name": "0.3.x",
+  "commit": {
+    "sha": "8d3d45390f6bee4860a061213ea9fb119085dce9",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-11-01T21:52:58Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-11-01T21:52:58Z"
+      },
+      "message": "Update composer.lock for 0.3.x-dev@dev",
+      "tree": {
+        "sha": "1c97f6dcaf2344b0d71974e1ad6dc81f6d957a9b",
+        "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/trees/1c97f6dcaf2344b0d71974e1ad6dc81f6d957a9b"
+      },
+      "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/commits/8d3d45390f6bee4860a061213ea9fb119085dce9",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/commits/8d3d45390f6bee4860a061213ea9fb119085dce9",
+    "html_url": "https://github.com/nulldevelopmenthr/SkeletonBundle/commit/8d3d45390f6bee4860a061213ea9fb119085dce9",
+    "comments_url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/commits/8d3d45390f6bee4860a061213ea9fb119085dce9/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "84f3c010579597a3fd42876382d12bd7c8208931",
+        "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/commits/84f3c010579597a3fd42876382d12bd7c8208931",
+        "html_url": "https://github.com/nulldevelopmenthr/SkeletonBundle/commit/84f3c010579597a3fd42876382d12bd7c8208931"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/branches/0.3.x",
+    "html": "https://github.com/nulldevelopmenthr/SkeletonBundle/tree/0.3.x"
+  }
+}

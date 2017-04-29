@@ -1,29 +1,29 @@
 {
   "name": "master",
   "commit": {
-    "sha": "a9c4e325a8237b3b0d430bc3b1c731a540f4ec2f",
+    "sha": "d91e64276d91b5229ece5370679274d3d7c6899d",
     "commit": {
       "author": {
         "name": "Fabien Potencier",
         "email": "fabien.potencier@gmail.com",
-        "date": "2017-02-01T21:55:19Z"
+        "date": "2017-04-24T16:17:06Z"
       },
       "committer": {
         "name": "Fabien Potencier",
         "email": "fabien.potencier@gmail.com",
-        "date": "2017-02-01T21:55:19Z"
+        "date": "2017-04-24T16:17:06Z"
       },
-      "message": "minor #1044 Don't log console errors in console output (chalasr)\n\nThis PR was merged into the 3.3-dev branch.\n\nDiscussion\n----------\n\nDon't log console errors in console output\n\nSince https://github.com/symfony/symfony/pull/21003, console errors are logged, and since the `console` channel is not ignored by the monolog console handler, the log is written to stderr.\n\nIMHO it's useless since the ran command already write the message into, it's just having two traces for the same error, which doesn't make sense to me.\n\nI propose to fix that.\n\n__Before__\n![before](http://image.prntscr.com/image/16a2773542ee4a0caeaf626b119d5c18.png)\n\n__After__\n![after](http://image.prntscr.com/image/facb6641ffdf4df5af90d203c6327fb5.png)\n\nIf one wants the trace, then one can run the command in verbose mode or look at its log file.\n\nCommits\n-------\n\n2bf1249 Don't log console errors in console output",
+      "message": "feature #1056 Remove app/autoload.php (BPScott)\n\nThis PR was merged into the 3.3-dev branch.\n\nDiscussion\n----------\n\nRemove app/autoload.php\n\nNow that symfony/symfony#21837 is merged, app/autoload.php can be removed and replaced with the standard Composer autoloader.\n\n~WAIT! This can't be merged *just* yet, as it throws errors when running the `buildBootstrap` post install/update script. The fix for this is in sensiolabs/SensioDistributionBundle#313. That PR must be merged and this PR must be updated to use a version of SensioDistributionBundle that contains the fix before this is good to go.~\n\nEDIT: sensiolabs/SensioDistributionBundle#313 is merged (as of 24/04), and this PR has been updated to use the latest version of SensioDistributionBundle. This is now good to merge\n\nCommits\n-------\n\n298f8b2 Remove app/autoload.php",
       "tree": {
-        "sha": "66d7633be201555b3bab4a5b0dab76368854547a",
-        "url": "https://api.github.com/repos/symfony/symfony-standard/git/trees/66d7633be201555b3bab4a5b0dab76368854547a"
+        "sha": "d73b222cd5cad3850b2ac4ab752168a4d596ec77",
+        "url": "https://api.github.com/repos/symfony/symfony-standard/git/trees/d73b222cd5cad3850b2ac4ab752168a4d596ec77"
       },
-      "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/a9c4e325a8237b3b0d430bc3b1c731a540f4ec2f",
+      "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/d91e64276d91b5229ece5370679274d3d7c6899d",
       "comment_count": 0
     },
-    "url": "https://api.github.com/repos/symfony/symfony-standard/commits/a9c4e325a8237b3b0d430bc3b1c731a540f4ec2f",
-    "html_url": "https://github.com/symfony/symfony-standard/commit/a9c4e325a8237b3b0d430bc3b1c731a540f4ec2f",
-    "comments_url": "https://api.github.com/repos/symfony/symfony-standard/commits/a9c4e325a8237b3b0d430bc3b1c731a540f4ec2f/comments",
+    "url": "https://api.github.com/repos/symfony/symfony-standard/commits/d91e64276d91b5229ece5370679274d3d7c6899d",
+    "html_url": "https://github.com/symfony/symfony-standard/commit/d91e64276d91b5229ece5370679274d3d7c6899d",
+    "comments_url": "https://api.github.com/repos/symfony/symfony-standard/commits/d91e64276d91b5229ece5370679274d3d7c6899d/comments",
     "author": {
       "login": "fabpot",
       "id": 47313,
@@ -64,14 +64,14 @@
     },
     "parents": [
       {
-        "sha": "2fdb682eaeca1141317bfe6fee3c649b28177b8a",
-        "url": "https://api.github.com/repos/symfony/symfony-standard/commits/2fdb682eaeca1141317bfe6fee3c649b28177b8a",
-        "html_url": "https://github.com/symfony/symfony-standard/commit/2fdb682eaeca1141317bfe6fee3c649b28177b8a"
+        "sha": "f81334e62eb53a229848430412b5afcb8e4b38d4",
+        "url": "https://api.github.com/repos/symfony/symfony-standard/commits/f81334e62eb53a229848430412b5afcb8e4b38d4",
+        "html_url": "https://github.com/symfony/symfony-standard/commit/f81334e62eb53a229848430412b5afcb8e4b38d4"
       },
       {
-        "sha": "2bf124991e4a7e62687960c7856af262f9c1fac1",
-        "url": "https://api.github.com/repos/symfony/symfony-standard/commits/2bf124991e4a7e62687960c7856af262f9c1fac1",
-        "html_url": "https://github.com/symfony/symfony-standard/commit/2bf124991e4a7e62687960c7856af262f9c1fac1"
+        "sha": "298f8b26f3f7ad834a918a6970822ba37699b885",
+        "url": "https://api.github.com/repos/symfony/symfony-standard/commits/298f8b26f3f7ad834a918a6970822ba37699b885",
+        "html_url": "https://github.com/symfony/symfony-standard/commit/298f8b26f3f7ad834a918a6970822ba37699b885"
       }
     ]
   },

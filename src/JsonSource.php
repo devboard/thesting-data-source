@@ -28,6 +28,32 @@ class JsonSource
     {
         $reader = new JsonReader(__DIR__.'/../data/Json/');
         $repos  = [
+            'devboard/devboard',
+            'devboard/devboard-core',
+            'devboard/github-api-facade',
+            'devboard/github-api-facade-bundle',
+            'devboard/github-core',
+            'devboard/github-lib',
+            'devboard/github-object-api-facade',
+            'devboard/github-object-api-facade-bundle',
+            'msvrtan/SkeletonBundle',
+            'msvrtan/generator',
+            'msvrtan/github-lib',
+            'msvrtan/starter-edition',
+            'msvrtan/broadway',
+            'msvrtan/github-api-facade',
+            'msvrtan/github-object-api-facade',
+            'msvrtan/user-edition',
+            'msvrtan/devboard',
+            'msvrtan/github-api-facade-bundle',
+            'msvrtan/github-object-api-facade-bundle',
+            'msvrtan/devboard-core',
+            'msvrtan/github-core',
+            'msvrtan/skeleton-sandbox',
+            'nulldevelopmenthr/SkeletonBundle',
+            'nulldevelopmenthr/generator',
+            'nulldevelopmenthr/starter-edition',
+            'nulldevelopmenthr/user-edition',
             'octocat/Hello-World',
             'octocat/Spoon-Knife',
             'octocat/linguist',
@@ -63,7 +89,7 @@ class JsonSource
         $results = [];
 
         foreach ($this->reader->getBranchFiles($repo) as $item) {
-            $results[]  = $this->decode($this->reader->loadBranchContent($repo, $this->extractName($item)));
+            $results[] = $this->decode($this->reader->loadBranchContent($repo, $this->extractName($item)));
         }
 
         return $results;
@@ -74,7 +100,46 @@ class JsonSource
         $results = [];
 
         foreach ($this->reader->getTagFiles($repo) as $item) {
-            $results[]  = $this->decode($this->reader->loadTagContent($repo, $this->extractName($item)));
+            $results[] = $this->decode($this->reader->loadTagContent($repo, $this->extractName($item)));
+        }
+
+        return $results;
+    }
+
+    public function getGitHubPushEventData(): array
+    {
+        $results = [];
+
+        foreach ($this->supportedRepoNames as $repo) {
+            foreach ($this->reader->getPushEventFiles($repo) as $file) {
+                $results[] = $this->decode(file_get_contents($file->getPathname()));
+            }
+        }
+
+        return $results;
+    }
+
+    public function getGitHubPushEventBranchesData(): array
+    {
+        $results = [];
+
+        foreach ($this->supportedRepoNames as $repo) {
+            foreach ($this->reader->getPushEventBranchFiles($repo) as $file) {
+                $results[] = $this->decode(file_get_contents($file->getPathname()));
+            }
+        }
+
+        return $results;
+    }
+
+    public function getGitHubPushEventTagsData(): array
+    {
+        $results = [];
+
+        foreach ($this->supportedRepoNames as $repo) {
+            foreach ($this->reader->getPushEventTagFiles($repo) as $file) {
+                $results[] = $this->decode(file_get_contents($file->getPathname()));
+            }
         }
 
         return $results;

@@ -1,0 +1,77 @@
+{
+  "name": "229-fixtures",
+  "commit": {
+    "sha": "2511ae9ebae6a1a60faab86d8aab081bb0659b2d",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-01-20T11:38:06Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-05-21T18:34:53Z"
+      },
+      "message": "WIP:preparing for gh fixtures",
+      "tree": {
+        "sha": "4e7d31bf14f332095696f693a119888b75010368",
+        "url": "https://api.github.com/repos/msvrtan/devboard/git/trees/4e7d31bf14f332095696f693a119888b75010368"
+      },
+      "url": "https://api.github.com/repos/msvrtan/devboard/git/commits/2511ae9ebae6a1a60faab86d8aab081bb0659b2d",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/msvrtan/devboard/commits/2511ae9ebae6a1a60faab86d8aab081bb0659b2d",
+    "html_url": "https://github.com/msvrtan/devboard/commit/2511ae9ebae6a1a60faab86d8aab081bb0659b2d",
+    "comments_url": "https://api.github.com/repos/msvrtan/devboard/commits/2511ae9ebae6a1a60faab86d8aab081bb0659b2d/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f21f8aa0304359c9af7f8745659797cfab8a5d00",
+        "url": "https://api.github.com/repos/msvrtan/devboard/commits/f21f8aa0304359c9af7f8745659797cfab8a5d00",
+        "html_url": "https://github.com/msvrtan/devboard/commit/f21f8aa0304359c9af7f8745659797cfab8a5d00"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/msvrtan/devboard/branches/229-fixtures",
+    "html": "https://github.com/msvrtan/devboard/tree/229-fixtures"
+  }
+}

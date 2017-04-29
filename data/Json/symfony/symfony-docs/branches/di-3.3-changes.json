@@ -1,0 +1,77 @@
+{
+  "name": "di-3.3-changes",
+  "commit": {
+    "sha": "2636bea4550d8a8254f167c63e55604d589817f7",
+    "commit": {
+      "author": {
+        "name": "Ryan Weaver",
+        "email": "ryan@thatsquality.com",
+        "date": "2017-04-28T17:48:47Z"
+      },
+      "committer": {
+        "name": "Ryan Weaver",
+        "email": "ryan@thatsquality.com",
+        "date": "2017-04-28T17:48:47Z"
+      },
+      "message": "bad link",
+      "tree": {
+        "sha": "88fc62ab75ae55291eee4b023c20a1723a1a08bb",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/88fc62ab75ae55291eee4b023c20a1723a1a08bb"
+      },
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/2636bea4550d8a8254f167c63e55604d589817f7",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/2636bea4550d8a8254f167c63e55604d589817f7",
+    "html_url": "https://github.com/symfony/symfony-docs/commit/2636bea4550d8a8254f167c63e55604d589817f7",
+    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/2636bea4550d8a8254f167c63e55604d589817f7/comments",
+    "author": {
+      "login": "weaverryan",
+      "id": 121003,
+      "avatar_url": "https://avatars.githubusercontent.com/u/121003?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/weaverryan",
+      "html_url": "https://github.com/weaverryan",
+      "followers_url": "https://api.github.com/users/weaverryan/followers",
+      "following_url": "https://api.github.com/users/weaverryan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/weaverryan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/weaverryan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/weaverryan/subscriptions",
+      "organizations_url": "https://api.github.com/users/weaverryan/orgs",
+      "repos_url": "https://api.github.com/users/weaverryan/repos",
+      "events_url": "https://api.github.com/users/weaverryan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/weaverryan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "weaverryan",
+      "id": 121003,
+      "avatar_url": "https://avatars.githubusercontent.com/u/121003?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/weaverryan",
+      "html_url": "https://github.com/weaverryan",
+      "followers_url": "https://api.github.com/users/weaverryan/followers",
+      "following_url": "https://api.github.com/users/weaverryan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/weaverryan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/weaverryan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/weaverryan/subscriptions",
+      "organizations_url": "https://api.github.com/users/weaverryan/orgs",
+      "repos_url": "https://api.github.com/users/weaverryan/repos",
+      "events_url": "https://api.github.com/users/weaverryan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/weaverryan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c45daf4223691c6f921c41e33b9f23e5d1d30953",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/c45daf4223691c6f921c41e33b9f23e5d1d30953",
+        "html_url": "https://github.com/symfony/symfony-docs/commit/c45daf4223691c6f921c41e33b9f23e5d1d30953"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/symfony/symfony-docs/branches/di-3.3-changes",
+    "html": "https://github.com/symfony/symfony-docs/tree/di-3.3-changes"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "name": "tracking-phpspec-coverage",
+  "commit": {
+    "sha": "6021d1ca1faa7c749f526cc680c78b5cc91cf821",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-02-11T16:17:59Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-02-11T16:17:59Z"
+      },
+      "message": "Cleaned up phpunit exclude groups (arttifact from setting up project)",
+      "tree": {
+        "sha": "c8bc898ea28091687401495febedeb01294881d2",
+        "url": "https://api.github.com/repos/msvrtan/github-core/git/trees/c8bc898ea28091687401495febedeb01294881d2"
+      },
+      "url": "https://api.github.com/repos/msvrtan/github-core/git/commits/6021d1ca1faa7c749f526cc680c78b5cc91cf821",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/msvrtan/github-core/commits/6021d1ca1faa7c749f526cc680c78b5cc91cf821",
+    "html_url": "https://github.com/msvrtan/github-core/commit/6021d1ca1faa7c749f526cc680c78b5cc91cf821",
+    "comments_url": "https://api.github.com/repos/msvrtan/github-core/commits/6021d1ca1faa7c749f526cc680c78b5cc91cf821/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "23339c2b5220821719229ad992bec5f3b04765fa",
+        "url": "https://api.github.com/repos/msvrtan/github-core/commits/23339c2b5220821719229ad992bec5f3b04765fa",
+        "html_url": "https://github.com/msvrtan/github-core/commit/23339c2b5220821719229ad992bec5f3b04765fa"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/msvrtan/github-core/branches/tracking-phpspec-coverage",
+    "html": "https://github.com/msvrtan/github-core/tree/tracking-phpspec-coverage"
+  }
+}

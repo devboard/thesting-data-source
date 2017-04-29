@@ -8,7 +8,7 @@ use Devboard\Thesting\Source\JsonSource;
 
 /**
  * @covers \Devboard\Thesting\Source\JsonSource
- * @group  unit
+ * @group  integration
  */
 class JsonSourceTest extends \PHPUnit_Framework_TestCase
 {
@@ -22,12 +22,12 @@ class JsonSourceTest extends \PHPUnit_Framework_TestCase
 
     public function testGetSupportedRepoNames()
     {
-        $this->assertCount(9, $this->sut->getSupportedRepoNames());
+        $this->assertCount(35, $this->sut->getSupportedRepoNames());
     }
 
     public function testGetRepos()
     {
-        $this->assertCount(9, $this->sut->getRepos());
+        $this->assertCount(35, $this->sut->getRepos());
     }
 
     /** @dataProvider provideReposAndBranchCount */
@@ -42,6 +42,21 @@ class JsonSourceTest extends \PHPUnit_Framework_TestCase
         $this->assertCount($expectedCount, $this->sut->getTags($repo));
     }
 
+    public function testGetGitHubPushEventData()
+    {
+        $this->assertCount(43, $this->sut->getGitHubPushEventData());
+    }
+
+    public function testGetGitHubPushEventBranchesData()
+    {
+        $this->assertCount(39, $this->sut->getGitHubPushEventBranchesData());
+    }
+
+    public function testGetGitHubPushEventTagsData()
+    {
+        $this->assertCount(4, $this->sut->getGitHubPushEventTagsData());
+    }
+
     public function provideReposAndBranchCount(): array
     {
         return [
@@ -53,7 +68,7 @@ class JsonSourceTest extends \PHPUnit_Framework_TestCase
             ['octocat/test-repo1', 1],
             ['symfony/symfony', 13],
             ['symfony/symfony-standard', 15],
-            ['symfony/symfony-docs', 18],
+            ['symfony/symfony-docs', 23],
         ];
     }
 
@@ -71,7 +86,7 @@ class JsonSourceTest extends \PHPUnit_Framework_TestCase
             ['octocat/test-repo1', 1],
             ['symfony/symfony', 13],
             ['symfony/symfony-standard', 15],
-            ['symfony/symfony-docs', 18],
+            ['symfony/symfony-docs', 23],
         ];
     }
 }

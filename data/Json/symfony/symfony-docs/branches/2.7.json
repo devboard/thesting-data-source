@@ -1,29 +1,29 @@
 {
   "name": "2.7",
   "commit": {
-    "sha": "060751705cf864544d74cf5f756bcc8b5652f9cc",
+    "sha": "5905e69d9a70925e36e933125544e8dd1cce1454",
     "commit": {
       "author": {
         "name": "Christian Flothmann",
         "email": "christian.flothmann@sensiolabs.de",
-        "date": "2017-02-03T08:50:41Z"
+        "date": "2017-04-28T21:51:07Z"
       },
       "committer": {
         "name": "Christian Flothmann",
         "email": "christian.flothmann@sensiolabs.de",
-        "date": "2017-02-03T08:50:41Z"
+        "date": "2017-04-28T21:51:07Z"
       },
-      "message": "[#7427] fix line length",
+      "message": "[#7845] minor tweaks",
       "tree": {
-        "sha": "de4d7723e3378686987e7bedb950293124fd3f84",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/de4d7723e3378686987e7bedb950293124fd3f84"
+        "sha": "65180964acaa26c2d653ceaaa0938b0ae9c61a20",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/65180964acaa26c2d653ceaaa0938b0ae9c61a20"
       },
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/060751705cf864544d74cf5f756bcc8b5652f9cc",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/5905e69d9a70925e36e933125544e8dd1cce1454",
       "comment_count": 0
     },
-    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/060751705cf864544d74cf5f756bcc8b5652f9cc",
-    "html_url": "https://github.com/symfony/symfony-docs/commit/060751705cf864544d74cf5f756bcc8b5652f9cc",
-    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/060751705cf864544d74cf5f756bcc8b5652f9cc/comments",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/5905e69d9a70925e36e933125544e8dd1cce1454",
+    "html_url": "https://github.com/symfony/symfony-docs/commit/5905e69d9a70925e36e933125544e8dd1cce1454",
+    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/5905e69d9a70925e36e933125544e8dd1cce1454/comments",
     "author": {
       "login": "xabbuh",
       "id": 1957048,
@@ -64,9 +64,9 @@
     },
     "parents": [
       {
-        "sha": "65ba3e836f783ba8f36610e2ef99089e2f37fa02",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/65ba3e836f783ba8f36610e2ef99089e2f37fa02",
-        "html_url": "https://github.com/symfony/symfony-docs/commit/65ba3e836f783ba8f36610e2ef99089e2f37fa02"
+        "sha": "bbe73575c96a9eccbdc1af2b63bfd635fa1a347f",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/bbe73575c96a9eccbdc1af2b63bfd635fa1a347f",
+        "html_url": "https://github.com/symfony/symfony-docs/commit/bbe73575c96a9eccbdc1af2b63bfd635fa1a347f"
       }
     ]
   },

@@ -1,0 +1,77 @@
+{
+  "name": "74-update-composer",
+  "commit": {
+    "sha": "dd1749402c39b498f610d48c8954f97e8330d28b",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2017-02-11T13:19:38Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2017-02-11T13:19:38Z"
+      },
+      "message": "Update composer.lock\n\nUpdating:\n- broadway/uuid-generator (0.3.1 => 0.4.0)\n- broadway/broadway dev-master (c38114d => d563317)\n- symfony/phpunit-bridge (v3.2.2 => v3.2.3)\n- symfony/symfony (v3.2.2 => v3.2.3)\n- phpunit/phpunit (5.7.11 => 5.7.13)\n- mockery/mockery (0.9.7 => 0.9.8)\n- friendsofphp/php-cs-fixer (v2.0.0 => v2.1.0)\n- codeclimate/php-test-reporter (v0.4.2 => v0.4.3)\n- doctrine/dbal (v2.5.11 => v2.5.12)\n- nikic/php-parser (v3.0.3 => v3.0.4)\n\nInstalling:\n- ircmaxell/password-compat (v1.0.4)\n- symfony/polyfill-php55 (v1.3.0)",
+      "tree": {
+        "sha": "6a7d2a7807320d92698b9949c1d8121de6c77f99",
+        "url": "https://api.github.com/repos/msvrtan/devboard-core/git/trees/6a7d2a7807320d92698b9949c1d8121de6c77f99"
+      },
+      "url": "https://api.github.com/repos/msvrtan/devboard-core/git/commits/dd1749402c39b498f610d48c8954f97e8330d28b",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/msvrtan/devboard-core/commits/dd1749402c39b498f610d48c8954f97e8330d28b",
+    "html_url": "https://github.com/msvrtan/devboard-core/commit/dd1749402c39b498f610d48c8954f97e8330d28b",
+    "comments_url": "https://api.github.com/repos/msvrtan/devboard-core/commits/dd1749402c39b498f610d48c8954f97e8330d28b/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "67359c24239f2550cb8ea1ae250d342d054e8799",
+        "url": "https://api.github.com/repos/msvrtan/devboard-core/commits/67359c24239f2550cb8ea1ae250d342d054e8799",
+        "html_url": "https://github.com/msvrtan/devboard-core/commit/67359c24239f2550cb8ea1ae250d342d054e8799"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/msvrtan/devboard-core/branches/74-update-composer",
+    "html": "https://github.com/msvrtan/devboard-core/tree/74-update-composer"
+  }
+}

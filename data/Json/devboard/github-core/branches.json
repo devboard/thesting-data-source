@@ -1,0 +1,44 @@
+[
+  {
+    "name": "0.2.x",
+    "commit": {
+      "sha": "1948327bc2b9b5579b67818194195d33708c5f0b",
+      "url": "https://api.github.com/repos/devboard/github-core/commits/1948327bc2b9b5579b67818194195d33708c5f0b"
+    }
+  },
+  {
+    "name": "0.3.x",
+    "commit": {
+      "sha": "f497152953a24c01ed8b047bf945089b2b007af4",
+      "url": "https://api.github.com/repos/devboard/github-core/commits/f497152953a24c01ed8b047bf945089b2b007af4"
+    }
+  },
+  {
+    "name": "0.4.x",
+    "commit": {
+      "sha": "3b1c88b61d30f3ce5327a7fde139144d8664cd49",
+      "url": "https://api.github.com/repos/devboard/github-core/commits/3b1c88b61d30f3ce5327a7fde139144d8664cd49"
+    }
+  },
+  {
+    "name": "0.5.x",
+    "commit": {
+      "sha": "63c7d912558bf561b6b1274145a4463b7f3aecbb",
+      "url": "https://api.github.com/repos/devboard/github-core/commits/63c7d912558bf561b6b1274145a4463b7f3aecbb"
+    }
+  },
+  {
+    "name": "core-structures",
+    "commit": {
+      "sha": "fd10c62bc59c648e23d71b58d518049bd4c74794",
+      "url": "https://api.github.com/repos/devboard/github-core/commits/fd10c62bc59c648e23d71b58d518049bd4c74794"
+    }
+  },
+  {
+    "name": "master",
+    "commit": {
+      "sha": "986ad7d20bd5efca4a6cc55fd9c8a0a651c6fd60",
+      "url": "https://api.github.com/repos/devboard/github-core/commits/986ad7d20bd5efca4a6cc55fd9c8a0a651c6fd60"
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "name": "dev",
+    "commit": {
+      "sha": "2857614d8441611553d4e5567e480fb964496857",
+      "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/2857614d8441611553d4e5567e480fb964496857"
+    }
+  },
+  {
+    "name": "fix-shippable",
+    "commit": {
+      "sha": "675667172d471e99b6f31ab9335ff9abbcf169dd",
+      "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/675667172d471e99b6f31ab9335ff9abbcf169dd"
+    }
+  },
+  {
+    "name": "i25-run-docker-on-circleci",
+    "commit": {
+      "sha": "e786cf1f47297ed9fc25dc3ccaa11b65e564fe43",
+      "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/e786cf1f47297ed9fc25dc3ccaa11b65e564fe43"
+    }
+  },
+  {
+    "name": "master",
+    "commit": {
+      "sha": "2857614d8441611553d4e5567e480fb964496857",
+      "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/2857614d8441611553d4e5567e480fb964496857"
+    }
+  },
+  {
+    "name": "merging",
+    "commit": {
+      "sha": "a3fbe2c4bd67f0eaf3f37910a029571ff2b66f39",
+      "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/a3fbe2c4bd67f0eaf3f37910a029571ff2b66f39"
+    }
+  },
+  {
+    "name": "new-box",
+    "commit": {
+      "sha": "6a0208cd5ba14e1ecdf0f7efb9e536dc0a57dd5a",
+      "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/6a0208cd5ba14e1ecdf0f7efb9e536dc0a57dd5a"
+    }
+  },
+  {
+    "name": "php7",
+    "commit": {
+      "sha": "142589ab499148bc1a2fcc9c3f7517e41ddc2b07",
+      "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/142589ab499148bc1a2fcc9c3f7517e41ddc2b07"
+    }
+  },
+  {
+    "name": "preparing1",
+    "commit": {
+      "sha": "60836018816261bf50bed82df7c921e0811fbbc2",
+      "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/60836018816261bf50bed82df7c921e0811fbbc2"
+    }
+  },
+  {
+    "name": "properly-paralelize-travis-ci",
+    "commit": {
+      "sha": "06dc755bf9b7357c204ae82da7c1d605f6adcc27",
+      "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/06dc755bf9b7357c204ae82da7c1d605f6adcc27"
+    }
+  },
+  {
+    "name": "shippable-docker",
+    "commit": {
+      "sha": "8dfdc660f75a7310f859369495e1431a80da22aa",
+      "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/8dfdc660f75a7310f859369495e1431a80da22aa"
+    }
+  },
+  {
+    "name": "small-fixes",
+    "commit": {
+      "sha": "82b85c78012c392380e76564b9bf6f2c98051a79",
+      "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/82b85c78012c392380e76564b9bf6f2c98051a79"
+    }
+  },
+  {
+    "name": "upgrading-to-symfony-3.1",
+    "commit": {
+      "sha": "dacd1a12fd472825c49a286d741b77f158392a23",
+      "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/dacd1a12fd472825c49a286d741b77f158392a23"
+    }
+  }
+]
