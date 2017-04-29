@@ -1,0 +1,82 @@
+{
+  "name": "master",
+  "commit": {
+    "sha": "ed6a2ed3ebf5cf2c4a278f871be87fdd6df1bf79",
+    "commit": {
+      "author": {
+        "name": "Fabien Potencier",
+        "email": "fabien.potencier@gmail.com",
+        "date": "2017-02-03T21:28:46Z"
+      },
+      "committer": {
+        "name": "Fabien Potencier",
+        "email": "fabien.potencier@gmail.com",
+        "date": "2017-02-03T21:28:46Z"
+      },
+      "message": "minor #21522 [SecurityBundle] Add AutowiringTypesTest (chalasr)\n\nThis PR was merged into the 3.3-dev branch.\n\nDiscussion\n----------\n\n[SecurityBundle] Add AutowiringTypesTest\n\n| Q             | A\n| ------------- | ---\n| Branch?       | master\n| Tests pass?   | yes\n| Fixed tickets | https://github.com/symfony/symfony/pull/21517#discussion_r99351908\n| License       | MIT\n\nCommits\n-------\n\nd1001d4bac [SecurityBundle] Add AutowiringTypesTest",
+      "tree": {
+        "sha": "95ac00cafeb1cae77505edc5663fc380eda308f9",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/95ac00cafeb1cae77505edc5663fc380eda308f9"
+      },
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/ed6a2ed3ebf5cf2c4a278f871be87fdd6df1bf79",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/symfony/symfony/commits/ed6a2ed3ebf5cf2c4a278f871be87fdd6df1bf79",
+    "html_url": "https://github.com/symfony/symfony/commit/ed6a2ed3ebf5cf2c4a278f871be87fdd6df1bf79",
+    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/ed6a2ed3ebf5cf2c4a278f871be87fdd6df1bf79/comments",
+    "author": {
+      "login": "fabpot",
+      "id": 47313,
+      "avatar_url": "https://avatars.githubusercontent.com/u/47313?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/fabpot",
+      "html_url": "https://github.com/fabpot",
+      "followers_url": "https://api.github.com/users/fabpot/followers",
+      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+      "organizations_url": "https://api.github.com/users/fabpot/orgs",
+      "repos_url": "https://api.github.com/users/fabpot/repos",
+      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/fabpot/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "fabpot",
+      "id": 47313,
+      "avatar_url": "https://avatars.githubusercontent.com/u/47313?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/fabpot",
+      "html_url": "https://github.com/fabpot",
+      "followers_url": "https://api.github.com/users/fabpot/followers",
+      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+      "organizations_url": "https://api.github.com/users/fabpot/orgs",
+      "repos_url": "https://api.github.com/users/fabpot/repos",
+      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/fabpot/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7c5dcfcdb88bb30eec3849ec8ca2acee75ffe571",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/7c5dcfcdb88bb30eec3849ec8ca2acee75ffe571",
+        "html_url": "https://github.com/symfony/symfony/commit/7c5dcfcdb88bb30eec3849ec8ca2acee75ffe571"
+      },
+      {
+        "sha": "d1001d4bac9d3f87dbc8506856745f3603818939",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/d1001d4bac9d3f87dbc8506856745f3603818939",
+        "html_url": "https://github.com/symfony/symfony/commit/d1001d4bac9d3f87dbc8506856745f3603818939"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/symfony/symfony/branches/master",
+    "html": "https://github.com/symfony/symfony/tree/master"
+  }
+}

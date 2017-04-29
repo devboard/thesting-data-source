@@ -1,0 +1,82 @@
+{
+  "name": "an-example-comparison-for-docs",
+  "commit": {
+    "sha": "f041b09c21e5b0e8e2308fce6c595c4df42f2633",
+    "commit": {
+      "author": {
+        "name": "Ted Nyman",
+        "email": "ted@ted.io",
+        "date": "2015-04-01T21:42:14Z"
+      },
+      "committer": {
+        "name": "Ted Nyman",
+        "email": "ted@ted.io",
+        "date": "2015-04-01T21:42:14Z"
+      },
+      "message": "Merge branch 'master' into an-example-comparison-for-docs",
+      "tree": {
+        "sha": "d3c6aa5eade7b2073b204a6fd04a70d4e65e0b1f",
+        "url": "https://api.github.com/repos/octocat/linguist/git/trees/d3c6aa5eade7b2073b204a6fd04a70d4e65e0b1f"
+      },
+      "url": "https://api.github.com/repos/octocat/linguist/git/commits/f041b09c21e5b0e8e2308fce6c595c4df42f2633",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/octocat/linguist/commits/f041b09c21e5b0e8e2308fce6c595c4df42f2633",
+    "html_url": "https://github.com/octocat/linguist/commit/f041b09c21e5b0e8e2308fce6c595c4df42f2633",
+    "comments_url": "https://api.github.com/repos/octocat/linguist/commits/f041b09c21e5b0e8e2308fce6c595c4df42f2633/comments",
+    "author": {
+      "login": "tnm",
+      "id": 126905,
+      "avatar_url": "https://avatars.githubusercontent.com/u/126905?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tnm",
+      "html_url": "https://github.com/tnm",
+      "followers_url": "https://api.github.com/users/tnm/followers",
+      "following_url": "https://api.github.com/users/tnm/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tnm/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tnm/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tnm/subscriptions",
+      "organizations_url": "https://api.github.com/users/tnm/orgs",
+      "repos_url": "https://api.github.com/users/tnm/repos",
+      "events_url": "https://api.github.com/users/tnm/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tnm/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "tnm",
+      "id": 126905,
+      "avatar_url": "https://avatars.githubusercontent.com/u/126905?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tnm",
+      "html_url": "https://github.com/tnm",
+      "followers_url": "https://api.github.com/users/tnm/followers",
+      "following_url": "https://api.github.com/users/tnm/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tnm/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tnm/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tnm/subscriptions",
+      "organizations_url": "https://api.github.com/users/tnm/orgs",
+      "repos_url": "https://api.github.com/users/tnm/repos",
+      "events_url": "https://api.github.com/users/tnm/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tnm/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b227816e917ae7c3156925a109183b5939c381b0",
+        "url": "https://api.github.com/repos/octocat/linguist/commits/b227816e917ae7c3156925a109183b5939c381b0",
+        "html_url": "https://github.com/octocat/linguist/commit/b227816e917ae7c3156925a109183b5939c381b0"
+      },
+      {
+        "sha": "893bd7e2049bade408877f5ef691b2888d90cf2a",
+        "url": "https://api.github.com/repos/octocat/linguist/commits/893bd7e2049bade408877f5ef691b2888d90cf2a",
+        "html_url": "https://github.com/octocat/linguist/commit/893bd7e2049bade408877f5ef691b2888d90cf2a"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/octocat/linguist/branches/an-example-comparison-for-docs",
+    "html": "https://github.com/octocat/linguist/tree/an-example-comparison-for-docs"
+  }
+}

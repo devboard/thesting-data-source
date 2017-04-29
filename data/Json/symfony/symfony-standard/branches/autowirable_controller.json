@@ -1,0 +1,77 @@
+{
+  "name": "autowirable_controller",
+  "commit": {
+    "sha": "067859579ee1fdeb6fcc94e6cfe4a59c0addf262",
+    "commit": {
+      "author": {
+        "name": "Kévin Dunglas",
+        "email": "dunglas@gmail.com",
+        "date": "2016-03-26T07:17:33Z"
+      },
+      "committer": {
+        "name": "Kévin Dunglas",
+        "email": "dunglas@gmail.com",
+        "date": "2016-03-26T07:17:33Z"
+      },
+      "message": "Fix CS",
+      "tree": {
+        "sha": "0089703a9fc59fc67341b43968ad369a8bd89ec1",
+        "url": "https://api.github.com/repos/symfony/symfony-standard/git/trees/0089703a9fc59fc67341b43968ad369a8bd89ec1"
+      },
+      "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/067859579ee1fdeb6fcc94e6cfe4a59c0addf262",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/symfony/symfony-standard/commits/067859579ee1fdeb6fcc94e6cfe4a59c0addf262",
+    "html_url": "https://github.com/symfony/symfony-standard/commit/067859579ee1fdeb6fcc94e6cfe4a59c0addf262",
+    "comments_url": "https://api.github.com/repos/symfony/symfony-standard/commits/067859579ee1fdeb6fcc94e6cfe4a59c0addf262/comments",
+    "author": {
+      "login": "dunglas",
+      "id": 57224,
+      "avatar_url": "https://avatars.githubusercontent.com/u/57224?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dunglas",
+      "html_url": "https://github.com/dunglas",
+      "followers_url": "https://api.github.com/users/dunglas/followers",
+      "following_url": "https://api.github.com/users/dunglas/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dunglas/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dunglas/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dunglas/subscriptions",
+      "organizations_url": "https://api.github.com/users/dunglas/orgs",
+      "repos_url": "https://api.github.com/users/dunglas/repos",
+      "events_url": "https://api.github.com/users/dunglas/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dunglas/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "dunglas",
+      "id": 57224,
+      "avatar_url": "https://avatars.githubusercontent.com/u/57224?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dunglas",
+      "html_url": "https://github.com/dunglas",
+      "followers_url": "https://api.github.com/users/dunglas/followers",
+      "following_url": "https://api.github.com/users/dunglas/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dunglas/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dunglas/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dunglas/subscriptions",
+      "organizations_url": "https://api.github.com/users/dunglas/orgs",
+      "repos_url": "https://api.github.com/users/dunglas/repos",
+      "events_url": "https://api.github.com/users/dunglas/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dunglas/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "5ae69167aa5d6411d1145fc091cc486f27012bf0",
+        "url": "https://api.github.com/repos/symfony/symfony-standard/commits/5ae69167aa5d6411d1145fc091cc486f27012bf0",
+        "html_url": "https://github.com/symfony/symfony-standard/commit/5ae69167aa5d6411d1145fc091cc486f27012bf0"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/symfony/symfony-standard/branches/autowirable_controller",
+    "html": "https://github.com/symfony/symfony-standard/tree/autowirable_controller"
+  }
+}

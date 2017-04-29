@@ -1,0 +1,77 @@
+{
+  "name": "2.7",
+  "commit": {
+    "sha": "060751705cf864544d74cf5f756bcc8b5652f9cc",
+    "commit": {
+      "author": {
+        "name": "Christian Flothmann",
+        "email": "christian.flothmann@sensiolabs.de",
+        "date": "2017-02-03T08:50:41Z"
+      },
+      "committer": {
+        "name": "Christian Flothmann",
+        "email": "christian.flothmann@sensiolabs.de",
+        "date": "2017-02-03T08:50:41Z"
+      },
+      "message": "[#7427] fix line length",
+      "tree": {
+        "sha": "de4d7723e3378686987e7bedb950293124fd3f84",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/de4d7723e3378686987e7bedb950293124fd3f84"
+      },
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/060751705cf864544d74cf5f756bcc8b5652f9cc",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/060751705cf864544d74cf5f756bcc8b5652f9cc",
+    "html_url": "https://github.com/symfony/symfony-docs/commit/060751705cf864544d74cf5f756bcc8b5652f9cc",
+    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/060751705cf864544d74cf5f756bcc8b5652f9cc/comments",
+    "author": {
+      "login": "xabbuh",
+      "id": 1957048,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1957048?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/xabbuh",
+      "html_url": "https://github.com/xabbuh",
+      "followers_url": "https://api.github.com/users/xabbuh/followers",
+      "following_url": "https://api.github.com/users/xabbuh/following{/other_user}",
+      "gists_url": "https://api.github.com/users/xabbuh/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/xabbuh/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/xabbuh/subscriptions",
+      "organizations_url": "https://api.github.com/users/xabbuh/orgs",
+      "repos_url": "https://api.github.com/users/xabbuh/repos",
+      "events_url": "https://api.github.com/users/xabbuh/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/xabbuh/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "xabbuh",
+      "id": 1957048,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1957048?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/xabbuh",
+      "html_url": "https://github.com/xabbuh",
+      "followers_url": "https://api.github.com/users/xabbuh/followers",
+      "following_url": "https://api.github.com/users/xabbuh/following{/other_user}",
+      "gists_url": "https://api.github.com/users/xabbuh/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/xabbuh/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/xabbuh/subscriptions",
+      "organizations_url": "https://api.github.com/users/xabbuh/orgs",
+      "repos_url": "https://api.github.com/users/xabbuh/repos",
+      "events_url": "https://api.github.com/users/xabbuh/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/xabbuh/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "65ba3e836f783ba8f36610e2ef99089e2f37fa02",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/65ba3e836f783ba8f36610e2ef99089e2f37fa02",
+        "html_url": "https://github.com/symfony/symfony-docs/commit/65ba3e836f783ba8f36610e2ef99089e2f37fa02"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/symfony/symfony-docs/branches/2.7",
+    "html": "https://github.com/symfony/symfony-docs/tree/2.7"
+  }
+}

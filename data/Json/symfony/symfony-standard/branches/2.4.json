@@ -1,0 +1,82 @@
+{
+  "name": "2.4",
+  "commit": {
+    "sha": "80537d0a223a1f2f13a41068014e33eb2546208e",
+    "commit": {
+      "author": {
+        "name": "Fabien Potencier",
+        "email": "fabien.potencier@gmail.com",
+        "date": "2014-09-22T14:23:48Z"
+      },
+      "committer": {
+        "name": "Fabien Potencier",
+        "email": "fabien.potencier@gmail.com",
+        "date": "2014-09-22T14:23:48Z"
+      },
+      "message": "Merge branch '2.3' into 2.4\n\n* 2.3:\n  Add RewriteRule",
+      "tree": {
+        "sha": "aca2526b9cf585b868255711f256ec21d5d450cb",
+        "url": "https://api.github.com/repos/symfony/symfony-standard/git/trees/aca2526b9cf585b868255711f256ec21d5d450cb"
+      },
+      "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/80537d0a223a1f2f13a41068014e33eb2546208e",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/symfony/symfony-standard/commits/80537d0a223a1f2f13a41068014e33eb2546208e",
+    "html_url": "https://github.com/symfony/symfony-standard/commit/80537d0a223a1f2f13a41068014e33eb2546208e",
+    "comments_url": "https://api.github.com/repos/symfony/symfony-standard/commits/80537d0a223a1f2f13a41068014e33eb2546208e/comments",
+    "author": {
+      "login": "fabpot",
+      "id": 47313,
+      "avatar_url": "https://avatars.githubusercontent.com/u/47313?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/fabpot",
+      "html_url": "https://github.com/fabpot",
+      "followers_url": "https://api.github.com/users/fabpot/followers",
+      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+      "organizations_url": "https://api.github.com/users/fabpot/orgs",
+      "repos_url": "https://api.github.com/users/fabpot/repos",
+      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/fabpot/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "fabpot",
+      "id": 47313,
+      "avatar_url": "https://avatars.githubusercontent.com/u/47313?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/fabpot",
+      "html_url": "https://github.com/fabpot",
+      "followers_url": "https://api.github.com/users/fabpot/followers",
+      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+      "organizations_url": "https://api.github.com/users/fabpot/orgs",
+      "repos_url": "https://api.github.com/users/fabpot/repos",
+      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/fabpot/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "1c135cf1d4daf11eef85e9c6929ff97b87649cdb",
+        "url": "https://api.github.com/repos/symfony/symfony-standard/commits/1c135cf1d4daf11eef85e9c6929ff97b87649cdb",
+        "html_url": "https://github.com/symfony/symfony-standard/commit/1c135cf1d4daf11eef85e9c6929ff97b87649cdb"
+      },
+      {
+        "sha": "e22025fbeb99978044929427495ccfcb4b9aaf50",
+        "url": "https://api.github.com/repos/symfony/symfony-standard/commits/e22025fbeb99978044929427495ccfcb4b9aaf50",
+        "html_url": "https://github.com/symfony/symfony-standard/commit/e22025fbeb99978044929427495ccfcb4b9aaf50"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/symfony/symfony-standard/branches/2.4",
+    "html": "https://github.com/symfony/symfony-standard/tree/2.4"
+  }
+}

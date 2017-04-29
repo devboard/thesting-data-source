@@ -1,0 +1,82 @@
+{
+  "name": "2.7",
+  "commit": {
+    "sha": "f0d13f47084c3dcb393a6b9d1cea23bf742771ed",
+    "commit": {
+      "author": {
+        "name": "Fabien Potencier",
+        "email": "fabien.potencier@gmail.com",
+        "date": "2017-02-03T21:25:39Z"
+      },
+      "committer": {
+        "name": "Fabien Potencier",
+        "email": "fabien.potencier@gmail.com",
+        "date": "2017-02-03T21:25:39Z"
+      },
+      "message": "bug #21430 Casting TableCell value to string. (jaydiablo)\n\nThis PR was squashed before being merged into the 2.7 branch (closes #21430).\n\nDiscussion\n----------\n\nCasting TableCell value to string.\n\n| Q             | A\n| ------------- | ---\n| Branch?       | 2.7\n| Bug fix?      | yes\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets | #21429\n| License       | MIT\n| Doc PR        |\n\nPHP throws a catchable fatal error when the value from this method is\nused in strstr in the Table class. This fixes the error by casting to a string before returning the value.\n\nCommits\n-------\n\n1e5707fed3 Casting TableCell value to string.",
+      "tree": {
+        "sha": "04c226dddfe022f79a0b9222397dae7d0f7b355f",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/04c226dddfe022f79a0b9222397dae7d0f7b355f"
+      },
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/f0d13f47084c3dcb393a6b9d1cea23bf742771ed",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/symfony/symfony/commits/f0d13f47084c3dcb393a6b9d1cea23bf742771ed",
+    "html_url": "https://github.com/symfony/symfony/commit/f0d13f47084c3dcb393a6b9d1cea23bf742771ed",
+    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/f0d13f47084c3dcb393a6b9d1cea23bf742771ed/comments",
+    "author": {
+      "login": "fabpot",
+      "id": 47313,
+      "avatar_url": "https://avatars.githubusercontent.com/u/47313?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/fabpot",
+      "html_url": "https://github.com/fabpot",
+      "followers_url": "https://api.github.com/users/fabpot/followers",
+      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+      "organizations_url": "https://api.github.com/users/fabpot/orgs",
+      "repos_url": "https://api.github.com/users/fabpot/repos",
+      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/fabpot/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "fabpot",
+      "id": 47313,
+      "avatar_url": "https://avatars.githubusercontent.com/u/47313?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/fabpot",
+      "html_url": "https://github.com/fabpot",
+      "followers_url": "https://api.github.com/users/fabpot/followers",
+      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+      "organizations_url": "https://api.github.com/users/fabpot/orgs",
+      "repos_url": "https://api.github.com/users/fabpot/repos",
+      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/fabpot/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ff33768eda5bee4ad0b3b0086241dfcb5d35d143",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/ff33768eda5bee4ad0b3b0086241dfcb5d35d143",
+        "html_url": "https://github.com/symfony/symfony/commit/ff33768eda5bee4ad0b3b0086241dfcb5d35d143"
+      },
+      {
+        "sha": "1e5707fed398ea972268823fcc2cb04e0847de39",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/1e5707fed398ea972268823fcc2cb04e0847de39",
+        "html_url": "https://github.com/symfony/symfony/commit/1e5707fed398ea972268823fcc2cb04e0847de39"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/symfony/symfony/branches/2.7",
+    "html": "https://github.com/symfony/symfony/tree/2.7"
+  }
+}
