@@ -1,0 +1,72 @@
+notifications:
+  email: false
+matrix:
+  include:
+
+    #####################################################################
+    # Job 1: CodeQuality
+    #####################################################################
+    - env: CodeQuality
+      sudo: false
+      language: php
+      php: 7.1
+      cache:
+        directories:
+          - vendor
+          - bin
+      before_install:
+        - ./etc/travis-ci/disable-xdebug.sh
+      install:
+        - composer install --prefer-source
+      script:
+        - ./bin/phing check-codestandards
+        - ./bin/phing phpstan
+
+    #####################################################################
+    # Job 2: PHPSpec 
+    #####################################################################
+    - env: phpspec
+      sudo: false
+      language: php
+      php: 7.1
+      cache:
+        directories:
+          - vendor
+          - bin
+      before_install:
+        - cp etc/travis-ci/.coveralls.yml .coveralls.yml
+        - cp etc/travis-ci/phpspec.yml phpspec.yml
+        - mkdir -p build/cov build/logs build/phpspec/coverage
+      install:
+        - composer install --prefer-source
+      script:
+        - ./bin/phpspec run --no-interaction
+      after_script:
+        - export CI_BUILD_NUMBER="$TRAVIS_BUILD_NUMBER"
+        - export CI_PULL_REQUEST="$TRAVIS_PULL_REQUEST"
+        - export CI_BRANCH="$TRAVIS_BRANCH"
+        - php bin/coveralls -v
+
+    #####################################################################
+    # Job 3: PHPUnit 
+    #####################################################################
+    - env: phpunit
+      sudo: false
+      language: php
+      php: 7.1
+      cache:
+        directories:
+          - vendor
+          - bin
+      before_install:
+        - cp etc/travis-ci/.coveralls.yml .coveralls.yml
+        - mkdir -p build/cov build/logs build/phpunit/coverage
+      install:
+        - composer install --prefer-source
+      script:
+        - php -d 'xdebug.max_nesting_level=500' bin/phpunit
+      after_script:
+        - export CI_BUILD_NUMBER="$TRAVIS_BUILD_NUMBER"
+        - export CI_PULL_REQUEST="$TRAVIS_PULL_REQUEST"
+        - export CI_BRANCH="$TRAVIS_BRANCH"
+        - php bin/coveralls -v
