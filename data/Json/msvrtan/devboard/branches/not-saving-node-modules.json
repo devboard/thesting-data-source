@@ -1,0 +1,77 @@
+{
+  "name": "not-saving-node-modules",
+  "commit": {
+    "sha": "e1c03ca39a7c935dd64cc5421520082dafc08a59",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-01-19T12:38:07Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-01-19T12:38:07Z"
+      },
+      "message": "Not saving node_modules on circle",
+      "tree": {
+        "sha": "2d5fc8476252ba20e59a1e396bab6f688bbf1ea4",
+        "url": "https://api.github.com/repos/msvrtan/devboard/git/trees/2d5fc8476252ba20e59a1e396bab6f688bbf1ea4"
+      },
+      "url": "https://api.github.com/repos/msvrtan/devboard/git/commits/e1c03ca39a7c935dd64cc5421520082dafc08a59",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/msvrtan/devboard/commits/e1c03ca39a7c935dd64cc5421520082dafc08a59",
+    "html_url": "https://github.com/msvrtan/devboard/commit/e1c03ca39a7c935dd64cc5421520082dafc08a59",
+    "comments_url": "https://api.github.com/repos/msvrtan/devboard/commits/e1c03ca39a7c935dd64cc5421520082dafc08a59/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e32f2bce4e2cc4c08ad46e0487afec6b9c1f1988",
+        "url": "https://api.github.com/repos/msvrtan/devboard/commits/e32f2bce4e2cc4c08ad46e0487afec6b9c1f1988",
+        "html_url": "https://github.com/msvrtan/devboard/commit/e32f2bce4e2cc4c08ad46e0487afec6b9c1f1988"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/msvrtan/devboard/branches/not-saving-node-modules",
+    "html": "https://github.com/msvrtan/devboard/tree/not-saving-node-modules"
+  }
+}

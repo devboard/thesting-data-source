@@ -1,0 +1,23 @@
+[
+  {
+    "name": "master",
+    "commit": {
+      "sha": "75a2320854e0c761018b8b3ac8e58a2c41d58de7",
+      "url": "https://api.github.com/repos/devboard/devboard-core/commits/75a2320854e0c761018b8b3ac8e58a2c41d58de7"
+    }
+  },
+  {
+    "name": "new-version",
+    "commit": {
+      "sha": "a9d748a5edd036aa4ba13442996099d10924a753",
+      "url": "https://api.github.com/repos/devboard/devboard-core/commits/a9d748a5edd036aa4ba13442996099d10924a753"
+    }
+  },
+  {
+    "name": "old-master",
+    "commit": {
+      "sha": "dab66c25c08ab0d51d4e1e78a620e93e7ec0feab",
+      "url": "https://api.github.com/repos/devboard/devboard-core/commits/dab66c25c08ab0d51d4e1e78a620e93e7ec0feab"
+    }
+  }
+]

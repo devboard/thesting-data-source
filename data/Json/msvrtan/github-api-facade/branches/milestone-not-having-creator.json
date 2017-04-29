@@ -1,0 +1,82 @@
+{
+  "name": "milestone-not-having-creator",
+  "commit": {
+    "sha": "0a5ce410d5aa4025ee59989359dd85f6abe75b21",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "msvrtan@users.noreply.github.com",
+        "date": "2016-02-19T12:36:37Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "msvrtan@users.noreply.github.com",
+        "date": "2016-02-19T12:36:37Z"
+      },
+      "message": "Merge pull request #6 from msvrtan/test-reporter-update\n\nDependency libs upgrade",
+      "tree": {
+        "sha": "48356afd34f3beff4c6dcd62bd1806468b4bc421",
+        "url": "https://api.github.com/repos/msvrtan/github-api-facade/git/trees/48356afd34f3beff4c6dcd62bd1806468b4bc421"
+      },
+      "url": "https://api.github.com/repos/msvrtan/github-api-facade/git/commits/0a5ce410d5aa4025ee59989359dd85f6abe75b21",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/msvrtan/github-api-facade/commits/0a5ce410d5aa4025ee59989359dd85f6abe75b21",
+    "html_url": "https://github.com/msvrtan/github-api-facade/commit/0a5ce410d5aa4025ee59989359dd85f6abe75b21",
+    "comments_url": "https://api.github.com/repos/msvrtan/github-api-facade/commits/0a5ce410d5aa4025ee59989359dd85f6abe75b21/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "5128a837f02d5f99bacfd07ef5e159123f9f098e",
+        "url": "https://api.github.com/repos/msvrtan/github-api-facade/commits/5128a837f02d5f99bacfd07ef5e159123f9f098e",
+        "html_url": "https://github.com/msvrtan/github-api-facade/commit/5128a837f02d5f99bacfd07ef5e159123f9f098e"
+      },
+      {
+        "sha": "d44d87bef59760ac99604642b69ca65fafe4fb08",
+        "url": "https://api.github.com/repos/msvrtan/github-api-facade/commits/d44d87bef59760ac99604642b69ca65fafe4fb08",
+        "html_url": "https://github.com/msvrtan/github-api-facade/commit/d44d87bef59760ac99604642b69ca65fafe4fb08"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/msvrtan/github-api-facade/branches/milestone-not-having-creator",
+    "html": "https://github.com/msvrtan/github-api-facade/tree/milestone-not-having-creator"
+  }
+}

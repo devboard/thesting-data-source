@@ -1,0 +1,30 @@
+[
+  {
+    "name": "0.3.x",
+    "commit": {
+      "sha": "8f37f89160c682b846f3d66e1abf2fc5b515bd11",
+      "url": "https://api.github.com/repos/msvrtan/github-object-api-facade-bundle/commits/8f37f89160c682b846f3d66e1abf2fc5b515bd11"
+    }
+  },
+  {
+    "name": "0.4.x",
+    "commit": {
+      "sha": "02723ff1120766853260abf764240ae1a5ddcab3",
+      "url": "https://api.github.com/repos/msvrtan/github-object-api-facade-bundle/commits/02723ff1120766853260abf764240ae1a5ddcab3"
+    }
+  },
+  {
+    "name": "dev",
+    "commit": {
+      "sha": "69bbb1fe569d990e4d9f317b56173e3497e04ee6",
+      "url": "https://api.github.com/repos/msvrtan/github-object-api-facade-bundle/commits/69bbb1fe569d990e4d9f317b56173e3497e04ee6"
+    }
+  },
+  {
+    "name": "master",
+    "commit": {
+      "sha": "69bbb1fe569d990e4d9f317b56173e3497e04ee6",
+      "url": "https://api.github.com/repos/msvrtan/github-object-api-facade-bundle/commits/69bbb1fe569d990e4d9f317b56173e3497e04ee6"
+    }
+  }
+]

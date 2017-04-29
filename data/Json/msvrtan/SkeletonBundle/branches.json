@@ -1,0 +1,37 @@
+[
+  {
+    "name": "0.4.x",
+    "commit": {
+      "sha": "ecec0a86e89de02e6549117ecd48cc25a2e7f1f3",
+      "url": "https://api.github.com/repos/msvrtan/SkeletonBundle/commits/ecec0a86e89de02e6549117ecd48cc25a2e7f1f3"
+    }
+  },
+  {
+    "name": "composer-update-20161101",
+    "commit": {
+      "sha": "b03fa0ec613bf428ae0a2a1a473667e47bce4fce",
+      "url": "https://api.github.com/repos/msvrtan/SkeletonBundle/commits/b03fa0ec613bf428ae0a2a1a473667e47bce4fce"
+    }
+  },
+  {
+    "name": "dev",
+    "commit": {
+      "sha": "04535f018dd8a9d1a93242c87fdf8f196e8a0d44",
+      "url": "https://api.github.com/repos/msvrtan/SkeletonBundle/commits/04535f018dd8a9d1a93242c87fdf8f196e8a0d44"
+    }
+  },
+  {
+    "name": "doctrine-read-generator",
+    "commit": {
+      "sha": "ecec0a86e89de02e6549117ecd48cc25a2e7f1f3",
+      "url": "https://api.github.com/repos/msvrtan/SkeletonBundle/commits/ecec0a86e89de02e6549117ecd48cc25a2e7f1f3"
+    }
+  },
+  {
+    "name": "master",
+    "commit": {
+      "sha": "ecec0a86e89de02e6549117ecd48cc25a2e7f1f3",
+      "url": "https://api.github.com/repos/msvrtan/SkeletonBundle/commits/ecec0a86e89de02e6549117ecd48cc25a2e7f1f3"
+    }
+  }
+]

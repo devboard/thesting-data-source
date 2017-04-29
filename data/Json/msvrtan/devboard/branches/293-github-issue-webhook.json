@@ -1,0 +1,77 @@
+{
+  "name": "293-github-issue-webhook",
+  "commit": {
+    "sha": "553abd2edf557ab9fae4768d4b0edb1ac16559f2",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-02-18T13:59:34Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-02-18T13:59:34Z"
+      },
+      "message": "Added issues & issue_comment to hook settings #293",
+      "tree": {
+        "sha": "3462877e4a80b241df5a13556f495043b1c1deed",
+        "url": "https://api.github.com/repos/msvrtan/devboard/git/trees/3462877e4a80b241df5a13556f495043b1c1deed"
+      },
+      "url": "https://api.github.com/repos/msvrtan/devboard/git/commits/553abd2edf557ab9fae4768d4b0edb1ac16559f2",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/msvrtan/devboard/commits/553abd2edf557ab9fae4768d4b0edb1ac16559f2",
+    "html_url": "https://github.com/msvrtan/devboard/commit/553abd2edf557ab9fae4768d4b0edb1ac16559f2",
+    "comments_url": "https://api.github.com/repos/msvrtan/devboard/commits/553abd2edf557ab9fae4768d4b0edb1ac16559f2/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "eb81ec5f246d23ae540316d8a23f92664162a0c8",
+        "url": "https://api.github.com/repos/msvrtan/devboard/commits/eb81ec5f246d23ae540316d8a23f92664162a0c8",
+        "html_url": "https://github.com/msvrtan/devboard/commit/eb81ec5f246d23ae540316d8a23f92664162a0c8"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/msvrtan/devboard/branches/293-github-issue-webhook",
+    "html": "https://github.com/msvrtan/devboard/tree/293-github-issue-webhook"
+  }
+}

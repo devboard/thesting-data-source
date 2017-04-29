@@ -1,0 +1,77 @@
+{
+  "name": "berbadger-patch-3",
+  "commit": {
+    "sha": "dfe9d117655212f2ae58b3503f1b86e79d74bfcb",
+    "commit": {
+      "author": {
+        "name": "WouterJ",
+        "email": "waldio.webdesign@gmail.com",
+        "date": "2017-04-15T12:51:11Z"
+      },
+      "committer": {
+        "name": "WouterJ",
+        "email": "waldio.webdesign@gmail.com",
+        "date": "2017-04-15T14:41:47Z"
+      },
+      "message": "Mentioned FOSRestBundle's content negotiation",
+      "tree": {
+        "sha": "e58e67b25a9dc972a3b86eb391cda6d919532c00",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/e58e67b25a9dc972a3b86eb391cda6d919532c00"
+      },
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/dfe9d117655212f2ae58b3503f1b86e79d74bfcb",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/dfe9d117655212f2ae58b3503f1b86e79d74bfcb",
+    "html_url": "https://github.com/symfony/symfony-docs/commit/dfe9d117655212f2ae58b3503f1b86e79d74bfcb",
+    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/dfe9d117655212f2ae58b3503f1b86e79d74bfcb/comments",
+    "author": {
+      "login": "wouterj",
+      "id": 749025,
+      "avatar_url": "https://avatars.githubusercontent.com/u/749025?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/wouterj",
+      "html_url": "https://github.com/wouterj",
+      "followers_url": "https://api.github.com/users/wouterj/followers",
+      "following_url": "https://api.github.com/users/wouterj/following{/other_user}",
+      "gists_url": "https://api.github.com/users/wouterj/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/wouterj/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/wouterj/subscriptions",
+      "organizations_url": "https://api.github.com/users/wouterj/orgs",
+      "repos_url": "https://api.github.com/users/wouterj/repos",
+      "events_url": "https://api.github.com/users/wouterj/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/wouterj/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "wouterj",
+      "id": 749025,
+      "avatar_url": "https://avatars.githubusercontent.com/u/749025?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/wouterj",
+      "html_url": "https://github.com/wouterj",
+      "followers_url": "https://api.github.com/users/wouterj/followers",
+      "following_url": "https://api.github.com/users/wouterj/following{/other_user}",
+      "gists_url": "https://api.github.com/users/wouterj/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/wouterj/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/wouterj/subscriptions",
+      "organizations_url": "https://api.github.com/users/wouterj/orgs",
+      "repos_url": "https://api.github.com/users/wouterj/repos",
+      "events_url": "https://api.github.com/users/wouterj/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/wouterj/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "90924db8871ef018a431d02707cb7ca284082cc7",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/90924db8871ef018a431d02707cb7ca284082cc7",
+        "html_url": "https://github.com/symfony/symfony-docs/commit/90924db8871ef018a431d02707cb7ca284082cc7"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/symfony/symfony-docs/branches/berbadger-patch-3",
+    "html": "https://github.com/symfony/symfony-docs/tree/berbadger-patch-3"
+  }
+}

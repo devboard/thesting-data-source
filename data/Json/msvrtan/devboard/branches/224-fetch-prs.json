@@ -1,0 +1,82 @@
+{
+  "name": "224-fetch-prs",
+  "commit": {
+    "sha": "82b3c183419c450b8e905cf5825f7f53fa537208",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "msvrtan@users.noreply.github.com",
+        "date": "2016-01-20T08:42:22Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "msvrtan@users.noreply.github.com",
+        "date": "2016-01-20T08:42:22Z"
+      },
+      "message": "Merge pull request #262 from msvrtan/fixing-shippable\n\nRunning apc install on shippable",
+      "tree": {
+        "sha": "d75cff76b4bb5ee5a2925c363853fbdd26291cc3",
+        "url": "https://api.github.com/repos/msvrtan/devboard/git/trees/d75cff76b4bb5ee5a2925c363853fbdd26291cc3"
+      },
+      "url": "https://api.github.com/repos/msvrtan/devboard/git/commits/82b3c183419c450b8e905cf5825f7f53fa537208",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/msvrtan/devboard/commits/82b3c183419c450b8e905cf5825f7f53fa537208",
+    "html_url": "https://github.com/msvrtan/devboard/commit/82b3c183419c450b8e905cf5825f7f53fa537208",
+    "comments_url": "https://api.github.com/repos/msvrtan/devboard/commits/82b3c183419c450b8e905cf5825f7f53fa537208/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "dda614c571affbeba1326b577938644d546bf04d",
+        "url": "https://api.github.com/repos/msvrtan/devboard/commits/dda614c571affbeba1326b577938644d546bf04d",
+        "html_url": "https://github.com/msvrtan/devboard/commit/dda614c571affbeba1326b577938644d546bf04d"
+      },
+      {
+        "sha": "e3d561e33a156401edbe1f3776f6f174a5fd8e69",
+        "url": "https://api.github.com/repos/msvrtan/devboard/commits/e3d561e33a156401edbe1f3776f6f174a5fd8e69",
+        "html_url": "https://github.com/msvrtan/devboard/commit/e3d561e33a156401edbe1f3776f6f174a5fd8e69"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/msvrtan/devboard/branches/224-fetch-prs",
+    "html": "https://github.com/msvrtan/devboard/tree/224-fetch-prs"
+  }
+}

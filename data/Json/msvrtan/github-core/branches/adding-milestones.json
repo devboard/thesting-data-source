@@ -1,0 +1,82 @@
+{
+  "name": "adding-milestones",
+  "commit": {
+    "sha": "843f5438bc380c5e98cf03aea50b3f8ea33c2a9f",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "msvrtan@users.noreply.github.com",
+        "date": "2016-02-11T16:33:25Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "msvrtan@users.noreply.github.com",
+        "date": "2016-02-11T16:33:25Z"
+      },
+      "message": "Merge pull request #4 from msvrtan/updating-deps\n\nUpdated composer.lock, dev package updates",
+      "tree": {
+        "sha": "36283a82b2738a5c13a70fedb37fd930cebe5e63",
+        "url": "https://api.github.com/repos/msvrtan/github-core/git/trees/36283a82b2738a5c13a70fedb37fd930cebe5e63"
+      },
+      "url": "https://api.github.com/repos/msvrtan/github-core/git/commits/843f5438bc380c5e98cf03aea50b3f8ea33c2a9f",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/msvrtan/github-core/commits/843f5438bc380c5e98cf03aea50b3f8ea33c2a9f",
+    "html_url": "https://github.com/msvrtan/github-core/commit/843f5438bc380c5e98cf03aea50b3f8ea33c2a9f",
+    "comments_url": "https://api.github.com/repos/msvrtan/github-core/commits/843f5438bc380c5e98cf03aea50b3f8ea33c2a9f/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "57a7fb476cd242efcdd8c94e9ba22d57e36806ed",
+        "url": "https://api.github.com/repos/msvrtan/github-core/commits/57a7fb476cd242efcdd8c94e9ba22d57e36806ed",
+        "html_url": "https://github.com/msvrtan/github-core/commit/57a7fb476cd242efcdd8c94e9ba22d57e36806ed"
+      },
+      {
+        "sha": "750bb32a64a857b78a70d056184deb0070ac5372",
+        "url": "https://api.github.com/repos/msvrtan/github-core/commits/750bb32a64a857b78a70d056184deb0070ac5372",
+        "html_url": "https://github.com/msvrtan/github-core/commit/750bb32a64a857b78a70d056184deb0070ac5372"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/msvrtan/github-core/branches/adding-milestones",
+    "html": "https://github.com/msvrtan/github-core/tree/adding-milestones"
+  }
+}

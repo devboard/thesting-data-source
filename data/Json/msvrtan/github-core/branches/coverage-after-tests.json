@@ -1,0 +1,77 @@
+{
+  "name": "coverage-after-tests",
+  "commit": {
+    "sha": "38eeae2eb7a9440d287a6994445142954eea6f5c",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-02-21T11:13:01Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-02-21T11:13:01Z"
+      },
+      "message": "Moved coveralls & codeclimate to after_script section so Travis PR will work",
+      "tree": {
+        "sha": "6956e1844c91dec66bcfe731d3d97843fc8bdeab",
+        "url": "https://api.github.com/repos/msvrtan/github-core/git/trees/6956e1844c91dec66bcfe731d3d97843fc8bdeab"
+      },
+      "url": "https://api.github.com/repos/msvrtan/github-core/git/commits/38eeae2eb7a9440d287a6994445142954eea6f5c",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/msvrtan/github-core/commits/38eeae2eb7a9440d287a6994445142954eea6f5c",
+    "html_url": "https://github.com/msvrtan/github-core/commit/38eeae2eb7a9440d287a6994445142954eea6f5c",
+    "comments_url": "https://api.github.com/repos/msvrtan/github-core/commits/38eeae2eb7a9440d287a6994445142954eea6f5c/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7f09a218d5c35ed96738e3710907169d2b6e7d60",
+        "url": "https://api.github.com/repos/msvrtan/github-core/commits/7f09a218d5c35ed96738e3710907169d2b6e7d60",
+        "html_url": "https://github.com/msvrtan/github-core/commit/7f09a218d5c35ed96738e3710907169d2b6e7d60"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/msvrtan/github-core/branches/coverage-after-tests",
+    "html": "https://github.com/msvrtan/github-core/tree/coverage-after-tests"
+  }
+}

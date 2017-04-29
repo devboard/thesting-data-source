@@ -1,0 +1,82 @@
+{
+  "name": "dev",
+  "commit": {
+    "sha": "f21f8aa0304359c9af7f8745659797cfab8a5d00",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "msvrtan@users.noreply.github.com",
+        "date": "2016-05-19T18:44:19Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "msvrtan@users.noreply.github.com",
+        "date": "2016-05-19T18:44:19Z"
+      },
+      "message": "Merge pull request #345 from msvrtan/new-circle-ci-image\n\nNew circle ci image",
+      "tree": {
+        "sha": "3a35ca41f4dc38990b097167b0e1478ffbc6b567",
+        "url": "https://api.github.com/repos/msvrtan/devboard/git/trees/3a35ca41f4dc38990b097167b0e1478ffbc6b567"
+      },
+      "url": "https://api.github.com/repos/msvrtan/devboard/git/commits/f21f8aa0304359c9af7f8745659797cfab8a5d00",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/msvrtan/devboard/commits/f21f8aa0304359c9af7f8745659797cfab8a5d00",
+    "html_url": "https://github.com/msvrtan/devboard/commit/f21f8aa0304359c9af7f8745659797cfab8a5d00",
+    "comments_url": "https://api.github.com/repos/msvrtan/devboard/commits/f21f8aa0304359c9af7f8745659797cfab8a5d00/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f58d4eff2f17b6231f055e453aedc57b67dfba0c",
+        "url": "https://api.github.com/repos/msvrtan/devboard/commits/f58d4eff2f17b6231f055e453aedc57b67dfba0c",
+        "html_url": "https://github.com/msvrtan/devboard/commit/f58d4eff2f17b6231f055e453aedc57b67dfba0c"
+      },
+      {
+        "sha": "4b7de1917d37add7245615390dec1795ca005f9f",
+        "url": "https://api.github.com/repos/msvrtan/devboard/commits/4b7de1917d37add7245615390dec1795ca005f9f",
+        "html_url": "https://github.com/msvrtan/devboard/commit/4b7de1917d37add7245615390dec1795ca005f9f"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/msvrtan/devboard/branches/dev",
+    "html": "https://github.com/msvrtan/devboard/tree/dev"
+  }
+}

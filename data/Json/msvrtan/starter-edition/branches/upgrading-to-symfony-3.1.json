@@ -1,0 +1,77 @@
+{
+  "name": "upgrading-to-symfony-3.1",
+  "commit": {
+    "sha": "dacd1a12fd472825c49a286d741b77f158392a23",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-06-14T17:10:12Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-06-14T17:10:12Z"
+      },
+      "message": "[starter-edition] Updated composer.lock for Symfony 3.1",
+      "tree": {
+        "sha": "1953ffc61a8894e5f70996ece4fb03d89f755b00",
+        "url": "https://api.github.com/repos/msvrtan/starter-edition/git/trees/1953ffc61a8894e5f70996ece4fb03d89f755b00"
+      },
+      "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/dacd1a12fd472825c49a286d741b77f158392a23",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/dacd1a12fd472825c49a286d741b77f158392a23",
+    "html_url": "https://github.com/msvrtan/starter-edition/commit/dacd1a12fd472825c49a286d741b77f158392a23",
+    "comments_url": "https://api.github.com/repos/msvrtan/starter-edition/commits/dacd1a12fd472825c49a286d741b77f158392a23/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "94bb739fe2492b87b182334e015869806fe9b582",
+        "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/94bb739fe2492b87b182334e015869806fe9b582",
+        "html_url": "https://github.com/msvrtan/starter-edition/commit/94bb739fe2492b87b182334e015869806fe9b582"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/msvrtan/starter-edition/branches/upgrading-to-symfony-3.1",
+    "html": "https://github.com/msvrtan/starter-edition/tree/upgrading-to-symfony-3.1"
+  }
+}

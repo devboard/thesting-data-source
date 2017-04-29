@@ -1,0 +1,77 @@
+{
+  "name": "HeahDude-form-empty_data-option",
+  "commit": {
+    "sha": "f37548947d5ec8a54d81e586e147616d225a65cf",
+    "commit": {
+      "author": {
+        "name": "WouterJ",
+        "email": "waldio.webdesign@gmail.com",
+        "date": "2017-04-15T14:09:38Z"
+      },
+      "committer": {
+        "name": "WouterJ",
+        "email": "waldio.webdesign@gmail.com",
+        "date": "2017-04-15T14:09:42Z"
+      },
+      "message": "Better explain empty_data values",
+      "tree": {
+        "sha": "d4e01307d56b07a8154f5239e69f1d2a1ea96681",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/d4e01307d56b07a8154f5239e69f1d2a1ea96681"
+      },
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/f37548947d5ec8a54d81e586e147616d225a65cf",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/f37548947d5ec8a54d81e586e147616d225a65cf",
+    "html_url": "https://github.com/symfony/symfony-docs/commit/f37548947d5ec8a54d81e586e147616d225a65cf",
+    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/f37548947d5ec8a54d81e586e147616d225a65cf/comments",
+    "author": {
+      "login": "wouterj",
+      "id": 749025,
+      "avatar_url": "https://avatars.githubusercontent.com/u/749025?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/wouterj",
+      "html_url": "https://github.com/wouterj",
+      "followers_url": "https://api.github.com/users/wouterj/followers",
+      "following_url": "https://api.github.com/users/wouterj/following{/other_user}",
+      "gists_url": "https://api.github.com/users/wouterj/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/wouterj/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/wouterj/subscriptions",
+      "organizations_url": "https://api.github.com/users/wouterj/orgs",
+      "repos_url": "https://api.github.com/users/wouterj/repos",
+      "events_url": "https://api.github.com/users/wouterj/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/wouterj/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "wouterj",
+      "id": 749025,
+      "avatar_url": "https://avatars.githubusercontent.com/u/749025?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/wouterj",
+      "html_url": "https://github.com/wouterj",
+      "followers_url": "https://api.github.com/users/wouterj/followers",
+      "following_url": "https://api.github.com/users/wouterj/following{/other_user}",
+      "gists_url": "https://api.github.com/users/wouterj/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/wouterj/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/wouterj/subscriptions",
+      "organizations_url": "https://api.github.com/users/wouterj/orgs",
+      "repos_url": "https://api.github.com/users/wouterj/repos",
+      "events_url": "https://api.github.com/users/wouterj/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/wouterj/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "d552ea36e201ba2d6055f267bd94fa82cc4704fd",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/d552ea36e201ba2d6055f267bd94fa82cc4704fd",
+        "html_url": "https://github.com/symfony/symfony-docs/commit/d552ea36e201ba2d6055f267bd94fa82cc4704fd"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/symfony/symfony-docs/branches/HeahDude-form-empty_data-option",
+    "html": "https://github.com/symfony/symfony-docs/tree/HeahDude-form-empty_data-option"
+  }
+}

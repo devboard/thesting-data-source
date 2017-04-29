@@ -1,0 +1,82 @@
+{
+  "name": "0.1.x",
+  "commit": {
+    "sha": "37c058360baa4882210e207bd2857fb1ca402ddc",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "msvrtan@users.noreply.github.com",
+        "date": "2016-06-18T15:49:06Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2016-06-18T15:49:06Z"
+      },
+      "message": "Merge pull request #62 from msvrtan/removing-class-loader\n\nRemoving class loader",
+      "tree": {
+        "sha": "18d2bb41fc458da53d218e09ba9f860189fffa91",
+        "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/trees/18d2bb41fc458da53d218e09ba9f860189fffa91"
+      },
+      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/37c058360baa4882210e207bd2857fb1ca402ddc",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/37c058360baa4882210e207bd2857fb1ca402ddc",
+    "html_url": "https://github.com/nulldevelopmenthr/generator/commit/37c058360baa4882210e207bd2857fb1ca402ddc",
+    "comments_url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/37c058360baa4882210e207bd2857fb1ca402ddc/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "44ef0deea37cb6455218378244fc0c0fee26cb07",
+        "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/44ef0deea37cb6455218378244fc0c0fee26cb07",
+        "html_url": "https://github.com/nulldevelopmenthr/generator/commit/44ef0deea37cb6455218378244fc0c0fee26cb07"
+      },
+      {
+        "sha": "f54e5337e56e67b2f1021e42584847accc9eaa63",
+        "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/f54e5337e56e67b2f1021e42584847accc9eaa63",
+        "html_url": "https://github.com/nulldevelopmenthr/generator/commit/f54e5337e56e67b2f1021e42584847accc9eaa63"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/nulldevelopmenthr/generator/branches/0.1.x",
+    "html": "https://github.com/nulldevelopmenthr/generator/tree/0.1.x"
+  }
+}

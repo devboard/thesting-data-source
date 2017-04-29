@@ -1,0 +1,82 @@
+{
+  "name": "core-repo",
+  "commit": {
+    "sha": "0315ef171e03f836fadccd466f8c49ce74dae099",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "msvrtan@users.noreply.github.com",
+        "date": "2016-02-19T14:42:39Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "msvrtan@users.noreply.github.com",
+        "date": "2016-02-19T14:42:39Z"
+      },
+      "message": "Merge pull request #15 from msvrtan/small-fix\n\nFix on missing github user id in milestone",
+      "tree": {
+        "sha": "0400f5c5f344e9f9b85fe2f17acc3752d0d0411c",
+        "url": "https://api.github.com/repos/msvrtan/github-core/git/trees/0400f5c5f344e9f9b85fe2f17acc3752d0d0411c"
+      },
+      "url": "https://api.github.com/repos/msvrtan/github-core/git/commits/0315ef171e03f836fadccd466f8c49ce74dae099",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/msvrtan/github-core/commits/0315ef171e03f836fadccd466f8c49ce74dae099",
+    "html_url": "https://github.com/msvrtan/github-core/commit/0315ef171e03f836fadccd466f8c49ce74dae099",
+    "comments_url": "https://api.github.com/repos/msvrtan/github-core/commits/0315ef171e03f836fadccd466f8c49ce74dae099/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "d877cef245916990893f6d7bd0c9e0dafab03156",
+        "url": "https://api.github.com/repos/msvrtan/github-core/commits/d877cef245916990893f6d7bd0c9e0dafab03156",
+        "html_url": "https://github.com/msvrtan/github-core/commit/d877cef245916990893f6d7bd0c9e0dafab03156"
+      },
+      {
+        "sha": "3e2ce0078d76e45cfa3860c23f25248db84eacda",
+        "url": "https://api.github.com/repos/msvrtan/github-core/commits/3e2ce0078d76e45cfa3860c23f25248db84eacda",
+        "html_url": "https://github.com/msvrtan/github-core/commit/3e2ce0078d76e45cfa3860c23f25248db84eacda"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/msvrtan/github-core/branches/core-repo",
+    "html": "https://github.com/msvrtan/github-core/tree/core-repo"
+  }
+}
