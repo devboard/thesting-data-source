@@ -34,6 +34,7 @@
         "humbug/humbug":                            "~1.0@dev"
     },
     "config": {
+        "sort-packages": true,
         "platform": {
             "php": "7.1.0"
         },
