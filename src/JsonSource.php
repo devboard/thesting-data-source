@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Devboard\Thesting\Source;
+namespace DevboardLib\Thesting\Source;
 
 use Symfony\Component\Finder\SplFileInfo;
 

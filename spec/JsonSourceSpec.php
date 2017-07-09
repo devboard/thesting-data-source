@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace spec\Devboard\Thesting\Source;
+namespace spec\DevboardLib\Thesting\Source;
 
-use Devboard\Thesting\Source\JsonReader;
-use Devboard\Thesting\Source\JsonSource;
+use DevboardLib\Thesting\Source\JsonReader;
+use DevboardLib\Thesting\Source\JsonSource;
 use PhpSpec\ObjectBehavior;
 use Symfony\Component\Finder\SplFileInfo;
 

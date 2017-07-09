@@ -2,12 +2,12 @@
 
 declare(strict_types=1);
 
-namespace tests\Devboard\Thesting\Source;
+namespace tests\DevboardLib\Thesting\Source;
 
-use Devboard\Thesting\Source\JsonSource;
+use DevboardLib\Thesting\Source\JsonSource;
 
 /**
- * @covers \Devboard\Thesting\Source\JsonSource
+ * @covers \DevboardLib\Thesting\Source\JsonSource
  * @group  integration
  */
 class JsonSourceTest extends \PHPUnit_Framework_TestCase

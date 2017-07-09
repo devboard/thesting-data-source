@@ -4,13 +4,13 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Devboard\\Thesting\\Source\\": "src/",
-            "tests\\Devboard\\Thesting\\Source\\": "tests/"
+            "DevboardLib\\Thesting\\Source\\": "src/",
+            "tests\\DevboardLib\\Thesting\\Source\\": "tests/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "spec\\Devboard\\Thesting\\Source\\": "spec/"
+            "spec\\DevboardLib\\Thesting\\Source\\": "spec/"
         }
     },
     "require": {

@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace spec\Devboard\Thesting\Source;
+namespace spec\DevboardLib\Thesting\Source;
 
-use Devboard\Thesting\Source\JsonReader;
+use DevboardLib\Thesting\Source\JsonReader;
 use PhpSpec\ObjectBehavior;
 
 class JsonReaderSpec extends ObjectBehavior
