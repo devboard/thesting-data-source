@@ -76,8 +76,7 @@ foreach ($testDataProvider->getSupportedRepoNames() as $repo) {
 
     foreach ($tags as $tagItem) {
         $tag      = urlencode($tagItem['name']);
-        $response = $client->request('GET', 'https://api.github.com/repos/'.$repo.'/git/refs/tags/'.$tag, $options);
-        file_put_contents($tagFolder.$tag.'.json', $response->getBody());
+        file_put_contents($tagFolder.$tag.'.json', json_encode($tagItem));
         $commits[] = $tagItem['commit']['sha'];
     }
 
