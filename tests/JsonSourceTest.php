@@ -56,12 +56,12 @@ class JsonSourceTest extends \PHPUnit_Framework_TestCase
 
     public function testGetGitHubPushEventData()
     {
-        $this->assertCount(6, $this->sut->getGitHubPushEventData());
+        $this->assertCount(0, $this->sut->getGitHubPushEventData());
     }
 
     public function testGetGitHubPushEventBranchesData()
     {
-        $this->assertCount(6, $this->sut->getGitHubPushEventBranchesData());
+        $this->assertCount(0, $this->sut->getGitHubPushEventBranchesData());
     }
 
     public function testGetGitHubPushEventTagsData()
@@ -79,8 +79,8 @@ class JsonSourceTest extends \PHPUnit_Framework_TestCase
             ['octocat/git-consortium', 1],
             ['octocat/test-repo1', 1],
             ['symfony/symfony', 15],
-            ['symfony/symfony-standard', 17],
-            ['symfony/symfony-docs', 28],
+            ['symfony/symfony-standard', 14],
+            ['symfony/symfony-docs', 19],
         ];
     }
 
