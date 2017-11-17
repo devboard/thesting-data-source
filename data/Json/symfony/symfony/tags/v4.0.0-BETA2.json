@@ -1,1 +1,9 @@
-{"name":"v4.0.0-BETA2","zipball_url":"https:\/\/api.github.com\/repos\/symfony\/symfony\/zipball\/v4.0.0-BETA2","tarball_url":"https:\/\/api.github.com\/repos\/symfony\/symfony\/tarball\/v4.0.0-BETA2","commit":{"sha":"6423afb1dc42b2f81a9d7f795d571a6842ca502f","url":"https:\/\/api.github.com\/repos\/symfony\/symfony\/commits\/6423afb1dc42b2f81a9d7f795d571a6842ca502f"}}
+{
+  "name": "v4.0.0-BETA2",
+  "zipball_url": "https:\/\/api.github.com\/repos\/symfony\/symfony\/zipball\/v4.0.0-BETA2",
+  "tarball_url": "https:\/\/api.github.com\/repos\/symfony\/symfony\/tarball\/v4.0.0-BETA2",
+  "commit": {
+    "sha": "6423afb1dc42b2f81a9d7f795d571a6842ca502f",
+    "url": "https:\/\/api.github.com\/repos\/symfony\/symfony\/commits\/6423afb1dc42b2f81a9d7f795d571a6842ca502f"
+  }
+}

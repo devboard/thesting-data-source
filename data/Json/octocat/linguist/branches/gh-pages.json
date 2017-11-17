@@ -69,7 +69,6 @@
       "site_admin": true
     },
     "parents": [
-
     ]
   },
   "_links": {
@@ -82,7 +81,6 @@
     "required_status_checks": {
       "enforcement_level": "off",
       "contexts": [
-
       ]
     }
   },
