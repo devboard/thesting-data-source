@@ -35,6 +35,16 @@ class JsonReader
         return file_get_contents($this->getBasePath().$repo.'/tags/'.$tagName.'.json');
     }
 
+    public function loadCommitContent(string $repo, string $commitSha): string
+    {
+        return file_get_contents($this->getBasePath().$repo.'/commits/'.$commitSha.'.json');
+    }
+
+    public function loadCommitStatusContent(string $repo, string $commitSha): string
+    {
+        return file_get_contents($this->getBasePath().$repo.'/commit-statuses/'.$commitSha.'.json');
+    }
+
     public function getBranchFiles(string $repo): array
     {
         return $this->getFilesIn($repo, 'branches');
@@ -43,6 +53,16 @@ class JsonReader
     public function getTagFiles(string $repo): array
     {
         return $this->getFilesIn($repo, 'tags');
+    }
+
+    public function getCommitFiles(string $repo): array
+    {
+        return $this->getFilesIn($repo, 'commits');
+    }
+
+    public function getCommitStatusFiles(string $repo): array
+    {
+        return $this->getFilesIn($repo, 'commit-statuses');
     }
 
     public function getPushEventFiles(string $repo): array
