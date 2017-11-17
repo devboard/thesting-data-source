@@ -22,12 +22,12 @@ class JsonSourceTest extends \PHPUnit_Framework_TestCase
 
     public function testGetSupportedRepoNames()
     {
-        $this->assertCount(35, $this->sut->getSupportedRepoNames());
+        $this->assertCount(19, $this->sut->getSupportedRepoNames());
     }
 
     public function testGetRepos()
     {
-        $this->assertCount(35, $this->sut->getRepos());
+        $this->assertCount(19, $this->sut->getRepos());
     }
 
     /** @dataProvider provideReposAndBranchCount */
@@ -44,17 +44,17 @@ class JsonSourceTest extends \PHPUnit_Framework_TestCase
 
     public function testGetGitHubPushEventData()
     {
-        $this->assertCount(43, $this->sut->getGitHubPushEventData());
+        $this->assertCount(6, $this->sut->getGitHubPushEventData());
     }
 
     public function testGetGitHubPushEventBranchesData()
     {
-        $this->assertCount(39, $this->sut->getGitHubPushEventBranchesData());
+        $this->assertCount(6, $this->sut->getGitHubPushEventBranchesData());
     }
 
     public function testGetGitHubPushEventTagsData()
     {
-        $this->assertCount(4, $this->sut->getGitHubPushEventTagsData());
+        $this->assertCount(0, $this->sut->getGitHubPushEventTagsData());
     }
 
     public function provideReposAndBranchCount(): array
@@ -66,27 +66,24 @@ class JsonSourceTest extends \PHPUnit_Framework_TestCase
             ['octocat/octocat.github.io', 2],
             ['octocat/git-consortium', 1],
             ['octocat/test-repo1', 1],
-            ['symfony/symfony', 13],
-            ['symfony/symfony-standard', 15],
-            ['symfony/symfony-docs', 23],
+            ['symfony/symfony', 15],
+            ['symfony/symfony-standard', 17],
+            ['symfony/symfony-docs', 28],
         ];
     }
 
-    /**
-     * @todo this are actually branches :)
-     */
     public function provideReposAndTagCount(): array
     {
         return [
-            ['octocat/Hello-World', 2],
-            ['octocat/Spoon-Knife', 3],
-            ['octocat/linguist', 7],
-            ['octocat/octocat.github.io', 2],
-            ['octocat/git-consortium', 1],
-            ['octocat/test-repo1', 1],
-            ['symfony/symfony', 13],
-            ['symfony/symfony-standard', 15],
-            ['symfony/symfony-docs', 23],
+            ['octocat/Hello-World', 0],
+            ['octocat/Spoon-Knife', 0],
+            ['octocat/linguist', 30],
+            ['octocat/octocat.github.io', 0],
+            ['octocat/git-consortium', 0],
+            ['octocat/test-repo1', 0],
+            ['symfony/symfony', 30],
+            ['symfony/symfony-standard', 30],
+            ['symfony/symfony-docs', 30],
         ];
     }
 }
