@@ -32,7 +32,7 @@ class JsonReader
 
     public function loadTagContent(string $repo, string $tagName): string
     {
-        return file_get_contents($this->getBasePath().$repo.'/branches/'.$tagName.'.json');
+        return file_get_contents($this->getBasePath().$repo.'/tags/'.$tagName.'.json');
     }
 
     public function getBranchFiles(string $repo): array
@@ -40,12 +40,9 @@ class JsonReader
         return $this->getFilesIn($repo, 'branches');
     }
 
-    /**
-     * @todo this are actually branches :)
-     */
     public function getTagFiles(string $repo): array
     {
-        return $this->getFilesIn($repo, 'branches');
+        return $this->getFilesIn($repo, 'tags');
     }
 
     public function getPushEventFiles(string $repo): array
