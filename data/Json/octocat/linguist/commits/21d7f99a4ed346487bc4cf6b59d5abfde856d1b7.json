@@ -1,0 +1,33 @@
+{
+  "sha": "21d7f99a4ed346487bc4cf6b59d5abfde856d1b7",
+  "url": "https://api.github.com/repos/octocat/linguist/git/commits/21d7f99a4ed346487bc4cf6b59d5abfde856d1b7",
+  "html_url": "https://github.com/octocat/linguist/commit/21d7f99a4ed346487bc4cf6b59d5abfde856d1b7",
+  "author": {
+    "name": "Arfon Smith",
+    "email": "arfon@users.noreply.github.com",
+    "date": "2016-03-29T23:02:30Z"
+  },
+  "committer": {
+    "name": "Arfon Smith",
+    "email": "arfon@users.noreply.github.com",
+    "date": "2016-03-29T23:02:30Z"
+  },
+  "tree": {
+    "sha": "23b5e77b6a8e88091b0fee7521d045a448b27f1b",
+    "url": "https://api.github.com/repos/octocat/linguist/git/trees/23b5e77b6a8e88091b0fee7521d045a448b27f1b"
+  },
+  "message": "Cut release v4.8.2\n\n* Updating grammars\r\n* Bumping to v4.8.2",
+  "parents": [
+    {
+      "sha": "24b368a30c8779b8de071496aabe9c0d3cb217e4",
+      "url": "https://api.github.com/repos/octocat/linguist/git/commits/24b368a30c8779b8de071496aabe9c0d3cb217e4",
+      "html_url": "https://github.com/octocat/linguist/commit/24b368a30c8779b8de071496aabe9c0d3cb217e4"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

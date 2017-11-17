@@ -1,0 +1,33 @@
+{
+  "sha": "b33a9c7c02ad93f621fa38f0e9fc9e867e12fa0e",
+  "url": "https://api.github.com/repos/octocat/git-consortium/git/commits/b33a9c7c02ad93f621fa38f0e9fc9e867e12fa0e",
+  "html_url": "https://github.com/octocat/git-consortium/commit/b33a9c7c02ad93f621fa38f0e9fc9e867e12fa0e",
+  "author": {
+    "name": "The Octocat",
+    "email": "octocat@nowhere.com",
+    "date": "2014-03-28T17:59:52Z"
+  },
+  "committer": {
+    "name": "The Octocat",
+    "email": "octocat@nowhere.com",
+    "date": "2014-03-28T17:59:52Z"
+  },
+  "tree": {
+    "sha": "74405b8e015388cb564fda2e47230e30cb8d088c",
+    "url": "https://api.github.com/repos/octocat/git-consortium/git/trees/74405b8e015388cb564fda2e47230e30cb8d088c"
+  },
+  "message": "Trainers and Courses features prioritized",
+  "parents": [
+    {
+      "sha": "6b9b40ef57b03d5c48ac5ca96ce80dade0949350",
+      "url": "https://api.github.com/repos/octocat/git-consortium/git/commits/6b9b40ef57b03d5c48ac5ca96ce80dade0949350",
+      "html_url": "https://github.com/octocat/git-consortium/commit/6b9b40ef57b03d5c48ac5ca96ce80dade0949350"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "ref": "refs/tags/v0.2.2",
+  "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/refs/tags/v0.2.2",
+  "object": {
+    "sha": "ddf55457940e8d145c8532b46b80faf05833dba8",
+    "type": "tag",
+    "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/tags/ddf55457940e8d145c8532b46b80faf05833dba8"
+  }
+}

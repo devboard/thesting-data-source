@@ -1,0 +1,38 @@
+{
+  "sha": "49492b7dc1c4961350c200004c106c7b562e6ed7",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/49492b7dc1c4961350c200004c106c7b562e6ed7",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/49492b7dc1c4961350c200004c106c7b562e6ed7",
+  "author": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2016-09-18T23:42:01Z"
+  },
+  "committer": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2016-09-18T23:42:01Z"
+  },
+  "tree": {
+    "sha": "7360793f20f4910a4e8dd71a2fdefa774532ba4e",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/7360793f20f4910a4e8dd71a2fdefa774532ba4e"
+  },
+  "message": "Merge remote-tracking branch 'origin/3.0' into 3.0\n\n* origin/3.0:\n  Remove reference to profiler lifetime property that was removed in 3.x",
+  "parents": [
+    {
+      "sha": "78ae2a7aa68382a455713ac7f69b10eb5d7978d0",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/78ae2a7aa68382a455713ac7f69b10eb5d7978d0",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/78ae2a7aa68382a455713ac7f69b10eb5d7978d0"
+    },
+    {
+      "sha": "d59b5605f5de5d523702d6b1129ae1197c53069e",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/d59b5605f5de5d523702d6b1129ae1197c53069e",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/d59b5605f5de5d523702d6b1129ae1197c53069e"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "sha": "56d7ff0d37a73e67d1f5ceaedce3e4f9d8d27d8c",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/56d7ff0d37a73e67d1f5ceaedce3e4f9d8d27d8c",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/56d7ff0d37a73e67d1f5ceaedce3e4f9d8d27d8c",
+  "author": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2012-11-28T03:21:51Z"
+  },
+  "committer": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2012-11-28T03:21:51Z"
+  },
+  "tree": {
+    "sha": "0ba2520efa8005d1d28b4cddc68617efa1e3dec2",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/0ba2520efa8005d1d28b4cddc68617efa1e3dec2"
+  },
+  "message": "[#1980] Slight reword",
+  "parents": [
+    {
+      "sha": "019a17f5bb342955b05f062bdfb637e95dd681a1",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/019a17f5bb342955b05f062bdfb637e95dd681a1",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/019a17f5bb342955b05f062bdfb637e95dd681a1"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

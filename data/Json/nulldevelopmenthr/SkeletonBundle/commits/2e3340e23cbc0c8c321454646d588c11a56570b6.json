@@ -1,0 +1,38 @@
+{
+  "sha": "2e3340e23cbc0c8c321454646d588c11a56570b6",
+  "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/commits/2e3340e23cbc0c8c321454646d588c11a56570b6",
+  "html_url": "https://github.com/nulldevelopmenthr/SkeletonBundle/commit/2e3340e23cbc0c8c321454646d588c11a56570b6",
+  "author": {
+    "name": "Miro Svrtan",
+    "email": "msvrtan@users.noreply.github.com",
+    "date": "2016-06-18T22:34:18Z"
+  },
+  "committer": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "2016-06-18T22:34:18Z"
+  },
+  "tree": {
+    "sha": "f3c21fff0ddb7aeca6ac2ce91da2af660c6016aa",
+    "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/trees/f3c21fff0ddb7aeca6ac2ce91da2af660c6016aa"
+  },
+  "message": "Merge pull request #1 from msvrtan/preparing-first-release\n\nPreparing first release",
+  "parents": [
+    {
+      "sha": "98ea7f5f993d31dcf0929b7bb41ca4ca917bdd8f",
+      "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/commits/98ea7f5f993d31dcf0929b7bb41ca4ca917bdd8f",
+      "html_url": "https://github.com/nulldevelopmenthr/SkeletonBundle/commit/98ea7f5f993d31dcf0929b7bb41ca4ca917bdd8f"
+    },
+    {
+      "sha": "288c890fc9b4858b8f4bf169b080e07d1b0ae77d",
+      "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/commits/288c890fc9b4858b8f4bf169b080e07d1b0ae77d",
+      "html_url": "https://github.com/nulldevelopmenthr/SkeletonBundle/commit/288c890fc9b4858b8f4bf169b080e07d1b0ae77d"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

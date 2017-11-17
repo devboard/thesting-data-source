@@ -1,0 +1,38 @@
+{
+  "sha": "098bb166d51cdf0b0541550d037bb3ad1f8fa846",
+  "url": "https://api.github.com/repos/symfony/symfony/git/commits/098bb166d51cdf0b0541550d037bb3ad1f8fa846",
+  "html_url": "https://github.com/symfony/symfony/commit/098bb166d51cdf0b0541550d037bb3ad1f8fa846",
+  "author": {
+    "name": "Fabien Potencier",
+    "email": "fabien@potencier.org",
+    "date": "2017-07-04T06:03:16Z"
+  },
+  "committer": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "2017-07-04T06:03:16Z"
+  },
+  "tree": {
+    "sha": "61e0f822398a29b1869f49909f414435bab5e690",
+    "url": "https://api.github.com/repos/symfony/symfony/git/trees/61e0f822398a29b1869f49909f414435bab5e690"
+  },
+  "message": "Merge pull request #23369 from fabpot/release-3.3.3\n\nreleased v3.3.3",
+  "parents": [
+    {
+      "sha": "8b1f4127c348309e75d9a89b10af5fd31a3798d0",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/8b1f4127c348309e75d9a89b10af5fd31a3798d0",
+      "html_url": "https://github.com/symfony/symfony/commit/8b1f4127c348309e75d9a89b10af5fd31a3798d0"
+    },
+    {
+      "sha": "5d8d746a100d9eff0500a058fde8b06189155f11",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/5d8d746a100d9eff0500a058fde8b06189155f11",
+      "html_url": "https://github.com/symfony/symfony/commit/5d8d746a100d9eff0500a058fde8b06189155f11"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

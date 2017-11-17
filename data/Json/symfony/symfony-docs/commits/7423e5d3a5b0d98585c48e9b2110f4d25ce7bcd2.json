@@ -1,0 +1,33 @@
+{
+  "sha": "7423e5d3a5b0d98585c48e9b2110f4d25ce7bcd2",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/7423e5d3a5b0d98585c48e9b2110f4d25ce7bcd2",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/7423e5d3a5b0d98585c48e9b2110f4d25ce7bcd2",
+  "author": {
+    "name": "Javier Eguiluz",
+    "email": "javier.eguiluz@gmail.com",
+    "date": "2017-10-03T13:53:17Z"
+  },
+  "committer": {
+    "name": "Javier Eguiluz",
+    "email": "javier.eguiluz@gmail.com",
+    "date": "2017-10-03T13:53:17Z"
+  },
+  "tree": {
+    "sha": "9c9b6975a0f37a3c8a07bc544078dd7849c00988",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/9c9b6975a0f37a3c8a07bc544078dd7849c00988"
+  },
+  "message": "Reverted a wrong change",
+  "parents": [
+    {
+      "sha": "3d6b7eb5ee315a936425e13204ece87b9ccefc4d",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/3d6b7eb5ee315a936425e13204ece87b9ccefc4d",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/3d6b7eb5ee315a936425e13204ece87b9ccefc4d"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

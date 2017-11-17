@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/9d96cbf0a71602c6c49f21335bc6bb9dfc721665"
       },
       "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/a6386100a27dce7c5c922f4d5f0b9d16508deec2",
-      "comment_count": 0
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
     "url": "https://api.github.com/repos/symfony/symfony-docs/commits/a6386100a27dce7c5c922f4d5f0b9d16508deec2",
     "html_url": "https://github.com/symfony/symfony-docs/commit/a6386100a27dce7c5c922f4d5f0b9d16508deec2",
@@ -27,7 +33,7 @@
     "author": {
       "login": "xabbuh",
       "id": 1957048,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1957048?v=3",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1957048?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/xabbuh",
       "html_url": "https://github.com/xabbuh",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "xabbuh",
       "id": 1957048,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1957048?v=3",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1957048?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/xabbuh",
       "html_url": "https://github.com/xabbuh",
@@ -78,5 +84,16 @@
   "_links": {
     "self": "https://api.github.com/repos/symfony/symfony-docs/branches/3.1",
     "html": "https://github.com/symfony/symfony-docs/tree/3.1"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/symfony/symfony-docs/branches/3.1/protection"
 }

@@ -1,0 +1,38 @@
+{
+  "sha": "97e753fa58c6ab8751e5f77995d1ed7737a99f1b",
+  "url": "https://api.github.com/repos/symfony/symfony/git/commits/97e753fa58c6ab8751e5f77995d1ed7737a99f1b",
+  "html_url": "https://github.com/symfony/symfony/commit/97e753fa58c6ab8751e5f77995d1ed7737a99f1b",
+  "author": {
+    "name": "Fabien Potencier",
+    "email": "fabien@potencier.org",
+    "date": "2017-11-10T20:08:30Z"
+  },
+  "committer": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "2017-11-10T20:08:30Z"
+  },
+  "tree": {
+    "sha": "f380b163bbf4e877ac5a6a09db5a5b9d42390dd0",
+    "url": "https://api.github.com/repos/symfony/symfony/git/trees/f380b163bbf4e877ac5a6a09db5a5b9d42390dd0"
+  },
+  "message": "Merge pull request #24916 from fabpot/release-3.3.11\n\nreleased v3.3.11",
+  "parents": [
+    {
+      "sha": "e7201245cdaf7a1b918c3e75173870cb1bbbb962",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/e7201245cdaf7a1b918c3e75173870cb1bbbb962",
+      "html_url": "https://github.com/symfony/symfony/commit/e7201245cdaf7a1b918c3e75173870cb1bbbb962"
+    },
+    {
+      "sha": "cdadc2f9e1a3746275e9331ddbd9b210c85b41e0",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/cdadc2f9e1a3746275e9331ddbd9b210c85b41e0",
+      "html_url": "https://github.com/symfony/symfony/commit/cdadc2f9e1a3746275e9331ddbd9b210c85b41e0"
+    }
+  ],
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJaBgc+CRBK7hj4Ov3rIwAAdHIIADA8BrXB52jKOdyYraToH3rw\nWfalDJnIpc+kPTaYUj/tdVFIPJ/r3Q7JtVEIF3JsxxrA6PwGWKqRr2t/DbFLYsoF\n9oqsvb/9tGOlyd4ltsukR/lycgsg9brdHbjTZ5H1v0xcWXi0/x/L4RYMFUEFQFq3\nM8XUlxC+kzfpggvtywuKWBopGkmlA0AczhUD7nwU916IVBquR/PX0BpWfvZfCf3J\niYAZ77R37hkE9vlD+rxjO5atlJ/tEk3Grt7KZktH8NHepgfERj2/LdZVmQ+OnNGE\nDTYttKNmVKvv2O/9BNxaUADRdBXw0hwm9hoLXZTrT3T+fbetuBiBBms5ooAkrRM=\n=VFJJ\n-----END PGP SIGNATURE-----\n",
+    "payload": "tree f380b163bbf4e877ac5a6a09db5a5b9d42390dd0\nparent e7201245cdaf7a1b918c3e75173870cb1bbbb962\nparent cdadc2f9e1a3746275e9331ddbd9b210c85b41e0\nauthor Fabien Potencier <fabien@potencier.org> 1510344510 -0800\ncommitter GitHub <noreply@github.com> 1510344510 -0800\n\nMerge pull request #24916 from fabpot/release-3.3.11\n\nreleased v3.3.11"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "sha": "80537d0a223a1f2f13a41068014e33eb2546208e",
+  "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/80537d0a223a1f2f13a41068014e33eb2546208e",
+  "html_url": "https://github.com/symfony/symfony-standard/commit/80537d0a223a1f2f13a41068014e33eb2546208e",
+  "author": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2014-09-22T14:23:48Z"
+  },
+  "committer": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2014-09-22T14:23:48Z"
+  },
+  "tree": {
+    "sha": "aca2526b9cf585b868255711f256ec21d5d450cb",
+    "url": "https://api.github.com/repos/symfony/symfony-standard/git/trees/aca2526b9cf585b868255711f256ec21d5d450cb"
+  },
+  "message": "Merge branch '2.3' into 2.4\n\n* 2.3:\n  Add RewriteRule",
+  "parents": [
+    {
+      "sha": "1c135cf1d4daf11eef85e9c6929ff97b87649cdb",
+      "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/1c135cf1d4daf11eef85e9c6929ff97b87649cdb",
+      "html_url": "https://github.com/symfony/symfony-standard/commit/1c135cf1d4daf11eef85e9c6929ff97b87649cdb"
+    },
+    {
+      "sha": "e22025fbeb99978044929427495ccfcb4b9aaf50",
+      "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/e22025fbeb99978044929427495ccfcb4b9aaf50",
+      "html_url": "https://github.com/symfony/symfony-standard/commit/e22025fbeb99978044929427495ccfcb4b9aaf50"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

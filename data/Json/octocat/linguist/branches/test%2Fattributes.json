@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/octocat/linguist/git/trees/2bfedfc07845c231af2043ba0d3714317e132261"
       },
       "url": "https://api.github.com/repos/octocat/linguist/git/commits/d4c8fb8a28e91f97a7e53428a365c0abbac36d3d",
-      "comment_count": 0
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
     "url": "https://api.github.com/repos/octocat/linguist/commits/d4c8fb8a28e91f97a7e53428a365c0abbac36d3d",
     "html_url": "https://github.com/octocat/linguist/commit/d4c8fb8a28e91f97a7e53428a365c0abbac36d3d",
@@ -27,7 +33,7 @@
     "author": {
       "login": "aroben",
       "id": 917945,
-      "avatar_url": "https://avatars.githubusercontent.com/u/917945?v=3",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/917945?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/aroben",
       "html_url": "https://github.com/aroben",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "aroben",
       "id": 917945,
-      "avatar_url": "https://avatars.githubusercontent.com/u/917945?v=3",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/917945?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/aroben",
       "html_url": "https://github.com/aroben",
@@ -73,5 +79,16 @@
   "_links": {
     "self": "https://api.github.com/repos/octocat/linguist/branches/test/attributes",
     "html": "https://github.com/octocat/linguist/tree/test/attributes"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/octocat/linguist/branches/test/attributes/protection"
 }

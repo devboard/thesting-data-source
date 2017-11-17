@@ -1,0 +1,38 @@
+{
+  "sha": "b875bddde981514001ea1551c3e08976da2568a1",
+  "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/b875bddde981514001ea1551c3e08976da2568a1",
+  "html_url": "https://github.com/msvrtan/broadway/commit/b875bddde981514001ea1551c3e08976da2568a1",
+  "author": {
+    "name": "othillo",
+    "email": "othillo@qandidate.com",
+    "date": "2015-01-02T09:18:58Z"
+  },
+  "committer": {
+    "name": "othillo",
+    "email": "othillo@qandidate.com",
+    "date": "2015-01-02T09:18:58Z"
+  },
+  "tree": {
+    "sha": "c7a9b23289f171166ef42ff12def99bfe68ea214",
+    "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/c7a9b23289f171166ef42ff12def99bfe68ea214"
+  },
+  "message": "Merge pull request #107 from wjzijderveld/changelog-0.4.x\n\nStarted with changelog for 0.4.x",
+  "parents": [
+    {
+      "sha": "b3904b7d66cfa174f1c89af05519ac6ebedab1f7",
+      "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/b3904b7d66cfa174f1c89af05519ac6ebedab1f7",
+      "html_url": "https://github.com/msvrtan/broadway/commit/b3904b7d66cfa174f1c89af05519ac6ebedab1f7"
+    },
+    {
+      "sha": "5a74e607ab61bcbdce34a7a47b455fb8cb1a50ec",
+      "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/5a74e607ab61bcbdce34a7a47b455fb8cb1a50ec",
+      "html_url": "https://github.com/msvrtan/broadway/commit/5a74e607ab61bcbdce34a7a47b455fb8cb1a50ec"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

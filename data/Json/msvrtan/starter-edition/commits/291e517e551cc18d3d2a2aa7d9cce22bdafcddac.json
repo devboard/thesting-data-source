@@ -1,0 +1,33 @@
+{
+  "sha": "291e517e551cc18d3d2a2aa7d9cce22bdafcddac",
+  "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/291e517e551cc18d3d2a2aa7d9cce22bdafcddac",
+  "html_url": "https://github.com/msvrtan/starter-edition/commit/291e517e551cc18d3d2a2aa7d9cce22bdafcddac",
+  "author": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2017-08-16T15:02:36Z"
+  },
+  "committer": {
+    "name": "Miro Svrtan",
+    "email": "msvrtan@users.noreply.github.com",
+    "date": "2017-08-16T16:41:18Z"
+  },
+  "tree": {
+    "sha": "e39387d3c3e8c2e8719640b967b7b1fb1ab98308",
+    "url": "https://api.github.com/repos/msvrtan/starter-edition/git/trees/e39387d3c3e8c2e8719640b967b7b1fb1ab98308"
+  },
+  "message": "Update composer.lock for ugprading phpstan",
+  "parents": [
+    {
+      "sha": "080717ec51f869ed9d17fe92b7fa920f214891e3",
+      "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/080717ec51f869ed9d17fe92b7fa920f214891e3",
+      "html_url": "https://github.com/msvrtan/starter-edition/commit/080717ec51f869ed9d17fe92b7fa920f214891e3"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

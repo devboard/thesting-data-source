@@ -51,8 +51,15 @@
   {
     "name": "master",
     "commit": {
-      "sha": "989d9ed6ef65bceaba19766d18e7d1746e1ea4c1",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/989d9ed6ef65bceaba19766d18e7d1746e1ea4c1"
+      "sha": "188819c4301148d6bc11343d053aea9f483f8e9b",
+      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/188819c4301148d6bc11343d053aea9f483f8e9b"
+    }
+  },
+  {
+    "name": "new-master",
+    "commit": {
+      "sha": "7f981004a777d2c67865a6a91d40ab2fca6af4c1",
+      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/7f981004a777d2c67865a6a91d40ab2fca6af4c1"
     }
   }
 ]

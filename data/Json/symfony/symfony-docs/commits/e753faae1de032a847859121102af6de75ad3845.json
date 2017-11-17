@@ -1,0 +1,38 @@
+{
+  "sha": "e753faae1de032a847859121102af6de75ad3845",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/e753faae1de032a847859121102af6de75ad3845",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/e753faae1de032a847859121102af6de75ad3845",
+  "author": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2012-09-19T15:48:14Z"
+  },
+  "committer": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2012-09-19T15:48:14Z"
+  },
+  "tree": {
+    "sha": "fdd84194d709b6cc246845791f94d3bf920047ae",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/fdd84194d709b6cc246845791f94d3bf920047ae"
+  },
+  "message": "Merge branch '2.0' into 2.1\n\nConflicts:\n\tcookbook/doctrine/event_listeners_subscribers.rst",
+  "parents": [
+    {
+      "sha": "42ed2c6e2b104699f9b2dbc70e7047e388bae970",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/42ed2c6e2b104699f9b2dbc70e7047e388bae970",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/42ed2c6e2b104699f9b2dbc70e7047e388bae970"
+    },
+    {
+      "sha": "414a00786d703a89a2a95ff4f98e8708f57e3096",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/414a00786d703a89a2a95ff4f98e8708f57e3096",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/414a00786d703a89a2a95ff4f98e8708f57e3096"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

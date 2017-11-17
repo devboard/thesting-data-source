@@ -5,5 +5,12 @@
       "sha": "1e93967775f3cf52b6473900441c8edd8a68828a",
       "url": "https://api.github.com/repos/nulldevelopmenthr/user-edition/commits/1e93967775f3cf52b6473900441c8edd8a68828a"
     }
+  },
+  {
+    "name": "user-0.3.3",
+    "commit": {
+      "sha": "0c6a96926a7e183f8c471d79819be8d4a114f7f8",
+      "url": "https://api.github.com/repos/nulldevelopmenthr/user-edition/commits/0c6a96926a7e183f8c471d79819be8d4a114f7f8"
+    }
   }
 ]

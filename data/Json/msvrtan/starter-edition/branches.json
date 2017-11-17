@@ -2,8 +2,8 @@
   {
     "name": "dev",
     "commit": {
-      "sha": "2857614d8441611553d4e5567e480fb964496857",
-      "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/2857614d8441611553d4e5567e480fb964496857"
+      "sha": "291e517e551cc18d3d2a2aa7d9cce22bdafcddac",
+      "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/291e517e551cc18d3d2a2aa7d9cce22bdafcddac"
     }
   },
   {
@@ -23,8 +23,8 @@
   {
     "name": "master",
     "commit": {
-      "sha": "2857614d8441611553d4e5567e480fb964496857",
-      "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/2857614d8441611553d4e5567e480fb964496857"
+      "sha": "461dd14dec9e97b277dd04cc842a8c2979e17109",
+      "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/461dd14dec9e97b277dd04cc842a8c2979e17109"
     }
   },
   {
@@ -74,6 +74,20 @@
     "commit": {
       "sha": "82b85c78012c392380e76564b9bf6f2c98051a79",
       "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/82b85c78012c392380e76564b9bf6f2c98051a79"
+    }
+  },
+  {
+    "name": "switch-to-circle-ci-2.0",
+    "commit": {
+      "sha": "90c039c4b7edbcde11e87540071a018817d6edf9",
+      "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/90c039c4b7edbcde11e87540071a018817d6edf9"
+    }
+  },
+  {
+    "name": "upgrade-scrutinizer-to-7.1",
+    "commit": {
+      "sha": "1582e6705ba228dd068f903c55e4f687b81ef3ff",
+      "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/1582e6705ba228dd068f903c55e4f687b81ef3ff"
     }
   },
   {

@@ -1,0 +1,9 @@
+{
+  "ref": "refs/tags/v0.2.0",
+  "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/refs/tags/v0.2.0",
+  "object": {
+    "sha": "31cf02161595037e5a2d47d2851c80226d0213cc",
+    "type": "tag",
+    "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/tags/31cf02161595037e5a2d47d2851c80226d0213cc"
+  }
+}

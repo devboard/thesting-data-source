@@ -1,0 +1,33 @@
+{
+  "sha": "f0b833af9bbc57df3ecbf965b4010a34f46c399e",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/f0b833af9bbc57df3ecbf965b4010a34f46c399e",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/f0b833af9bbc57df3ecbf965b4010a34f46c399e",
+  "author": {
+    "name": "Stepan Mednikov",
+    "email": "StepanMe@users.noreply.github.com",
+    "date": "2017-11-16T09:11:54Z"
+  },
+  "committer": {
+    "name": "Christian Flothmann",
+    "email": "christian.flothmann@sensiolabs.de",
+    "date": "2017-11-16T10:16:37Z"
+  },
+  "tree": {
+    "sha": "f6a06089ea80362c1595bb669baf2a9d4381e6ae",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/f6a06089ea80362c1595bb669baf2a9d4381e6ae"
+  },
+  "message": "Update micro_kernel_trait.rst\n\n\"This method builds and configures...\" instead of \"This methods builds and configures\"",
+  "parents": [
+    {
+      "sha": "510c6d8ed1b363150bf8b4dfc76ede925118944d",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/510c6d8ed1b363150bf8b4dfc76ede925118944d",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/510c6d8ed1b363150bf8b4dfc76ede925118944d"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "sha": "f9e34dec772a6f75b6c009f40a50b65c53598a14",
+  "url": "https://api.github.com/repos/msvrtan/generator/git/commits/f9e34dec772a6f75b6c009f40a50b65c53598a14",
+  "html_url": "https://github.com/msvrtan/generator/commit/f9e34dec772a6f75b6c009f40a50b65c53598a14",
+  "author": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2016-06-12T18:15:37Z"
+  },
+  "committer": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2017-07-12T18:38:43Z"
+  },
+  "tree": {
+    "sha": "670820f5e1b49cdfc01cfbfe1f7e10e089e959f0",
+    "url": "https://api.github.com/repos/msvrtan/generator/git/trees/670820f5e1b49cdfc01cfbfe1f7e10e089e959f0"
+  },
+  "message": "Removed SuppressWarning",
+  "parents": [
+    {
+      "sha": "f67a2a1249736d923e52c22f2b952e3af8d416aa",
+      "url": "https://api.github.com/repos/msvrtan/generator/git/commits/f67a2a1249736d923e52c22f2b952e3af8d416aa",
+      "html_url": "https://github.com/msvrtan/generator/commit/f67a2a1249736d923e52c22f2b952e3af8d416aa"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

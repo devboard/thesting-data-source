@@ -1,0 +1,60 @@
+[
+  {
+    "url": "https://api.github.com/repos/symfony/symfony-standard/statuses/ef051d784508a4e3a33ced1d48d0221528c7c67d",
+    "id": 1423596018,
+    "state": "success",
+    "description": "Your code looks good.",
+    "target_url": "http://fabbot.io/report/symfony/symfony-standard/1104/ef051d784508a4e3a33ced1d48d0221528c7c67d",
+    "context": "fabbot.io",
+    "created_at": "2017-08-01T10:10:42Z",
+    "updated_at": "2017-08-01T10:10:42Z",
+    "creator": {
+      "login": "fabpot",
+      "id": 47313,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/fabpot",
+      "html_url": "https://github.com/fabpot",
+      "followers_url": "https://api.github.com/users/fabpot/followers",
+      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+      "organizations_url": "https://api.github.com/users/fabpot/orgs",
+      "repos_url": "https://api.github.com/users/fabpot/repos",
+      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/fabpot/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "url": "https://api.github.com/repos/symfony/symfony-standard/statuses/ef051d784508a4e3a33ced1d48d0221528c7c67d",
+    "id": 1423595954,
+    "state": "pending",
+    "description": "Doing some proofreading and checking your coding style.",
+    "target_url": "",
+    "context": "fabbot.io",
+    "created_at": "2017-08-01T10:10:40Z",
+    "updated_at": "2017-08-01T10:10:40Z",
+    "creator": {
+      "login": "fabpot",
+      "id": 47313,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/fabpot",
+      "html_url": "https://github.com/fabpot",
+      "followers_url": "https://api.github.com/users/fabpot/followers",
+      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+      "organizations_url": "https://api.github.com/users/fabpot/orgs",
+      "repos_url": "https://api.github.com/users/fabpot/repos",
+      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/fabpot/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "sha": "70291d73ab16f7717547433140ac48d8b87c67d7",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/70291d73ab16f7717547433140ac48d8b87c67d7",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/70291d73ab16f7717547433140ac48d8b87c67d7",
+  "author": {
+    "name": "Wouter J",
+    "email": "wouter@wouterj.nl",
+    "date": "2017-11-13T13:19:42Z"
+  },
+  "committer": {
+    "name": "Wouter J",
+    "email": "wouter@wouterj.nl",
+    "date": "2017-11-13T13:19:42Z"
+  },
+  "tree": {
+    "sha": "b3abfead43b089fb885ed319b4fa5fd90c2f918a",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/b3abfead43b089fb885ed319b4fa5fd90c2f918a"
+  },
+  "message": "[#8078] Added some inline code blocks",
+  "parents": [
+    {
+      "sha": "2a3660eb904b717dfcb304cd931a647dbd8e2798",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/2a3660eb904b717dfcb304cd931a647dbd8e2798",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/2a3660eb904b717dfcb304cd931a647dbd8e2798"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "sha": "60836018816261bf50bed82df7c921e0811fbbc2",
+  "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/60836018816261bf50bed82df7c921e0811fbbc2",
+  "html_url": "https://github.com/msvrtan/starter-edition/commit/60836018816261bf50bed82df7c921e0811fbbc2",
+  "author": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2016-03-05T10:28:39Z"
+  },
+  "committer": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2016-03-05T11:04:11Z"
+  },
+  "tree": {
+    "sha": "8da6fd86b2c47ee6b7159acc8efef196c50063c0",
+    "url": "https://api.github.com/repos/msvrtan/starter-edition/git/trees/8da6fd86b2c47ee6b7159acc8efef196c50063c0"
+  },
+  "message": "[starter-edition] Updated composer.lock with testing dependencies",
+  "parents": [
+    {
+      "sha": "cc56ecbcbbdb900a3d6178617750403d4312fea8",
+      "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/cc56ecbcbbdb900a3d6178617750403d4312fea8",
+      "html_url": "https://github.com/msvrtan/starter-edition/commit/cc56ecbcbbdb900a3d6178617750403d4312fea8"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

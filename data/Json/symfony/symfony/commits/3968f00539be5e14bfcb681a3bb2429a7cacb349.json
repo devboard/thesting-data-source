@@ -1,0 +1,33 @@
+{
+  "sha": "3968f00539be5e14bfcb681a3bb2429a7cacb349",
+  "url": "https://api.github.com/repos/symfony/symfony/git/commits/3968f00539be5e14bfcb681a3bb2429a7cacb349",
+  "html_url": "https://github.com/symfony/symfony/commit/3968f00539be5e14bfcb681a3bb2429a7cacb349",
+  "author": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2013-10-10T06:56:48Z"
+  },
+  "committer": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2013-10-10T06:56:48Z"
+  },
+  "tree": {
+    "sha": "e2de1d83319f1b536eb4e60b071256f217398aad",
+    "url": "https://api.github.com/repos/symfony/symfony/git/trees/e2de1d83319f1b536eb4e60b071256f217398aad"
+  },
+  "message": "updated VERSION for 2.0.25",
+  "parents": [
+    {
+      "sha": "40a77c10cfd7e1f2cd5b5a891da97ae3640dd7fb",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/40a77c10cfd7e1f2cd5b5a891da97ae3640dd7fb",
+      "html_url": "https://github.com/symfony/symfony/commit/40a77c10cfd7e1f2cd5b5a891da97ae3640dd7fb"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

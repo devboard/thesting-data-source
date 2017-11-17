@@ -1,0 +1,38 @@
+{
+  "sha": "9330ec29fcdb4bca045a24adc4b057226448a9ba",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/9330ec29fcdb4bca045a24adc4b057226448a9ba",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/9330ec29fcdb4bca045a24adc4b057226448a9ba",
+  "author": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2013-05-06T01:52:14Z"
+  },
+  "committer": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2013-05-06T01:52:14Z"
+  },
+  "tree": {
+    "sha": "9630b85141e393150ea984626e6822a0171b3c6b",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/9630b85141e393150ea984626e6822a0171b3c6b"
+  },
+  "message": "Merge branch '2.0' into 2.1\n\nConflicts:\n\treference/dic_tags.rst",
+  "parents": [
+    {
+      "sha": "fb846127eec55c8ddb72f20f0a837dad95af96ca",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/fb846127eec55c8ddb72f20f0a837dad95af96ca",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/fb846127eec55c8ddb72f20f0a837dad95af96ca"
+    },
+    {
+      "sha": "84e7808cdeebf55fad85058441dad21e2e872e8b",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/84e7808cdeebf55fad85058441dad21e2e872e8b",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/84e7808cdeebf55fad85058441dad21e2e872e8b"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

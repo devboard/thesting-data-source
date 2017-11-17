@@ -1,0 +1,33 @@
+{
+  "sha": "26b700ed5c91cb683d06d7eae9b2c0161ea1dd9f",
+  "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/26b700ed5c91cb683d06d7eae9b2c0161ea1dd9f",
+  "html_url": "https://github.com/nulldevelopmenthr/generator/commit/26b700ed5c91cb683d06d7eae9b2c0161ea1dd9f",
+  "author": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2017-01-08T13:49:41Z"
+  },
+  "committer": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2017-01-08T13:49:41Z"
+  },
+  "tree": {
+    "sha": "7fab0403c6c870a51187b12f9c47fef8e4a78cb2",
+    "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/trees/7fab0403c6c870a51187b12f9c47fef8e4a78cb2"
+  },
+  "message": "Remove unused imports",
+  "parents": [
+    {
+      "sha": "38e2b9ffc476b7b028ee060bb09982e07aced27d",
+      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/38e2b9ffc476b7b028ee060bb09982e07aced27d",
+      "html_url": "https://github.com/nulldevelopmenthr/generator/commit/38e2b9ffc476b7b028ee060bb09982e07aced27d"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

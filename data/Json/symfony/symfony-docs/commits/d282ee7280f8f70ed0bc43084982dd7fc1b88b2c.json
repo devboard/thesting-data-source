@@ -1,0 +1,38 @@
+{
+  "sha": "d282ee7280f8f70ed0bc43084982dd7fc1b88b2c",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/d282ee7280f8f70ed0bc43084982dd7fc1b88b2c",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/d282ee7280f8f70ed0bc43084982dd7fc1b88b2c",
+  "author": {
+    "name": "Christian Flothmann",
+    "email": "christian.flothmann@sensiolabs.de",
+    "date": "2017-11-16T22:05:42Z"
+  },
+  "committer": {
+    "name": "Christian Flothmann",
+    "email": "christian.flothmann@sensiolabs.de",
+    "date": "2017-11-16T22:05:42Z"
+  },
+  "tree": {
+    "sha": "1a8caecdaaf2e77f32c5cf116af2f22002328c91",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/1a8caecdaaf2e77f32c5cf116af2f22002328c91"
+  },
+  "message": "minor #8472 Deprecated the web_profiler.position option (javiereguiluz)\n\nThis PR was merged into the 3.4 branch.\n\nDiscussion\n----------\n\nDeprecated the web_profiler.position option\n\nThis fixes #8466.\n\nCommits\n-------\n\nb0a0739 Deprecated the web_profiler.position option",
+  "parents": [
+    {
+      "sha": "7d202b7d4618c539ae4fcdcaf0cb5ff03118d949",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/7d202b7d4618c539ae4fcdcaf0cb5ff03118d949",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/7d202b7d4618c539ae4fcdcaf0cb5ff03118d949"
+    },
+    {
+      "sha": "b0a07393847a45ab4f0fd124d7f6f51dde5d3966",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/b0a07393847a45ab4f0fd124d7f6f51dde5d3966",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/b0a07393847a45ab4f0fd124d7f6f51dde5d3966"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

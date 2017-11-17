@@ -1,0 +1,9 @@
+{
+  "ref": "refs/tags/0.8.0",
+  "url": "https://api.github.com/repos/msvrtan/broadway/git/refs/tags/0.8.0",
+  "object": {
+    "sha": "2f5248b8468d89a6731342265fbc150584046ebc",
+    "type": "tag",
+    "url": "https://api.github.com/repos/msvrtan/broadway/git/tags/2f5248b8468d89a6731342265fbc150584046ebc"
+  }
+}

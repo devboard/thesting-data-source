@@ -1,0 +1,100 @@
+{
+  "name": "3.4",
+  "commit": {
+    "sha": "8d7f6ede84217dc67f4ed8c5bf17ac4702ce1516",
+    "commit": {
+      "author": {
+        "name": "Christophe Coevoet",
+        "email": "stof@notk.org",
+        "date": "2017-11-17T14:27:47Z"
+      },
+      "committer": {
+        "name": "Christophe Coevoet",
+        "email": "stof@notk.org",
+        "date": "2017-11-17T14:27:47Z"
+      },
+      "message": "bug #24991 [DependencyInjection] Single typed argument can be applied on multiple parameters (nicolas-grekas, sroze)\n\nThis PR was merged into the 3.4 branch.\n\nDiscussion\n----------\n\n[DependencyInjection] Single typed argument can be applied on multiple parameters\n\n| Q             | A\n| ------------- | ---\n| Branch?       | master\n| Bug fix?      | yes\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets | ø\n| License       | MIT\n| Doc PR        | ø\n\nI'm @nicolas-grekas' test writer today. This makes the argument resolution working when injecting the same type multiple times (sub-set of PR #24978)\n\nCommits\n-------\n\nd51265447d Test that named arguments are prioritized over typehinted\nbf7eeef3fb Prove that change is working with tests\n2176be74d8 [DI] Fix by-type args injection",
+      "tree": {
+        "sha": "4cd6515c4ff73c7691c23fafb8d201117409f187",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/4cd6515c4ff73c7691c23fafb8d201117409f187"
+      },
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/8d7f6ede84217dc67f4ed8c5bf17ac4702ce1516",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/symfony/symfony/commits/8d7f6ede84217dc67f4ed8c5bf17ac4702ce1516",
+    "html_url": "https://github.com/symfony/symfony/commit/8d7f6ede84217dc67f4ed8c5bf17ac4702ce1516",
+    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/8d7f6ede84217dc67f4ed8c5bf17ac4702ce1516/comments",
+    "author": {
+      "login": "stof",
+      "id": 439401,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/439401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stof",
+      "html_url": "https://github.com/stof",
+      "followers_url": "https://api.github.com/users/stof/followers",
+      "following_url": "https://api.github.com/users/stof/following{/other_user}",
+      "gists_url": "https://api.github.com/users/stof/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/stof/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/stof/subscriptions",
+      "organizations_url": "https://api.github.com/users/stof/orgs",
+      "repos_url": "https://api.github.com/users/stof/repos",
+      "events_url": "https://api.github.com/users/stof/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/stof/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "stof",
+      "id": 439401,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/439401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/stof",
+      "html_url": "https://github.com/stof",
+      "followers_url": "https://api.github.com/users/stof/followers",
+      "following_url": "https://api.github.com/users/stof/following{/other_user}",
+      "gists_url": "https://api.github.com/users/stof/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/stof/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/stof/subscriptions",
+      "organizations_url": "https://api.github.com/users/stof/orgs",
+      "repos_url": "https://api.github.com/users/stof/repos",
+      "events_url": "https://api.github.com/users/stof/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/stof/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "2f19ddbd47867ec5fdde228e015f44eacedd4299",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/2f19ddbd47867ec5fdde228e015f44eacedd4299",
+        "html_url": "https://github.com/symfony/symfony/commit/2f19ddbd47867ec5fdde228e015f44eacedd4299"
+      },
+      {
+        "sha": "d51265447ddc9e786f5cfb055448e4cf05912cf4",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/d51265447ddc9e786f5cfb055448e4cf05912cf4",
+        "html_url": "https://github.com/symfony/symfony/commit/d51265447ddc9e786f5cfb055448e4cf05912cf4"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/symfony/symfony/branches/3.4",
+    "html": "https://github.com/symfony/symfony/tree/3.4"
+  },
+  "protected": true,
+  "protection": {
+    "enabled": true,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+        "continuous-integration/travis-ci",
+        "fabbot.io"
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/symfony/symfony/branches/3.4/protection"
+}

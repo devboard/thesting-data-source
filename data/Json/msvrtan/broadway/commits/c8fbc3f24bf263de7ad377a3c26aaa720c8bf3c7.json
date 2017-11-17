@@ -1,0 +1,38 @@
+{
+  "sha": "c8fbc3f24bf263de7ad377a3c26aaa720c8bf3c7",
+  "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/c8fbc3f24bf263de7ad377a3c26aaa720c8bf3c7",
+  "html_url": "https://github.com/msvrtan/broadway/commit/c8fbc3f24bf263de7ad377a3c26aaa720c8bf3c7",
+  "author": {
+    "name": "othillo",
+    "email": "othillo@qandidate.com",
+    "date": "2015-07-27T08:26:50Z"
+  },
+  "committer": {
+    "name": "othillo",
+    "email": "othillo@qandidate.com",
+    "date": "2015-07-27T08:26:50Z"
+  },
+  "tree": {
+    "sha": "df415f9743535be404ce04b184721227d52b41f2",
+    "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/df415f9743535be404ce04b184721227d52b41f2"
+  },
+  "message": "Merge pull request #196 from wjzijderveld/update-changelog\n\nChangelog 0.7.x",
+  "parents": [
+    {
+      "sha": "df7445befdb68c9f8b1795d1c454e0dff06ff7a6",
+      "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/df7445befdb68c9f8b1795d1c454e0dff06ff7a6",
+      "html_url": "https://github.com/msvrtan/broadway/commit/df7445befdb68c9f8b1795d1c454e0dff06ff7a6"
+    },
+    {
+      "sha": "24133f9d82a2f2ede8f83e207c25b560b05c0d35",
+      "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/24133f9d82a2f2ede8f83e207c25b560b05c0d35",
+      "html_url": "https://github.com/msvrtan/broadway/commit/24133f9d82a2f2ede8f83e207c25b560b05c0d35"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

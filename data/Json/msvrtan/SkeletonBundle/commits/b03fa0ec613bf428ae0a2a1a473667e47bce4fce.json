@@ -1,0 +1,33 @@
+{
+  "sha": "b03fa0ec613bf428ae0a2a1a473667e47bce4fce",
+  "url": "https://api.github.com/repos/msvrtan/SkeletonBundle/git/commits/b03fa0ec613bf428ae0a2a1a473667e47bce4fce",
+  "html_url": "https://github.com/msvrtan/SkeletonBundle/commit/b03fa0ec613bf428ae0a2a1a473667e47bce4fce",
+  "author": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2016-11-01T20:05:29Z"
+  },
+  "committer": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2016-11-01T20:05:29Z"
+  },
+  "tree": {
+    "sha": "ec6951e4f078337d04a4cd5dd0297e93485c2484",
+    "url": "https://api.github.com/repos/msvrtan/SkeletonBundle/git/trees/ec6951e4f078337d04a4cd5dd0297e93485c2484"
+  },
+  "message": "Update composer.lock, package updates",
+  "parents": [
+    {
+      "sha": "256eb33a3e537c1135e841fc1fdec3d2b42529af",
+      "url": "https://api.github.com/repos/msvrtan/SkeletonBundle/git/commits/256eb33a3e537c1135e841fc1fdec3d2b42529af",
+      "html_url": "https://github.com/msvrtan/SkeletonBundle/commit/256eb33a3e537c1135e841fc1fdec3d2b42529af"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

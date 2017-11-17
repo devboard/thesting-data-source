@@ -1,0 +1,33 @@
+{
+  "sha": "bcf4c26f62e302b052c4db04e950f2959f3a48ca",
+  "url": "https://api.github.com/repos/octocat/linguist/git/commits/bcf4c26f62e302b052c4db04e950f2959f3a48ca",
+  "html_url": "https://github.com/octocat/linguist/commit/bcf4c26f62e302b052c4db04e950f2959f3a48ca",
+  "author": {
+    "name": "Brandon Keepers",
+    "email": "brandon@opensoul.org",
+    "date": "2015-11-04T15:23:46Z"
+  },
+  "committer": {
+    "name": "Brandon Keepers",
+    "email": "brandon@opensoul.org",
+    "date": "2015-11-04T15:23:46Z"
+  },
+  "tree": {
+    "sha": "c209037ef7b978c0cda1421a44dd363c69a382b7",
+    "url": "https://api.github.com/repos/octocat/linguist/git/trees/c209037ef7b978c0cda1421a44dd363c69a382b7"
+  },
+  "message": "Add minimal readme for getting started",
+  "parents": [
+    {
+      "sha": "a35526fd5033340b158b8a2ec60621f1772987e8",
+      "url": "https://api.github.com/repos/octocat/linguist/git/commits/a35526fd5033340b158b8a2ec60621f1772987e8",
+      "html_url": "https://github.com/octocat/linguist/commit/a35526fd5033340b158b8a2ec60621f1772987e8"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

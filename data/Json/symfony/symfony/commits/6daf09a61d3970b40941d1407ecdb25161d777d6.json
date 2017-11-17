@@ -1,0 +1,38 @@
+{
+  "sha": "6daf09a61d3970b40941d1407ecdb25161d777d6",
+  "url": "https://api.github.com/repos/symfony/symfony/git/commits/6daf09a61d3970b40941d1407ecdb25161d777d6",
+  "html_url": "https://github.com/symfony/symfony/commit/6daf09a61d3970b40941d1407ecdb25161d777d6",
+  "author": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2011-04-05T08:03:58Z"
+  },
+  "committer": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2011-04-05T08:03:58Z"
+  },
+  "tree": {
+    "sha": "428b0a9722201e6c0568424ec0b30a12328ef98e",
+    "url": "https://api.github.com/repos/symfony/symfony/git/trees/428b0a9722201e6c0568424ec0b30a12328ef98e"
+  },
+  "message": "Merge remote branch 'subsven/master'\n\n* subsven/master:\n  Add (Boolean) cast to constructor arguments\n  Add a configuration option to restrict profiler storage to the master request",
+  "parents": [
+    {
+      "sha": "6faacdec274a85f2271659ebbb1fd9b5aebb3796",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/6faacdec274a85f2271659ebbb1fd9b5aebb3796",
+      "html_url": "https://github.com/symfony/symfony/commit/6faacdec274a85f2271659ebbb1fd9b5aebb3796"
+    },
+    {
+      "sha": "4948666c6ac90c59adec03ce379af37227f30c1a",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/4948666c6ac90c59adec03ce379af37227f30c1a",
+      "html_url": "https://github.com/symfony/symfony/commit/4948666c6ac90c59adec03ce379af37227f30c1a"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

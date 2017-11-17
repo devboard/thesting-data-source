@@ -1,0 +1,33 @@
+{
+  "sha": "ee3081fb4c73a90633c52f4158a3db411fdafac4",
+  "url": "https://api.github.com/repos/octocat/linguist/git/commits/ee3081fb4c73a90633c52f4158a3db411fdafac4",
+  "html_url": "https://github.com/octocat/linguist/commit/ee3081fb4c73a90633c52f4158a3db411fdafac4",
+  "author": {
+    "name": "Vicent Marti",
+    "email": "tanoku@gmail.com",
+    "date": "2015-06-26T10:34:18Z"
+  },
+  "committer": {
+    "name": "Vicent Marti",
+    "email": "tanoku@gmail.com",
+    "date": "2015-06-26T10:34:18Z"
+  },
+  "tree": {
+    "sha": "b88bce2a3e796947ebc767c6d6d58a9af8aca817",
+    "url": "https://api.github.com/repos/octocat/linguist/git/trees/b88bce2a3e796947ebc767c6d6d58a9af8aca817"
+  },
+  "message": "Bump to 4.5.7",
+  "parents": [
+    {
+      "sha": "119770a0384a188b05cb056f46fa7d4fd7a13d4e",
+      "url": "https://api.github.com/repos/octocat/linguist/git/commits/119770a0384a188b05cb056f46fa7d4fd7a13d4e",
+      "html_url": "https://github.com/octocat/linguist/commit/119770a0384a188b05cb056f46fa7d4fd7a13d4e"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

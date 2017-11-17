@@ -1,0 +1,38 @@
+{
+  "sha": "25679194108eb7d46f99d199bf65ac98a02f7acc",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/25679194108eb7d46f99d199bf65ac98a02f7acc",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/25679194108eb7d46f99d199bf65ac98a02f7acc",
+  "author": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2013-01-17T02:26:34Z"
+  },
+  "committer": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2013-01-17T02:26:34Z"
+  },
+  "tree": {
+    "sha": "72a7dda5bd56ce42b610841141bac507709fc5be",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/72a7dda5bd56ce42b610841141bac507709fc5be"
+  },
+  "message": "Merge branch '2.0' into 2.1\n\nConflicts:\n\tcomponents/http_foundation/index.rst\n\tcomponents/map.rst.inc\n\tcontributing/code/patches.rst",
+  "parents": [
+    {
+      "sha": "eed8e469e65a8531dceeb7e9c55f107bb1e5bb13",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/eed8e469e65a8531dceeb7e9c55f107bb1e5bb13",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/eed8e469e65a8531dceeb7e9c55f107bb1e5bb13"
+    },
+    {
+      "sha": "b040bd9fc491e3db3bf7b559bece06f6737d84d9",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/b040bd9fc491e3db3bf7b559bece06f6737d84d9",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/b040bd9fc491e3db3bf7b559bece06f6737d84d9"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "sha": "3a728bad4e7c9c94d63937d490dddf9e0fb8f7b7",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/3a728bad4e7c9c94d63937d490dddf9e0fb8f7b7",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/3a728bad4e7c9c94d63937d490dddf9e0fb8f7b7",
+  "author": {
+    "name": "WouterJ",
+    "email": "waldio.webdesign@gmail.com",
+    "date": "2016-06-11T20:06:57Z"
+  },
+  "committer": {
+    "name": "WouterJ",
+    "email": "waldio.webdesign@gmail.com",
+    "date": "2016-06-11T20:06:57Z"
+  },
+  "tree": {
+    "sha": "1fa2347ccd815938ad413f9e5e46aac4477b3d41",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/1fa2347ccd815938ad413f9e5e46aac4477b3d41"
+  },
+  "message": "Added may changelog",
+  "parents": [
+    {
+      "sha": "758e083671712bd03a9af07fe486335b470b79ce",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/758e083671712bd03a9af07fe486335b470b79ce",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/758e083671712bd03a9af07fe486335b470b79ce"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

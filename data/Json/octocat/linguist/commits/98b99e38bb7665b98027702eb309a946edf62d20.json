@@ -1,0 +1,38 @@
+{
+  "sha": "98b99e38bb7665b98027702eb309a946edf62d20",
+  "url": "https://api.github.com/repos/octocat/linguist/git/commits/98b99e38bb7665b98027702eb309a946edf62d20",
+  "html_url": "https://github.com/octocat/linguist/commit/98b99e38bb7665b98027702eb309a946edf62d20",
+  "author": {
+    "name": "Vicent Marti",
+    "email": "vicent@github.com",
+    "date": "2015-09-28T09:12:49Z"
+  },
+  "committer": {
+    "name": "Vicent Marti",
+    "email": "vicent@github.com",
+    "date": "2015-09-28T09:12:49Z"
+  },
+  "tree": {
+    "sha": "f3b7404cc13dfb79e61614ba6287d20b0450f799",
+    "url": "https://api.github.com/repos/octocat/linguist/git/trees/f3b7404cc13dfb79e61614ba6287d20b0450f799"
+  },
+  "message": "Merge pull request #2654 from github/vmg/git-linguist-fixes\n\nSmall fixes for git-linguist",
+  "parents": [
+    {
+      "sha": "dca18d77cb163582c0569ef337c113f9eaddd57a",
+      "url": "https://api.github.com/repos/octocat/linguist/git/commits/dca18d77cb163582c0569ef337c113f9eaddd57a",
+      "html_url": "https://github.com/octocat/linguist/commit/dca18d77cb163582c0569ef337c113f9eaddd57a"
+    },
+    {
+      "sha": "d8e3bec499a16eefc0f191db463b291d10204c9c",
+      "url": "https://api.github.com/repos/octocat/linguist/git/commits/d8e3bec499a16eefc0f191db463b291d10204c9c",
+      "html_url": "https://github.com/octocat/linguist/commit/d8e3bec499a16eefc0f191db463b291d10204c9c"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,33 +1,39 @@
 {
   "name": "dev",
   "commit": {
-    "sha": "1e93967775f3cf52b6473900441c8edd8a68828a",
+    "sha": "6d23c4c8569f032cf834abd459fe589915658827",
     "commit": {
       "author": {
         "name": "Miro Svrtan",
         "email": "miro@mirosvrtan.me",
-        "date": "2016-03-06T23:27:35Z"
+        "date": "2017-06-09T21:18:23Z"
       },
       "committer": {
         "name": "Miro Svrtan",
         "email": "miro@mirosvrtan.me",
-        "date": "2016-09-21T21:30:37Z"
+        "date": "2017-06-09T21:18:23Z"
       },
-      "message": "[user-edition] Updated composer.lock for FOSUserBundle",
+      "message": "Merge remote-tracking branch 'starter/master' into dev",
       "tree": {
-        "sha": "b16af4f4ce7f1c3ea297f9ecea4d67f127f9ed81",
-        "url": "https://api.github.com/repos/msvrtan/user-edition/git/trees/b16af4f4ce7f1c3ea297f9ecea4d67f127f9ed81"
+        "sha": "174d65189aa4811af30b64fa561b8aa697de2b9a",
+        "url": "https://api.github.com/repos/msvrtan/user-edition/git/trees/174d65189aa4811af30b64fa561b8aa697de2b9a"
       },
-      "url": "https://api.github.com/repos/msvrtan/user-edition/git/commits/1e93967775f3cf52b6473900441c8edd8a68828a",
-      "comment_count": 0
+      "url": "https://api.github.com/repos/msvrtan/user-edition/git/commits/6d23c4c8569f032cf834abd459fe589915658827",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
-    "url": "https://api.github.com/repos/msvrtan/user-edition/commits/1e93967775f3cf52b6473900441c8edd8a68828a",
-    "html_url": "https://github.com/msvrtan/user-edition/commit/1e93967775f3cf52b6473900441c8edd8a68828a",
-    "comments_url": "https://api.github.com/repos/msvrtan/user-edition/commits/1e93967775f3cf52b6473900441c8edd8a68828a/comments",
+    "url": "https://api.github.com/repos/msvrtan/user-edition/commits/6d23c4c8569f032cf834abd459fe589915658827",
+    "html_url": "https://github.com/msvrtan/user-edition/commit/6d23c4c8569f032cf834abd459fe589915658827",
+    "comments_url": "https://api.github.com/repos/msvrtan/user-edition/commits/6d23c4c8569f032cf834abd459fe589915658827/comments",
     "author": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -64,14 +70,30 @@
     },
     "parents": [
       {
-        "sha": "15a68b6c9e7802ec76c26ec95fef98f19ece38d4",
-        "url": "https://api.github.com/repos/msvrtan/user-edition/commits/15a68b6c9e7802ec76c26ec95fef98f19ece38d4",
-        "html_url": "https://github.com/msvrtan/user-edition/commit/15a68b6c9e7802ec76c26ec95fef98f19ece38d4"
+        "sha": "1e93967775f3cf52b6473900441c8edd8a68828a",
+        "url": "https://api.github.com/repos/msvrtan/user-edition/commits/1e93967775f3cf52b6473900441c8edd8a68828a",
+        "html_url": "https://github.com/msvrtan/user-edition/commit/1e93967775f3cf52b6473900441c8edd8a68828a"
+      },
+      {
+        "sha": "2f6418d306ffb014ae6d3febc748b0439138699c",
+        "url": "https://api.github.com/repos/msvrtan/user-edition/commits/2f6418d306ffb014ae6d3febc748b0439138699c",
+        "html_url": "https://github.com/msvrtan/user-edition/commit/2f6418d306ffb014ae6d3febc748b0439138699c"
       }
     ]
   },
   "_links": {
     "self": "https://api.github.com/repos/msvrtan/user-edition/branches/dev",
     "html": "https://github.com/msvrtan/user-edition/tree/dev"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/msvrtan/user-edition/branches/dev/protection"
 }

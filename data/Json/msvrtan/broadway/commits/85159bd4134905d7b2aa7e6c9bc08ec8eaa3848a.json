@@ -1,0 +1,38 @@
+{
+  "sha": "85159bd4134905d7b2aa7e6c9bc08ec8eaa3848a",
+  "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/85159bd4134905d7b2aa7e6c9bc08ec8eaa3848a",
+  "html_url": "https://github.com/msvrtan/broadway/commit/85159bd4134905d7b2aa7e6c9bc08ec8eaa3848a",
+  "author": {
+    "name": "Willem-Jan Zijderveld",
+    "email": "wjzijderveld@gmail.com",
+    "date": "2015-02-27T13:53:56Z"
+  },
+  "committer": {
+    "name": "Willem-Jan Zijderveld",
+    "email": "wjzijderveld@gmail.com",
+    "date": "2015-02-27T13:53:56Z"
+  },
+  "tree": {
+    "sha": "b645074d248b964f346f5a94c37e4474efdfd8ab",
+    "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/b645074d248b964f346f5a94c37e4474efdfd8ab"
+  },
+  "message": "Merge pull request #141 from cordoval/patch-1\n\ntypo",
+  "parents": [
+    {
+      "sha": "5ad5decde81a55b41fc547ba9346e48499fd8ddc",
+      "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/5ad5decde81a55b41fc547ba9346e48499fd8ddc",
+      "html_url": "https://github.com/msvrtan/broadway/commit/5ad5decde81a55b41fc547ba9346e48499fd8ddc"
+    },
+    {
+      "sha": "33d4d8ad596bb2892b6107619dc90dc4f3a6942f",
+      "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/33d4d8ad596bb2892b6107619dc90dc4f3a6942f",
+      "html_url": "https://github.com/msvrtan/broadway/commit/33d4d8ad596bb2892b6107619dc90dc4f3a6942f"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

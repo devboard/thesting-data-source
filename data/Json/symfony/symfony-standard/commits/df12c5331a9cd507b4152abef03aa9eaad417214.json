@@ -1,0 +1,33 @@
+{
+  "sha": "df12c5331a9cd507b4152abef03aa9eaad417214",
+  "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/df12c5331a9cd507b4152abef03aa9eaad417214",
+  "html_url": "https://github.com/symfony/symfony-standard/commit/df12c5331a9cd507b4152abef03aa9eaad417214",
+  "author": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2013-12-02T21:34:17Z"
+  },
+  "committer": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2013-12-02T21:34:17Z"
+  },
+  "tree": {
+    "sha": "dbf82e98baf294b467005a50d99cacdc8c1f34e6",
+    "url": "https://api.github.com/repos/symfony/symfony-standard/git/trees/dbf82e98baf294b467005a50d99cacdc8c1f34e6"
+  },
+  "message": "updated VENDORS for 2.2.11",
+  "parents": [
+    {
+      "sha": "1d8fa17cf95003e003dd69882c676c812ef3fa5e",
+      "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/1d8fa17cf95003e003dd69882c676c812ef3fa5e",
+      "html_url": "https://github.com/symfony/symfony-standard/commit/1d8fa17cf95003e003dd69882c676c812ef3fa5e"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/1fa2347ccd815938ad413f9e5e46aac4477b3d41"
       },
       "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/3a728bad4e7c9c94d63937d490dddf9e0fb8f7b7",
-      "comment_count": 0
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
     "url": "https://api.github.com/repos/symfony/symfony-docs/commits/3a728bad4e7c9c94d63937d490dddf9e0fb8f7b7",
     "html_url": "https://github.com/symfony/symfony-docs/commit/3a728bad4e7c9c94d63937d490dddf9e0fb8f7b7",
@@ -27,7 +33,7 @@
     "author": {
       "login": "wouterj",
       "id": 749025,
-      "avatar_url": "https://avatars.githubusercontent.com/u/749025?v=3",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/749025?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/wouterj",
       "html_url": "https://github.com/wouterj",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "wouterj",
       "id": 749025,
-      "avatar_url": "https://avatars.githubusercontent.com/u/749025?v=3",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/749025?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/wouterj",
       "html_url": "https://github.com/wouterj",
@@ -73,5 +79,16 @@
   "_links": {
     "self": "https://api.github.com/repos/symfony/symfony-docs/branches/2.3",
     "html": "https://github.com/symfony/symfony-docs/tree/2.3"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/symfony/symfony-docs/branches/2.3/protection"
 }

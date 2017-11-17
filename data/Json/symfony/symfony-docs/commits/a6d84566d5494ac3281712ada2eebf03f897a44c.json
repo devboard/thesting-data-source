@@ -1,0 +1,38 @@
+{
+  "sha": "a6d84566d5494ac3281712ada2eebf03f897a44c",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/a6d84566d5494ac3281712ada2eebf03f897a44c",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/a6d84566d5494ac3281712ada2eebf03f897a44c",
+  "author": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2013-08-26T13:25:39Z"
+  },
+  "committer": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2013-08-26T13:25:39Z"
+  },
+  "tree": {
+    "sha": "5a9a541cdfb5f9aad71c14eaa378b44f57086969",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/5a9a541cdfb5f9aad71c14eaa378b44f57086969"
+  },
+  "message": "Merge pull request #2936 from iamdto/fix-doctrine-xml-config\n\n[Reference][Configuration][Doctrine] Fix XML configuration",
+  "parents": [
+    {
+      "sha": "674f04d94ad254bf1676dd1c2f2501c9bda6a757",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/674f04d94ad254bf1676dd1c2f2501c9bda6a757",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/674f04d94ad254bf1676dd1c2f2501c9bda6a757"
+    },
+    {
+      "sha": "5c401290e2349bdcaef324acb0f25ec0a4f45129",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/5c401290e2349bdcaef324acb0f25ec0a4f45129",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/5c401290e2349bdcaef324acb0f25ec0a4f45129"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

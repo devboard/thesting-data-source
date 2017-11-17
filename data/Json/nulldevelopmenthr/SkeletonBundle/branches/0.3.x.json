@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/trees/1c97f6dcaf2344b0d71974e1ad6dc81f6d957a9b"
       },
       "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/commits/8d3d45390f6bee4860a061213ea9fb119085dce9",
-      "comment_count": 0
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
     "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/commits/8d3d45390f6bee4860a061213ea9fb119085dce9",
     "html_url": "https://github.com/nulldevelopmenthr/SkeletonBundle/commit/8d3d45390f6bee4860a061213ea9fb119085dce9",
@@ -27,7 +33,7 @@
     "author": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -73,5 +79,16 @@
   "_links": {
     "self": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/branches/0.3.x",
     "html": "https://github.com/nulldevelopmenthr/SkeletonBundle/tree/0.3.x"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/branches/0.3.x/protection"
 }

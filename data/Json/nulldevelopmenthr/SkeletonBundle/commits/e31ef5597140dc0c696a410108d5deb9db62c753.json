@@ -1,0 +1,33 @@
+{
+  "sha": "e31ef5597140dc0c696a410108d5deb9db62c753",
+  "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/commits/e31ef5597140dc0c696a410108d5deb9db62c753",
+  "html_url": "https://github.com/nulldevelopmenthr/SkeletonBundle/commit/e31ef5597140dc0c696a410108d5deb9db62c753",
+  "author": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2016-11-01T20:09:38Z"
+  },
+  "committer": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2016-11-01T20:09:38Z"
+  },
+  "tree": {
+    "sha": "7c6e7207cdfe6ad0d45b31f82bbde6c06e6a7c4b",
+    "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/trees/7c6e7207cdfe6ad0d45b31f82bbde6c06e6a7c4b"
+  },
+  "message": "Update composer.lock, using generator v0.2.3\n\nPackages updated:\n - nulldevelopmenthr/generator (v0.2.2 => v0.2.3)",
+  "parents": [
+    {
+      "sha": "b03fa0ec613bf428ae0a2a1a473667e47bce4fce",
+      "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/commits/b03fa0ec613bf428ae0a2a1a473667e47bce4fce",
+      "html_url": "https://github.com/nulldevelopmenthr/SkeletonBundle/commit/b03fa0ec613bf428ae0a2a1a473667e47bce4fce"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

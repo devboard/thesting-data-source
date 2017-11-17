@@ -1,0 +1,38 @@
+{
+  "sha": "747696a806a6e474eede862c308546ab32bacec9",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/747696a806a6e474eede862c308546ab32bacec9",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/747696a806a6e474eede862c308546ab32bacec9",
+  "author": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2015-03-02T16:58:32Z"
+  },
+  "committer": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2015-03-02T16:58:32Z"
+  },
+  "tree": {
+    "sha": "b57b4f0825f9194b9621d6f35ba6b632d07ea912",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/b57b4f0825f9194b9621d6f35ba6b632d07ea912"
+  },
+  "message": "Merge branch '2.3' into 2.5\n\n* 2.3:\n  Added February changelog\n  Minor fixes and added Fabric tool\n  Fixed case where definition service is an alias\n  Fixed grammar issues\n  Improved the text of the links\n  Updated the contents of the generic Deployment article\n  Fixed semantic error",
+  "parents": [
+    {
+      "sha": "ff44111a6aa741fb3b03e0b3296bf438eb561d62",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/ff44111a6aa741fb3b03e0b3296bf438eb561d62",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/ff44111a6aa741fb3b03e0b3296bf438eb561d62"
+    },
+    {
+      "sha": "6b66f034e2efbf488ac2192c3666e32998badc6d",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/6b66f034e2efbf488ac2192c3666e32998badc6d",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/6b66f034e2efbf488ac2192c3666e32998badc6d"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,7 +1,7 @@
 {
   "name": "25-suppress-warnings",
   "commit": {
-    "sha": "c2b02cbbb1dc51bf0db609fb3402c2e2537bdb71",
+    "sha": "f9e34dec772a6f75b6c009f40a50b65c53598a14",
     "commit": {
       "author": {
         "name": "Miro Svrtan",
@@ -11,23 +11,29 @@
       "committer": {
         "name": "Miro Svrtan",
         "email": "miro@mirosvrtan.me",
-        "date": "2016-10-31T19:08:07Z"
+        "date": "2017-07-12T18:38:43Z"
       },
       "message": "Removed SuppressWarning",
       "tree": {
-        "sha": "9e7af9cbc8cc5ae2aa44b31ae3b77cfc489f2562",
-        "url": "https://api.github.com/repos/msvrtan/generator/git/trees/9e7af9cbc8cc5ae2aa44b31ae3b77cfc489f2562"
+        "sha": "670820f5e1b49cdfc01cfbfe1f7e10e089e959f0",
+        "url": "https://api.github.com/repos/msvrtan/generator/git/trees/670820f5e1b49cdfc01cfbfe1f7e10e089e959f0"
       },
-      "url": "https://api.github.com/repos/msvrtan/generator/git/commits/c2b02cbbb1dc51bf0db609fb3402c2e2537bdb71",
-      "comment_count": 0
+      "url": "https://api.github.com/repos/msvrtan/generator/git/commits/f9e34dec772a6f75b6c009f40a50b65c53598a14",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
-    "url": "https://api.github.com/repos/msvrtan/generator/commits/c2b02cbbb1dc51bf0db609fb3402c2e2537bdb71",
-    "html_url": "https://github.com/msvrtan/generator/commit/c2b02cbbb1dc51bf0db609fb3402c2e2537bdb71",
-    "comments_url": "https://api.github.com/repos/msvrtan/generator/commits/c2b02cbbb1dc51bf0db609fb3402c2e2537bdb71/comments",
+    "url": "https://api.github.com/repos/msvrtan/generator/commits/f9e34dec772a6f75b6c009f40a50b65c53598a14",
+    "html_url": "https://github.com/msvrtan/generator/commit/f9e34dec772a6f75b6c009f40a50b65c53598a14",
+    "comments_url": "https://api.github.com/repos/msvrtan/generator/commits/f9e34dec772a6f75b6c009f40a50b65c53598a14/comments",
     "author": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -64,14 +70,25 @@
     },
     "parents": [
       {
-        "sha": "53b986f6ea9e1f9a131dbaaa663a0ab5e1aff0fe",
-        "url": "https://api.github.com/repos/msvrtan/generator/commits/53b986f6ea9e1f9a131dbaaa663a0ab5e1aff0fe",
-        "html_url": "https://github.com/msvrtan/generator/commit/53b986f6ea9e1f9a131dbaaa663a0ab5e1aff0fe"
+        "sha": "f67a2a1249736d923e52c22f2b952e3af8d416aa",
+        "url": "https://api.github.com/repos/msvrtan/generator/commits/f67a2a1249736d923e52c22f2b952e3af8d416aa",
+        "html_url": "https://github.com/msvrtan/generator/commit/f67a2a1249736d923e52c22f2b952e3af8d416aa"
       }
     ]
   },
   "_links": {
     "self": "https://api.github.com/repos/msvrtan/generator/branches/25-suppress-warnings",
     "html": "https://github.com/msvrtan/generator/tree/25-suppress-warnings"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/msvrtan/generator/branches/25-suppress-warnings/protection"
 }

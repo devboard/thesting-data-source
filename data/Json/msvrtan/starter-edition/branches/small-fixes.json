@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/msvrtan/starter-edition/git/trees/7e1a926c4f69aa704a6941b816ac320e55055ab1"
       },
       "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/82b85c78012c392380e76564b9bf6f2c98051a79",
-      "comment_count": 0
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
     "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/82b85c78012c392380e76564b9bf6f2c98051a79",
     "html_url": "https://github.com/msvrtan/starter-edition/commit/82b85c78012c392380e76564b9bf6f2c98051a79",
@@ -27,7 +33,7 @@
     "author": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -73,5 +79,16 @@
   "_links": {
     "self": "https://api.github.com/repos/msvrtan/starter-edition/branches/small-fixes",
     "html": "https://github.com/msvrtan/starter-edition/tree/small-fixes"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/msvrtan/starter-edition/branches/small-fixes/protection"
 }

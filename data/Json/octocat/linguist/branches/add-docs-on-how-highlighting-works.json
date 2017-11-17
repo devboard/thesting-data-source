@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/octocat/linguist/git/trees/15d6932dbe60c582c8b72ae7a6df175a9f481cef"
       },
       "url": "https://api.github.com/repos/octocat/linguist/git/commits/d29ec3bf51561c618498febce853c324de5a58a6",
-      "comment_count": 0
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
     "url": "https://api.github.com/repos/octocat/linguist/commits/d29ec3bf51561c618498febce853c324de5a58a6",
     "html_url": "https://github.com/octocat/linguist/commit/d29ec3bf51561c618498febce853c324de5a58a6",
@@ -27,7 +33,7 @@
     "author": {
       "login": "gjtorikian",
       "id": 64050,
-      "avatar_url": "https://avatars.githubusercontent.com/u/64050?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/64050?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/gjtorikian",
       "html_url": "https://github.com/gjtorikian",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "gjtorikian",
       "id": 64050,
-      "avatar_url": "https://avatars.githubusercontent.com/u/64050?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/64050?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/gjtorikian",
       "html_url": "https://github.com/gjtorikian",
@@ -73,5 +79,16 @@
   "_links": {
     "self": "https://api.github.com/repos/octocat/linguist/branches/add-docs-on-how-highlighting-works",
     "html": "https://github.com/octocat/linguist/tree/add-docs-on-how-highlighting-works"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/octocat/linguist/branches/add-docs-on-how-highlighting-works/protection"
 }

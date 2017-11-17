@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/symfony/symfony/git/trees/e2de1d83319f1b536eb4e60b071256f217398aad"
       },
       "url": "https://api.github.com/repos/symfony/symfony/git/commits/3968f00539be5e14bfcb681a3bb2429a7cacb349",
-      "comment_count": 0
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
     "url": "https://api.github.com/repos/symfony/symfony/commits/3968f00539be5e14bfcb681a3bb2429a7cacb349",
     "html_url": "https://github.com/symfony/symfony/commit/3968f00539be5e14bfcb681a3bb2429a7cacb349",
@@ -27,7 +33,7 @@
     "author": {
       "login": "fabpot",
       "id": 47313,
-      "avatar_url": "https://avatars.githubusercontent.com/u/47313?v=3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/fabpot",
       "html_url": "https://github.com/fabpot",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "fabpot",
       "id": 47313,
-      "avatar_url": "https://avatars.githubusercontent.com/u/47313?v=3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/fabpot",
       "html_url": "https://github.com/fabpot",
@@ -73,5 +79,16 @@
   "_links": {
     "self": "https://api.github.com/repos/symfony/symfony/branches/2.0",
     "html": "https://github.com/symfony/symfony/tree/2.0"
-  }
+  },
+  "protected": true,
+  "protection": {
+    "enabled": true,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/symfony/symfony/branches/2.0/protection"
 }

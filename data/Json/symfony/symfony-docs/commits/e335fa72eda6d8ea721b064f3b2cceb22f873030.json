@@ -1,0 +1,38 @@
+{
+  "sha": "e335fa72eda6d8ea721b064f3b2cceb22f873030",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/e335fa72eda6d8ea721b064f3b2cceb22f873030",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/e335fa72eda6d8ea721b064f3b2cceb22f873030",
+  "author": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2013-06-01T21:52:56Z"
+  },
+  "committer": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2013-06-01T21:52:56Z"
+  },
+  "tree": {
+    "sha": "24abbee42cea33b95692a0c820fcb5b4403a9cc6",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/24abbee42cea33b95692a0c820fcb5b4403a9cc6"
+  },
+  "message": "Merge pull request #2673 from J7mbo/patch-1\n\nMinor text fix",
+  "parents": [
+    {
+      "sha": "9aad6031f7977b78058f49309691405e12a2fe1f",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/9aad6031f7977b78058f49309691405e12a2fe1f",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/9aad6031f7977b78058f49309691405e12a2fe1f"
+    },
+    {
+      "sha": "86c06e95a5a3894c63f7b3c710e7ba0c83e6c117",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/86c06e95a5a3894c63f7b3c710e7ba0c83e6c117",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/86c06e95a5a3894c63f7b3c710e7ba0c83e6c117"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

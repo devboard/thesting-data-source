@@ -1,0 +1,33 @@
+{
+  "sha": "d4c8fb8a28e91f97a7e53428a365c0abbac36d3d",
+  "url": "https://api.github.com/repos/octocat/linguist/git/commits/d4c8fb8a28e91f97a7e53428a365c0abbac36d3d",
+  "html_url": "https://github.com/octocat/linguist/commit/d4c8fb8a28e91f97a7e53428a365c0abbac36d3d",
+  "author": {
+    "name": "Adam Roben",
+    "email": "adam@roben.org",
+    "date": "2015-02-12T15:11:53Z"
+  },
+  "committer": {
+    "name": "Adam Roben",
+    "email": "adam@roben.org",
+    "date": "2015-02-12T15:11:53Z"
+  },
+  "tree": {
+    "sha": "2bfedfc07845c231af2043ba0d3714317e132261",
+    "url": "https://api.github.com/repos/octocat/linguist/git/trees/2bfedfc07845c231af2043ba0d3714317e132261"
+  },
+  "message": "Add some linguist-documentation attributes",
+  "parents": [
+    {
+      "sha": "351c1cc8fd57340839bdb400d7812332af80e9bd",
+      "url": "https://api.github.com/repos/octocat/linguist/git/commits/351c1cc8fd57340839bdb400d7812332af80e9bd",
+      "html_url": "https://github.com/octocat/linguist/commit/351c1cc8fd57340839bdb400d7812332af80e9bd"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

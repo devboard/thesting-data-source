@@ -1,0 +1,38 @@
+{
+  "sha": "74ed0f2d7a049ef993be694bf0a8f2c4e3bb148c",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/74ed0f2d7a049ef993be694bf0a8f2c4e3bb148c",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/74ed0f2d7a049ef993be694bf0a8f2c4e3bb148c",
+  "author": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2013-07-01T02:15:11Z"
+  },
+  "committer": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2013-07-01T02:15:11Z"
+  },
+  "tree": {
+    "sha": "3ab0ba457c53872fb3e87b3a834621df73852774",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/3ab0ba457c53872fb3e87b3a834621df73852774"
+  },
+  "message": "Merge branch '2.1' into 2.2\n\nConflicts:\n\tcomponents/config/definition.rst",
+  "parents": [
+    {
+      "sha": "c10c405f8b4eea5b89d458b4bc8a950e46c7c83e",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/c10c405f8b4eea5b89d458b4bc8a950e46c7c83e",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/c10c405f8b4eea5b89d458b4bc8a950e46c7c83e"
+    },
+    {
+      "sha": "459b1a1e39af17ce46fb9e20aa1bb06a6bde6a7f",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/459b1a1e39af17ce46fb9e20aa1bb06a6bde6a7f",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/459b1a1e39af17ce46fb9e20aa1bb06a6bde6a7f"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

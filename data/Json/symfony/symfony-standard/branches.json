@@ -51,15 +51,15 @@
   {
     "name": "2.7",
     "commit": {
-      "sha": "f893a83c100a958622ebc73a06676b876ff462ef",
-      "url": "https://api.github.com/repos/symfony/symfony-standard/commits/f893a83c100a958622ebc73a06676b876ff462ef"
+      "sha": "b3e56cee0c15f0843f268421692d7ffada8b9736",
+      "url": "https://api.github.com/repos/symfony/symfony-standard/commits/b3e56cee0c15f0843f268421692d7ffada8b9736"
     }
   },
   {
     "name": "2.8",
     "commit": {
-      "sha": "cee3655495c945308594cd48f61c6c35279584bf",
-      "url": "https://api.github.com/repos/symfony/symfony-standard/commits/cee3655495c945308594cd48f61c6c35279584bf"
+      "sha": "1880a84cb0fe77fe3965103ae86171ae73391ab9",
+      "url": "https://api.github.com/repos/symfony/symfony-standard/commits/1880a84cb0fe77fe3965103ae86171ae73391ab9"
     }
   },
   {
@@ -79,29 +79,22 @@
   {
     "name": "3.2",
     "commit": {
-      "sha": "a702a2e13814c0b94d35567911c1e6af61ab3fc8",
-      "url": "https://api.github.com/repos/symfony/symfony-standard/commits/a702a2e13814c0b94d35567911c1e6af61ab3fc8"
+      "sha": "ef051d784508a4e3a33ced1d48d0221528c7c67d",
+      "url": "https://api.github.com/repos/symfony/symfony-standard/commits/ef051d784508a4e3a33ced1d48d0221528c7c67d"
     }
   },
   {
-    "name": "autowirable_controller",
+    "name": "3.3",
     "commit": {
-      "sha": "067859579ee1fdeb6fcc94e6cfe4a59c0addf262",
-      "url": "https://api.github.com/repos/symfony/symfony-standard/commits/067859579ee1fdeb6fcc94e6cfe4a59c0addf262"
+      "sha": "ef617ab1de7bd664a081516ac01aca462122edb8",
+      "url": "https://api.github.com/repos/symfony/symfony-standard/commits/ef617ab1de7bd664a081516ac01aca462122edb8"
     }
   },
   {
-    "name": "composer_sort",
+    "name": "3.4",
     "commit": {
-      "sha": "21f011219f3a89f84056384f8dfac6dd92b4e92b",
-      "url": "https://api.github.com/repos/symfony/symfony-standard/commits/21f011219f3a89f84056384f8dfac6dd92b4e92b"
-    }
-  },
-  {
-    "name": "master",
-    "commit": {
-      "sha": "d91e64276d91b5229ece5370679274d3d7c6899d",
-      "url": "https://api.github.com/repos/symfony/symfony-standard/commits/d91e64276d91b5229ece5370679274d3d7c6899d"
+      "sha": "1b7d9ed611da57bb823de21e897841f0261ac5af",
+      "url": "https://api.github.com/repos/symfony/symfony-standard/commits/1b7d9ed611da57bb823de21e897841f0261ac5af"
     }
   }
 ]

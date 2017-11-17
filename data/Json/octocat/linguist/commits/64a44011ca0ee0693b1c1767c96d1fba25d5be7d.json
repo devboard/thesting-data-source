@@ -1,0 +1,38 @@
+{
+  "sha": "64a44011ca0ee0693b1c1767c96d1fba25d5be7d",
+  "url": "https://api.github.com/repos/octocat/linguist/git/commits/64a44011ca0ee0693b1c1767c96d1fba25d5be7d",
+  "html_url": "https://github.com/octocat/linguist/commit/64a44011ca0ee0693b1c1767c96d1fba25d5be7d",
+  "author": {
+    "name": "The Octocat",
+    "email": "octocat@nowhere.com",
+    "date": "2016-08-02T19:06:17Z"
+  },
+  "committer": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "2016-08-02T19:06:17Z"
+  },
+  "tree": {
+    "sha": "78587fb72a2d486eb7af5f8cd0f65e07fc011c04",
+    "url": "https://api.github.com/repos/octocat/linguist/git/trees/78587fb72a2d486eb7af5f8cd0f65e07fc011c04"
+  },
+  "message": "Merge pull request #1 from jmarlena/patch-1\n\nAdd comment to travis.yml",
+  "parents": [
+    {
+      "sha": "1466b70f10a31b7e75f7e134e0904257eea38efb",
+      "url": "https://api.github.com/repos/octocat/linguist/git/commits/1466b70f10a31b7e75f7e134e0904257eea38efb",
+      "html_url": "https://github.com/octocat/linguist/commit/1466b70f10a31b7e75f7e134e0904257eea38efb"
+    },
+    {
+      "sha": "d43f43c2b543928bdd94f5de137104499017828b",
+      "url": "https://api.github.com/repos/octocat/linguist/git/commits/d43f43c2b543928bdd94f5de137104499017828b",
+      "html_url": "https://github.com/octocat/linguist/commit/d43f43c2b543928bdd94f5de137104499017828b"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

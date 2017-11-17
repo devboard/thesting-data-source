@@ -1,0 +1,33 @@
+{
+  "sha": "72551a4d08ee6b90d4fde5813023cfbda401515a",
+  "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/72551a4d08ee6b90d4fde5813023cfbda401515a",
+  "html_url": "https://github.com/symfony/symfony-standard/commit/72551a4d08ee6b90d4fde5813023cfbda401515a",
+  "author": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2017-10-18T22:15:47Z"
+  },
+  "committer": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2017-10-18T22:33:45Z"
+  },
+  "tree": {
+    "sha": "637ab4c5e72014f64c3ca1f9b201ea82ae834033",
+    "url": "https://api.github.com/repos/symfony/symfony-standard/git/trees/637ab4c5e72014f64c3ca1f9b201ea82ae834033"
+  },
+  "message": "bumped deps",
+  "parents": [
+    {
+      "sha": "c1aab56c84e8fb21c0a86c1fb8a6cc49e59a3616",
+      "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/c1aab56c84e8fb21c0a86c1fb8a6cc49e59a3616",
+      "html_url": "https://github.com/symfony/symfony-standard/commit/c1aab56c84e8fb21c0a86c1fb8a6cc49e59a3616"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

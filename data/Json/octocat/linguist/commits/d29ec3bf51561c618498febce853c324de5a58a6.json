@@ -1,0 +1,33 @@
+{
+  "sha": "d29ec3bf51561c618498febce853c324de5a58a6",
+  "url": "https://api.github.com/repos/octocat/linguist/git/commits/d29ec3bf51561c618498febce853c324de5a58a6",
+  "html_url": "https://github.com/octocat/linguist/commit/d29ec3bf51561c618498febce853c324de5a58a6",
+  "author": {
+    "name": "Garen Torikian",
+    "email": "gjtorikian@gmail.com",
+    "date": "2015-04-22T01:44:57Z"
+  },
+  "committer": {
+    "name": "Garen Torikian",
+    "email": "gjtorikian@gmail.com",
+    "date": "2015-04-22T01:44:57Z"
+  },
+  "tree": {
+    "sha": "15d6932dbe60c582c8b72ae7a6df175a9f481cef",
+    "url": "https://api.github.com/repos/octocat/linguist/git/trees/15d6932dbe60c582c8b72ae7a6df175a9f481cef"
+  },
+  "message": "Indicate how we come at the highlighting word",
+  "parents": [
+    {
+      "sha": "f4289a235b0190b93356917d3c77a2d4d5683503",
+      "url": "https://api.github.com/repos/octocat/linguist/git/commits/f4289a235b0190b93356917d3c77a2d4d5683503",
+      "html_url": "https://github.com/octocat/linguist/commit/f4289a235b0190b93356917d3c77a2d4d5683503"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "sha": "88e66db9d83cb81d84fc3c0e9365678c79f17414",
+  "url": "https://api.github.com/repos/symfony/symfony/git/commits/88e66db9d83cb81d84fc3c0e9365678c79f17414",
+  "html_url": "https://github.com/symfony/symfony/commit/88e66db9d83cb81d84fc3c0e9365678c79f17414",
+  "author": {
+    "name": "Fabien Potencier",
+    "email": "fabien@potencier.org",
+    "date": "2017-10-19T01:37:02Z"
+  },
+  "committer": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "2017-10-19T01:37:02Z"
+  },
+  "tree": {
+    "sha": "1c3f095a4f8c4f2b86182fb66fbc8e5bb3de4746",
+    "url": "https://api.github.com/repos/symfony/symfony/git/trees/1c3f095a4f8c4f2b86182fb66fbc8e5bb3de4746"
+  },
+  "message": "Merge pull request #24612 from fabpot/release-4.0.0-BETA1\n\nreleased v4.0.0-BETA1",
+  "parents": [
+    {
+      "sha": "14de848cc49e91fe4ace41015d1b10754fb4603d",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/14de848cc49e91fe4ace41015d1b10754fb4603d",
+      "html_url": "https://github.com/symfony/symfony/commit/14de848cc49e91fe4ace41015d1b10754fb4603d"
+    },
+    {
+      "sha": "748338874c01674ed3522c709f8ce518708f91bd",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/748338874c01674ed3522c709f8ce518708f91bd",
+      "html_url": "https://github.com/symfony/symfony/commit/748338874c01674ed3522c709f8ce518708f91bd"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

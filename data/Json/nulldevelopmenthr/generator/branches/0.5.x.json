@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/trees/c1013f319d3226413c48ca90586d39b5f98cfe10"
       },
       "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/73cecef15e1d364d591fec95d3c819003182fdcd",
-      "comment_count": 0
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
     "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/73cecef15e1d364d591fec95d3c819003182fdcd",
     "html_url": "https://github.com/nulldevelopmenthr/generator/commit/73cecef15e1d364d591fec95d3c819003182fdcd",
@@ -27,7 +33,7 @@
     "author": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -73,5 +79,16 @@
   "_links": {
     "self": "https://api.github.com/repos/nulldevelopmenthr/generator/branches/0.5.x",
     "html": "https://github.com/nulldevelopmenthr/generator/tree/0.5.x"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/nulldevelopmenthr/generator/branches/0.5.x/protection"
 }

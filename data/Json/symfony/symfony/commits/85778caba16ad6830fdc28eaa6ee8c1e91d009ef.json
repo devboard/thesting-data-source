@@ -1,0 +1,33 @@
+{
+  "sha": "85778caba16ad6830fdc28eaa6ee8c1e91d009ef",
+  "url": "https://api.github.com/repos/symfony/symfony/git/commits/85778caba16ad6830fdc28eaa6ee8c1e91d009ef",
+  "html_url": "https://github.com/symfony/symfony/commit/85778caba16ad6830fdc28eaa6ee8c1e91d009ef",
+  "author": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2011-03-21T10:29:20Z"
+  },
+  "committer": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2011-03-21T10:29:20Z"
+  },
+  "tree": {
+    "sha": "d849872ea603882355ae1520b7d3193a37a48898",
+    "url": "https://api.github.com/repos/symfony/symfony/git/trees/d849872ea603882355ae1520b7d3193a37a48898"
+  },
+  "message": "[FrameworkBundle] added --without-debug option to cache:clear as the debug flag value can be different from the one used for the command execution (think generating the prod cache but still with debug information when running the command)",
+  "parents": [
+    {
+      "sha": "e4a636a8851af4330a0ebafbf642166c2e8cb5d7",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/e4a636a8851af4330a0ebafbf642166c2e8cb5d7",
+      "html_url": "https://github.com/symfony/symfony/commit/e4a636a8851af4330a0ebafbf642166c2e8cb5d7"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/msvrtan/user-edition/git/trees/b16af4f4ce7f1c3ea297f9ecea4d67f127f9ed81"
       },
       "url": "https://api.github.com/repos/msvrtan/user-edition/git/commits/1e93967775f3cf52b6473900441c8edd8a68828a",
-      "comment_count": 0
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
     "url": "https://api.github.com/repos/msvrtan/user-edition/commits/1e93967775f3cf52b6473900441c8edd8a68828a",
     "html_url": "https://github.com/msvrtan/user-edition/commit/1e93967775f3cf52b6473900441c8edd8a68828a",
@@ -27,7 +33,7 @@
     "author": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -73,5 +79,16 @@
   "_links": {
     "self": "https://api.github.com/repos/msvrtan/user-edition/branches/master",
     "html": "https://github.com/msvrtan/user-edition/tree/master"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/msvrtan/user-edition/branches/master/protection"
 }

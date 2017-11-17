@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/octocat/octocat.github.io/git/trees/3fafbb15b5ef6b944e738a0272ddb8b3a4088b0b"
       },
       "url": "https://api.github.com/repos/octocat/octocat.github.io/git/commits/3a9796cf19902af0f7e677391b340f1ae4128433",
-      "comment_count": 0
+      "comment_count": 1,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
     "url": "https://api.github.com/repos/octocat/octocat.github.io/commits/3a9796cf19902af0f7e677391b340f1ae4128433",
     "html_url": "https://github.com/octocat/octocat.github.io/commit/3a9796cf19902af0f7e677391b340f1ae4128433",
@@ -27,7 +33,7 @@
     "author": {
       "login": "octocat",
       "id": 583231,
-      "avatar_url": "https://avatars.githubusercontent.com/u/583231?v=3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/583231?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/octocat",
       "html_url": "https://github.com/octocat",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "octocat",
       "id": 583231,
-      "avatar_url": "https://avatars.githubusercontent.com/u/583231?v=3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/583231?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/octocat",
       "html_url": "https://github.com/octocat",
@@ -73,5 +79,16 @@
   "_links": {
     "self": "https://api.github.com/repos/octocat/octocat.github.io/branches/master",
     "html": "https://github.com/octocat/octocat.github.io/tree/master"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/octocat/octocat.github.io/branches/master/protection"
 }

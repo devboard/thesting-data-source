@@ -1,0 +1,33 @@
+{
+  "sha": "370a455f0e679243b97b66b38a120a3e33bfd1fb",
+  "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/git/commits/370a455f0e679243b97b66b38a120a3e33bfd1fb",
+  "html_url": "https://github.com/msvrtan/skeleton-sandbox/commit/370a455f0e679243b97b66b38a120a3e33bfd1fb",
+  "author": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2016-11-12T12:35:09Z"
+  },
+  "committer": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2016-11-12T12:35:09Z"
+  },
+  "tree": {
+    "sha": "000de3e0f614dd1002f2b5ece6b89acae7fa797e",
+    "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/git/trees/000de3e0f614dd1002f2b5ece6b89acae7fa797e"
+  },
+  "message": "Update composer.lock, package updates\n\n - paragonie/random_compat (v2.0.3 => v2.0.4)\n - behat/behat (v3.2.1 => v3.2.2)\n - doctrine/data-fixtures (v1.2.1 => v1.2.2)\n - symfony/monolog-bundle (2.11.1 => 2.12.0)\n - sensio/generator-bundle (v3.0.11 => v3.1.1)\n - ocramius/proxy-manager (2.0.3 => 2.0.4)",
+  "parents": [
+    {
+      "sha": "905b94d3c8eda452f0945ce173e22b63be8c97a6",
+      "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/git/commits/905b94d3c8eda452f0945ce173e22b63be8c97a6",
+      "html_url": "https://github.com/msvrtan/skeleton-sandbox/commit/905b94d3c8eda452f0945ce173e22b63be8c97a6"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

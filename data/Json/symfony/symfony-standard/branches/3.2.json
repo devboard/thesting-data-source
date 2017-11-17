@@ -1,33 +1,39 @@
 {
   "name": "3.2",
   "commit": {
-    "sha": "a702a2e13814c0b94d35567911c1e6af61ab3fc8",
+    "sha": "ef051d784508a4e3a33ced1d48d0221528c7c67d",
     "commit": {
       "author": {
         "name": "Fabien Potencier",
         "email": "fabien.potencier@gmail.com",
-        "date": "2017-04-05T13:09:03Z"
+        "date": "2017-08-01T10:10:00Z"
       },
       "committer": {
         "name": "Fabien Potencier",
         "email": "fabien.potencier@gmail.com",
-        "date": "2017-04-05T13:09:03Z"
+        "date": "2017-08-01T10:10:00Z"
       },
-      "message": "updated VENDORS for 3.2.7",
+      "message": "updated VENDORS for 3.2.13",
       "tree": {
-        "sha": "229910eeb78e76f19b4ecaf713c518f873c27b26",
-        "url": "https://api.github.com/repos/symfony/symfony-standard/git/trees/229910eeb78e76f19b4ecaf713c518f873c27b26"
+        "sha": "c4e3b84ae9aaebe2ca1e489497dc61204fcb8255",
+        "url": "https://api.github.com/repos/symfony/symfony-standard/git/trees/c4e3b84ae9aaebe2ca1e489497dc61204fcb8255"
       },
-      "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/a702a2e13814c0b94d35567911c1e6af61ab3fc8",
-      "comment_count": 0
+      "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/ef051d784508a4e3a33ced1d48d0221528c7c67d",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
-    "url": "https://api.github.com/repos/symfony/symfony-standard/commits/a702a2e13814c0b94d35567911c1e6af61ab3fc8",
-    "html_url": "https://github.com/symfony/symfony-standard/commit/a702a2e13814c0b94d35567911c1e6af61ab3fc8",
-    "comments_url": "https://api.github.com/repos/symfony/symfony-standard/commits/a702a2e13814c0b94d35567911c1e6af61ab3fc8/comments",
+    "url": "https://api.github.com/repos/symfony/symfony-standard/commits/ef051d784508a4e3a33ced1d48d0221528c7c67d",
+    "html_url": "https://github.com/symfony/symfony-standard/commit/ef051d784508a4e3a33ced1d48d0221528c7c67d",
+    "comments_url": "https://api.github.com/repos/symfony/symfony-standard/commits/ef051d784508a4e3a33ced1d48d0221528c7c67d/comments",
     "author": {
       "login": "fabpot",
       "id": 47313,
-      "avatar_url": "https://avatars.githubusercontent.com/u/47313?v=3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/fabpot",
       "html_url": "https://github.com/fabpot",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "fabpot",
       "id": 47313,
-      "avatar_url": "https://avatars.githubusercontent.com/u/47313?v=3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/fabpot",
       "html_url": "https://github.com/fabpot",
@@ -64,14 +70,25 @@
     },
     "parents": [
       {
-        "sha": "4b881562122a718e82f69683607b03b3f9b9266c",
-        "url": "https://api.github.com/repos/symfony/symfony-standard/commits/4b881562122a718e82f69683607b03b3f9b9266c",
-        "html_url": "https://github.com/symfony/symfony-standard/commit/4b881562122a718e82f69683607b03b3f9b9266c"
+        "sha": "a6681633fa8010e2aca14b3ca502f992b78e9512",
+        "url": "https://api.github.com/repos/symfony/symfony-standard/commits/a6681633fa8010e2aca14b3ca502f992b78e9512",
+        "html_url": "https://github.com/symfony/symfony-standard/commit/a6681633fa8010e2aca14b3ca502f992b78e9512"
       }
     ]
   },
   "_links": {
     "self": "https://api.github.com/repos/symfony/symfony-standard/branches/3.2",
     "html": "https://github.com/symfony/symfony-standard/tree/3.2"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/symfony/symfony-standard/branches/3.2/protection"
 }

@@ -1,33 +1,39 @@
 {
   "name": "dev",
   "commit": {
-    "sha": "2857614d8441611553d4e5567e480fb964496857",
+    "sha": "291e517e551cc18d3d2a2aa7d9cce22bdafcddac",
     "commit": {
       "author": {
         "name": "Miro Svrtan",
-        "email": "msvrtan@users.noreply.github.com",
-        "date": "2016-10-23T12:15:24Z"
+        "email": "miro@mirosvrtan.me",
+        "date": "2017-08-16T15:02:36Z"
       },
       "committer": {
-        "name": "GitHub",
-        "email": "noreply@github.com",
-        "date": "2016-10-23T12:15:24Z"
+        "name": "Miro Svrtan",
+        "email": "msvrtan@users.noreply.github.com",
+        "date": "2017-08-16T16:41:18Z"
       },
-      "message": "Merge pull request #36 from msvrtan/small-fixes2\n\n[starter-edition] Test database is on different docker container",
+      "message": "Update composer.lock for ugprading phpstan",
       "tree": {
-        "sha": "2d2ceb12d4355bbfa28baebcbb26550652245a23",
-        "url": "https://api.github.com/repos/msvrtan/starter-edition/git/trees/2d2ceb12d4355bbfa28baebcbb26550652245a23"
+        "sha": "e39387d3c3e8c2e8719640b967b7b1fb1ab98308",
+        "url": "https://api.github.com/repos/msvrtan/starter-edition/git/trees/e39387d3c3e8c2e8719640b967b7b1fb1ab98308"
       },
-      "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/2857614d8441611553d4e5567e480fb964496857",
-      "comment_count": 0
+      "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/291e517e551cc18d3d2a2aa7d9cce22bdafcddac",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
-    "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/2857614d8441611553d4e5567e480fb964496857",
-    "html_url": "https://github.com/msvrtan/starter-edition/commit/2857614d8441611553d4e5567e480fb964496857",
-    "comments_url": "https://api.github.com/repos/msvrtan/starter-edition/commits/2857614d8441611553d4e5567e480fb964496857/comments",
+    "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/291e517e551cc18d3d2a2aa7d9cce22bdafcddac",
+    "html_url": "https://github.com/msvrtan/starter-edition/commit/291e517e551cc18d3d2a2aa7d9cce22bdafcddac",
+    "comments_url": "https://api.github.com/repos/msvrtan/starter-edition/commits/291e517e551cc18d3d2a2aa7d9cce22bdafcddac/comments",
     "author": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -44,39 +50,45 @@
       "site_admin": false
     },
     "committer": {
-      "login": "web-flow",
-      "id": 19864447,
-      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=3",
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/web-flow",
-      "html_url": "https://github.com/web-flow",
-      "followers_url": "https://api.github.com/users/web-flow/followers",
-      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
-      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
-      "organizations_url": "https://api.github.com/users/web-flow/orgs",
-      "repos_url": "https://api.github.com/users/web-flow/repos",
-      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
       "type": "User",
       "site_admin": false
     },
     "parents": [
       {
-        "sha": "5789089dcd5d9e580a811eb85ce4ca09e44c416d",
-        "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/5789089dcd5d9e580a811eb85ce4ca09e44c416d",
-        "html_url": "https://github.com/msvrtan/starter-edition/commit/5789089dcd5d9e580a811eb85ce4ca09e44c416d"
-      },
-      {
-        "sha": "a77c5076364d68ff73456e68870e0500a8277c94",
-        "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/a77c5076364d68ff73456e68870e0500a8277c94",
-        "html_url": "https://github.com/msvrtan/starter-edition/commit/a77c5076364d68ff73456e68870e0500a8277c94"
+        "sha": "080717ec51f869ed9d17fe92b7fa920f214891e3",
+        "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/080717ec51f869ed9d17fe92b7fa920f214891e3",
+        "html_url": "https://github.com/msvrtan/starter-edition/commit/080717ec51f869ed9d17fe92b7fa920f214891e3"
       }
     ]
   },
   "_links": {
     "self": "https://api.github.com/repos/msvrtan/starter-edition/branches/dev",
     "html": "https://github.com/msvrtan/starter-edition/tree/dev"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/msvrtan/starter-edition/branches/dev/protection"
 }

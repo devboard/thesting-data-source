@@ -1,0 +1,99 @@
+{
+  "name": "3.3",
+  "commit": {
+    "sha": "433ba4fb1c38d420a8476091b985b963d568ec69",
+    "commit": {
+      "author": {
+        "name": "Ryan Weaver",
+        "email": "ryan@thatsquality.com",
+        "date": "2017-11-17T14:26:25Z"
+      },
+      "committer": {
+        "name": "Ryan Weaver",
+        "email": "ryan@thatsquality.com",
+        "date": "2017-11-17T14:26:25Z"
+      },
+      "message": "minor #8690 Minor typos in session articles (javiereguiluz)\n\nThis PR was merged into the 3.3 branch.\n\nDiscussion\n----------\n\nMinor typos in session articles\n\nCommits\n-------\n\n925267dbc Minor typos in session articles",
+      "tree": {
+        "sha": "c354d5c74abf1b78ae2222071ce156c13b04501a",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/c354d5c74abf1b78ae2222071ce156c13b04501a"
+      },
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/433ba4fb1c38d420a8476091b985b963d568ec69",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/433ba4fb1c38d420a8476091b985b963d568ec69",
+    "html_url": "https://github.com/symfony/symfony-docs/commit/433ba4fb1c38d420a8476091b985b963d568ec69",
+    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/433ba4fb1c38d420a8476091b985b963d568ec69/comments",
+    "author": {
+      "login": "weaverryan",
+      "id": 121003,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/121003?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/weaverryan",
+      "html_url": "https://github.com/weaverryan",
+      "followers_url": "https://api.github.com/users/weaverryan/followers",
+      "following_url": "https://api.github.com/users/weaverryan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/weaverryan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/weaverryan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/weaverryan/subscriptions",
+      "organizations_url": "https://api.github.com/users/weaverryan/orgs",
+      "repos_url": "https://api.github.com/users/weaverryan/repos",
+      "events_url": "https://api.github.com/users/weaverryan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/weaverryan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "weaverryan",
+      "id": 121003,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/121003?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/weaverryan",
+      "html_url": "https://github.com/weaverryan",
+      "followers_url": "https://api.github.com/users/weaverryan/followers",
+      "following_url": "https://api.github.com/users/weaverryan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/weaverryan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/weaverryan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/weaverryan/subscriptions",
+      "organizations_url": "https://api.github.com/users/weaverryan/orgs",
+      "repos_url": "https://api.github.com/users/weaverryan/repos",
+      "events_url": "https://api.github.com/users/weaverryan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/weaverryan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "d464e84efb0a67b56ca8a1d555c1bca407458c7c",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/d464e84efb0a67b56ca8a1d555c1bca407458c7c",
+        "html_url": "https://github.com/symfony/symfony-docs/commit/d464e84efb0a67b56ca8a1d555c1bca407458c7c"
+      },
+      {
+        "sha": "925267dbc84c260d21761cd15cde422ac6e5c23f",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/925267dbc84c260d21761cd15cde422ac6e5c23f",
+        "html_url": "https://github.com/symfony/symfony-docs/commit/925267dbc84c260d21761cd15cde422ac6e5c23f"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/symfony/symfony-docs/branches/3.3",
+    "html": "https://github.com/symfony/symfony-docs/tree/3.3"
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/symfony/symfony-docs/branches/3.3/protection"
+}

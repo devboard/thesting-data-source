@@ -1,0 +1,94 @@
+{
+  "name": "something",
+  "commit": {
+    "sha": "fa7d603fef76609e309fcacb77eecb98d8efee6b",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2017-07-13T20:55:05Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2017-07-13T21:14:36Z"
+      },
+      "message": "fix",
+      "tree": {
+        "sha": "9918f124e5f2fa2f01ad9e5093c134fa52c3d8cb",
+        "url": "https://api.github.com/repos/msvrtan/generator/git/trees/9918f124e5f2fa2f01ad9e5093c134fa52c3d8cb"
+      },
+      "url": "https://api.github.com/repos/msvrtan/generator/git/commits/fa7d603fef76609e309fcacb77eecb98d8efee6b",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/msvrtan/generator/commits/fa7d603fef76609e309fcacb77eecb98d8efee6b",
+    "html_url": "https://github.com/msvrtan/generator/commit/fa7d603fef76609e309fcacb77eecb98d8efee6b",
+    "comments_url": "https://api.github.com/repos/msvrtan/generator/commits/fa7d603fef76609e309fcacb77eecb98d8efee6b/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6d1497b9f9a726fd372234d70fb5991b45d9914f",
+        "url": "https://api.github.com/repos/msvrtan/generator/commits/6d1497b9f9a726fd372234d70fb5991b45d9914f",
+        "html_url": "https://github.com/msvrtan/generator/commit/6d1497b9f9a726fd372234d70fb5991b45d9914f"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/msvrtan/generator/branches/something",
+    "html": "https://github.com/msvrtan/generator/tree/something"
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/msvrtan/generator/branches/something/protection"
+}

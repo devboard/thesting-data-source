@@ -1,0 +1,38 @@
+{
+  "sha": "a5a40d700f323a43ff39b075d5b94507a763544e",
+  "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/a5a40d700f323a43ff39b075d5b94507a763544e",
+  "html_url": "https://github.com/msvrtan/broadway/commit/a5a40d700f323a43ff39b075d5b94507a763544e",
+  "author": {
+    "name": "Fritsjan",
+    "email": "fritsjanb@users.noreply.github.com",
+    "date": "2015-07-27T15:00:41Z"
+  },
+  "committer": {
+    "name": "Fritsjan",
+    "email": "fritsjanb@users.noreply.github.com",
+    "date": "2015-07-27T15:00:41Z"
+  },
+  "tree": {
+    "sha": "716650fd71125af5307e2dcd3b38203074042821",
+    "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/716650fd71125af5307e2dcd3b38203074042821"
+  },
+  "message": "Merge pull request #198 from wjzijderveld/fix-mongo-requirement\n\nBugfix: Avoid tagging the saga manager when no sagas are registered",
+  "parents": [
+    {
+      "sha": "c8fbc3f24bf263de7ad377a3c26aaa720c8bf3c7",
+      "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/c8fbc3f24bf263de7ad377a3c26aaa720c8bf3c7",
+      "html_url": "https://github.com/msvrtan/broadway/commit/c8fbc3f24bf263de7ad377a3c26aaa720c8bf3c7"
+    },
+    {
+      "sha": "68508f6b7b996c29f0ea44dc2a89c3596cd6046b",
+      "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/68508f6b7b996c29f0ea44dc2a89c3596cd6046b",
+      "html_url": "https://github.com/msvrtan/broadway/commit/68508f6b7b996c29f0ea44dc2a89c3596cd6046b"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

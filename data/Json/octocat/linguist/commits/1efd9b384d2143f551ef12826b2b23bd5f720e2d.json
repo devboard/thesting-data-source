@@ -1,0 +1,38 @@
+{
+  "sha": "1efd9b384d2143f551ef12826b2b23bd5f720e2d",
+  "url": "https://api.github.com/repos/octocat/linguist/git/commits/1efd9b384d2143f551ef12826b2b23bd5f720e2d",
+  "html_url": "https://github.com/octocat/linguist/commit/1efd9b384d2143f551ef12826b2b23bd5f720e2d",
+  "author": {
+    "name": "Arfon Smith",
+    "email": "arfon@users.noreply.github.com",
+    "date": "2016-03-17T04:46:29Z"
+  },
+  "committer": {
+    "name": "Arfon Smith",
+    "email": "arfon@users.noreply.github.com",
+    "date": "2016-03-17T04:46:29Z"
+  },
+  "tree": {
+    "sha": "656f45bbdc6df50cc74ecd92f2bba23563bc9de1",
+    "url": "https://api.github.com/repos/octocat/linguist/git/trees/656f45bbdc6df50cc74ecd92f2bba23563bc9de1"
+  },
+  "message": "Merge pull request #2880 from github/cut-release-v4.8.0\n\nv4.8.0 release",
+  "parents": [
+    {
+      "sha": "1efd4c83f93ae16b2b67cb7a25008cd591b39aee",
+      "url": "https://api.github.com/repos/octocat/linguist/git/commits/1efd4c83f93ae16b2b67cb7a25008cd591b39aee",
+      "html_url": "https://github.com/octocat/linguist/commit/1efd4c83f93ae16b2b67cb7a25008cd591b39aee"
+    },
+    {
+      "sha": "c1e71dc215a72bce5661be978cefdc85b03bae61",
+      "url": "https://api.github.com/repos/octocat/linguist/git/commits/c1e71dc215a72bce5661be978cefdc85b03bae61",
+      "html_url": "https://github.com/octocat/linguist/commit/c1e71dc215a72bce5661be978cefdc85b03bae61"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

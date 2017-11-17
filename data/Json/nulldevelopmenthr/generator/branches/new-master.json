@@ -1,0 +1,94 @@
+{
+  "name": "new-master",
+  "commit": {
+    "sha": "7f981004a777d2c67865a6a91d40ab2fca6af4c1",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2017-07-13T20:55:05Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2017-07-13T21:15:02Z"
+      },
+      "message": "Fix paths in config",
+      "tree": {
+        "sha": "a9297150f4e30d94979b86a91066803852de16c9",
+        "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/trees/a9297150f4e30d94979b86a91066803852de16c9"
+      },
+      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/7f981004a777d2c67865a6a91d40ab2fca6af4c1",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/7f981004a777d2c67865a6a91d40ab2fca6af4c1",
+    "html_url": "https://github.com/nulldevelopmenthr/generator/commit/7f981004a777d2c67865a6a91d40ab2fca6af4c1",
+    "comments_url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/7f981004a777d2c67865a6a91d40ab2fca6af4c1/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e2932a9af37298cd4af4f2afaff215a8156f0162",
+        "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/e2932a9af37298cd4af4f2afaff215a8156f0162",
+        "html_url": "https://github.com/nulldevelopmenthr/generator/commit/e2932a9af37298cd4af4f2afaff215a8156f0162"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/nulldevelopmenthr/generator/branches/new-master",
+    "html": "https://github.com/nulldevelopmenthr/generator/tree/new-master"
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/nulldevelopmenthr/generator/branches/new-master/protection"
+}
