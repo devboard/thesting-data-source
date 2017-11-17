@@ -1,9 +1,1 @@
-{
-  "ref": "refs/tags/v3.3.11",
-  "url": "https://api.github.com/repos/symfony/symfony/git/refs/tags/v3.3.11",
-  "object": {
-    "sha": "5a6ae2b17aa8ffa2df36120b716a9216e364a0ba",
-    "type": "tag",
-    "url": "https://api.github.com/repos/symfony/symfony/git/tags/5a6ae2b17aa8ffa2df36120b716a9216e364a0ba"
-  }
-}
+{"name":"v3.3.11","zipball_url":"https:\/\/api.github.com\/repos\/symfony\/symfony\/zipball\/v3.3.11","tarball_url":"https:\/\/api.github.com\/repos\/symfony\/symfony\/tarball\/v3.3.11","commit":{"sha":"97e753fa58c6ab8751e5f77995d1ed7737a99f1b","url":"https:\/\/api.github.com\/repos\/symfony\/symfony\/commits\/97e753fa58c6ab8751e5f77995d1ed7737a99f1b"}}

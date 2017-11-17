@@ -1,9 +1,1 @@
-{
-  "ref": "refs/tags/v0.4.0",
-  "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/refs/tags/v0.4.0",
-  "object": {
-    "sha": "f5b5ab44654b28526cc2069f0cea69a008c6518d",
-    "type": "tag",
-    "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/tags/f5b5ab44654b28526cc2069f0cea69a008c6518d"
-  }
-}
+{"name":"v0.4.0","zipball_url":"https:\/\/api.github.com\/repos\/nulldevelopmenthr\/SkeletonBundle\/zipball\/v0.4.0","tarball_url":"https:\/\/api.github.com\/repos\/nulldevelopmenthr\/SkeletonBundle\/tarball\/v0.4.0","commit":{"sha":"ecec0a86e89de02e6549117ecd48cc25a2e7f1f3","url":"https:\/\/api.github.com\/repos\/nulldevelopmenthr\/SkeletonBundle\/commits\/ecec0a86e89de02e6549117ecd48cc25a2e7f1f3"}}
