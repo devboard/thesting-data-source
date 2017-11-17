@@ -1,9 +1,1 @@
-{
-  "ref": "refs/tags/vPR11",
-  "url": "https://api.github.com/repos/symfony/symfony/git/refs/tags/vPR11",
-  "object": {
-    "sha": "498e43a0103ff43f0e11193e40088c57a1c78e43",
-    "type": "tag",
-    "url": "https://api.github.com/repos/symfony/symfony/git/tags/498e43a0103ff43f0e11193e40088c57a1c78e43"
-  }
-}
+{"name":"vPR11","zipball_url":"https:\/\/api.github.com\/repos\/symfony\/symfony\/zipball\/vPR11","tarball_url":"https:\/\/api.github.com\/repos\/symfony\/symfony\/tarball\/vPR11","commit":{"sha":"d873f21f69c9d4706658b4d938ad584743d44dc3","url":"https:\/\/api.github.com\/repos\/symfony\/symfony\/commits\/d873f21f69c9d4706658b4d938ad584743d44dc3"}}

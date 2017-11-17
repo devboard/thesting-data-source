@@ -1,9 +1,1 @@
-{
-  "ref": "refs/tags/v0.5.0",
-  "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/refs/tags/v0.5.0",
-  "object": {
-    "sha": "a27a301f9c0f6d7f1b4532c314eb07ade75134d1",
-    "type": "tag",
-    "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/tags/a27a301f9c0f6d7f1b4532c314eb07ade75134d1"
-  }
-}
+{"name":"v0.5.0","zipball_url":"https:\/\/api.github.com\/repos\/nulldevelopmenthr\/generator\/zipball\/v0.5.0","tarball_url":"https:\/\/api.github.com\/repos\/nulldevelopmenthr\/generator\/tarball\/v0.5.0","commit":{"sha":"a19cccbf22a4231cab89c8b281f59221ac9b1c00","url":"https:\/\/api.github.com\/repos\/nulldevelopmenthr\/generator\/commits\/a19cccbf22a4231cab89c8b281f59221ac9b1c00"}}

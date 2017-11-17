@@ -1,9 +1,1 @@
-{
-  "ref": "refs/tags/0.6.0",
-  "url": "https://api.github.com/repos/msvrtan/broadway/git/refs/tags/0.6.0",
-  "object": {
-    "sha": "987ed21e86a9096a1f1dd09167b55d7113cf3022",
-    "type": "tag",
-    "url": "https://api.github.com/repos/msvrtan/broadway/git/tags/987ed21e86a9096a1f1dd09167b55d7113cf3022"
-  }
-}
+{"name":"0.6.0","zipball_url":"https:\/\/api.github.com\/repos\/msvrtan\/broadway\/zipball\/0.6.0","tarball_url":"https:\/\/api.github.com\/repos\/msvrtan\/broadway\/tarball\/0.6.0","commit":{"sha":"9f8247b3e7d0f349f67b11cbfe94d1d333fb2134","url":"https:\/\/api.github.com\/repos\/msvrtan\/broadway\/commits\/9f8247b3e7d0f349f67b11cbfe94d1d333fb2134"}}
