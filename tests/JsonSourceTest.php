@@ -42,6 +42,18 @@ class JsonSourceTest extends \PHPUnit_Framework_TestCase
         $this->assertCount($expectedCount, $this->sut->getTags($repo));
     }
 
+    /** @dataProvider provideReposAndCommitsCount */
+    public function testGetCommits(string $repo, int $expectedCount)
+    {
+        $this->assertCount($expectedCount, $this->sut->getCommits($repo));
+    }
+
+    /** @dataProvider provideReposAndCommitStatusesCount */
+    public function testGetCommitStatuses(string $repo, int $expectedCount)
+    {
+        $this->assertCount($expectedCount, $this->sut->getCommitsStatuses($repo));
+    }
+
     public function testGetGitHubPushEventData()
     {
         $this->assertCount(6, $this->sut->getGitHubPushEventData());
@@ -84,6 +96,36 @@ class JsonSourceTest extends \PHPUnit_Framework_TestCase
             ['symfony/symfony', 30],
             ['symfony/symfony-standard', 30],
             ['symfony/symfony-docs', 30],
+        ];
+    }
+
+    public function provideReposAndCommitsCount(): array
+    {
+        return [
+            ['octocat/Hello-World', 2],
+            ['octocat/Spoon-Knife', 3],
+            ['octocat/linguist', 37],
+            ['octocat/octocat.github.io', 2],
+            ['octocat/git-consortium', 1],
+            ['octocat/test-repo1', 1],
+            ['symfony/symfony', 45],
+            ['symfony/symfony-standard', 41],
+            ['symfony/symfony-docs', 48],
+        ];
+    }
+
+    public function provideReposAndCommitStatusesCount(): array
+    {
+        return [
+            ['octocat/Hello-World', 2],
+            ['octocat/Spoon-Knife', 3],
+            ['octocat/linguist', 37],
+            ['octocat/octocat.github.io', 2],
+            ['octocat/git-consortium', 1],
+            ['octocat/test-repo1', 1],
+            ['symfony/symfony', 45],
+            ['symfony/symfony-standard', 41],
+            ['symfony/symfony-docs', 48],
         ];
     }
 }

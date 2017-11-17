@@ -73,6 +73,11 @@ class JsonSource
         return $this->supportedRepoNames;
     }
 
+    public function getRepo(string $repo): array
+    {
+        return $this->decode($this->reader->loadRepoContent($repo));
+    }
+
     public function getRepos(): array
     {
         $results = [];
@@ -95,6 +100,11 @@ class JsonSource
         return $results;
     }
 
+    public function getBranch(string $repo, string $branch): array
+    {
+        return $this->decode($this->reader->loadBranchContent($repo, $branch));
+    }
+
     public function getTags(string $repo): array
     {
         $results = [];
@@ -104,6 +114,43 @@ class JsonSource
         }
 
         return $results;
+    }
+
+    public function getTag(string $repo, string $tag): array
+    {
+        return $this->decode($this->reader->loadTagContent($repo, $tag));
+    }
+
+    public function getCommits(string $repo): array
+    {
+        $results = [];
+
+        foreach ($this->reader->getCommitFiles($repo) as $item) {
+            $results[] = $this->decode($this->reader->loadCommitContent($repo, $this->extractName($item)));
+        }
+
+        return $results;
+    }
+
+    public function getCommit(string $repo, string $commitSha): array
+    {
+        return $this->decode($this->reader->loadCommitContent($repo, $commitSha));
+    }
+
+    public function getCommitsStatuses(string $repo): array
+    {
+        $results = [];
+
+        foreach ($this->reader->getCommitStatusFiles($repo) as $item) {
+            $results[] = $this->decode($this->reader->loadCommitStatusContent($repo, $this->extractName($item)));
+        }
+
+        return $results;
+    }
+
+    public function getCommitStatus(string $repo, string $commitSha): array
+    {
+        return $this->decode($this->reader->loadCommitStatusContent($repo, $commitSha));
     }
 
     public function getGitHubPushEventData(): array
