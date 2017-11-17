@@ -1,1 +1,9 @@
-{"name":"vPR9","zipball_url":"https:\/\/api.github.com\/repos\/symfony\/symfony\/zipball\/vPR9","tarball_url":"https:\/\/api.github.com\/repos\/symfony\/symfony\/tarball\/vPR9","commit":{"sha":"24cc86498d1c26919ed5c81e5c6da9e738306511","url":"https:\/\/api.github.com\/repos\/symfony\/symfony\/commits\/24cc86498d1c26919ed5c81e5c6da9e738306511"}}
+{
+  "name": "vPR9",
+  "zipball_url": "https:\/\/api.github.com\/repos\/symfony\/symfony\/zipball\/vPR9",
+  "tarball_url": "https:\/\/api.github.com\/repos\/symfony\/symfony\/tarball\/vPR9",
+  "commit": {
+    "sha": "24cc86498d1c26919ed5c81e5c6da9e738306511",
+    "url": "https:\/\/api.github.com\/repos\/symfony\/symfony\/commits\/24cc86498d1c26919ed5c81e5c6da9e738306511"
+  }
+}
