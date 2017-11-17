@@ -1,0 +1,33 @@
+{
+  "sha": "012019aae922c1019e4a50a6ed1aeba96a35a44e",
+  "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/012019aae922c1019e4a50a6ed1aeba96a35a44e",
+  "html_url": "https://github.com/nulldevelopmenthr/generator/commit/012019aae922c1019e4a50a6ed1aeba96a35a44e",
+  "author": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2017-03-21T21:34:04Z"
+  },
+  "committer": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2017-03-21T21:35:11Z"
+  },
+  "tree": {
+    "sha": "e235ef07cc07c1f736e52e50113d4d532a41e47a",
+    "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/trees/e235ef07cc07c1f736e52e50113d4d532a41e47a"
+  },
+  "message": "Small fixes",
+  "parents": [
+    {
+      "sha": "91f1550f1ea5fb9a41d3aacb968e12913f8cfac3",
+      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/91f1550f1ea5fb9a41d3aacb968e12913f8cfac3",
+      "html_url": "https://github.com/nulldevelopmenthr/generator/commit/91f1550f1ea5fb9a41d3aacb968e12913f8cfac3"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

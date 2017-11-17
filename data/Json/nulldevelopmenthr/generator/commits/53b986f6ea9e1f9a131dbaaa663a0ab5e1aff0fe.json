@@ -1,0 +1,33 @@
+{
+  "sha": "53b986f6ea9e1f9a131dbaaa663a0ab5e1aff0fe",
+  "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/53b986f6ea9e1f9a131dbaaa663a0ab5e1aff0fe",
+  "html_url": "https://github.com/nulldevelopmenthr/generator/commit/53b986f6ea9e1f9a131dbaaa663a0ab5e1aff0fe",
+  "author": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2016-07-09T10:32:22Z"
+  },
+  "committer": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2016-07-09T10:32:22Z"
+  },
+  "tree": {
+    "sha": "a9ba7e282f8f7208c3e2d7bf62bc4b4980ae3ba6",
+    "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/trees/a9ba7e282f8f7208c3e2d7bf62bc4b4980ae3ba6"
+  },
+  "message": "Update composer.lock, dependency update",
+  "parents": [
+    {
+      "sha": "ce7d70e9a67efb56c6b3d9649250057a0516ac69",
+      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/ce7d70e9a67efb56c6b3d9649250057a0516ac69",
+      "html_url": "https://github.com/nulldevelopmenthr/generator/commit/ce7d70e9a67efb56c6b3d9649250057a0516ac69"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "sha": "88065b04761ff810009f3379b46513640aa7dc47",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/88065b04761ff810009f3379b46513640aa7dc47",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/88065b04761ff810009f3379b46513640aa7dc47",
+  "author": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2013-11-16T22:30:16Z"
+  },
+  "committer": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2013-11-16T22:30:16Z"
+  },
+  "tree": {
+    "sha": "f566a779fdfbb2bdf4734c9e1de8856b8c8a877e",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/f566a779fdfbb2bdf4734c9e1de8856b8c8a877e"
+  },
+  "message": "[#2994] Small tweaks to new standards",
+  "parents": [
+    {
+      "sha": "d09b00c33ccc1cb951745c6541a69dc8a839e81c",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/d09b00c33ccc1cb951745c6541a69dc8a839e81c",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/d09b00c33ccc1cb951745c6541a69dc8a839e81c"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

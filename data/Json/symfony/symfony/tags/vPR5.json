@@ -1,0 +1,9 @@
+{
+  "ref": "refs/tags/vPR5",
+  "url": "https://api.github.com/repos/symfony/symfony/git/refs/tags/vPR5",
+  "object": {
+    "sha": "c396999280141f4e77093a33efbe75619f60bbf3",
+    "type": "tag",
+    "url": "https://api.github.com/repos/symfony/symfony/git/tags/c396999280141f4e77093a33efbe75619f60bbf3"
+  }
+}

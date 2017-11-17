@@ -1,0 +1,9 @@
+{
+  "ref": "refs/tags/v3.3.0-RC1",
+  "url": "https://api.github.com/repos/symfony/symfony-standard/git/refs/tags/v3.3.0-RC1",
+  "object": {
+    "sha": "6eaa15df5d9a89d3ab51bd30713ba359246070ab",
+    "type": "tag",
+    "url": "https://api.github.com/repos/symfony/symfony-standard/git/tags/6eaa15df5d9a89d3ab51bd30713ba359246070ab"
+  }
+}

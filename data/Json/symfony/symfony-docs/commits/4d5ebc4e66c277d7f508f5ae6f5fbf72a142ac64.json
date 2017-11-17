@@ -1,0 +1,38 @@
+{
+  "sha": "4d5ebc4e66c277d7f508f5ae6f5fbf72a142ac64",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/4d5ebc4e66c277d7f508f5ae6f5fbf72a142ac64",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/4d5ebc4e66c277d7f508f5ae6f5fbf72a142ac64",
+  "author": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2017-11-17T11:57:45Z"
+  },
+  "committer": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2017-11-17T11:57:45Z"
+  },
+  "tree": {
+    "sha": "dbf9d5a63d403c24a87db25c9278b74499ef3ed8",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/dbf9d5a63d403c24a87db25c9278b74499ef3ed8"
+  },
+  "message": "minor #8670 Updated the event dispatcher articles for Symfony 4 (javiereguiluz)\n\nThis PR was merged into the master branch.\n\nDiscussion\n----------\n\nUpdated the event dispatcher articles for Symfony 4\n\nCommits\n-------\n\n8dc70ec38 Updated the event dispatcher articles for Symfony 4",
+  "parents": [
+    {
+      "sha": "c1700455686bc93a0591dbd68c7ecf989ab25b00",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/c1700455686bc93a0591dbd68c7ecf989ab25b00",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/c1700455686bc93a0591dbd68c7ecf989ab25b00"
+    },
+    {
+      "sha": "8dc70ec3882aa4d6661da83b5456c3c714cb2908",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/8dc70ec3882aa4d6661da83b5456c3c714cb2908",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/8dc70ec3882aa4d6661da83b5456c3c714cb2908"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "sha": "beda16e0ba364fb69a3aee766818675371e50668",
+  "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/beda16e0ba364fb69a3aee766818675371e50668",
+  "html_url": "https://github.com/symfony/symfony-standard/commit/beda16e0ba364fb69a3aee766818675371e50668",
+  "author": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2017-05-17T18:24:29Z"
+  },
+  "committer": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2017-05-17T18:24:29Z"
+  },
+  "tree": {
+    "sha": "0a414f5d5e628664e2c4d0cdc2ea02cebe3e5a49",
+    "url": "https://api.github.com/repos/symfony/symfony-standard/git/trees/0a414f5d5e628664e2c4d0cdc2ea02cebe3e5a49"
+  },
+  "message": "updated VENDORS for 3.3.0-RC1",
+  "parents": [
+    {
+      "sha": "49b94d897aa2b879c69f8f306b2f3f2ee4721726",
+      "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/49b94d897aa2b879c69f8f306b2f3f2ee4721726",
+      "html_url": "https://github.com/symfony/symfony-standard/commit/49b94d897aa2b879c69f8f306b2f3f2ee4721726"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

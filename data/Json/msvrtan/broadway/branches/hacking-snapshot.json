@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/f277ee67217aaea9077009ee90a39aa514c0e63c"
       },
       "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/c7ce325525c952b1c7792aa510bc3a4b3093affc",
-      "comment_count": 0
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
     "url": "https://api.github.com/repos/msvrtan/broadway/commits/c7ce325525c952b1c7792aa510bc3a4b3093affc",
     "html_url": "https://github.com/msvrtan/broadway/commit/c7ce325525c952b1c7792aa510bc3a4b3093affc",
@@ -27,7 +33,7 @@
     "author": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -73,5 +79,16 @@
   "_links": {
     "self": "https://api.github.com/repos/msvrtan/broadway/branches/hacking-snapshot",
     "html": "https://github.com/msvrtan/broadway/tree/hacking-snapshot"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/msvrtan/broadway/branches/hacking-snapshot/protection"
 }

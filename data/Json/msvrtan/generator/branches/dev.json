@@ -1,33 +1,39 @@
 {
   "name": "dev",
   "commit": {
-    "sha": "989d9ed6ef65bceaba19766d18e7d1746e1ea4c1",
+    "sha": "f77b59d5d480c56e60f6edef27e7bec6f93d8c6f",
     "commit": {
       "author": {
         "name": "Miro Svrtan",
         "email": "miro@mirosvrtan.me",
-        "date": "2017-03-21T20:58:48Z"
+        "date": "2017-07-12T21:44:56Z"
       },
       "committer": {
         "name": "Miro Svrtan",
-        "email": "miro@mirosvrtan.me",
-        "date": "2017-03-21T21:12:07Z"
+        "email": "msvrtan@users.noreply.github.com",
+        "date": "2017-07-12T21:49:17Z"
       },
-      "message": "Remove unused extensions from Travis phpspec.yml",
+      "message": "Ignore complexity of getExistingClasses()",
       "tree": {
-        "sha": "3f91445963020f1aa91a4185966ee189332d3f34",
-        "url": "https://api.github.com/repos/msvrtan/generator/git/trees/3f91445963020f1aa91a4185966ee189332d3f34"
+        "sha": "28ceec3865c990c91f854f3f2ad5fbc3be6aba66",
+        "url": "https://api.github.com/repos/msvrtan/generator/git/trees/28ceec3865c990c91f854f3f2ad5fbc3be6aba66"
       },
-      "url": "https://api.github.com/repos/msvrtan/generator/git/commits/989d9ed6ef65bceaba19766d18e7d1746e1ea4c1",
-      "comment_count": 0
+      "url": "https://api.github.com/repos/msvrtan/generator/git/commits/f77b59d5d480c56e60f6edef27e7bec6f93d8c6f",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
-    "url": "https://api.github.com/repos/msvrtan/generator/commits/989d9ed6ef65bceaba19766d18e7d1746e1ea4c1",
-    "html_url": "https://github.com/msvrtan/generator/commit/989d9ed6ef65bceaba19766d18e7d1746e1ea4c1",
-    "comments_url": "https://api.github.com/repos/msvrtan/generator/commits/989d9ed6ef65bceaba19766d18e7d1746e1ea4c1/comments",
+    "url": "https://api.github.com/repos/msvrtan/generator/commits/f77b59d5d480c56e60f6edef27e7bec6f93d8c6f",
+    "html_url": "https://github.com/msvrtan/generator/commit/f77b59d5d480c56e60f6edef27e7bec6f93d8c6f",
+    "comments_url": "https://api.github.com/repos/msvrtan/generator/commits/f77b59d5d480c56e60f6edef27e7bec6f93d8c6f/comments",
     "author": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -64,14 +70,25 @@
     },
     "parents": [
       {
-        "sha": "dbfc83de345f1bc045ccbc6d4d6b94b7c2d4fc98",
-        "url": "https://api.github.com/repos/msvrtan/generator/commits/dbfc83de345f1bc045ccbc6d4d6b94b7c2d4fc98",
-        "html_url": "https://github.com/msvrtan/generator/commit/dbfc83de345f1bc045ccbc6d4d6b94b7c2d4fc98"
+        "sha": "a60ab35dcb41783373355136dadd490ea85af3aa",
+        "url": "https://api.github.com/repos/msvrtan/generator/commits/a60ab35dcb41783373355136dadd490ea85af3aa",
+        "html_url": "https://github.com/msvrtan/generator/commit/a60ab35dcb41783373355136dadd490ea85af3aa"
       }
     ]
   },
   "_links": {
     "self": "https://api.github.com/repos/msvrtan/generator/branches/dev",
     "html": "https://github.com/msvrtan/generator/tree/dev"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/msvrtan/generator/branches/dev/protection"
 }

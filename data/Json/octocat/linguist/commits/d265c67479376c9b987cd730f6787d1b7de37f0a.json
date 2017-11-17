@@ -1,0 +1,29 @@
+{
+  "sha": "d265c67479376c9b987cd730f6787d1b7de37f0a",
+  "url": "https://api.github.com/repos/octocat/linguist/git/commits/d265c67479376c9b987cd730f6787d1b7de37f0a",
+  "html_url": "https://github.com/octocat/linguist/commit/d265c67479376c9b987cd730f6787d1b7de37f0a",
+  "author": {
+    "name": "Brandon Keepers",
+    "email": "brandon@opensoul.org",
+    "date": "2015-03-08T18:33:10Z"
+  },
+  "committer": {
+    "name": "Brandon Keepers",
+    "email": "brandon@opensoul.org",
+    "date": "2015-03-08T18:34:35Z"
+  },
+  "tree": {
+    "sha": "4d0b685262ebd73adca4563d83fe963ef0623839",
+    "url": "https://api.github.com/repos/octocat/linguist/git/trees/4d0b685262ebd73adca4563d83fe963ef0623839"
+  },
+  "message": "Hack up a page to show language colors",
+  "parents": [
+
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

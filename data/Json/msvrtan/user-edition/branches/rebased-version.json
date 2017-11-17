@@ -1,0 +1,94 @@
+{
+  "name": "rebased-version",
+  "commit": {
+    "sha": "b4384b92f3094c003e47fc7fd3f6a1f635691a6d",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2016-03-06T23:27:35Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2017-06-10T10:33:42Z"
+      },
+      "message": "[user-edition] Updated composer.lock for FOSUserBundle",
+      "tree": {
+        "sha": "ed08881acd356bcca7a76fceb8bb28254c9e9793",
+        "url": "https://api.github.com/repos/msvrtan/user-edition/git/trees/ed08881acd356bcca7a76fceb8bb28254c9e9793"
+      },
+      "url": "https://api.github.com/repos/msvrtan/user-edition/git/commits/b4384b92f3094c003e47fc7fd3f6a1f635691a6d",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/msvrtan/user-edition/commits/b4384b92f3094c003e47fc7fd3f6a1f635691a6d",
+    "html_url": "https://github.com/msvrtan/user-edition/commit/b4384b92f3094c003e47fc7fd3f6a1f635691a6d",
+    "comments_url": "https://api.github.com/repos/msvrtan/user-edition/commits/b4384b92f3094c003e47fc7fd3f6a1f635691a6d/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b654be9069b70212660418cebffe48b42394b32e",
+        "url": "https://api.github.com/repos/msvrtan/user-edition/commits/b654be9069b70212660418cebffe48b42394b32e",
+        "html_url": "https://github.com/msvrtan/user-edition/commit/b654be9069b70212660418cebffe48b42394b32e"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/msvrtan/user-edition/branches/rebased-version",
+    "html": "https://github.com/msvrtan/user-edition/tree/rebased-version"
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/msvrtan/user-edition/branches/rebased-version/protection"
+}

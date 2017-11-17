@@ -1,0 +1,33 @@
+{
+  "sha": "e20788b9f6f2350e704fa62967c0fde3aabfe19b",
+  "url": "https://api.github.com/repos/msvrtan/user-edition/git/commits/e20788b9f6f2350e704fa62967c0fde3aabfe19b",
+  "html_url": "https://github.com/msvrtan/user-edition/commit/e20788b9f6f2350e704fa62967c0fde3aabfe19b",
+  "author": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2016-09-21T21:16:21Z"
+  },
+  "committer": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2016-09-21T21:21:15Z"
+  },
+  "tree": {
+    "sha": "bae2647b247e62924b178765a8e007682d2d9f89",
+    "url": "https://api.github.com/repos/msvrtan/user-edition/git/trees/bae2647b247e62924b178765a8e007682d2d9f89"
+  },
+  "message": "[user-edition] Update composer.lock, package updates",
+  "parents": [
+    {
+      "sha": "21e31583d7a369f6d2f249c1d209d9b6ed19d8a3",
+      "url": "https://api.github.com/repos/msvrtan/user-edition/git/commits/21e31583d7a369f6d2f249c1d209d9b6ed19d8a3",
+      "html_url": "https://github.com/msvrtan/user-edition/commit/21e31583d7a369f6d2f249c1d209d9b6ed19d8a3"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

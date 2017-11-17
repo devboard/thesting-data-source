@@ -1,0 +1,38 @@
+{
+  "sha": "c07227e5b3c28a429cd2fa2be705284059b613db",
+  "url": "https://api.github.com/repos/symfony/symfony/git/commits/c07227e5b3c28a429cd2fa2be705284059b613db",
+  "html_url": "https://github.com/symfony/symfony/commit/c07227e5b3c28a429cd2fa2be705284059b613db",
+  "author": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2013-12-23T15:45:07Z"
+  },
+  "committer": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2013-12-23T15:45:07Z"
+  },
+  "tree": {
+    "sha": "00469c6234eca4857f28055dfc9b8b4596cf37b7",
+    "url": "https://api.github.com/repos/symfony/symfony/git/trees/00469c6234eca4857f28055dfc9b8b4596cf37b7"
+  },
+  "message": "bug #9806 [Security] Fix parent serialization of user object (ddeboer)\n\nThis PR was squashed before being merged into the 2.2 branch (closes #9806).\n\nDiscussion\n----------\n\n[Security] Fix parent serialization of user object\n\n| Q             | A\n| ------------- | ---\n| Bug fix?      | yes\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets |\n| License       | MIT\n| Doc PR        |\n\n`parent::serialize()` and `parent::unserialize()`, which are used in the `AbstractToken` are [problematic](https://bugs.php.net/bug.php?id=62836) in PHP >= 5.4. [Cloning the object](https://gist.github.com/aurelijus/4713758) before serialization seems to fix this.\n\nCommits\n-------\n\n2e4670d [Security] Fix parent serialization of user object",
+  "parents": [
+    {
+      "sha": "6a9c223b066a2553b8f59fd26f84ea630eff403c",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/6a9c223b066a2553b8f59fd26f84ea630eff403c",
+      "html_url": "https://github.com/symfony/symfony/commit/6a9c223b066a2553b8f59fd26f84ea630eff403c"
+    },
+    {
+      "sha": "2e4670d4d9decb25bb330d35522676bf38b23f10",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/2e4670d4d9decb25bb330d35522676bf38b23f10",
+      "html_url": "https://github.com/symfony/symfony/commit/2e4670d4d9decb25bb330d35522676bf38b23f10"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

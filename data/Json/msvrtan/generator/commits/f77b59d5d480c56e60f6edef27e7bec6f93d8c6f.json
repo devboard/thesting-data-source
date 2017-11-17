@@ -1,0 +1,33 @@
+{
+  "sha": "f77b59d5d480c56e60f6edef27e7bec6f93d8c6f",
+  "url": "https://api.github.com/repos/msvrtan/generator/git/commits/f77b59d5d480c56e60f6edef27e7bec6f93d8c6f",
+  "html_url": "https://github.com/msvrtan/generator/commit/f77b59d5d480c56e60f6edef27e7bec6f93d8c6f",
+  "author": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2017-07-12T21:44:56Z"
+  },
+  "committer": {
+    "name": "Miro Svrtan",
+    "email": "msvrtan@users.noreply.github.com",
+    "date": "2017-07-12T21:49:17Z"
+  },
+  "tree": {
+    "sha": "28ceec3865c990c91f854f3f2ad5fbc3be6aba66",
+    "url": "https://api.github.com/repos/msvrtan/generator/git/trees/28ceec3865c990c91f854f3f2ad5fbc3be6aba66"
+  },
+  "message": "Ignore complexity of getExistingClasses()",
+  "parents": [
+    {
+      "sha": "a60ab35dcb41783373355136dadd490ea85af3aa",
+      "url": "https://api.github.com/repos/msvrtan/generator/git/commits/a60ab35dcb41783373355136dadd490ea85af3aa",
+      "html_url": "https://github.com/msvrtan/generator/commit/a60ab35dcb41783373355136dadd490ea85af3aa"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/octocat/linguist/git/trees/c209037ef7b978c0cda1421a44dd363c69a382b7"
       },
       "url": "https://api.github.com/repos/octocat/linguist/git/commits/bcf4c26f62e302b052c4db04e950f2959f3a48ca",
-      "comment_count": 0
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
     "url": "https://api.github.com/repos/octocat/linguist/commits/bcf4c26f62e302b052c4db04e950f2959f3a48ca",
     "html_url": "https://github.com/octocat/linguist/commit/bcf4c26f62e302b052c4db04e950f2959f3a48ca",
@@ -27,7 +33,7 @@
     "author": {
       "login": "bkeepers",
       "id": 173,
-      "avatar_url": "https://avatars.githubusercontent.com/u/173?v=3",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/173?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/bkeepers",
       "html_url": "https://github.com/bkeepers",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "bkeepers",
       "id": 173,
-      "avatar_url": "https://avatars.githubusercontent.com/u/173?v=3",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/173?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/bkeepers",
       "html_url": "https://github.com/bkeepers",
@@ -73,5 +79,16 @@
   "_links": {
     "self": "https://api.github.com/repos/octocat/linguist/branches/gh-pages-next",
     "html": "https://github.com/octocat/linguist/tree/gh-pages-next"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/octocat/linguist/branches/gh-pages-next/protection"
 }

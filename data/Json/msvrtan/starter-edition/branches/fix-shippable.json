@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/msvrtan/starter-edition/git/trees/6ba3053e4c2e0f7079dd0edb6f46ac384240196d"
       },
       "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/675667172d471e99b6f31ab9335ff9abbcf169dd",
-      "comment_count": 0
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
     "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/675667172d471e99b6f31ab9335ff9abbcf169dd",
     "html_url": "https://github.com/msvrtan/starter-edition/commit/675667172d471e99b6f31ab9335ff9abbcf169dd",
@@ -27,7 +33,7 @@
     "author": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -73,5 +79,16 @@
   "_links": {
     "self": "https://api.github.com/repos/msvrtan/starter-edition/branches/fix-shippable",
     "html": "https://github.com/msvrtan/starter-edition/tree/fix-shippable"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/msvrtan/starter-edition/branches/fix-shippable/protection"
 }

@@ -1,0 +1,94 @@
+{
+  "name": "fix_8298",
+  "commit": {
+    "sha": "7423e5d3a5b0d98585c48e9b2110f4d25ce7bcd2",
+    "commit": {
+      "author": {
+        "name": "Javier Eguiluz",
+        "email": "javier.eguiluz@gmail.com",
+        "date": "2017-10-03T13:53:17Z"
+      },
+      "committer": {
+        "name": "Javier Eguiluz",
+        "email": "javier.eguiluz@gmail.com",
+        "date": "2017-10-03T13:53:17Z"
+      },
+      "message": "Reverted a wrong change",
+      "tree": {
+        "sha": "9c9b6975a0f37a3c8a07bc544078dd7849c00988",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/9c9b6975a0f37a3c8a07bc544078dd7849c00988"
+      },
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/7423e5d3a5b0d98585c48e9b2110f4d25ce7bcd2",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/7423e5d3a5b0d98585c48e9b2110f4d25ce7bcd2",
+    "html_url": "https://github.com/symfony/symfony-docs/commit/7423e5d3a5b0d98585c48e9b2110f4d25ce7bcd2",
+    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/7423e5d3a5b0d98585c48e9b2110f4d25ce7bcd2/comments",
+    "author": {
+      "login": "javiereguiluz",
+      "id": 73419,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/73419?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/javiereguiluz",
+      "html_url": "https://github.com/javiereguiluz",
+      "followers_url": "https://api.github.com/users/javiereguiluz/followers",
+      "following_url": "https://api.github.com/users/javiereguiluz/following{/other_user}",
+      "gists_url": "https://api.github.com/users/javiereguiluz/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/javiereguiluz/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/javiereguiluz/subscriptions",
+      "organizations_url": "https://api.github.com/users/javiereguiluz/orgs",
+      "repos_url": "https://api.github.com/users/javiereguiluz/repos",
+      "events_url": "https://api.github.com/users/javiereguiluz/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/javiereguiluz/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "javiereguiluz",
+      "id": 73419,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/73419?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/javiereguiluz",
+      "html_url": "https://github.com/javiereguiluz",
+      "followers_url": "https://api.github.com/users/javiereguiluz/followers",
+      "following_url": "https://api.github.com/users/javiereguiluz/following{/other_user}",
+      "gists_url": "https://api.github.com/users/javiereguiluz/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/javiereguiluz/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/javiereguiluz/subscriptions",
+      "organizations_url": "https://api.github.com/users/javiereguiluz/orgs",
+      "repos_url": "https://api.github.com/users/javiereguiluz/repos",
+      "events_url": "https://api.github.com/users/javiereguiluz/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/javiereguiluz/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "3d6b7eb5ee315a936425e13204ece87b9ccefc4d",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/3d6b7eb5ee315a936425e13204ece87b9ccefc4d",
+        "html_url": "https://github.com/symfony/symfony-docs/commit/3d6b7eb5ee315a936425e13204ece87b9ccefc4d"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/symfony/symfony-docs/branches/fix_8298",
+    "html": "https://github.com/symfony/symfony-docs/tree/fix_8298"
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/symfony/symfony-docs/branches/fix_8298/protection"
+}

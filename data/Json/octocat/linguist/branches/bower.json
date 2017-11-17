@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/octocat/linguist/git/trees/f0a26a2ea4176f920b36bc61ccf16c0fe27dc916"
       },
       "url": "https://api.github.com/repos/octocat/linguist/git/commits/faa53e95177fcc8d9edc5fb514dd412b33d8e35f",
-      "comment_count": 0
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJXFAt8AAoJEPlTM5bV+sv2Fp0QAKq2lDkZF0DkO0VcDqwXMheO\nrfz8swaMOV/u1tn0rSVOLmvIsWyWTB4Di4m6BW0Fe3EDB+M+FhBcIPmcvHuyirvs\nz7PM5XZtPLW2qnjSTrGK5t11I8Td+aqq5KhZOEjzAWfJ16fg7JsEDL7TbK+4rt/+\n4OPoobZ922vUKvNmfrMZUoWlSF8z2k3fDmJqk6LmVCq7adIOeCX4EAF0Pk4GVIC2\nMI8hPf77oRkvSUG8oMuh8bWEJkku07W4H8yg5Kc8hrFMrlj4gFxH/7J7kqKzChbH\nPhmwglObku9sP2viD8G9+0Awd/+gdm1VeOWXsFMQ1ahGb4jnGAovAv3qQjum/MWO\nNjJUIdmozjjWEnpbTP1eXWDT2046cPLWR+8Nfc1h/fXooqRQPxASol05mwQq7Mo2\nVY6BI0vlDnOEpZNHhEVJM9cosvPd3eOMj/66eeE0CHv08/qentRKuc2FEzSX70m4\nsJ9IRE6QXkt/SuGUkSJoFvOlepNY2PI/OvdS3QYckzMdZ/yVaMDkcISvtOxW6vZF\nQ6HRcvYSOEyp3vOb9Vk71lVrB1NENbEJjQU3m7qrWCHD5nYYtaKz94d5KohZO7W/\nNQAvzbW1ftfz886bNBNcMxBnhlg8XfQMGMif1I3drgzhqcIlcviPOFKoT5bMISAA\nW4dZbijCjozAQFeodVnM\n=R28T\n-----END PGP SIGNATURE-----",
+        "payload": "tree f0a26a2ea4176f920b36bc61ccf16c0fe27dc916\nparent b7e16900301d9582e6200b3e6b93e6bc00a06ce1\nauthor Brandon Keepers <bkeepers@github.com> 1460931452 -0400\ncommitter Brandon Keepers <bkeepers@github.com> 1460931452 -0400\n\nRemove submodule tests\n"
+      }
     },
     "url": "https://api.github.com/repos/octocat/linguist/commits/faa53e95177fcc8d9edc5fb514dd412b33d8e35f",
     "html_url": "https://github.com/octocat/linguist/commit/faa53e95177fcc8d9edc5fb514dd412b33d8e35f",
@@ -27,7 +33,7 @@
     "author": {
       "login": "bkeepers",
       "id": 173,
-      "avatar_url": "https://avatars.githubusercontent.com/u/173?v=3",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/173?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/bkeepers",
       "html_url": "https://github.com/bkeepers",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "bkeepers",
       "id": 173,
-      "avatar_url": "https://avatars.githubusercontent.com/u/173?v=3",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/173?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/bkeepers",
       "html_url": "https://github.com/bkeepers",
@@ -73,5 +79,16 @@
   "_links": {
     "self": "https://api.github.com/repos/octocat/linguist/branches/bower",
     "html": "https://github.com/octocat/linguist/tree/bower"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/octocat/linguist/branches/bower/protection"
 }

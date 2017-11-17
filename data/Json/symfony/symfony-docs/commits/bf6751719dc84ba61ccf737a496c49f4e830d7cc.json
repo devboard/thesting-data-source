@@ -1,0 +1,38 @@
+{
+  "sha": "bf6751719dc84ba61ccf737a496c49f4e830d7cc",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/bf6751719dc84ba61ccf737a496c49f4e830d7cc",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/bf6751719dc84ba61ccf737a496c49f4e830d7cc",
+  "author": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2013-05-29T15:21:36Z"
+  },
+  "committer": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2013-05-29T15:21:36Z"
+  },
+  "tree": {
+    "sha": "067c5e7ad13dbf22353ec29354e1d09200ccece2",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/067c5e7ad13dbf22353ec29354e1d09200ccece2"
+  },
+  "message": "Merge branch '2.2' into 2.3\n\nConflicts:\n\treference/forms/types/options/property_path.rst.inc",
+  "parents": [
+    {
+      "sha": "23a016c6160a7cf43f3e282fe37a8d4933aeadc9",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/23a016c6160a7cf43f3e282fe37a8d4933aeadc9",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/23a016c6160a7cf43f3e282fe37a8d4933aeadc9"
+    },
+    {
+      "sha": "954a9ef72c56cbcd0242d0ef9dd69a63be05a200",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/954a9ef72c56cbcd0242d0ef9dd69a63be05a200",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/954a9ef72c56cbcd0242d0ef9dd69a63be05a200"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

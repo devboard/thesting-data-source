@@ -1,0 +1,38 @@
+{
+  "sha": "558be2169f4cb040a43a3dc714cce47972b353b2",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/558be2169f4cb040a43a3dc714cce47972b353b2",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/558be2169f4cb040a43a3dc714cce47972b353b2",
+  "author": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2017-11-17T11:41:17Z"
+  },
+  "committer": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2017-11-17T11:41:17Z"
+  },
+  "tree": {
+    "sha": "e0302bc4aaa4e4424327dcd16985a4e7cfbbf5d1",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/e0302bc4aaa4e4424327dcd16985a4e7cfbbf5d1"
+  },
+  "message": "minor #8651 Reworded the explanation about service tags (javiereguiluz)\n\nThis PR was squashed before being merged into the 2.7 branch (closes #8651).\n\nDiscussion\n----------\n\nReworded the explanation about service tags\n\nCommits\n-------\n\nc03b5e361 Removed lots of redundant contents\n2b93b7d04 Reworded the explanation about service tags",
+  "parents": [
+    {
+      "sha": "9c29f08a2190f05d911bd1d0b626811c9ca1488c",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/9c29f08a2190f05d911bd1d0b626811c9ca1488c",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/9c29f08a2190f05d911bd1d0b626811c9ca1488c"
+    },
+    {
+      "sha": "c03b5e3617a69a0ce7cabbdcbd6af38497e991aa",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/c03b5e3617a69a0ce7cabbdcbd6af38497e991aa",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/c03b5e3617a69a0ce7cabbdcbd6af38497e991aa"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

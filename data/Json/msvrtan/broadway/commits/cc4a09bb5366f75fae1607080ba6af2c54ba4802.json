@@ -1,0 +1,38 @@
+{
+  "sha": "cc4a09bb5366f75fae1607080ba6af2c54ba4802",
+  "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/cc4a09bb5366f75fae1607080ba6af2c54ba4802",
+  "html_url": "https://github.com/msvrtan/broadway/commit/cc4a09bb5366f75fae1607080ba6af2c54ba4802",
+  "author": {
+    "name": "othillo",
+    "email": "othillo@qandidate.com",
+    "date": "2014-08-28T14:34:10Z"
+  },
+  "committer": {
+    "name": "othillo",
+    "email": "othillo@qandidate.com",
+    "date": "2014-08-28T14:34:10Z"
+  },
+  "tree": {
+    "sha": "bcc8295215afba3efa0777bb14b1771305cfca29",
+    "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/bcc8295215afba3efa0777bb14b1771305cfca29"
+  },
+  "message": "Merge pull request #20 from cordoval/mods-improvements\n\nFixed some typos",
+  "parents": [
+    {
+      "sha": "f8af2bf513af79755ed16a9f35e05fc1f673c425",
+      "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/f8af2bf513af79755ed16a9f35e05fc1f673c425",
+      "html_url": "https://github.com/msvrtan/broadway/commit/f8af2bf513af79755ed16a9f35e05fc1f673c425"
+    },
+    {
+      "sha": "d88136902d35032260252e6b564c8d8b156f5b8c",
+      "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/d88136902d35032260252e6b564c8d8b156f5b8c",
+      "html_url": "https://github.com/msvrtan/broadway/commit/d88136902d35032260252e6b564c8d8b156f5b8c"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

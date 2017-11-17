@@ -1,82 +1,100 @@
 {
   "name": "master",
   "commit": {
-    "sha": "8872833c5d6a46ea27a4483e650617361660d946",
+    "sha": "8eb97f5c483b57d8cec2fe999d1437fadfeae575",
     "commit": {
       "author": {
-        "name": "Fabien Potencier",
-        "email": "fabien.potencier@gmail.com",
-        "date": "2017-04-29T16:33:57Z"
+        "name": "Tobias Schultze",
+        "email": "webmaster@tubo-world.de",
+        "date": "2017-11-17T15:56:02Z"
       },
       "committer": {
-        "name": "Fabien Potencier",
-        "email": "fabien.potencier@gmail.com",
-        "date": "2017-04-29T16:33:57Z"
+        "name": "Tobias Schultze",
+        "email": "webmaster@tubo-world.de",
+        "date": "2017-11-17T15:56:02Z"
       },
-      "message": "feature #22527 [DI] Throw useful exception on bad XML argument tags (nicolas-grekas)\n\nThis PR was merged into the 3.3-dev branch.\n\nDiscussion\n----------\n\n[DI] Throw useful exception on bad XML argument tags\n\n| Q             | A\n| ------------- | ---\n| Branch?       | 3.3\n| Bug fix?      | no\n| New feature?  | yes\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets | #22525\n| License       | MIT\n| Doc PR        | -\n\nI still think that the feature request in #22525 would make things better.\nBut at least, let's make thing fail loudly, instead of silently today, with the associated usual wtfs :)\n\nCommits\n-------\n\n91828ecd17 [DI] Throw useful exception on bad XML argument tags",
+      "message": "minor #24961 [Console] remove debug dependency that was dead code (Tobion)\n\nThis PR was merged into the 4.0-dev branch.\n\nDiscussion\n----------\n\n[Console] remove debug dependency that was dead code\n\n| Q             | A\n| ------------- | ---\n| Branch?       | master\n| Bug fix?      | no\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets | #24873\n| License       | MIT\n| Doc PR        |\n\nCommits\n-------\n\n453e7996ab [Console] remove debug dependency that was dead code",
       "tree": {
-        "sha": "0e915c09faae8092778ddb46ad32839484cf13b4",
-        "url": "https://api.github.com/repos/symfony/symfony/git/trees/0e915c09faae8092778ddb46ad32839484cf13b4"
+        "sha": "7bd94a1ade470b8d5df8f22d9e4398b0d494f97b",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/7bd94a1ade470b8d5df8f22d9e4398b0d494f97b"
       },
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/8872833c5d6a46ea27a4483e650617361660d946",
-      "comment_count": 0
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/8eb97f5c483b57d8cec2fe999d1437fadfeae575",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
-    "url": "https://api.github.com/repos/symfony/symfony/commits/8872833c5d6a46ea27a4483e650617361660d946",
-    "html_url": "https://github.com/symfony/symfony/commit/8872833c5d6a46ea27a4483e650617361660d946",
-    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/8872833c5d6a46ea27a4483e650617361660d946/comments",
+    "url": "https://api.github.com/repos/symfony/symfony/commits/8eb97f5c483b57d8cec2fe999d1437fadfeae575",
+    "html_url": "https://github.com/symfony/symfony/commit/8eb97f5c483b57d8cec2fe999d1437fadfeae575",
+    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/8eb97f5c483b57d8cec2fe999d1437fadfeae575/comments",
     "author": {
-      "login": "fabpot",
-      "id": 47313,
-      "avatar_url": "https://avatars.githubusercontent.com/u/47313?v=3",
+      "login": "Tobion",
+      "id": 610090,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/610090?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/fabpot",
-      "html_url": "https://github.com/fabpot",
-      "followers_url": "https://api.github.com/users/fabpot/followers",
-      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
-      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
-      "organizations_url": "https://api.github.com/users/fabpot/orgs",
-      "repos_url": "https://api.github.com/users/fabpot/repos",
-      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/fabpot/received_events",
+      "url": "https://api.github.com/users/Tobion",
+      "html_url": "https://github.com/Tobion",
+      "followers_url": "https://api.github.com/users/Tobion/followers",
+      "following_url": "https://api.github.com/users/Tobion/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Tobion/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Tobion/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Tobion/subscriptions",
+      "organizations_url": "https://api.github.com/users/Tobion/orgs",
+      "repos_url": "https://api.github.com/users/Tobion/repos",
+      "events_url": "https://api.github.com/users/Tobion/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Tobion/received_events",
       "type": "User",
       "site_admin": false
     },
     "committer": {
-      "login": "fabpot",
-      "id": 47313,
-      "avatar_url": "https://avatars.githubusercontent.com/u/47313?v=3",
+      "login": "Tobion",
+      "id": 610090,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/610090?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/fabpot",
-      "html_url": "https://github.com/fabpot",
-      "followers_url": "https://api.github.com/users/fabpot/followers",
-      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
-      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
-      "organizations_url": "https://api.github.com/users/fabpot/orgs",
-      "repos_url": "https://api.github.com/users/fabpot/repos",
-      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/fabpot/received_events",
+      "url": "https://api.github.com/users/Tobion",
+      "html_url": "https://github.com/Tobion",
+      "followers_url": "https://api.github.com/users/Tobion/followers",
+      "following_url": "https://api.github.com/users/Tobion/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Tobion/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Tobion/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Tobion/subscriptions",
+      "organizations_url": "https://api.github.com/users/Tobion/orgs",
+      "repos_url": "https://api.github.com/users/Tobion/repos",
+      "events_url": "https://api.github.com/users/Tobion/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Tobion/received_events",
       "type": "User",
       "site_admin": false
     },
     "parents": [
       {
-        "sha": "35608f57d5fe0d2a5007c3d814d85050eb7be804",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/35608f57d5fe0d2a5007c3d814d85050eb7be804",
-        "html_url": "https://github.com/symfony/symfony/commit/35608f57d5fe0d2a5007c3d814d85050eb7be804"
+        "sha": "3fc2d1c4bf06a30ba999d88b01f607293fff2558",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/3fc2d1c4bf06a30ba999d88b01f607293fff2558",
+        "html_url": "https://github.com/symfony/symfony/commit/3fc2d1c4bf06a30ba999d88b01f607293fff2558"
       },
       {
-        "sha": "91828ecd17c3dd2dc74d9c7e946ca93de2d3864e",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/91828ecd17c3dd2dc74d9c7e946ca93de2d3864e",
-        "html_url": "https://github.com/symfony/symfony/commit/91828ecd17c3dd2dc74d9c7e946ca93de2d3864e"
+        "sha": "453e7996abf7562ac3a4741931d74d4c9fd40e23",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/453e7996abf7562ac3a4741931d74d4c9fd40e23",
+        "html_url": "https://github.com/symfony/symfony/commit/453e7996abf7562ac3a4741931d74d4c9fd40e23"
       }
     ]
   },
   "_links": {
     "self": "https://api.github.com/repos/symfony/symfony/branches/master",
     "html": "https://github.com/symfony/symfony/tree/master"
-  }
+  },
+  "protected": true,
+  "protection": {
+    "enabled": true,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+        "continuous-integration/travis-ci",
+        "fabbot.io"
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/symfony/symfony/branches/master/protection"
 }

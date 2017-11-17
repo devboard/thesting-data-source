@@ -1,82 +1,99 @@
 {
   "name": "3.2",
   "commit": {
-    "sha": "c590e85c1b125a0d6098841a1e49a1fd327815a4",
+    "sha": "fc9f9470e81e6fb59bd826d8040b961f7ed30f94",
     "commit": {
       "author": {
-        "name": "Nicolas Grekas",
-        "email": "nicolas.grekas@gmail.com",
-        "date": "2017-04-28T12:55:39Z"
+        "name": "Fabien Potencier",
+        "email": "fabien@potencier.org",
+        "date": "2017-11-16T18:00:05Z"
       },
       "committer": {
-        "name": "Nicolas Grekas",
-        "email": "nicolas.grekas@gmail.com",
-        "date": "2017-04-28T12:55:39Z"
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2017-11-16T18:00:05Z"
       },
-      "message": "bug #22568 [EventDispatcher] fix getting priorities of listeners during dispatch (dmaicher)\n\nThis PR was merged into the 3.2 branch.\n\nDiscussion\n----------\n\n[EventDispatcher] fix getting priorities of listeners during dispatch\n\n| Q             | A\n| ------------- | ---\n| Branch?       | 3.2\n| Bug fix?      | yes\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets | #22520\n| License       | MIT\n| Doc PR        | -\n\nThe WebProfiler collects listener info during dispatching the `kernel.terminate` event which caused issues while retrieving priorities as the wrappers are registered instead of the real listeners.\n\nCommits\n-------\n\n79b71c0 [EventDispatcher] fix getting priorities of listeners during dispatch",
+      "message": "Merge pull request #25001 from fabpot/release-3.2.14\n\nreleased v3.2.14",
       "tree": {
-        "sha": "c91a5e5deeaf5710d274553eb210946d6de884ef",
-        "url": "https://api.github.com/repos/symfony/symfony/git/trees/c91a5e5deeaf5710d274553eb210946d6de884ef"
+        "sha": "7b28867b0291322f06eeaa92f12c0e5e74d4f3ee",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/7b28867b0291322f06eeaa92f12c0e5e74d4f3ee"
       },
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/c590e85c1b125a0d6098841a1e49a1fd327815a4",
-      "comment_count": 0
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/fc9f9470e81e6fb59bd826d8040b961f7ed30f94",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJaDdIlCRBK7hj4Ov3rIwAAdHIIADs6Zm1+ZIFZPpKwKdYxpNls\nVql96cMn6/ZmjUWCtp0RJWhifdLW5TsbpSOoZUctKE8VynevWOxf25eAZIHX+ha/\n9yEupCXVtwUWemppqmtI4tf74C2/pm3EiT4j+dCNIJgLIRTcWsYwZk2uWcbKS/37\nJUonUSCVRc0ik9TyS7KPWv93j/NzCuBGmhRNyv/il0XgM1GaVWMsVDvimQ0DYcU/\nRSOyoPWjgf0xyZ+5lOYkFc/nXWUQ3Wf5sTtd3tni4sMhya2ZC3Mpc0ddNJ9qYhKK\nofvhVc6WAPx/sxHJA59hnVon4NDypmiCRSUuVBJpj71aCpmtaqmg1Y8LaubBswg=\n=AMNE\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 7b28867b0291322f06eeaa92f12c0e5e74d4f3ee\nparent 611c272f2ab9b85fb17827ec274b57739243e0ff\nparent 48b0d9b9e4e30390f25d4384caf1aadc15ccbe0b\nauthor Fabien Potencier <fabien@potencier.org> 1510855205 +0100\ncommitter GitHub <noreply@github.com> 1510855205 +0100\n\nMerge pull request #25001 from fabpot/release-3.2.14\n\nreleased v3.2.14"
+      }
     },
-    "url": "https://api.github.com/repos/symfony/symfony/commits/c590e85c1b125a0d6098841a1e49a1fd327815a4",
-    "html_url": "https://github.com/symfony/symfony/commit/c590e85c1b125a0d6098841a1e49a1fd327815a4",
-    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/c590e85c1b125a0d6098841a1e49a1fd327815a4/comments",
+    "url": "https://api.github.com/repos/symfony/symfony/commits/fc9f9470e81e6fb59bd826d8040b961f7ed30f94",
+    "html_url": "https://github.com/symfony/symfony/commit/fc9f9470e81e6fb59bd826d8040b961f7ed30f94",
+    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/fc9f9470e81e6fb59bd826d8040b961f7ed30f94/comments",
     "author": {
-      "login": "nicolas-grekas",
-      "id": 243674,
-      "avatar_url": "https://avatars.githubusercontent.com/u/243674?v=3",
+      "login": "fabpot",
+      "id": 47313,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/nicolas-grekas",
-      "html_url": "https://github.com/nicolas-grekas",
-      "followers_url": "https://api.github.com/users/nicolas-grekas/followers",
-      "following_url": "https://api.github.com/users/nicolas-grekas/following{/other_user}",
-      "gists_url": "https://api.github.com/users/nicolas-grekas/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/nicolas-grekas/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/nicolas-grekas/subscriptions",
-      "organizations_url": "https://api.github.com/users/nicolas-grekas/orgs",
-      "repos_url": "https://api.github.com/users/nicolas-grekas/repos",
-      "events_url": "https://api.github.com/users/nicolas-grekas/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/nicolas-grekas/received_events",
+      "url": "https://api.github.com/users/fabpot",
+      "html_url": "https://github.com/fabpot",
+      "followers_url": "https://api.github.com/users/fabpot/followers",
+      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+      "organizations_url": "https://api.github.com/users/fabpot/orgs",
+      "repos_url": "https://api.github.com/users/fabpot/repos",
+      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/fabpot/received_events",
       "type": "User",
       "site_admin": false
     },
     "committer": {
-      "login": "nicolas-grekas",
-      "id": 243674,
-      "avatar_url": "https://avatars.githubusercontent.com/u/243674?v=3",
+      "login": "web-flow",
+      "id": 19864447,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/nicolas-grekas",
-      "html_url": "https://github.com/nicolas-grekas",
-      "followers_url": "https://api.github.com/users/nicolas-grekas/followers",
-      "following_url": "https://api.github.com/users/nicolas-grekas/following{/other_user}",
-      "gists_url": "https://api.github.com/users/nicolas-grekas/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/nicolas-grekas/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/nicolas-grekas/subscriptions",
-      "organizations_url": "https://api.github.com/users/nicolas-grekas/orgs",
-      "repos_url": "https://api.github.com/users/nicolas-grekas/repos",
-      "events_url": "https://api.github.com/users/nicolas-grekas/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/nicolas-grekas/received_events",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
       "type": "User",
       "site_admin": false
     },
     "parents": [
       {
-        "sha": "eb1e27737eec06d1c33676eefc9a9b5f9cc2ad72",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/eb1e27737eec06d1c33676eefc9a9b5f9cc2ad72",
-        "html_url": "https://github.com/symfony/symfony/commit/eb1e27737eec06d1c33676eefc9a9b5f9cc2ad72"
+        "sha": "611c272f2ab9b85fb17827ec274b57739243e0ff",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/611c272f2ab9b85fb17827ec274b57739243e0ff",
+        "html_url": "https://github.com/symfony/symfony/commit/611c272f2ab9b85fb17827ec274b57739243e0ff"
       },
       {
-        "sha": "79b71c069dc2ecbafdce190b78f5a9f989ada033",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/79b71c069dc2ecbafdce190b78f5a9f989ada033",
-        "html_url": "https://github.com/symfony/symfony/commit/79b71c069dc2ecbafdce190b78f5a9f989ada033"
+        "sha": "48b0d9b9e4e30390f25d4384caf1aadc15ccbe0b",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/48b0d9b9e4e30390f25d4384caf1aadc15ccbe0b",
+        "html_url": "https://github.com/symfony/symfony/commit/48b0d9b9e4e30390f25d4384caf1aadc15ccbe0b"
       }
     ]
   },
   "_links": {
     "self": "https://api.github.com/repos/symfony/symfony/branches/3.2",
     "html": "https://github.com/symfony/symfony/tree/3.2"
-  }
+  },
+  "protected": true,
+  "protection": {
+    "enabled": true,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/symfony/symfony/branches/3.2/protection"
 }

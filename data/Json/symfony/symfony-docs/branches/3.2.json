@@ -1,33 +1,39 @@
 {
   "name": "3.2",
   "commit": {
-    "sha": "b2a0e5094f3df8aa8682e29fab9e263cb87667fd",
+    "sha": "22ceb61ec20c5ec7701827473a9b5efc9f7a5cdb",
     "commit": {
       "author": {
         "name": "Christian Flothmann",
         "email": "christian.flothmann@sensiolabs.de",
-        "date": "2017-04-27T18:41:22Z"
+        "date": "2017-08-01T07:48:50Z"
       },
       "committer": {
         "name": "Christian Flothmann",
         "email": "christian.flothmann@sensiolabs.de",
-        "date": "2017-04-27T18:41:22Z"
+        "date": "2017-08-01T07:48:50Z"
       },
-      "message": "[#7832] use bin/console for Symfony 3.x",
+      "message": "Merge branch '2.8' into 3.2\n\n* 2.8:\n  Explained the explicit typing in YAML documents",
       "tree": {
-        "sha": "3edd38b02945c53f0879d321a3075e2fdfcc08ff",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/3edd38b02945c53f0879d321a3075e2fdfcc08ff"
+        "sha": "db0356ca48533c07b352681e21dfd211431c71d0",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/db0356ca48533c07b352681e21dfd211431c71d0"
       },
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/b2a0e5094f3df8aa8682e29fab9e263cb87667fd",
-      "comment_count": 0
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/22ceb61ec20c5ec7701827473a9b5efc9f7a5cdb",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
-    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/b2a0e5094f3df8aa8682e29fab9e263cb87667fd",
-    "html_url": "https://github.com/symfony/symfony-docs/commit/b2a0e5094f3df8aa8682e29fab9e263cb87667fd",
-    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/b2a0e5094f3df8aa8682e29fab9e263cb87667fd/comments",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/22ceb61ec20c5ec7701827473a9b5efc9f7a5cdb",
+    "html_url": "https://github.com/symfony/symfony-docs/commit/22ceb61ec20c5ec7701827473a9b5efc9f7a5cdb",
+    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/22ceb61ec20c5ec7701827473a9b5efc9f7a5cdb/comments",
     "author": {
       "login": "xabbuh",
       "id": 1957048,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1957048?v=3",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1957048?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/xabbuh",
       "html_url": "https://github.com/xabbuh",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "xabbuh",
       "id": 1957048,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1957048?v=3",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1957048?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/xabbuh",
       "html_url": "https://github.com/xabbuh",
@@ -64,14 +70,30 @@
     },
     "parents": [
       {
-        "sha": "e1684af82b84a5cc122440d98d39bc619ea70735",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/e1684af82b84a5cc122440d98d39bc619ea70735",
-        "html_url": "https://github.com/symfony/symfony-docs/commit/e1684af82b84a5cc122440d98d39bc619ea70735"
+        "sha": "6737f8041a7a8bb7339b1f0b0f9ef4006a2f0eb9",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/6737f8041a7a8bb7339b1f0b0f9ef4006a2f0eb9",
+        "html_url": "https://github.com/symfony/symfony-docs/commit/6737f8041a7a8bb7339b1f0b0f9ef4006a2f0eb9"
+      },
+      {
+        "sha": "712fd4c47714e10dbc616f70c9d2dd7f5f1c6dbf",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/712fd4c47714e10dbc616f70c9d2dd7f5f1c6dbf",
+        "html_url": "https://github.com/symfony/symfony-docs/commit/712fd4c47714e10dbc616f70c9d2dd7f5f1c6dbf"
       }
     ]
   },
   "_links": {
     "self": "https://api.github.com/repos/symfony/symfony-docs/branches/3.2",
     "html": "https://github.com/symfony/symfony-docs/tree/3.2"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/symfony/symfony-docs/branches/3.2/protection"
 }

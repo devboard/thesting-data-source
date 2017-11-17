@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/msvrtan/starter-edition/git/trees/1334e8278fc9c343d93254b81f85bdc456fae0d5"
       },
       "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/e786cf1f47297ed9fc25dc3ccaa11b65e564fe43",
-      "comment_count": 0
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
     "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/e786cf1f47297ed9fc25dc3ccaa11b65e564fe43",
     "html_url": "https://github.com/msvrtan/starter-edition/commit/e786cf1f47297ed9fc25dc3ccaa11b65e564fe43",
@@ -27,7 +33,7 @@
     "author": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -73,5 +79,16 @@
   "_links": {
     "self": "https://api.github.com/repos/msvrtan/starter-edition/branches/i25-run-docker-on-circleci",
     "html": "https://github.com/msvrtan/starter-edition/tree/i25-run-docker-on-circleci"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/msvrtan/starter-edition/branches/i25-run-docker-on-circleci/protection"
 }

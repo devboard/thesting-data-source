@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/octocat/linguist/git/trees/d3c6aa5eade7b2073b204a6fd04a70d4e65e0b1f"
       },
       "url": "https://api.github.com/repos/octocat/linguist/git/commits/f041b09c21e5b0e8e2308fce6c595c4df42f2633",
-      "comment_count": 0
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
     "url": "https://api.github.com/repos/octocat/linguist/commits/f041b09c21e5b0e8e2308fce6c595c4df42f2633",
     "html_url": "https://github.com/octocat/linguist/commit/f041b09c21e5b0e8e2308fce6c595c4df42f2633",
@@ -27,7 +33,7 @@
     "author": {
       "login": "tnm",
       "id": 126905,
-      "avatar_url": "https://avatars.githubusercontent.com/u/126905?v=3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/126905?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/tnm",
       "html_url": "https://github.com/tnm",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "tnm",
       "id": 126905,
-      "avatar_url": "https://avatars.githubusercontent.com/u/126905?v=3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/126905?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/tnm",
       "html_url": "https://github.com/tnm",
@@ -78,5 +84,16 @@
   "_links": {
     "self": "https://api.github.com/repos/octocat/linguist/branches/an-example-comparison-for-docs",
     "html": "https://github.com/octocat/linguist/tree/an-example-comparison-for-docs"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/octocat/linguist/branches/an-example-comparison-for-docs/protection"
 }

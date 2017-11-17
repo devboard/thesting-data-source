@@ -2,36 +2,29 @@
   {
     "name": "25-suppress-warnings",
     "commit": {
-      "sha": "c2b02cbbb1dc51bf0db609fb3402c2e2537bdb71",
-      "url": "https://api.github.com/repos/msvrtan/generator/commits/c2b02cbbb1dc51bf0db609fb3402c2e2537bdb71"
+      "sha": "f9e34dec772a6f75b6c009f40a50b65c53598a14",
+      "url": "https://api.github.com/repos/msvrtan/generator/commits/f9e34dec772a6f75b6c009f40a50b65c53598a14"
     }
   },
   {
-    "name": "add-console",
+    "name": "autocomplete-hacks",
     "commit": {
-      "sha": "1e1eebf55b354a969d00f6548edc1f4f17cb7fec",
-      "url": "https://api.github.com/repos/msvrtan/generator/commits/1e1eebf55b354a969d00f6548edc1f4f17cb7fec"
-    }
-  },
-  {
-    "name": "add-console2",
-    "commit": {
-      "sha": "3617f5831caa6cadfdbbb4b74faf5cd1d5f5744f",
-      "url": "https://api.github.com/repos/msvrtan/generator/commits/3617f5831caa6cadfdbbb4b74faf5cd1d5f5744f"
+      "sha": "429dfa503d9475699ae8f020f407cccd2e738f63",
+      "url": "https://api.github.com/repos/msvrtan/generator/commits/429dfa503d9475699ae8f020f407cccd2e738f63"
     }
   },
   {
     "name": "dev",
     "commit": {
-      "sha": "989d9ed6ef65bceaba19766d18e7d1746e1ea4c1",
-      "url": "https://api.github.com/repos/msvrtan/generator/commits/989d9ed6ef65bceaba19766d18e7d1746e1ea4c1"
+      "sha": "f77b59d5d480c56e60f6edef27e7bec6f93d8c6f",
+      "url": "https://api.github.com/repos/msvrtan/generator/commits/f77b59d5d480c56e60f6edef27e7bec6f93d8c6f"
     }
   },
   {
     "name": "master",
     "commit": {
-      "sha": "989d9ed6ef65bceaba19766d18e7d1746e1ea4c1",
-      "url": "https://api.github.com/repos/msvrtan/generator/commits/989d9ed6ef65bceaba19766d18e7d1746e1ea4c1"
+      "sha": "f77b59d5d480c56e60f6edef27e7bec6f93d8c6f",
+      "url": "https://api.github.com/repos/msvrtan/generator/commits/f77b59d5d480c56e60f6edef27e7bec6f93d8c6f"
     }
   },
   {
@@ -42,10 +35,10 @@
     }
   },
   {
-    "name": "upgrade-packages",
+    "name": "something",
     "commit": {
-      "sha": "d72441ebc16eabd1dd4c0b9ea7a9a179e18eaca6",
-      "url": "https://api.github.com/repos/msvrtan/generator/commits/d72441ebc16eabd1dd4c0b9ea7a9a179e18eaca6"
+      "sha": "fa7d603fef76609e309fcacb77eecb98d8efee6b",
+      "url": "https://api.github.com/repos/msvrtan/generator/commits/fa7d603fef76609e309fcacb77eecb98d8efee6b"
     }
   }
 ]

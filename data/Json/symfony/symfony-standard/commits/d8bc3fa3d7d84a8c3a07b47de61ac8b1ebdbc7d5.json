@@ -1,0 +1,33 @@
+{
+  "sha": "d8bc3fa3d7d84a8c3a07b47de61ac8b1ebdbc7d5",
+  "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/d8bc3fa3d7d84a8c3a07b47de61ac8b1ebdbc7d5",
+  "html_url": "https://github.com/symfony/symfony-standard/commit/d8bc3fa3d7d84a8c3a07b47de61ac8b1ebdbc7d5",
+  "author": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2016-05-30T08:50:29Z"
+  },
+  "committer": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2016-05-30T08:50:29Z"
+  },
+  "tree": {
+    "sha": "1c88f8041be9734cc09643c3de3145622ed8b85b",
+    "url": "https://api.github.com/repos/symfony/symfony-standard/git/trees/1c88f8041be9734cc09643c3de3145622ed8b85b"
+  },
+  "message": "updated VENDORS for 2.3.42",
+  "parents": [
+    {
+      "sha": "aad1bb0fa3d49ca0cd41e52ac0f6ad2b2a89a1fa",
+      "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/aad1bb0fa3d49ca0cd41e52ac0f6ad2b2a89a1fa",
+      "html_url": "https://github.com/symfony/symfony-standard/commit/aad1bb0fa3d49ca0cd41e52ac0f6ad2b2a89a1fa"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

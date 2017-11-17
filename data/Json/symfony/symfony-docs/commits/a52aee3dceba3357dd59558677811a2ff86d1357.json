@@ -1,0 +1,33 @@
+{
+  "sha": "a52aee3dceba3357dd59558677811a2ff86d1357",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/a52aee3dceba3357dd59558677811a2ff86d1357",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/a52aee3dceba3357dd59558677811a2ff86d1357",
+  "author": {
+    "name": "Ryan Weaver",
+    "email": "weaverryan+github@gmail.com",
+    "date": "2017-03-13T13:42:10Z"
+  },
+  "committer": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "2017-03-13T13:42:10Z"
+  },
+  "tree": {
+    "sha": "655f7b56ca0ecffb7a4d678958382d94a7386d72",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/655f7b56ca0ecffb7a4d678958382d94a7386d72"
+  },
+  "message": "Making line more clear\n\n... and trying out the diff formatting!",
+  "parents": [
+    {
+      "sha": "53e4ee92e45a63c7ccd58f84f73042d82ecfca1f",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/53e4ee92e45a63c7ccd58f84f73042d82ecfca1f",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/53e4ee92e45a63c7ccd58f84f73042d82ecfca1f"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

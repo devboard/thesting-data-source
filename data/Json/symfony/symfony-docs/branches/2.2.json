@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/a65d209eeec24678a511dc10cd977709862e2e97"
       },
       "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/88e25d50213a629d7fb959e7737eeac652aa26d5",
-      "comment_count": 0
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
     "url": "https://api.github.com/repos/symfony/symfony-docs/commits/88e25d50213a629d7fb959e7737eeac652aa26d5",
     "html_url": "https://github.com/symfony/symfony-docs/commit/88e25d50213a629d7fb959e7737eeac652aa26d5",
@@ -27,7 +33,7 @@
     "author": {
       "login": "weaverryan",
       "id": 121003,
-      "avatar_url": "https://avatars.githubusercontent.com/u/121003?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/121003?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/weaverryan",
       "html_url": "https://github.com/weaverryan",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "weaverryan",
       "id": 121003,
-      "avatar_url": "https://avatars.githubusercontent.com/u/121003?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/121003?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/weaverryan",
       "html_url": "https://github.com/weaverryan",
@@ -78,5 +84,16 @@
   "_links": {
     "self": "https://api.github.com/repos/symfony/symfony-docs/branches/2.2",
     "html": "https://github.com/symfony/symfony-docs/tree/2.2"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/symfony/symfony-docs/branches/2.2/protection"
 }

@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/msvrtan/user-edition/git/trees/bae2647b247e62924b178765a8e007682d2d9f89"
       },
       "url": "https://api.github.com/repos/msvrtan/user-edition/git/commits/e20788b9f6f2350e704fa62967c0fde3aabfe19b",
-      "comment_count": 0
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
     "url": "https://api.github.com/repos/msvrtan/user-edition/commits/e20788b9f6f2350e704fa62967c0fde3aabfe19b",
     "html_url": "https://github.com/msvrtan/user-edition/commit/e20788b9f6f2350e704fa62967c0fde3aabfe19b",
@@ -27,7 +33,7 @@
     "author": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -73,5 +79,16 @@
   "_links": {
     "self": "https://api.github.com/repos/msvrtan/user-edition/branches/mergez",
     "html": "https://github.com/msvrtan/user-edition/tree/mergez"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/msvrtan/user-edition/branches/mergez/protection"
 }

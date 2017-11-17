@@ -1,0 +1,33 @@
+{
+  "sha": "04535f018dd8a9d1a93242c87fdf8f196e8a0d44",
+  "url": "https://api.github.com/repos/msvrtan/SkeletonBundle/git/commits/04535f018dd8a9d1a93242c87fdf8f196e8a0d44",
+  "html_url": "https://github.com/msvrtan/SkeletonBundle/commit/04535f018dd8a9d1a93242c87fdf8f196e8a0d44",
+  "author": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2016-11-12T12:34:17Z"
+  },
+  "committer": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2016-11-12T12:34:17Z"
+  },
+  "tree": {
+    "sha": "74f2c2334055e72fa6469e12630575f29591b8db",
+    "url": "https://api.github.com/repos/msvrtan/SkeletonBundle/git/trees/74f2c2334055e72fa6469e12630575f29591b8db"
+  },
+  "message": "Update composer.lock, package update\n\n - paragonie/random_compat (v2.0.3->v2.0.4)\n - sensio/generator-bundle (v3.0.11->v3.1.1)",
+  "parents": [
+    {
+      "sha": "8d3d45390f6bee4860a061213ea9fb119085dce9",
+      "url": "https://api.github.com/repos/msvrtan/SkeletonBundle/git/commits/8d3d45390f6bee4860a061213ea9fb119085dce9",
+      "html_url": "https://github.com/msvrtan/SkeletonBundle/commit/8d3d45390f6bee4860a061213ea9fb119085dce9"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

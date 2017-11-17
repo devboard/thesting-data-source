@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/octocat/Spoon-Knife/git/trees/d317fd9e78e5002007db3f80ceb010a41181185e"
       },
       "url": "https://api.github.com/repos/octocat/Spoon-Knife/git/commits/58060701b538587e8b4ab127253e6ed6fbdc53d1",
-      "comment_count": 11
+      "comment_count": 14,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
     "url": "https://api.github.com/repos/octocat/Spoon-Knife/commits/58060701b538587e8b4ab127253e6ed6fbdc53d1",
     "html_url": "https://github.com/octocat/Spoon-Knife/commit/58060701b538587e8b4ab127253e6ed6fbdc53d1",
@@ -27,7 +33,7 @@
     "author": {
       "login": "octocat",
       "id": 583231,
-      "avatar_url": "https://avatars.githubusercontent.com/u/583231?v=3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/583231?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/octocat",
       "html_url": "https://github.com/octocat",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "octocat",
       "id": 583231,
-      "avatar_url": "https://avatars.githubusercontent.com/u/583231?v=3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/583231?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/octocat",
       "html_url": "https://github.com/octocat",
@@ -73,5 +79,16 @@
   "_links": {
     "self": "https://api.github.com/repos/octocat/Spoon-Knife/branches/test-branch",
     "html": "https://github.com/octocat/Spoon-Knife/tree/test-branch"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/octocat/Spoon-Knife/branches/test-branch/protection"
 }

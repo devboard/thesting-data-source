@@ -1,0 +1,33 @@
+{
+  "sha": "90c039c4b7edbcde11e87540071a018817d6edf9",
+  "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/90c039c4b7edbcde11e87540071a018817d6edf9",
+  "html_url": "https://github.com/msvrtan/starter-edition/commit/90c039c4b7edbcde11e87540071a018817d6edf9",
+  "author": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2017-06-10T10:05:52Z"
+  },
+  "committer": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2017-06-10T10:32:29Z"
+  },
+  "tree": {
+    "sha": "d60e9c4ccc21b93e1442b1a9eea8aef16901a906",
+    "url": "https://api.github.com/repos/msvrtan/starter-edition/git/trees/d60e9c4ccc21b93e1442b1a9eea8aef16901a906"
+  },
+  "message": "[starter edition] Switch to CircleCI 2.0",
+  "parents": [
+    {
+      "sha": "8b30c2a4ccc615112f2456f78b467281f8f6f700",
+      "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/8b30c2a4ccc615112f2456f78b467281f8f6f700",
+      "html_url": "https://github.com/msvrtan/starter-edition/commit/8b30c2a4ccc615112f2456f78b467281f8f6f700"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

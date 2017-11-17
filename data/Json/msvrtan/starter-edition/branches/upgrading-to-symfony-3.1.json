@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/msvrtan/starter-edition/git/trees/1953ffc61a8894e5f70996ece4fb03d89f755b00"
       },
       "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/dacd1a12fd472825c49a286d741b77f158392a23",
-      "comment_count": 0
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
     "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/dacd1a12fd472825c49a286d741b77f158392a23",
     "html_url": "https://github.com/msvrtan/starter-edition/commit/dacd1a12fd472825c49a286d741b77f158392a23",
@@ -27,7 +33,7 @@
     "author": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -73,5 +79,16 @@
   "_links": {
     "self": "https://api.github.com/repos/msvrtan/starter-edition/branches/upgrading-to-symfony-3.1",
     "html": "https://github.com/msvrtan/starter-edition/tree/upgrading-to-symfony-3.1"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/msvrtan/starter-edition/branches/upgrading-to-symfony-3.1/protection"
 }

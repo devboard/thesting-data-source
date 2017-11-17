@@ -1,0 +1,9 @@
+{
+  "ref": "refs/tags/v2.2.0-RC2",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/refs/tags/v2.2.0-RC2",
+  "object": {
+    "sha": "8fa7644d9bfea70c0451ed49a0ec7c5c70826c2a",
+    "type": "tag",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/tags/8fa7644d9bfea70c0451ed49a0ec7c5c70826c2a"
+  }
+}

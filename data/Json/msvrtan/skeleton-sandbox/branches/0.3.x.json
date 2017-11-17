@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/git/trees/f27be0de6181da923542eff91219e1c44674cc0f"
       },
       "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/git/commits/905b94d3c8eda452f0945ce173e22b63be8c97a6",
-      "comment_count": 0
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
     "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/commits/905b94d3c8eda452f0945ce173e22b63be8c97a6",
     "html_url": "https://github.com/msvrtan/skeleton-sandbox/commit/905b94d3c8eda452f0945ce173e22b63be8c97a6",
@@ -27,7 +33,7 @@
     "author": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -73,5 +79,16 @@
   "_links": {
     "self": "https://api.github.com/repos/msvrtan/skeleton-sandbox/branches/0.3.x",
     "html": "https://github.com/msvrtan/skeleton-sandbox/tree/0.3.x"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/branches/0.3.x/protection"
 }

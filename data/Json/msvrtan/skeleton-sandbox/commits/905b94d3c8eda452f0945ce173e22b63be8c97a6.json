@@ -1,0 +1,33 @@
+{
+  "sha": "905b94d3c8eda452f0945ce173e22b63be8c97a6",
+  "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/git/commits/905b94d3c8eda452f0945ce173e22b63be8c97a6",
+  "html_url": "https://github.com/msvrtan/skeleton-sandbox/commit/905b94d3c8eda452f0945ce173e22b63be8c97a6",
+  "author": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2016-11-01T21:55:35Z"
+  },
+  "committer": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2016-11-01T21:55:35Z"
+  },
+  "tree": {
+    "sha": "f27be0de6181da923542eff91219e1c44674cc0f",
+    "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/git/trees/f27be0de6181da923542eff91219e1c44674cc0f"
+  },
+  "message": "wip",
+  "parents": [
+    {
+      "sha": "7a2e6b3874ebe050dd22f85071c9fc2f31fdc8ab",
+      "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/git/commits/7a2e6b3874ebe050dd22f85071c9fc2f31fdc8ab",
+      "html_url": "https://github.com/msvrtan/skeleton-sandbox/commit/7a2e6b3874ebe050dd22f85071c9fc2f31fdc8ab"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

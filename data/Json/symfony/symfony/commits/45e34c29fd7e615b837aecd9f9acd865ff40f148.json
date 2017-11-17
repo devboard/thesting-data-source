@@ -1,0 +1,33 @@
+{
+  "sha": "45e34c29fd7e615b837aecd9f9acd865ff40f148",
+  "url": "https://api.github.com/repos/symfony/symfony/git/commits/45e34c29fd7e615b837aecd9f9acd865ff40f148",
+  "html_url": "https://github.com/symfony/symfony/commit/45e34c29fd7e615b837aecd9f9acd865ff40f148",
+  "author": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2010-11-30T20:10:55Z"
+  },
+  "committer": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2010-11-30T20:10:55Z"
+  },
+  "tree": {
+    "sha": "3ae53abc5fbfbce7fb27dce031c19d0e15983516",
+    "url": "https://api.github.com/repos/symfony/symfony/git/trees/3ae53abc5fbfbce7fb27dce031c19d0e15983516"
+  },
+  "message": "[Routing] simplified code",
+  "parents": [
+    {
+      "sha": "794634db7ca1a630a68d4f631d4e9421266a1a26",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/794634db7ca1a630a68d4f631d4e9421266a1a26",
+      "html_url": "https://github.com/symfony/symfony/commit/794634db7ca1a630a68d4f631d4e9421266a1a26"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

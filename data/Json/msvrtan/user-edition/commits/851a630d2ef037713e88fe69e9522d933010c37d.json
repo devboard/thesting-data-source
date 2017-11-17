@@ -1,0 +1,33 @@
+{
+  "sha": "851a630d2ef037713e88fe69e9522d933010c37d",
+  "url": "https://api.github.com/repos/msvrtan/user-edition/git/commits/851a630d2ef037713e88fe69e9522d933010c37d",
+  "html_url": "https://github.com/msvrtan/user-edition/commit/851a630d2ef037713e88fe69e9522d933010c37d",
+  "author": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2016-03-06T23:27:35Z"
+  },
+  "committer": {
+    "name": "Miro Svrtan",
+    "email": "miro@mirosvrtan.me",
+    "date": "2016-03-06T23:28:10Z"
+  },
+  "tree": {
+    "sha": "328542ca315cf03ece07d75651e66d463a06961d",
+    "url": "https://api.github.com/repos/msvrtan/user-edition/git/trees/328542ca315cf03ece07d75651e66d463a06961d"
+  },
+  "message": "[user-edition] Updated composer.lock for FOSUserBundle",
+  "parents": [
+    {
+      "sha": "7ba5e4fada12fe5f120d3811870c703d84ca9122",
+      "url": "https://api.github.com/repos/msvrtan/user-edition/git/commits/7ba5e4fada12fe5f120d3811870c703d84ca9122",
+      "html_url": "https://github.com/msvrtan/user-edition/commit/7ba5e4fada12fe5f120d3811870c703d84ca9122"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

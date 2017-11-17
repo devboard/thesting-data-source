@@ -1,0 +1,38 @@
+{
+  "sha": "1409445740a40f25ff79516f5a4e8d949c0a4cd7",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/1409445740a40f25ff79516f5a4e8d949c0a4cd7",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/1409445740a40f25ff79516f5a4e8d949c0a4cd7",
+  "author": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2013-02-08T18:33:06Z"
+  },
+  "committer": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2013-02-08T18:33:06Z"
+  },
+  "tree": {
+    "sha": "d6a066c0c0c54f1ba2e2f90ec3df9d6bd7023e9f",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/d6a066c0c0c54f1ba2e2f90ec3df9d6bd7023e9f"
+  },
+  "message": "Merge pull request #2211 from symfony/twig-namespaced-paths\n\n[#1786] Adding documentation for Twig namespaced paths support",
+  "parents": [
+    {
+      "sha": "eedcf385cf49f6ad786e331c6b75a97d078102c0",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/eedcf385cf49f6ad786e331c6b75a97d078102c0",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/eedcf385cf49f6ad786e331c6b75a97d078102c0"
+    },
+    {
+      "sha": "a7ce478ea3b1aacb047f04885e0f3f6fff421d06",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/a7ce478ea3b1aacb047f04885e0f3f6fff421d06",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/a7ce478ea3b1aacb047f04885e0f3f6fff421d06"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

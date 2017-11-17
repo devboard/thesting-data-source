@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/trees/18d2bb41fc458da53d218e09ba9f860189fffa91"
       },
       "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/37c058360baa4882210e207bd2857fb1ca402ddc",
-      "comment_count": 0
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
     "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/37c058360baa4882210e207bd2857fb1ca402ddc",
     "html_url": "https://github.com/nulldevelopmenthr/generator/commit/37c058360baa4882210e207bd2857fb1ca402ddc",
@@ -27,7 +33,7 @@
     "author": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "web-flow",
       "id": 19864447,
-      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/web-flow",
       "html_url": "https://github.com/web-flow",
@@ -78,5 +84,16 @@
   "_links": {
     "self": "https://api.github.com/repos/nulldevelopmenthr/generator/branches/0.1.x",
     "html": "https://github.com/nulldevelopmenthr/generator/tree/0.1.x"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/nulldevelopmenthr/generator/branches/0.1.x/protection"
 }

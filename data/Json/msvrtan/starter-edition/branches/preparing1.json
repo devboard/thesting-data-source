@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/msvrtan/starter-edition/git/trees/8da6fd86b2c47ee6b7159acc8efef196c50063c0"
       },
       "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/60836018816261bf50bed82df7c921e0811fbbc2",
-      "comment_count": 0
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
     "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/60836018816261bf50bed82df7c921e0811fbbc2",
     "html_url": "https://github.com/msvrtan/starter-edition/commit/60836018816261bf50bed82df7c921e0811fbbc2",
@@ -27,7 +33,7 @@
     "author": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "msvrtan",
       "id": 1780572,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1780572?v=3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/msvrtan",
       "html_url": "https://github.com/msvrtan",
@@ -73,5 +79,16 @@
   "_links": {
     "self": "https://api.github.com/repos/msvrtan/starter-edition/branches/preparing1",
     "html": "https://github.com/msvrtan/starter-edition/tree/preparing1"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/msvrtan/starter-edition/branches/preparing1/protection"
 }

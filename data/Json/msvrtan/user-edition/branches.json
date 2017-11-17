@@ -9,8 +9,8 @@
   {
     "name": "dev",
     "commit": {
-      "sha": "1e93967775f3cf52b6473900441c8edd8a68828a",
-      "url": "https://api.github.com/repos/msvrtan/user-edition/commits/1e93967775f3cf52b6473900441c8edd8a68828a"
+      "sha": "6d23c4c8569f032cf834abd459fe589915658827",
+      "url": "https://api.github.com/repos/msvrtan/user-edition/commits/6d23c4c8569f032cf834abd459fe589915658827"
     }
   },
   {
@@ -32,6 +32,13 @@
     "commit": {
       "sha": "1e93967775f3cf52b6473900441c8edd8a68828a",
       "url": "https://api.github.com/repos/msvrtan/user-edition/commits/1e93967775f3cf52b6473900441c8edd8a68828a"
+    }
+  },
+  {
+    "name": "rebased-version",
+    "commit": {
+      "sha": "b4384b92f3094c003e47fc7fd3f6a1f635691a6d",
+      "url": "https://api.github.com/repos/msvrtan/user-edition/commits/b4384b92f3094c003e47fc7fd3f6a1f635691a6d"
     }
   }
 ]

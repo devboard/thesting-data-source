@@ -1,0 +1,38 @@
+{
+  "sha": "b7fb136a3abb169f61c8c22f3e37e62f89439b62",
+  "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/b7fb136a3abb169f61c8c22f3e37e62f89439b62",
+  "html_url": "https://github.com/msvrtan/broadway/commit/b7fb136a3abb169f61c8c22f3e37e62f89439b62",
+  "author": {
+    "name": "Fritsjan",
+    "email": "fritsjanb@users.noreply.github.com",
+    "date": "2014-09-22T08:54:45Z"
+  },
+  "committer": {
+    "name": "Fritsjan",
+    "email": "fritsjanb@users.noreply.github.com",
+    "date": "2014-09-22T08:54:45Z"
+  },
+  "tree": {
+    "sha": "5ffa70807040669c8a1358fa854a0d1a52b62ff3",
+    "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/5ffa70807040669c8a1358fa854a0d1a52b62ff3"
+  },
+  "message": "Merge pull request #39 from brightmachine/change-getId-to-getAggregateRootId\n\nrename getId to getAggregateRootId for aggregate roots",
+  "parents": [
+    {
+      "sha": "409b32e62214c481f62dc0ec6448d2a66e3e41c9",
+      "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/409b32e62214c481f62dc0ec6448d2a66e3e41c9",
+      "html_url": "https://github.com/msvrtan/broadway/commit/409b32e62214c481f62dc0ec6448d2a66e3e41c9"
+    },
+    {
+      "sha": "9bde1af687b6e45d643bb54ca6f07347f8ff87e9",
+      "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/9bde1af687b6e45d643bb54ca6f07347f8ff87e9",
+      "html_url": "https://github.com/msvrtan/broadway/commit/9bde1af687b6e45d643bb54ca6f07347f8ff87e9"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

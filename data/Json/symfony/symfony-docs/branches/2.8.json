@@ -1,52 +1,58 @@
 {
   "name": "2.8",
   "commit": {
-    "sha": "a5ea888c1912ada0807e35f90bb8abde8107be3e",
+    "sha": "f0b833af9bbc57df3ecbf965b4010a34f46c399e",
     "commit": {
       "author": {
-        "name": "Christian Flothmann",
-        "email": "christian.flothmann@sensiolabs.de",
-        "date": "2017-04-27T18:57:07Z"
+        "name": "Stepan Mednikov",
+        "email": "StepanMe@users.noreply.github.com",
+        "date": "2017-11-16T09:11:54Z"
       },
       "committer": {
         "name": "Christian Flothmann",
         "email": "christian.flothmann@sensiolabs.de",
-        "date": "2017-04-27T18:57:07Z"
+        "date": "2017-11-16T10:16:37Z"
       },
-      "message": "minor #7824 Fixed the form types of the buttons in the Form reference (javiereguiluz)\n\nThis PR was squashed before being merged into the 2.8 branch (closes #7824).\n\nDiscussion\n----------\n\nFixed the form types of the buttons in the Form reference\n\nThis fixes #6864.\n\nCommits\n-------\n\n7239fb9 Fixed the form types of the buttons in the Form reference",
+      "message": "Update micro_kernel_trait.rst\n\n\"This method builds and configures...\" instead of \"This methods builds and configures\"",
       "tree": {
-        "sha": "1f8402e426dfd99cdb91889149e97b2013b40aff",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/1f8402e426dfd99cdb91889149e97b2013b40aff"
+        "sha": "f6a06089ea80362c1595bb669baf2a9d4381e6ae",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/f6a06089ea80362c1595bb669baf2a9d4381e6ae"
       },
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/a5ea888c1912ada0807e35f90bb8abde8107be3e",
-      "comment_count": 0
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/f0b833af9bbc57df3ecbf965b4010a34f46c399e",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
-    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/a5ea888c1912ada0807e35f90bb8abde8107be3e",
-    "html_url": "https://github.com/symfony/symfony-docs/commit/a5ea888c1912ada0807e35f90bb8abde8107be3e",
-    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/a5ea888c1912ada0807e35f90bb8abde8107be3e/comments",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/f0b833af9bbc57df3ecbf965b4010a34f46c399e",
+    "html_url": "https://github.com/symfony/symfony-docs/commit/f0b833af9bbc57df3ecbf965b4010a34f46c399e",
+    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/f0b833af9bbc57df3ecbf965b4010a34f46c399e/comments",
     "author": {
-      "login": "xabbuh",
-      "id": 1957048,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1957048?v=3",
+      "login": "StepanMe",
+      "id": 23259233,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/23259233?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/xabbuh",
-      "html_url": "https://github.com/xabbuh",
-      "followers_url": "https://api.github.com/users/xabbuh/followers",
-      "following_url": "https://api.github.com/users/xabbuh/following{/other_user}",
-      "gists_url": "https://api.github.com/users/xabbuh/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/xabbuh/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/xabbuh/subscriptions",
-      "organizations_url": "https://api.github.com/users/xabbuh/orgs",
-      "repos_url": "https://api.github.com/users/xabbuh/repos",
-      "events_url": "https://api.github.com/users/xabbuh/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/xabbuh/received_events",
+      "url": "https://api.github.com/users/StepanMe",
+      "html_url": "https://github.com/StepanMe",
+      "followers_url": "https://api.github.com/users/StepanMe/followers",
+      "following_url": "https://api.github.com/users/StepanMe/following{/other_user}",
+      "gists_url": "https://api.github.com/users/StepanMe/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/StepanMe/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/StepanMe/subscriptions",
+      "organizations_url": "https://api.github.com/users/StepanMe/orgs",
+      "repos_url": "https://api.github.com/users/StepanMe/repos",
+      "events_url": "https://api.github.com/users/StepanMe/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/StepanMe/received_events",
       "type": "User",
       "site_admin": false
     },
     "committer": {
       "login": "xabbuh",
       "id": 1957048,
-      "avatar_url": "https://avatars.githubusercontent.com/u/1957048?v=3",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1957048?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/xabbuh",
       "html_url": "https://github.com/xabbuh",
@@ -64,19 +70,25 @@
     },
     "parents": [
       {
-        "sha": "ce1b83dd5bcb08c0e52e218f5061eb0d4381fdcc",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/ce1b83dd5bcb08c0e52e218f5061eb0d4381fdcc",
-        "html_url": "https://github.com/symfony/symfony-docs/commit/ce1b83dd5bcb08c0e52e218f5061eb0d4381fdcc"
-      },
-      {
-        "sha": "7239fb904a831408b1efb668ab70a9e880da113d",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/7239fb904a831408b1efb668ab70a9e880da113d",
-        "html_url": "https://github.com/symfony/symfony-docs/commit/7239fb904a831408b1efb668ab70a9e880da113d"
+        "sha": "510c6d8ed1b363150bf8b4dfc76ede925118944d",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/510c6d8ed1b363150bf8b4dfc76ede925118944d",
+        "html_url": "https://github.com/symfony/symfony-docs/commit/510c6d8ed1b363150bf8b4dfc76ede925118944d"
       }
     ]
   },
   "_links": {
     "self": "https://api.github.com/repos/symfony/symfony-docs/branches/2.8",
     "html": "https://github.com/symfony/symfony-docs/tree/2.8"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/symfony/symfony-docs/branches/2.8/protection"
 }

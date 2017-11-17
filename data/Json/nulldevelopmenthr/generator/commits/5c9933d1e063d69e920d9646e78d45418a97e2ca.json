@@ -1,0 +1,38 @@
+{
+  "sha": "5c9933d1e063d69e920d9646e78d45418a97e2ca",
+  "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/5c9933d1e063d69e920d9646e78d45418a97e2ca",
+  "html_url": "https://github.com/nulldevelopmenthr/generator/commit/5c9933d1e063d69e920d9646e78d45418a97e2ca",
+  "author": {
+    "name": "Miro Svrtan",
+    "email": "msvrtan@users.noreply.github.com",
+    "date": "2016-06-18T22:27:17Z"
+  },
+  "committer": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "2016-06-18T22:27:17Z"
+  },
+  "tree": {
+    "sha": "abe9202652275ac3998277866ebd8f103bc10f8a",
+    "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/trees/abe9202652275ac3998277866ebd8f103bc10f8a"
+  },
+  "message": "Merge pull request #63 from msvrtan/removing-commands\n\nPreparing for 0.2.0",
+  "parents": [
+    {
+      "sha": "37c058360baa4882210e207bd2857fb1ca402ddc",
+      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/37c058360baa4882210e207bd2857fb1ca402ddc",
+      "html_url": "https://github.com/nulldevelopmenthr/generator/commit/37c058360baa4882210e207bd2857fb1ca402ddc"
+    },
+    {
+      "sha": "a125a7599bdb1316797577a59dc3f662cf5f4d0a",
+      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/a125a7599bdb1316797577a59dc3f662cf5f4d0a",
+      "html_url": "https://github.com/nulldevelopmenthr/generator/commit/a125a7599bdb1316797577a59dc3f662cf5f4d0a"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

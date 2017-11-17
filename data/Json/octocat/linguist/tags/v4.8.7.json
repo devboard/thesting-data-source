@@ -1,0 +1,9 @@
+{
+  "ref": "refs/tags/v4.8.7",
+  "url": "https://api.github.com/repos/octocat/linguist/git/refs/tags/v4.8.7",
+  "object": {
+    "sha": "e78e9e47478d12e7b06c37d5444aeb418b18ea0e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/octocat/linguist/git/commits/e78e9e47478d12e7b06c37d5444aeb418b18ea0e"
+  }
+}

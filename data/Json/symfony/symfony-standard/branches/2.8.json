@@ -1,33 +1,39 @@
 {
   "name": "2.8",
   "commit": {
-    "sha": "cee3655495c945308594cd48f61c6c35279584bf",
+    "sha": "1880a84cb0fe77fe3965103ae86171ae73391ab9",
     "commit": {
       "author": {
         "name": "Fabien Potencier",
         "email": "fabien.potencier@gmail.com",
-        "date": "2017-04-22T00:31:30Z"
+        "date": "2017-11-17T06:32:02Z"
       },
       "committer": {
         "name": "Fabien Potencier",
         "email": "fabien.potencier@gmail.com",
-        "date": "2017-04-22T00:31:30Z"
+        "date": "2017-11-17T06:32:02Z"
       },
-      "message": "bug #1063 remove AsseticBundle after broken merge (xabbuh)\n\nThis PR was merged into the 2.8 branch.\n\nDiscussion\n----------\n\nremove AsseticBundle after broken merge\n\nThis will fix #1062.\n\nCommits\n-------\n\n0164e6f remove AsseticBundle after broken merge",
+      "message": "updated VENDORS for 2.8.31",
       "tree": {
-        "sha": "496e83c9dadf1720a38568b52a32458c962eee82",
-        "url": "https://api.github.com/repos/symfony/symfony-standard/git/trees/496e83c9dadf1720a38568b52a32458c962eee82"
+        "sha": "96bacc5e0c4041d7f6047afb2bd24ef63eabef2d",
+        "url": "https://api.github.com/repos/symfony/symfony-standard/git/trees/96bacc5e0c4041d7f6047afb2bd24ef63eabef2d"
       },
-      "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/cee3655495c945308594cd48f61c6c35279584bf",
-      "comment_count": 0
+      "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/1880a84cb0fe77fe3965103ae86171ae73391ab9",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
-    "url": "https://api.github.com/repos/symfony/symfony-standard/commits/cee3655495c945308594cd48f61c6c35279584bf",
-    "html_url": "https://github.com/symfony/symfony-standard/commit/cee3655495c945308594cd48f61c6c35279584bf",
-    "comments_url": "https://api.github.com/repos/symfony/symfony-standard/commits/cee3655495c945308594cd48f61c6c35279584bf/comments",
+    "url": "https://api.github.com/repos/symfony/symfony-standard/commits/1880a84cb0fe77fe3965103ae86171ae73391ab9",
+    "html_url": "https://github.com/symfony/symfony-standard/commit/1880a84cb0fe77fe3965103ae86171ae73391ab9",
+    "comments_url": "https://api.github.com/repos/symfony/symfony-standard/commits/1880a84cb0fe77fe3965103ae86171ae73391ab9/comments",
     "author": {
       "login": "fabpot",
       "id": 47313,
-      "avatar_url": "https://avatars.githubusercontent.com/u/47313?v=3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/fabpot",
       "html_url": "https://github.com/fabpot",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "fabpot",
       "id": 47313,
-      "avatar_url": "https://avatars.githubusercontent.com/u/47313?v=3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/fabpot",
       "html_url": "https://github.com/fabpot",
@@ -64,19 +70,25 @@
     },
     "parents": [
       {
-        "sha": "ad37540202d15f1fac51024c42d5edc770447037",
-        "url": "https://api.github.com/repos/symfony/symfony-standard/commits/ad37540202d15f1fac51024c42d5edc770447037",
-        "html_url": "https://github.com/symfony/symfony-standard/commit/ad37540202d15f1fac51024c42d5edc770447037"
-      },
-      {
-        "sha": "0164e6f8875853bf8e2768e2d3f3760ed62c1da8",
-        "url": "https://api.github.com/repos/symfony/symfony-standard/commits/0164e6f8875853bf8e2768e2d3f3760ed62c1da8",
-        "html_url": "https://github.com/symfony/symfony-standard/commit/0164e6f8875853bf8e2768e2d3f3760ed62c1da8"
+        "sha": "91052f936062a3662ca94d247d3dd78816cb0e21",
+        "url": "https://api.github.com/repos/symfony/symfony-standard/commits/91052f936062a3662ca94d247d3dd78816cb0e21",
+        "html_url": "https://github.com/symfony/symfony-standard/commit/91052f936062a3662ca94d247d3dd78816cb0e21"
       }
     ]
   },
   "_links": {
     "self": "https://api.github.com/repos/symfony/symfony-standard/branches/2.8",
     "html": "https://github.com/symfony/symfony-standard/tree/2.8"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/symfony/symfony-standard/branches/2.8/protection"
 }

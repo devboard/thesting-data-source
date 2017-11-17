@@ -5,7 +5,7 @@
   "owner": {
     "login": "octocat",
     "id": 583231,
-    "avatar_url": "https://avatars.githubusercontent.com/u/583231?v=3",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/583231?v=4",
     "gravatar_id": "",
     "url": "https://api.github.com/users/octocat",
     "html_url": "https://github.com/octocat",
@@ -79,10 +79,11 @@
   "has_downloads": true,
   "has_wiki": true,
   "has_pages": false,
-  "forks_count": 1,
+  "forks_count": 4,
   "mirror_url": null,
+  "archived": false,
   "open_issues_count": 0,
-  "forks": 1,
+  "forks": 4,
   "open_issues": 0,
   "watchers": 0,
   "default_branch": "gh-pages",
@@ -91,6 +92,6 @@
     "push": false,
     "pull": true
   },
-  "network_count": 1,
-  "subscribers_count": 0
+  "network_count": 4,
+  "subscribers_count": 1
 }

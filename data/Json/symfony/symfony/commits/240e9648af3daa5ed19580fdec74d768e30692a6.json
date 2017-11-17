@@ -1,0 +1,38 @@
+{
+  "sha": "240e9648af3daa5ed19580fdec74d768e30692a6",
+  "url": "https://api.github.com/repos/symfony/symfony/git/commits/240e9648af3daa5ed19580fdec74d768e30692a6",
+  "html_url": "https://github.com/symfony/symfony/commit/240e9648af3daa5ed19580fdec74d768e30692a6",
+  "author": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2016-01-14T10:11:35Z"
+  },
+  "committer": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2016-01-14T10:11:35Z"
+  },
+  "tree": {
+    "sha": "a1959b26cae0fcbfc350253dad02ae49583724bb",
+    "url": "https://api.github.com/repos/symfony/symfony/git/trees/a1959b26cae0fcbfc350253dad02ae49583724bb"
+  },
+  "message": "Merge pull request #17365 from fabpot/release-2.6.13\n\nreleased v2.6.13",
+  "parents": [
+    {
+      "sha": "e05da262eb963da58d9a803277b82a3e902e5fb5",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/e05da262eb963da58d9a803277b82a3e902e5fb5",
+      "html_url": "https://github.com/symfony/symfony/commit/e05da262eb963da58d9a803277b82a3e902e5fb5"
+    },
+    {
+      "sha": "a651f54c9f1bfa026631193aa8aa41c737d7d123",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/a651f54c9f1bfa026631193aa8aa41c737d7d123",
+      "html_url": "https://github.com/symfony/symfony/commit/a651f54c9f1bfa026631193aa8aa41c737d7d123"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

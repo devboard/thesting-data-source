@@ -1,0 +1,38 @@
+{
+  "sha": "67d75eb098e8844fcc82634fa8230e0aca077995",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/67d75eb098e8844fcc82634fa8230e0aca077995",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/67d75eb098e8844fcc82634fa8230e0aca077995",
+  "author": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2013-08-26T13:31:57Z"
+  },
+  "committer": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2013-08-26T13:31:57Z"
+  },
+  "tree": {
+    "sha": "ced821fa89f0445ac14eddf52da83fd03319fd46",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/ced821fa89f0445ac14eddf52da83fd03319fd46"
+  },
+  "message": "Merge branch '2.2' into 2.3",
+  "parents": [
+    {
+      "sha": "d4c4ed7a8747721121328680334f8a612fa4a3db",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/d4c4ed7a8747721121328680334f8a612fa4a3db",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/d4c4ed7a8747721121328680334f8a612fa4a3db"
+    },
+    {
+      "sha": "a6d84566d5494ac3281712ada2eebf03f897a44c",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/a6d84566d5494ac3281712ada2eebf03f897a44c",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/a6d84566d5494ac3281712ada2eebf03f897a44c"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

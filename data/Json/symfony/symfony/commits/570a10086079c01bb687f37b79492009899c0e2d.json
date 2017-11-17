@@ -1,0 +1,33 @@
+{
+  "sha": "570a10086079c01bb687f37b79492009899c0e2d",
+  "url": "https://api.github.com/repos/symfony/symfony/git/commits/570a10086079c01bb687f37b79492009899c0e2d",
+  "html_url": "https://github.com/symfony/symfony/commit/570a10086079c01bb687f37b79492009899c0e2d",
+  "author": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2011-04-19T12:52:15Z"
+  },
+  "committer": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2011-04-19T12:52:15Z"
+  },
+  "tree": {
+    "sha": "aa1df9931b80aeefa7a67866aa5c302ddca25030",
+    "url": "https://api.github.com/repos/symfony/symfony/git/trees/aa1df9931b80aeefa7a67866aa5c302ddca25030"
+  },
+  "message": "fixed typos",
+  "parents": [
+    {
+      "sha": "c660fcd2f2310649eabe94a14d28ce14a1a8b760",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/c660fcd2f2310649eabe94a14d28ce14a1a8b760",
+      "html_url": "https://github.com/symfony/symfony/commit/c660fcd2f2310649eabe94a14d28ce14a1a8b760"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

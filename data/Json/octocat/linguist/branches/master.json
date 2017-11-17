@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/octocat/linguist/git/trees/78587fb72a2d486eb7af5f8cd0f65e07fc011c04"
       },
       "url": "https://api.github.com/repos/octocat/linguist/git/commits/64a44011ca0ee0693b1c1767c96d1fba25d5be7d",
-      "comment_count": 0
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
     "url": "https://api.github.com/repos/octocat/linguist/commits/64a44011ca0ee0693b1c1767c96d1fba25d5be7d",
     "html_url": "https://github.com/octocat/linguist/commit/64a44011ca0ee0693b1c1767c96d1fba25d5be7d",
@@ -27,7 +33,7 @@
     "author": {
       "login": "octocat",
       "id": 583231,
-      "avatar_url": "https://avatars.githubusercontent.com/u/583231?v=3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/583231?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/octocat",
       "html_url": "https://github.com/octocat",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "web-flow",
       "id": 19864447,
-      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/web-flow",
       "html_url": "https://github.com/web-flow",
@@ -78,5 +84,16 @@
   "_links": {
     "self": "https://api.github.com/repos/octocat/linguist/branches/master",
     "html": "https://github.com/octocat/linguist/tree/master"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/octocat/linguist/branches/master/protection"
 }

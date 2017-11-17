@@ -1,33 +1,39 @@
 {
   "name": "2.8",
   "commit": {
-    "sha": "07fc0602e1f577aad38deaa986aa6113a7774c08",
+    "sha": "58352f2f0291df9c2f63a4bfd82a0056dbe85f0b",
     "commit": {
       "author": {
         "name": "Fabien Potencier",
         "email": "fabien.potencier@gmail.com",
-        "date": "2017-04-29T15:44:59Z"
+        "date": "2017-11-17T06:34:32Z"
       },
       "committer": {
         "name": "Fabien Potencier",
         "email": "fabien.potencier@gmail.com",
-        "date": "2017-04-29T15:44:59Z"
+        "date": "2017-11-17T06:34:32Z"
       },
-      "message": "bug #22550 Allow Upper Case property names in ObjectNormalizer (insekticid)\n\nThis PR was merged into the 2.8 branch.\n\nDiscussion\n----------\n\nAllow Upper Case property names in ObjectNormalizer\n\n| Q             | A\n| ------------- | ---\n| Branch?       | 2.8\n| Bug fix?      | yes\n| New feature?  | no\n| BC breaks?    | yes\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets | #22547\n| License       | MIT\n\nSame problem that has been fixed here https://github.com/symfony/symfony/pull/22265\nand here https://github.com/api-platform/core/pull/1037\n\nObjectNormalizer returns $id instead of $Id. It is bad naming convention, but is possible\n\n```php\nclass Entity {\n    protected $Id;\n\n    public function getId()\n    {\n        return $this->Id;\n    }\n}\n```\n\nCommits\n-------\n\nb2b4faa3c0 Allow Upper Case property names in ObjectNormalizer",
+      "message": "bumped Symfony version to 2.8.32",
       "tree": {
-        "sha": "68ded4c861314ff0a8eba9045fd6a8fa76744fb7",
-        "url": "https://api.github.com/repos/symfony/symfony/git/trees/68ded4c861314ff0a8eba9045fd6a8fa76744fb7"
+        "sha": "e5bcb74deb437990061dd63452611b2d5e1141ef",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/e5bcb74deb437990061dd63452611b2d5e1141ef"
       },
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/07fc0602e1f577aad38deaa986aa6113a7774c08",
-      "comment_count": 0
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/58352f2f0291df9c2f63a4bfd82a0056dbe85f0b",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
-    "url": "https://api.github.com/repos/symfony/symfony/commits/07fc0602e1f577aad38deaa986aa6113a7774c08",
-    "html_url": "https://github.com/symfony/symfony/commit/07fc0602e1f577aad38deaa986aa6113a7774c08",
-    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/07fc0602e1f577aad38deaa986aa6113a7774c08/comments",
+    "url": "https://api.github.com/repos/symfony/symfony/commits/58352f2f0291df9c2f63a4bfd82a0056dbe85f0b",
+    "html_url": "https://github.com/symfony/symfony/commit/58352f2f0291df9c2f63a4bfd82a0056dbe85f0b",
+    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/58352f2f0291df9c2f63a4bfd82a0056dbe85f0b/comments",
     "author": {
       "login": "fabpot",
       "id": 47313,
-      "avatar_url": "https://avatars.githubusercontent.com/u/47313?v=3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/fabpot",
       "html_url": "https://github.com/fabpot",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "fabpot",
       "id": 47313,
-      "avatar_url": "https://avatars.githubusercontent.com/u/47313?v=3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/fabpot",
       "html_url": "https://github.com/fabpot",
@@ -64,19 +70,26 @@
     },
     "parents": [
       {
-        "sha": "04e48bd1201c3cacae6cd5749c301ea72345c6c8",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/04e48bd1201c3cacae6cd5749c301ea72345c6c8",
-        "html_url": "https://github.com/symfony/symfony/commit/04e48bd1201c3cacae6cd5749c301ea72345c6c8"
-      },
-      {
-        "sha": "b2b4faa3c03220a0dc5a6e23782402fe1dccd612",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/b2b4faa3c03220a0dc5a6e23782402fe1dccd612",
-        "html_url": "https://github.com/symfony/symfony/commit/b2b4faa3c03220a0dc5a6e23782402fe1dccd612"
+        "sha": "fa9fa59d7bf9d5c73a264d348f0da793cafdc73c",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/fa9fa59d7bf9d5c73a264d348f0da793cafdc73c",
+        "html_url": "https://github.com/symfony/symfony/commit/fa9fa59d7bf9d5c73a264d348f0da793cafdc73c"
       }
     ]
   },
   "_links": {
     "self": "https://api.github.com/repos/symfony/symfony/branches/2.8",
     "html": "https://github.com/symfony/symfony/tree/2.8"
-  }
+  },
+  "protected": true,
+  "protection": {
+    "enabled": true,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+        "continuous-integration/travis-ci",
+        "fabbot.io"
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/symfony/symfony/branches/2.8/protection"
 }

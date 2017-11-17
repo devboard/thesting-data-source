@@ -19,7 +19,13 @@
         "url": "https://api.github.com/repos/octocat/Spoon-Knife/git/trees/c9c11edf6c3c78b00af1c47ebf12c099845f356c"
       },
       "url": "https://api.github.com/repos/octocat/Spoon-Knife/git/commits/f439fc5710cd87a4025247e8f75901cdadf5333d",
-      "comment_count": 21
+      "comment_count": 22,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
     "url": "https://api.github.com/repos/octocat/Spoon-Knife/commits/f439fc5710cd87a4025247e8f75901cdadf5333d",
     "html_url": "https://github.com/octocat/Spoon-Knife/commit/f439fc5710cd87a4025247e8f75901cdadf5333d",
@@ -27,7 +33,7 @@
     "author": {
       "login": "octocat",
       "id": 583231,
-      "avatar_url": "https://avatars.githubusercontent.com/u/583231?v=3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/583231?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/octocat",
       "html_url": "https://github.com/octocat",
@@ -46,7 +52,7 @@
     "committer": {
       "login": "octocat",
       "id": 583231,
-      "avatar_url": "https://avatars.githubusercontent.com/u/583231?v=3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/583231?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/octocat",
       "html_url": "https://github.com/octocat",
@@ -73,5 +79,16 @@
   "_links": {
     "self": "https://api.github.com/repos/octocat/Spoon-Knife/branches/change-the-title",
     "html": "https://github.com/octocat/Spoon-Knife/tree/change-the-title"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/octocat/Spoon-Knife/branches/change-the-title/protection"
 }

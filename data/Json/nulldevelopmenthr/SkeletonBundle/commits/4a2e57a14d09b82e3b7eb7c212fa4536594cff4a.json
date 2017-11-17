@@ -1,0 +1,38 @@
+{
+  "sha": "4a2e57a14d09b82e3b7eb7c212fa4536594cff4a",
+  "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/commits/4a2e57a14d09b82e3b7eb7c212fa4536594cff4a",
+  "html_url": "https://github.com/nulldevelopmenthr/SkeletonBundle/commit/4a2e57a14d09b82e3b7eb7c212fa4536594cff4a",
+  "author": {
+    "name": "Miro Svrtan",
+    "email": "msvrtan@users.noreply.github.com",
+    "date": "2016-06-19T18:19:02Z"
+  },
+  "committer": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "2016-06-19T18:19:02Z"
+  },
+  "tree": {
+    "sha": "90fddc54a02f56791d86b2b5faa66bda1058b843",
+    "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/trees/90fddc54a02f56791d86b2b5faa66bda1058b843"
+  },
+  "message": "Merge pull request #2 from msvrtan/adding-phpspec-support\n\nAdding phpspec support",
+  "parents": [
+    {
+      "sha": "2e3340e23cbc0c8c321454646d588c11a56570b6",
+      "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/commits/2e3340e23cbc0c8c321454646d588c11a56570b6",
+      "html_url": "https://github.com/nulldevelopmenthr/SkeletonBundle/commit/2e3340e23cbc0c8c321454646d588c11a56570b6"
+    },
+    {
+      "sha": "6fd56d66db18e6d86765911ecafd0c65ad008d37",
+      "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/commits/6fd56d66db18e6d86765911ecafd0c65ad008d37",
+      "html_url": "https://github.com/nulldevelopmenthr/SkeletonBundle/commit/6fd56d66db18e6d86765911ecafd0c65ad008d37"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

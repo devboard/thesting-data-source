@@ -1,0 +1,33 @@
+{
+  "sha": "58352f2f0291df9c2f63a4bfd82a0056dbe85f0b",
+  "url": "https://api.github.com/repos/symfony/symfony/git/commits/58352f2f0291df9c2f63a4bfd82a0056dbe85f0b",
+  "html_url": "https://github.com/symfony/symfony/commit/58352f2f0291df9c2f63a4bfd82a0056dbe85f0b",
+  "author": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2017-11-17T06:34:32Z"
+  },
+  "committer": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2017-11-17T06:34:32Z"
+  },
+  "tree": {
+    "sha": "e5bcb74deb437990061dd63452611b2d5e1141ef",
+    "url": "https://api.github.com/repos/symfony/symfony/git/trees/e5bcb74deb437990061dd63452611b2d5e1141ef"
+  },
+  "message": "bumped Symfony version to 2.8.32",
+  "parents": [
+    {
+      "sha": "fa9fa59d7bf9d5c73a264d348f0da793cafdc73c",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/fa9fa59d7bf9d5c73a264d348f0da793cafdc73c",
+      "html_url": "https://github.com/symfony/symfony/commit/fa9fa59d7bf9d5c73a264d348f0da793cafdc73c"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

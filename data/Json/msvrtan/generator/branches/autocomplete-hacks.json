@@ -1,0 +1,94 @@
+{
+  "name": "autocomplete-hacks",
+  "commit": {
+    "sha": "429dfa503d9475699ae8f020f407cccd2e738f63",
+    "commit": {
+      "author": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2017-07-13T19:41:27Z"
+      },
+      "committer": {
+        "name": "Miro Svrtan",
+        "email": "miro@mirosvrtan.me",
+        "date": "2017-07-13T19:41:50Z"
+      },
+      "message": "Add MyQuestionHelper with autocomplete hacks",
+      "tree": {
+        "sha": "7c60deb6c1add991d2f5b571af6dc1deb95949e8",
+        "url": "https://api.github.com/repos/msvrtan/generator/git/trees/7c60deb6c1add991d2f5b571af6dc1deb95949e8"
+      },
+      "url": "https://api.github.com/repos/msvrtan/generator/git/commits/429dfa503d9475699ae8f020f407cccd2e738f63",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/msvrtan/generator/commits/429dfa503d9475699ae8f020f407cccd2e738f63",
+    "html_url": "https://github.com/msvrtan/generator/commit/429dfa503d9475699ae8f020f407cccd2e738f63",
+    "comments_url": "https://api.github.com/repos/msvrtan/generator/commits/429dfa503d9475699ae8f020f407cccd2e738f63/comments",
+    "author": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "msvrtan",
+      "id": 1780572,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msvrtan",
+      "html_url": "https://github.com/msvrtan",
+      "followers_url": "https://api.github.com/users/msvrtan/followers",
+      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+      "repos_url": "https://api.github.com/users/msvrtan/repos",
+      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f77b59d5d480c56e60f6edef27e7bec6f93d8c6f",
+        "url": "https://api.github.com/repos/msvrtan/generator/commits/f77b59d5d480c56e60f6edef27e7bec6f93d8c6f",
+        "html_url": "https://github.com/msvrtan/generator/commit/f77b59d5d480c56e60f6edef27e7bec6f93d8c6f"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/msvrtan/generator/branches/autocomplete-hacks",
+    "html": "https://github.com/msvrtan/generator/tree/autocomplete-hacks"
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/msvrtan/generator/branches/autocomplete-hacks/protection"
+}

@@ -1,82 +1,99 @@
 {
   "name": "master",
   "commit": {
-    "sha": "f9dafd689e1e4e1ae036baf9035bcad7c5c842fe",
+    "sha": "4d5ebc4e66c277d7f508f5ae6f5fbf72a142ac64",
     "commit": {
       "author": {
-        "name": "Javier Eguiluz",
-        "email": "javier.eguiluz@gmail.com",
-        "date": "2017-04-28T15:03:20Z"
+        "name": "Ryan Weaver",
+        "email": "ryan@thatsquality.com",
+        "date": "2017-11-17T11:57:45Z"
       },
       "committer": {
-        "name": "Javier Eguiluz",
-        "email": "javier.eguiluz@gmail.com",
-        "date": "2017-04-28T15:03:20Z"
+        "name": "Ryan Weaver",
+        "email": "ryan@thatsquality.com",
+        "date": "2017-11-17T11:57:45Z"
       },
-      "message": "minor #7656 [DependencyInjection] Document FQCN aliases (GuilhemN)\n\nThis PR was merged into the master branch.\n\nDiscussion\n----------\n\n[DependencyInjection] Document FQCN aliases\n\nFix https://github.com/symfony/symfony-docs/issues/7445\n\n> Not only do we need to remove autowiring-types, we should show clearly how you can use aliases to choose what class should be autowired for a specific interface/class.\n>\n> Also, Stof noted that you can/should mark these aliases as private: we don't need them to be available on the final, cached container.\n\nCommits\n-------\n\na530019 [DependencyInjection] Document FQCN aliases",
+      "message": "minor #8670 Updated the event dispatcher articles for Symfony 4 (javiereguiluz)\n\nThis PR was merged into the master branch.\n\nDiscussion\n----------\n\nUpdated the event dispatcher articles for Symfony 4\n\nCommits\n-------\n\n8dc70ec38 Updated the event dispatcher articles for Symfony 4",
       "tree": {
-        "sha": "7c4a5e856f23b6d8e198857ecd2793d6708261bb",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/7c4a5e856f23b6d8e198857ecd2793d6708261bb"
+        "sha": "dbf9d5a63d403c24a87db25c9278b74499ef3ed8",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/dbf9d5a63d403c24a87db25c9278b74499ef3ed8"
       },
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/f9dafd689e1e4e1ae036baf9035bcad7c5c842fe",
-      "comment_count": 0
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/4d5ebc4e66c277d7f508f5ae6f5fbf72a142ac64",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
     },
-    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/f9dafd689e1e4e1ae036baf9035bcad7c5c842fe",
-    "html_url": "https://github.com/symfony/symfony-docs/commit/f9dafd689e1e4e1ae036baf9035bcad7c5c842fe",
-    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/f9dafd689e1e4e1ae036baf9035bcad7c5c842fe/comments",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/4d5ebc4e66c277d7f508f5ae6f5fbf72a142ac64",
+    "html_url": "https://github.com/symfony/symfony-docs/commit/4d5ebc4e66c277d7f508f5ae6f5fbf72a142ac64",
+    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/4d5ebc4e66c277d7f508f5ae6f5fbf72a142ac64/comments",
     "author": {
-      "login": "javiereguiluz",
-      "id": 73419,
-      "avatar_url": "https://avatars.githubusercontent.com/u/73419?v=3",
+      "login": "weaverryan",
+      "id": 121003,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/121003?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/javiereguiluz",
-      "html_url": "https://github.com/javiereguiluz",
-      "followers_url": "https://api.github.com/users/javiereguiluz/followers",
-      "following_url": "https://api.github.com/users/javiereguiluz/following{/other_user}",
-      "gists_url": "https://api.github.com/users/javiereguiluz/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/javiereguiluz/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/javiereguiluz/subscriptions",
-      "organizations_url": "https://api.github.com/users/javiereguiluz/orgs",
-      "repos_url": "https://api.github.com/users/javiereguiluz/repos",
-      "events_url": "https://api.github.com/users/javiereguiluz/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/javiereguiluz/received_events",
+      "url": "https://api.github.com/users/weaverryan",
+      "html_url": "https://github.com/weaverryan",
+      "followers_url": "https://api.github.com/users/weaverryan/followers",
+      "following_url": "https://api.github.com/users/weaverryan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/weaverryan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/weaverryan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/weaverryan/subscriptions",
+      "organizations_url": "https://api.github.com/users/weaverryan/orgs",
+      "repos_url": "https://api.github.com/users/weaverryan/repos",
+      "events_url": "https://api.github.com/users/weaverryan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/weaverryan/received_events",
       "type": "User",
       "site_admin": false
     },
     "committer": {
-      "login": "javiereguiluz",
-      "id": 73419,
-      "avatar_url": "https://avatars.githubusercontent.com/u/73419?v=3",
+      "login": "weaverryan",
+      "id": 121003,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/121003?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/javiereguiluz",
-      "html_url": "https://github.com/javiereguiluz",
-      "followers_url": "https://api.github.com/users/javiereguiluz/followers",
-      "following_url": "https://api.github.com/users/javiereguiluz/following{/other_user}",
-      "gists_url": "https://api.github.com/users/javiereguiluz/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/javiereguiluz/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/javiereguiluz/subscriptions",
-      "organizations_url": "https://api.github.com/users/javiereguiluz/orgs",
-      "repos_url": "https://api.github.com/users/javiereguiluz/repos",
-      "events_url": "https://api.github.com/users/javiereguiluz/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/javiereguiluz/received_events",
+      "url": "https://api.github.com/users/weaverryan",
+      "html_url": "https://github.com/weaverryan",
+      "followers_url": "https://api.github.com/users/weaverryan/followers",
+      "following_url": "https://api.github.com/users/weaverryan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/weaverryan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/weaverryan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/weaverryan/subscriptions",
+      "organizations_url": "https://api.github.com/users/weaverryan/orgs",
+      "repos_url": "https://api.github.com/users/weaverryan/repos",
+      "events_url": "https://api.github.com/users/weaverryan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/weaverryan/received_events",
       "type": "User",
       "site_admin": false
     },
     "parents": [
       {
-        "sha": "578886363a04997667f26c89877062da175866f9",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/578886363a04997667f26c89877062da175866f9",
-        "html_url": "https://github.com/symfony/symfony-docs/commit/578886363a04997667f26c89877062da175866f9"
+        "sha": "c1700455686bc93a0591dbd68c7ecf989ab25b00",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/c1700455686bc93a0591dbd68c7ecf989ab25b00",
+        "html_url": "https://github.com/symfony/symfony-docs/commit/c1700455686bc93a0591dbd68c7ecf989ab25b00"
       },
       {
-        "sha": "a530019636f0b8449f547cba749fce758c9ed88d",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/a530019636f0b8449f547cba749fce758c9ed88d",
-        "html_url": "https://github.com/symfony/symfony-docs/commit/a530019636f0b8449f547cba749fce758c9ed88d"
+        "sha": "8dc70ec3882aa4d6661da83b5456c3c714cb2908",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/8dc70ec3882aa4d6661da83b5456c3c714cb2908",
+        "html_url": "https://github.com/symfony/symfony-docs/commit/8dc70ec3882aa4d6661da83b5456c3c714cb2908"
       }
     ]
   },
   "_links": {
     "self": "https://api.github.com/repos/symfony/symfony-docs/branches/master",
     "html": "https://github.com/symfony/symfony-docs/tree/master"
-  }
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/symfony/symfony-docs/branches/master/protection"
 }

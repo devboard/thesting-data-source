@@ -1,0 +1,38 @@
+{
+  "sha": "2c2d4fff5dacb687ff028f8004622dfb29ef1a22",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/2c2d4fff5dacb687ff028f8004622dfb29ef1a22",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/2c2d4fff5dacb687ff028f8004622dfb29ef1a22",
+  "author": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2012-12-19T15:52:28Z"
+  },
+  "committer": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2012-12-19T15:52:28Z"
+  },
+  "tree": {
+    "sha": "aa6e8e319b1f439b3bf41c145322e5e1d5b5b959",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/aa6e8e319b1f439b3bf41c145322e5e1d5b5b959"
+  },
+  "message": "Merge branch '2.0' into 2.1",
+  "parents": [
+    {
+      "sha": "67bdae46d40eb62e757b040f810f31f095706438",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/67bdae46d40eb62e757b040f810f31f095706438",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/67bdae46d40eb62e757b040f810f31f095706438"
+    },
+    {
+      "sha": "98d118bf73d8527c9fd13b62d84a154d8aee5adf",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/98d118bf73d8527c9fd13b62d84a154d8aee5adf",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/98d118bf73d8527c9fd13b62d84a154d8aee5adf"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "sha": "954a9ef72c56cbcd0242d0ef9dd69a63be05a200",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/954a9ef72c56cbcd0242d0ef9dd69a63be05a200",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/954a9ef72c56cbcd0242d0ef9dd69a63be05a200",
+  "author": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2013-05-29T15:21:01Z"
+  },
+  "committer": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2013-05-29T15:21:01Z"
+  },
+  "tree": {
+    "sha": "cf4ac019a167ddf0552b92d73d48b25e82c56660",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/cf4ac019a167ddf0552b92d73d48b25e82c56660"
+  },
+  "message": "Merge branch '2.1' into 2.2",
+  "parents": [
+    {
+      "sha": "4618929f52a6c5a348d75bfeb18e0d1799b63d63",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/4618929f52a6c5a348d75bfeb18e0d1799b63d63",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/4618929f52a6c5a348d75bfeb18e0d1799b63d63"
+    },
+    {
+      "sha": "9aad6031f7977b78058f49309691405e12a2fe1f",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/9aad6031f7977b78058f49309691405e12a2fe1f",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/9aad6031f7977b78058f49309691405e12a2fe1f"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "sha": "433ba4fb1c38d420a8476091b985b963d568ec69",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/433ba4fb1c38d420a8476091b985b963d568ec69",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/433ba4fb1c38d420a8476091b985b963d568ec69",
+  "author": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2017-11-17T14:26:25Z"
+  },
+  "committer": {
+    "name": "Ryan Weaver",
+    "email": "ryan@thatsquality.com",
+    "date": "2017-11-17T14:26:25Z"
+  },
+  "tree": {
+    "sha": "c354d5c74abf1b78ae2222071ce156c13b04501a",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/c354d5c74abf1b78ae2222071ce156c13b04501a"
+  },
+  "message": "minor #8690 Minor typos in session articles (javiereguiluz)\n\nThis PR was merged into the 3.3 branch.\n\nDiscussion\n----------\n\nMinor typos in session articles\n\nCommits\n-------\n\n925267dbc Minor typos in session articles",
+  "parents": [
+    {
+      "sha": "d464e84efb0a67b56ca8a1d555c1bca407458c7c",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/d464e84efb0a67b56ca8a1d555c1bca407458c7c",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/d464e84efb0a67b56ca8a1d555c1bca407458c7c"
+    },
+    {
+      "sha": "925267dbc84c260d21761cd15cde422ac6e5c23f",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/925267dbc84c260d21761cd15cde422ac6e5c23f",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/925267dbc84c260d21761cd15cde422ac6e5c23f"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}
