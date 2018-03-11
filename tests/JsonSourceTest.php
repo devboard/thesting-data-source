@@ -78,9 +78,9 @@ class JsonSourceTest extends \PHPUnit_Framework_TestCase
             ['octocat/octocat.github.io', 2],
             ['octocat/git-consortium', 1],
             ['octocat/test-repo1', 1],
-            ['symfony/symfony', 15],
+            ['symfony/symfony', 16],
             ['symfony/symfony-standard', 14],
-            ['symfony/symfony-docs', 19],
+            ['symfony/symfony-docs', 20],
         ];
     }
 
@@ -93,8 +93,8 @@ class JsonSourceTest extends \PHPUnit_Framework_TestCase
             ['octocat/octocat.github.io', 0],
             ['octocat/git-consortium', 0],
             ['octocat/test-repo1', 0],
-            ['symfony/symfony', 30],
-            ['symfony/symfony-standard', 30],
+            ['symfony/symfony', 47],
+            ['symfony/symfony-standard', 42],
             ['symfony/symfony-docs', 30],
         ];
     }
@@ -108,24 +108,24 @@ class JsonSourceTest extends \PHPUnit_Framework_TestCase
             ['octocat/octocat.github.io', 2],
             ['octocat/git-consortium', 1],
             ['octocat/test-repo1', 1],
-            ['symfony/symfony', 45],
-            ['symfony/symfony-standard', 41],
-            ['symfony/symfony-docs', 48],
+            ['symfony/symfony', 68],
+            ['symfony/symfony-standard', 55],
+            ['symfony/symfony-docs', 54],
         ];
     }
 
     public function provideReposAndCommitStatusesCount(): array
     {
         return [
-            ['octocat/Hello-World', 2],
-            ['octocat/Spoon-Knife', 3],
-            ['octocat/linguist', 37],
+            ['octocat/Hello-World', 0],
+            ['octocat/Spoon-Knife', 0],
+            ['octocat/linguist', 0],
             ['octocat/octocat.github.io', 2],
-            ['octocat/git-consortium', 1],
+            ['octocat/git-consortium', 0],
             ['octocat/test-repo1', 1],
-            ['symfony/symfony', 45],
-            ['symfony/symfony-standard', 41],
-            ['symfony/symfony-docs', 48],
+            ['symfony/symfony', 59],
+            ['symfony/symfony-standard', 4],
+            ['symfony/symfony-docs', 22],
         ];
     }
 }
