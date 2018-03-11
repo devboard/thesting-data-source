@@ -1,24 +1,24 @@
 {
   "name": "2.8",
   "commit": {
-    "sha": "58352f2f0291df9c2f63a4bfd82a0056dbe85f0b",
+    "sha": "b0bbdefbdb50a01731e86d0103c29875e2a75ea4",
     "commit": {
       "author": {
         "name": "Fabien Potencier",
         "email": "fabien.potencier@gmail.com",
-        "date": "2017-11-17T06:34:32Z"
+        "date": "2018-03-10T18:19:36Z"
       },
       "committer": {
         "name": "Fabien Potencier",
         "email": "fabien.potencier@gmail.com",
-        "date": "2017-11-17T06:34:32Z"
+        "date": "2018-03-10T18:19:36Z"
       },
-      "message": "bumped Symfony version to 2.8.32",
+      "message": "Merge branch '2.7' into 2.8\n\n* 2.7:\n  Php Inspections (EA Ultimate): address some of one-time used local variables\n  [Intl] Load locale aliases to support alias fallbacks\n  [CssSelector] Fix CSS identifiers parsing - they can start with dash",
       "tree": {
-        "sha": "e5bcb74deb437990061dd63452611b2d5e1141ef",
-        "url": "https://api.github.com/repos/symfony/symfony/git/trees/e5bcb74deb437990061dd63452611b2d5e1141ef"
+        "sha": "48005835e0e96e66c8d8ed36a7945d55135fe3de",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/48005835e0e96e66c8d8ed36a7945d55135fe3de"
       },
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/58352f2f0291df9c2f63a4bfd82a0056dbe85f0b",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/b0bbdefbdb50a01731e86d0103c29875e2a75ea4",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -27,9 +27,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/symfony/symfony/commits/58352f2f0291df9c2f63a4bfd82a0056dbe85f0b",
-    "html_url": "https://github.com/symfony/symfony/commit/58352f2f0291df9c2f63a4bfd82a0056dbe85f0b",
-    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/58352f2f0291df9c2f63a4bfd82a0056dbe85f0b/comments",
+    "url": "https://api.github.com/repos/symfony/symfony/commits/b0bbdefbdb50a01731e86d0103c29875e2a75ea4",
+    "html_url": "https://github.com/symfony/symfony/commit/b0bbdefbdb50a01731e86d0103c29875e2a75ea4",
+    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/b0bbdefbdb50a01731e86d0103c29875e2a75ea4/comments",
     "author": {
       "login": "fabpot",
       "id": 47313,
@@ -70,9 +70,14 @@
     },
     "parents": [
       {
-        "sha": "fa9fa59d7bf9d5c73a264d348f0da793cafdc73c",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/fa9fa59d7bf9d5c73a264d348f0da793cafdc73c",
-        "html_url": "https://github.com/symfony/symfony/commit/fa9fa59d7bf9d5c73a264d348f0da793cafdc73c"
+        "sha": "5757a8538d8cdb11a2b0faad843097f719421b1d",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/5757a8538d8cdb11a2b0faad843097f719421b1d",
+        "html_url": "https://github.com/symfony/symfony/commit/5757a8538d8cdb11a2b0faad843097f719421b1d"
+      },
+      {
+        "sha": "ed63ab62549ababd7cbac219dffbd7368df3ba95",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/ed63ab62549ababd7cbac219dffbd7368df3ba95",
+        "html_url": "https://github.com/symfony/symfony/commit/ed63ab62549ababd7cbac219dffbd7368df3ba95"
       }
     ]
   },

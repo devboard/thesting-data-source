@@ -81,6 +81,87 @@
     }
   },
   {
+    "name": "v4.0.6",
+    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v4.0.6",
+    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v4.0.6",
+    "commit": {
+      "sha": "8b709247e9cc29151506471191be9d267b8c00d4",
+      "url": "https://api.github.com/repos/symfony/symfony/commits/8b709247e9cc29151506471191be9d267b8c00d4"
+    }
+  },
+  {
+    "name": "v4.0.5",
+    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v4.0.5",
+    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v4.0.5",
+    "commit": {
+      "sha": "ff68b3a2dbe3c8e7dbdd7e153ef0b6ef985139de",
+      "url": "https://api.github.com/repos/symfony/symfony/commits/ff68b3a2dbe3c8e7dbdd7e153ef0b6ef985139de"
+    }
+  },
+  {
+    "name": "v4.0.4",
+    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v4.0.4",
+    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v4.0.4",
+    "commit": {
+      "sha": "927f4f4069b69052f9e002fb287bd52ecfd52aa9",
+      "url": "https://api.github.com/repos/symfony/symfony/commits/927f4f4069b69052f9e002fb287bd52ecfd52aa9"
+    }
+  },
+  {
+    "name": "v4.0.3",
+    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v4.0.3",
+    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v4.0.3",
+    "commit": {
+      "sha": "8cc66bf6746c278755609b7b158f8444d0633456",
+      "url": "https://api.github.com/repos/symfony/symfony/commits/8cc66bf6746c278755609b7b158f8444d0633456"
+    }
+  },
+  {
+    "name": "v4.0.2",
+    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v4.0.2",
+    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v4.0.2",
+    "commit": {
+      "sha": "aca1ac2ac6d45c5e94be39a22c91948920226207",
+      "url": "https://api.github.com/repos/symfony/symfony/commits/aca1ac2ac6d45c5e94be39a22c91948920226207"
+    }
+  },
+  {
+    "name": "v4.0.1",
+    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v4.0.1",
+    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v4.0.1",
+    "commit": {
+      "sha": "7e51b0df8908900c443494092843d28ff90e03a8",
+      "url": "https://api.github.com/repos/symfony/symfony/commits/7e51b0df8908900c443494092843d28ff90e03a8"
+    }
+  },
+  {
+    "name": "v4.0.0",
+    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v4.0.0",
+    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v4.0.0",
+    "commit": {
+      "sha": "26ca7023b1c45dce951da7206ed70049267d27bc",
+      "url": "https://api.github.com/repos/symfony/symfony/commits/26ca7023b1c45dce951da7206ed70049267d27bc"
+    }
+  },
+  {
+    "name": "v4.0.0-RC2",
+    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v4.0.0-RC2",
+    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v4.0.0-RC2",
+    "commit": {
+      "sha": "ec19183fea24aad4763a6302d198bb60981eeaaa",
+      "url": "https://api.github.com/repos/symfony/symfony/commits/ec19183fea24aad4763a6302d198bb60981eeaaa"
+    }
+  },
+  {
+    "name": "v4.0.0-RC1",
+    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v4.0.0-RC1",
+    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v4.0.0-RC1",
+    "commit": {
+      "sha": "3607cdb3c850660f64204ac9154d2ca59faf60d3",
+      "url": "https://api.github.com/repos/symfony/symfony/commits/3607cdb3c850660f64204ac9154d2ca59faf60d3"
+    }
+  },
+  {
     "name": "v4.0.0-BETA4",
     "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v4.0.0-BETA4",
     "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v4.0.0-BETA4",
@@ -117,156 +198,75 @@
     }
   },
   {
-    "name": "v3.4.0-BETA4",
-    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.4.0-BETA4",
-    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.4.0-BETA4",
+    "name": "v3.4.6",
+    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.4.6",
+    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.4.6",
     "commit": {
-      "sha": "23ab29f4c77a2e08ad9cdbe3757f3ff58b835d2d",
-      "url": "https://api.github.com/repos/symfony/symfony/commits/23ab29f4c77a2e08ad9cdbe3757f3ff58b835d2d"
+      "sha": "874d4d659774d7bab90538072c83ed532dd17dc5",
+      "url": "https://api.github.com/repos/symfony/symfony/commits/874d4d659774d7bab90538072c83ed532dd17dc5"
     }
   },
   {
-    "name": "v3.4.0-BETA3",
-    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.4.0-BETA3",
-    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.4.0-BETA3",
+    "name": "v3.4.5",
+    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.4.5",
+    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.4.5",
     "commit": {
-      "sha": "1ae23efa1eaf48dea8c0f382fc9c339e08fa113f",
-      "url": "https://api.github.com/repos/symfony/symfony/commits/1ae23efa1eaf48dea8c0f382fc9c339e08fa113f"
+      "sha": "8a023e125a68c0bce08d2a8c72d67e07f0d74cab",
+      "url": "https://api.github.com/repos/symfony/symfony/commits/8a023e125a68c0bce08d2a8c72d67e07f0d74cab"
     }
   },
   {
-    "name": "v3.4.0-BETA2",
-    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.4.0-BETA2",
-    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.4.0-BETA2",
+    "name": "v3.4.4",
+    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.4.4",
+    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.4.4",
     "commit": {
-      "sha": "837878f16949f2b18ca35ae784606fccb2e19c0c",
-      "url": "https://api.github.com/repos/symfony/symfony/commits/837878f16949f2b18ca35ae784606fccb2e19c0c"
+      "sha": "5220b6f9fcdee261c6fdd3e096f3b204fba5d906",
+      "url": "https://api.github.com/repos/symfony/symfony/commits/5220b6f9fcdee261c6fdd3e096f3b204fba5d906"
     }
   },
   {
-    "name": "v3.4.0-BETA1",
-    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.4.0-BETA1",
-    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.4.0-BETA1",
+    "name": "v3.4.3",
+    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.4.3",
+    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.4.3",
     "commit": {
-      "sha": "44e3c8bfcf1527172c8d826f0cb5a3894003fe92",
-      "url": "https://api.github.com/repos/symfony/symfony/commits/44e3c8bfcf1527172c8d826f0cb5a3894003fe92"
+      "sha": "21abeae69baf64d689b04ca33663b4354be1a226",
+      "url": "https://api.github.com/repos/symfony/symfony/commits/21abeae69baf64d689b04ca33663b4354be1a226"
     }
   },
   {
-    "name": "v3.3.13",
-    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.3.13",
-    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.3.13",
+    "name": "v3.4.2",
+    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.4.2",
+    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.4.2",
     "commit": {
-      "sha": "9b0226340705f75fd0cebd220746a36050ead8a9",
-      "url": "https://api.github.com/repos/symfony/symfony/commits/9b0226340705f75fd0cebd220746a36050ead8a9"
+      "sha": "29961b693fa2157a3f349d1a801f9f8742be4e03",
+      "url": "https://api.github.com/repos/symfony/symfony/commits/29961b693fa2157a3f349d1a801f9f8742be4e03"
     }
   },
   {
-    "name": "v3.3.12",
-    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.3.12",
-    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.3.12",
+    "name": "v3.4.1",
+    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.4.1",
+    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.4.1",
     "commit": {
-      "sha": "1452970fc29131776505f684bd81d7a33cbaada4",
-      "url": "https://api.github.com/repos/symfony/symfony/commits/1452970fc29131776505f684bd81d7a33cbaada4"
+      "sha": "46d4a9027c752ce425f67c94e89e3e3098f3a488",
+      "url": "https://api.github.com/repos/symfony/symfony/commits/46d4a9027c752ce425f67c94e89e3e3098f3a488"
     }
   },
   {
-    "name": "v3.3.11",
-    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.3.11",
-    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.3.11",
+    "name": "v3.4.0",
+    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.4.0",
+    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.4.0",
     "commit": {
-      "sha": "97e753fa58c6ab8751e5f77995d1ed7737a99f1b",
-      "url": "https://api.github.com/repos/symfony/symfony/commits/97e753fa58c6ab8751e5f77995d1ed7737a99f1b"
+      "sha": "0a47db379b8cc74cdd84e1e6870fafc4a4ac8351",
+      "url": "https://api.github.com/repos/symfony/symfony/commits/0a47db379b8cc74cdd84e1e6870fafc4a4ac8351"
     }
   },
   {
-    "name": "v3.3.10",
-    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.3.10",
-    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.3.10",
+    "name": "v3.4.0-RC2",
+    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.4.0-RC2",
+    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.4.0-RC2",
     "commit": {
-      "sha": "cfef3b2d505ae4375b17032bd03ed9a3da4b7b43",
-      "url": "https://api.github.com/repos/symfony/symfony/commits/cfef3b2d505ae4375b17032bd03ed9a3da4b7b43"
-    }
-  },
-  {
-    "name": "v3.3.9",
-    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.3.9",
-    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.3.9",
-    "commit": {
-      "sha": "a9d2f68ae9946000e2bcc3403d218ec0124f992a",
-      "url": "https://api.github.com/repos/symfony/symfony/commits/a9d2f68ae9946000e2bcc3403d218ec0124f992a"
-    }
-  },
-  {
-    "name": "v3.3.8",
-    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.3.8",
-    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.3.8",
-    "commit": {
-      "sha": "645d24a119bc7b8326bb01e7b5b696bc3be337ec",
-      "url": "https://api.github.com/repos/symfony/symfony/commits/645d24a119bc7b8326bb01e7b5b696bc3be337ec"
-    }
-  },
-  {
-    "name": "v3.3.7",
-    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.3.7",
-    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.3.7",
-    "commit": {
-      "sha": "d5461f867f55e218ee712f9654d0c512a7c72771",
-      "url": "https://api.github.com/repos/symfony/symfony/commits/d5461f867f55e218ee712f9654d0c512a7c72771"
-    }
-  },
-  {
-    "name": "v3.3.6",
-    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.3.6",
-    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.3.6",
-    "commit": {
-      "sha": "6f80cbd2dd89c5308b14e03d806356fac72c263e",
-      "url": "https://api.github.com/repos/symfony/symfony/commits/6f80cbd2dd89c5308b14e03d806356fac72c263e"
-    }
-  },
-  {
-    "name": "v3.3.5",
-    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.3.5",
-    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.3.5",
-    "commit": {
-      "sha": "b9a0d3d2393f683b28043e9dbf83b8bf6b347faa",
-      "url": "https://api.github.com/repos/symfony/symfony/commits/b9a0d3d2393f683b28043e9dbf83b8bf6b347faa"
-    }
-  },
-  {
-    "name": "v3.3.4",
-    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.3.4",
-    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.3.4",
-    "commit": {
-      "sha": "82f7cba3c272bcd266f2d27ad6f07832c2eb3a1c",
-      "url": "https://api.github.com/repos/symfony/symfony/commits/82f7cba3c272bcd266f2d27ad6f07832c2eb3a1c"
-    }
-  },
-  {
-    "name": "v3.3.3",
-    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.3.3",
-    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.3.3",
-    "commit": {
-      "sha": "098bb166d51cdf0b0541550d037bb3ad1f8fa846",
-      "url": "https://api.github.com/repos/symfony/symfony/commits/098bb166d51cdf0b0541550d037bb3ad1f8fa846"
-    }
-  },
-  {
-    "name": "v3.3.2",
-    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.3.2",
-    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.3.2",
-    "commit": {
-      "sha": "82bd7c039214b34bb5d12c04f996f05f6581c49f",
-      "url": "https://api.github.com/repos/symfony/symfony/commits/82bd7c039214b34bb5d12c04f996f05f6581c49f"
-    }
-  },
-  {
-    "name": "v3.3.1",
-    "zipball_url": "https://api.github.com/repos/symfony/symfony/zipball/v3.3.1",
-    "tarball_url": "https://api.github.com/repos/symfony/symfony/tarball/v3.3.1",
-    "commit": {
-      "sha": "de4db89980282f960211efd029bb6ca754999dbd",
-      "url": "https://api.github.com/repos/symfony/symfony/commits/de4db89980282f960211efd029bb6ca754999dbd"
+      "sha": "e83b82bf946d9080525142dc3dc69b5317b28af9",
+      "url": "https://api.github.com/repos/symfony/symfony/commits/e83b82bf946d9080525142dc3dc69b5317b28af9"
     }
   }
 ]

@@ -1,24 +1,24 @@
 {
   "name": "master",
   "commit": {
-    "sha": "4d5ebc4e66c277d7f508f5ae6f5fbf72a142ac64",
+    "sha": "9abccc8dd367f96b0a93b50a7938650cc4293756",
     "commit": {
       "author": {
-        "name": "Ryan Weaver",
-        "email": "ryan@thatsquality.com",
-        "date": "2017-11-17T11:57:45Z"
+        "name": "Javier Eguiluz",
+        "email": "javier.eguiluz@gmail.com",
+        "date": "2018-03-11T17:43:08Z"
       },
       "committer": {
-        "name": "Ryan Weaver",
-        "email": "ryan@thatsquality.com",
-        "date": "2017-11-17T11:57:45Z"
+        "name": "Javier Eguiluz",
+        "email": "javier.eguiluz@gmail.com",
+        "date": "2018-03-11T17:43:08Z"
       },
-      "message": "minor #8670 Updated the event dispatcher articles for Symfony 4 (javiereguiluz)\n\nThis PR was merged into the master branch.\n\nDiscussion\n----------\n\nUpdated the event dispatcher articles for Symfony 4\n\nCommits\n-------\n\n8dc70ec38 Updated the event dispatcher articles for Symfony 4",
+      "message": "Merge branch '4.0'\n\n* 4.0:\n  Fix the explanation about registering commands\n  Add a 2nd argument to create()\n  Update http_kernel_httpkernelinterface.rst\n  Fix FQCN in PHP example for expression language\n  Fix FQCN in XML example for expression language",
       "tree": {
-        "sha": "dbf9d5a63d403c24a87db25c9278b74499ef3ed8",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/dbf9d5a63d403c24a87db25c9278b74499ef3ed8"
+        "sha": "f7d805e5afd37d194b28ea2269c7224800c840be",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/f7d805e5afd37d194b28ea2269c7224800c840be"
       },
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/4d5ebc4e66c277d7f508f5ae6f5fbf72a142ac64",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/9abccc8dd367f96b0a93b50a7938650cc4293756",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -27,57 +27,57 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/4d5ebc4e66c277d7f508f5ae6f5fbf72a142ac64",
-    "html_url": "https://github.com/symfony/symfony-docs/commit/4d5ebc4e66c277d7f508f5ae6f5fbf72a142ac64",
-    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/4d5ebc4e66c277d7f508f5ae6f5fbf72a142ac64/comments",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/9abccc8dd367f96b0a93b50a7938650cc4293756",
+    "html_url": "https://github.com/symfony/symfony-docs/commit/9abccc8dd367f96b0a93b50a7938650cc4293756",
+    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/9abccc8dd367f96b0a93b50a7938650cc4293756/comments",
     "author": {
-      "login": "weaverryan",
-      "id": 121003,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/121003?v=4",
+      "login": "javiereguiluz",
+      "id": 73419,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/73419?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/weaverryan",
-      "html_url": "https://github.com/weaverryan",
-      "followers_url": "https://api.github.com/users/weaverryan/followers",
-      "following_url": "https://api.github.com/users/weaverryan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/weaverryan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/weaverryan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/weaverryan/subscriptions",
-      "organizations_url": "https://api.github.com/users/weaverryan/orgs",
-      "repos_url": "https://api.github.com/users/weaverryan/repos",
-      "events_url": "https://api.github.com/users/weaverryan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/weaverryan/received_events",
+      "url": "https://api.github.com/users/javiereguiluz",
+      "html_url": "https://github.com/javiereguiluz",
+      "followers_url": "https://api.github.com/users/javiereguiluz/followers",
+      "following_url": "https://api.github.com/users/javiereguiluz/following{/other_user}",
+      "gists_url": "https://api.github.com/users/javiereguiluz/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/javiereguiluz/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/javiereguiluz/subscriptions",
+      "organizations_url": "https://api.github.com/users/javiereguiluz/orgs",
+      "repos_url": "https://api.github.com/users/javiereguiluz/repos",
+      "events_url": "https://api.github.com/users/javiereguiluz/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/javiereguiluz/received_events",
       "type": "User",
       "site_admin": false
     },
     "committer": {
-      "login": "weaverryan",
-      "id": 121003,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/121003?v=4",
+      "login": "javiereguiluz",
+      "id": 73419,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/73419?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/weaverryan",
-      "html_url": "https://github.com/weaverryan",
-      "followers_url": "https://api.github.com/users/weaverryan/followers",
-      "following_url": "https://api.github.com/users/weaverryan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/weaverryan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/weaverryan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/weaverryan/subscriptions",
-      "organizations_url": "https://api.github.com/users/weaverryan/orgs",
-      "repos_url": "https://api.github.com/users/weaverryan/repos",
-      "events_url": "https://api.github.com/users/weaverryan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/weaverryan/received_events",
+      "url": "https://api.github.com/users/javiereguiluz",
+      "html_url": "https://github.com/javiereguiluz",
+      "followers_url": "https://api.github.com/users/javiereguiluz/followers",
+      "following_url": "https://api.github.com/users/javiereguiluz/following{/other_user}",
+      "gists_url": "https://api.github.com/users/javiereguiluz/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/javiereguiluz/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/javiereguiluz/subscriptions",
+      "organizations_url": "https://api.github.com/users/javiereguiluz/orgs",
+      "repos_url": "https://api.github.com/users/javiereguiluz/repos",
+      "events_url": "https://api.github.com/users/javiereguiluz/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/javiereguiluz/received_events",
       "type": "User",
       "site_admin": false
     },
     "parents": [
       {
-        "sha": "c1700455686bc93a0591dbd68c7ecf989ab25b00",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/c1700455686bc93a0591dbd68c7ecf989ab25b00",
-        "html_url": "https://github.com/symfony/symfony-docs/commit/c1700455686bc93a0591dbd68c7ecf989ab25b00"
+        "sha": "e82895aab3643452799f5428addde0d881132ae7",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/e82895aab3643452799f5428addde0d881132ae7",
+        "html_url": "https://github.com/symfony/symfony-docs/commit/e82895aab3643452799f5428addde0d881132ae7"
       },
       {
-        "sha": "8dc70ec3882aa4d6661da83b5456c3c714cb2908",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/8dc70ec3882aa4d6661da83b5456c3c714cb2908",
-        "html_url": "https://github.com/symfony/symfony-docs/commit/8dc70ec3882aa4d6661da83b5456c3c714cb2908"
+        "sha": "1ffb8dc48b0b465eb8d6db5fcf36f51664433271",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/1ffb8dc48b0b465eb8d6db5fcf36f51664433271",
+        "html_url": "https://github.com/symfony/symfony-docs/commit/1ffb8dc48b0b465eb8d6db5fcf36f51664433271"
       }
     ]
   },
@@ -91,6 +91,7 @@
     "required_status_checks": {
       "enforcement_level": "off",
       "contexts": [
+
       ]
     }
   },

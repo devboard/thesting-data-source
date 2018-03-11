@@ -1,24 +1,24 @@
 {
   "name": "2.7",
   "commit": {
-    "sha": "11d79cbb126283501092fd866210a9b1fd7a230e",
+    "sha": "ed63ab62549ababd7cbac219dffbd7368df3ba95",
     "commit": {
       "author": {
-        "name": "Christophe Coevoet",
-        "email": "stof@notk.org",
-        "date": "2017-11-17T13:57:47Z"
+        "name": "Fabien Potencier",
+        "email": "fabien.potencier@gmail.com",
+        "date": "2018-03-10T18:18:23Z"
       },
       "committer": {
-        "name": "Christophe Coevoet",
-        "email": "stof@notk.org",
-        "date": "2017-11-17T13:57:47Z"
+        "name": "Fabien Potencier",
+        "email": "fabien.potencier@gmail.com",
+        "date": "2018-03-10T18:18:23Z"
       },
-      "message": "bug #24956 Fix ambiguous pattern (weltling)\n\nThis PR was merged into the 2.7 branch.\n\nDiscussion\n----------\n\nFix ambiguous pattern\n\n[Validator][Constraints][UrlValidator] Fix domain name pattern.\n\n| Q             | A\n| ------------- | ---\n| Branch?       | 2.7\n| Bug fix?      | yes\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets |\n| License       | MIT\n| Doc PR        |\n\n`\\pS` is a unicode character class, `\\pS-\\.` pretends to be a range which is not. This pattern fails with PCRE2.\n\nThanks.\n\nCommits\n-------\n\n059f59a106 Fix ambiguous pattern",
+      "message": "minor #26480 [minor] SCA with Php Inspections (EA Ultimate) (kalessil)\n\nThis PR was merged into the 2.7 branch.\n\nDiscussion\n----------\n\n[minor] SCA with Php Inspections (EA Ultimate)\n\n| Q             | A\n| ------------- | ---\n| Branch?       | 2.7\n| Bug fix?      | no\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets | n/a\n| License       | MIT\n| Doc PR        | n.a\n\nAddressed some cases with one-time used local variables and repetitive calls.\n\nCommits\n-------\n\nf16d99ecfa Php Inspections (EA Ultimate): address some of one-time used local variables",
       "tree": {
-        "sha": "febc874a580c53cbbcdd95f4a1cf320f84cd30c5",
-        "url": "https://api.github.com/repos/symfony/symfony/git/trees/febc874a580c53cbbcdd95f4a1cf320f84cd30c5"
+        "sha": "c714022bdc61d02e1c7a66e0d60834d8aa37af14",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/c714022bdc61d02e1c7a66e0d60834d8aa37af14"
       },
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/11d79cbb126283501092fd866210a9b1fd7a230e",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/ed63ab62549ababd7cbac219dffbd7368df3ba95",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -27,57 +27,57 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/symfony/symfony/commits/11d79cbb126283501092fd866210a9b1fd7a230e",
-    "html_url": "https://github.com/symfony/symfony/commit/11d79cbb126283501092fd866210a9b1fd7a230e",
-    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/11d79cbb126283501092fd866210a9b1fd7a230e/comments",
+    "url": "https://api.github.com/repos/symfony/symfony/commits/ed63ab62549ababd7cbac219dffbd7368df3ba95",
+    "html_url": "https://github.com/symfony/symfony/commit/ed63ab62549ababd7cbac219dffbd7368df3ba95",
+    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/ed63ab62549ababd7cbac219dffbd7368df3ba95/comments",
     "author": {
-      "login": "stof",
-      "id": 439401,
-      "avatar_url": "https://avatars0.githubusercontent.com/u/439401?v=4",
+      "login": "fabpot",
+      "id": 47313,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/stof",
-      "html_url": "https://github.com/stof",
-      "followers_url": "https://api.github.com/users/stof/followers",
-      "following_url": "https://api.github.com/users/stof/following{/other_user}",
-      "gists_url": "https://api.github.com/users/stof/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/stof/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/stof/subscriptions",
-      "organizations_url": "https://api.github.com/users/stof/orgs",
-      "repos_url": "https://api.github.com/users/stof/repos",
-      "events_url": "https://api.github.com/users/stof/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/stof/received_events",
+      "url": "https://api.github.com/users/fabpot",
+      "html_url": "https://github.com/fabpot",
+      "followers_url": "https://api.github.com/users/fabpot/followers",
+      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+      "organizations_url": "https://api.github.com/users/fabpot/orgs",
+      "repos_url": "https://api.github.com/users/fabpot/repos",
+      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/fabpot/received_events",
       "type": "User",
       "site_admin": false
     },
     "committer": {
-      "login": "stof",
-      "id": 439401,
-      "avatar_url": "https://avatars0.githubusercontent.com/u/439401?v=4",
+      "login": "fabpot",
+      "id": 47313,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/stof",
-      "html_url": "https://github.com/stof",
-      "followers_url": "https://api.github.com/users/stof/followers",
-      "following_url": "https://api.github.com/users/stof/following{/other_user}",
-      "gists_url": "https://api.github.com/users/stof/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/stof/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/stof/subscriptions",
-      "organizations_url": "https://api.github.com/users/stof/orgs",
-      "repos_url": "https://api.github.com/users/stof/repos",
-      "events_url": "https://api.github.com/users/stof/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/stof/received_events",
+      "url": "https://api.github.com/users/fabpot",
+      "html_url": "https://github.com/fabpot",
+      "followers_url": "https://api.github.com/users/fabpot/followers",
+      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+      "organizations_url": "https://api.github.com/users/fabpot/orgs",
+      "repos_url": "https://api.github.com/users/fabpot/repos",
+      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/fabpot/received_events",
       "type": "User",
       "site_admin": false
     },
     "parents": [
       {
-        "sha": "c963178206515c40968c01dcccdbd9ddbc250fe1",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/c963178206515c40968c01dcccdbd9ddbc250fe1",
-        "html_url": "https://github.com/symfony/symfony/commit/c963178206515c40968c01dcccdbd9ddbc250fe1"
+        "sha": "c202a373c3507f37c5d35b83db4f3573f36bf344",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/c202a373c3507f37c5d35b83db4f3573f36bf344",
+        "html_url": "https://github.com/symfony/symfony/commit/c202a373c3507f37c5d35b83db4f3573f36bf344"
       },
       {
-        "sha": "059f59a106634ba9e408c70c8dea557a9bd6c658",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/059f59a106634ba9e408c70c8dea557a9bd6c658",
-        "html_url": "https://github.com/symfony/symfony/commit/059f59a106634ba9e408c70c8dea557a9bd6c658"
+        "sha": "f16d99ecfa2c98a41c8ebcd42c69fd27720d634c",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/f16d99ecfa2c98a41c8ebcd42c69fd27720d634c",
+        "html_url": "https://github.com/symfony/symfony/commit/f16d99ecfa2c98a41c8ebcd42c69fd27720d634c"
       }
     ]
   },

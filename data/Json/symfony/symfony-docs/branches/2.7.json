@@ -1,24 +1,24 @@
 {
   "name": "2.7",
   "commit": {
-    "sha": "558be2169f4cb040a43a3dc714cce47972b353b2",
+    "sha": "95f93481f2ae3bca2943d38225969c3f803383dc",
     "commit": {
       "author": {
-        "name": "Ryan Weaver",
-        "email": "ryan@thatsquality.com",
-        "date": "2017-11-17T11:41:17Z"
+        "name": "Javier Eguiluz",
+        "email": "javier.eguiluz@gmail.com",
+        "date": "2018-03-11T11:32:50Z"
       },
       "committer": {
-        "name": "Ryan Weaver",
-        "email": "ryan@thatsquality.com",
-        "date": "2017-11-17T11:41:17Z"
+        "name": "Javier Eguiluz",
+        "email": "javier.eguiluz@gmail.com",
+        "date": "2018-03-11T11:32:50Z"
       },
-      "message": "minor #8651 Reworded the explanation about service tags (javiereguiluz)\n\nThis PR was squashed before being merged into the 2.7 branch (closes #8651).\n\nDiscussion\n----------\n\nReworded the explanation about service tags\n\nCommits\n-------\n\nc03b5e361 Removed lots of redundant contents\n2b93b7d04 Reworded the explanation about service tags",
+      "message": "minor #9419 Fix the explanation about registering commands (javiereguiluz)\n\nThis PR was squashed before being merged into the 2.7 branch (closes #9419).\n\nDiscussion\n----------\n\nFix the explanation about registering commands\n\nA question to @xabbuh: we should merge this in 2.7, 2.8 and 3.4, right?\n\nCommits\n-------\n\n0b101d8ab Fix the explanation about registering commands",
       "tree": {
-        "sha": "e0302bc4aaa4e4424327dcd16985a4e7cfbbf5d1",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/e0302bc4aaa4e4424327dcd16985a4e7cfbbf5d1"
+        "sha": "1a39065f01a9a3c804a7e5327bf4ec0bb2b15fcb",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/1a39065f01a9a3c804a7e5327bf4ec0bb2b15fcb"
       },
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/558be2169f4cb040a43a3dc714cce47972b353b2",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/95f93481f2ae3bca2943d38225969c3f803383dc",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -27,57 +27,57 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/558be2169f4cb040a43a3dc714cce47972b353b2",
-    "html_url": "https://github.com/symfony/symfony-docs/commit/558be2169f4cb040a43a3dc714cce47972b353b2",
-    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/558be2169f4cb040a43a3dc714cce47972b353b2/comments",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/95f93481f2ae3bca2943d38225969c3f803383dc",
+    "html_url": "https://github.com/symfony/symfony-docs/commit/95f93481f2ae3bca2943d38225969c3f803383dc",
+    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/95f93481f2ae3bca2943d38225969c3f803383dc/comments",
     "author": {
-      "login": "weaverryan",
-      "id": 121003,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/121003?v=4",
+      "login": "javiereguiluz",
+      "id": 73419,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/73419?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/weaverryan",
-      "html_url": "https://github.com/weaverryan",
-      "followers_url": "https://api.github.com/users/weaverryan/followers",
-      "following_url": "https://api.github.com/users/weaverryan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/weaverryan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/weaverryan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/weaverryan/subscriptions",
-      "organizations_url": "https://api.github.com/users/weaverryan/orgs",
-      "repos_url": "https://api.github.com/users/weaverryan/repos",
-      "events_url": "https://api.github.com/users/weaverryan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/weaverryan/received_events",
+      "url": "https://api.github.com/users/javiereguiluz",
+      "html_url": "https://github.com/javiereguiluz",
+      "followers_url": "https://api.github.com/users/javiereguiluz/followers",
+      "following_url": "https://api.github.com/users/javiereguiluz/following{/other_user}",
+      "gists_url": "https://api.github.com/users/javiereguiluz/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/javiereguiluz/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/javiereguiluz/subscriptions",
+      "organizations_url": "https://api.github.com/users/javiereguiluz/orgs",
+      "repos_url": "https://api.github.com/users/javiereguiluz/repos",
+      "events_url": "https://api.github.com/users/javiereguiluz/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/javiereguiluz/received_events",
       "type": "User",
       "site_admin": false
     },
     "committer": {
-      "login": "weaverryan",
-      "id": 121003,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/121003?v=4",
+      "login": "javiereguiluz",
+      "id": 73419,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/73419?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/weaverryan",
-      "html_url": "https://github.com/weaverryan",
-      "followers_url": "https://api.github.com/users/weaverryan/followers",
-      "following_url": "https://api.github.com/users/weaverryan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/weaverryan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/weaverryan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/weaverryan/subscriptions",
-      "organizations_url": "https://api.github.com/users/weaverryan/orgs",
-      "repos_url": "https://api.github.com/users/weaverryan/repos",
-      "events_url": "https://api.github.com/users/weaverryan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/weaverryan/received_events",
+      "url": "https://api.github.com/users/javiereguiluz",
+      "html_url": "https://github.com/javiereguiluz",
+      "followers_url": "https://api.github.com/users/javiereguiluz/followers",
+      "following_url": "https://api.github.com/users/javiereguiluz/following{/other_user}",
+      "gists_url": "https://api.github.com/users/javiereguiluz/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/javiereguiluz/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/javiereguiluz/subscriptions",
+      "organizations_url": "https://api.github.com/users/javiereguiluz/orgs",
+      "repos_url": "https://api.github.com/users/javiereguiluz/repos",
+      "events_url": "https://api.github.com/users/javiereguiluz/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/javiereguiluz/received_events",
       "type": "User",
       "site_admin": false
     },
     "parents": [
       {
-        "sha": "9c29f08a2190f05d911bd1d0b626811c9ca1488c",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/9c29f08a2190f05d911bd1d0b626811c9ca1488c",
-        "html_url": "https://github.com/symfony/symfony-docs/commit/9c29f08a2190f05d911bd1d0b626811c9ca1488c"
+        "sha": "b963109e85f58e96aba22da93a19c499d91046e0",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/b963109e85f58e96aba22da93a19c499d91046e0",
+        "html_url": "https://github.com/symfony/symfony-docs/commit/b963109e85f58e96aba22da93a19c499d91046e0"
       },
       {
-        "sha": "c03b5e3617a69a0ce7cabbdcbd6af38497e991aa",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/c03b5e3617a69a0ce7cabbdcbd6af38497e991aa",
-        "html_url": "https://github.com/symfony/symfony-docs/commit/c03b5e3617a69a0ce7cabbdcbd6af38497e991aa"
+        "sha": "0b101d8abfb18906d2713c45055f88463e6abfb9",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/0b101d8abfb18906d2713c45055f88463e6abfb9",
+        "html_url": "https://github.com/symfony/symfony-docs/commit/0b101d8abfb18906d2713c45055f88463e6abfb9"
       }
     ]
   },
@@ -91,6 +91,7 @@
     "required_status_checks": {
       "enforcement_level": "off",
       "contexts": [
+
       ]
     }
   },
