@@ -1,38 +1,38 @@
 {
-  "sha": "a9d2f68ae9946000e2bcc3403d218ec0124f992a",
-  "url": "https://api.github.com/repos/symfony/symfony/git/commits/a9d2f68ae9946000e2bcc3403d218ec0124f992a",
-  "html_url": "https://github.com/symfony/symfony/commit/a9d2f68ae9946000e2bcc3403d218ec0124f992a",
-  "author": {
-    "name": "Fabien Potencier",
-    "email": "fabien@potencier.org",
-    "date": "2017-09-11T16:13:42Z"
-  },
-  "committer": {
-    "name": "GitHub",
-    "email": "noreply@github.com",
-    "date": "2017-09-11T16:13:42Z"
-  },
-  "tree": {
-    "sha": "f8f4df686d234a59468a393cb799b0f034c9eaa5",
-    "url": "https://api.github.com/repos/symfony/symfony/git/trees/f8f4df686d234a59468a393cb799b0f034c9eaa5"
-  },
-  "message": "Merge pull request #24156 from fabpot/release-3.3.9\n\nreleased v3.3.9",
-  "parents": [
-    {
-      "sha": "51af90e042994ea1b0505994f21a1af1944f5341",
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/51af90e042994ea1b0505994f21a1af1944f5341",
-      "html_url": "https://github.com/symfony/symfony/commit/51af90e042994ea1b0505994f21a1af1944f5341"
+    "author": {
+        "date": "2017-09-11T16:13:42Z",
+        "email": "fabien@potencier.org",
+        "name": "Fabien Potencier"
     },
-    {
-      "sha": "b9c93f1faa5e0555e2f768fc974fc05d4080a07d",
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/b9c93f1faa5e0555e2f768fc974fc05d4080a07d",
-      "html_url": "https://github.com/symfony/symfony/commit/b9c93f1faa5e0555e2f768fc974fc05d4080a07d"
+    "committer": {
+        "date": "2017-09-11T16:13:42Z",
+        "email": "noreply@github.com",
+        "name": "GitHub"
+    },
+    "html_url": "https://github.com/symfony/symfony/commit/a9d2f68ae9946000e2bcc3403d218ec0124f992a",
+    "message": "Merge pull request #24156 from fabpot/release-3.3.9\n\nreleased v3.3.9",
+    "parents": [
+        {
+            "html_url": "https://github.com/symfony/symfony/commit/51af90e042994ea1b0505994f21a1af1944f5341",
+            "sha": "51af90e042994ea1b0505994f21a1af1944f5341",
+            "url": "https://api.github.com/repos/symfony/symfony/git/commits/51af90e042994ea1b0505994f21a1af1944f5341"
+        },
+        {
+            "html_url": "https://github.com/symfony/symfony/commit/b9c93f1faa5e0555e2f768fc974fc05d4080a07d",
+            "sha": "b9c93f1faa5e0555e2f768fc974fc05d4080a07d",
+            "url": "https://api.github.com/repos/symfony/symfony/git/commits/b9c93f1faa5e0555e2f768fc974fc05d4080a07d"
+        }
+    ],
+    "sha": "a9d2f68ae9946000e2bcc3403d218ec0124f992a",
+    "tree": {
+        "sha": "f8f4df686d234a59468a393cb799b0f034c9eaa5",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/f8f4df686d234a59468a393cb799b0f034c9eaa5"
+    },
+    "url": "https://api.github.com/repos/symfony/symfony/git/commits/a9d2f68ae9946000e2bcc3403d218ec0124f992a",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

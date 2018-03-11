@@ -1,33 +1,33 @@
 {
-  "sha": "6062d3b25cbe99b8660724250436eeb249483119",
-  "url": "https://api.github.com/repos/octocat/linguist/git/commits/6062d3b25cbe99b8660724250436eeb249483119",
-  "html_url": "https://github.com/octocat/linguist/commit/6062d3b25cbe99b8660724250436eeb249483119",
-  "author": {
-    "name": "Arfon Smith",
-    "email": "arfon@github.com",
-    "date": "2015-05-18T19:41:36Z"
-  },
-  "committer": {
-    "name": "Arfon Smith",
-    "email": "arfon@github.com",
-    "date": "2015-05-18T19:41:36Z"
-  },
-  "tree": {
-    "sha": "4ebac834664005a103a23bb4047f2fe0c479372f",
-    "url": "https://api.github.com/repos/octocat/linguist/git/trees/4ebac834664005a103a23bb4047f2fe0c479372f"
-  },
-  "message": "Temporarily removing Handlebars highlighting",
-  "parents": [
-    {
-      "sha": "3878afa2e0f29b8e472dbaa40842e64c78a0a5ba",
-      "url": "https://api.github.com/repos/octocat/linguist/git/commits/3878afa2e0f29b8e472dbaa40842e64c78a0a5ba",
-      "html_url": "https://github.com/octocat/linguist/commit/3878afa2e0f29b8e472dbaa40842e64c78a0a5ba"
+    "author": {
+        "date": "2015-05-18T19:41:36Z",
+        "email": "arfon@github.com",
+        "name": "Arfon Smith"
+    },
+    "committer": {
+        "date": "2015-05-18T19:41:36Z",
+        "email": "arfon@github.com",
+        "name": "Arfon Smith"
+    },
+    "html_url": "https://github.com/octocat/linguist/commit/6062d3b25cbe99b8660724250436eeb249483119",
+    "message": "Temporarily removing Handlebars highlighting",
+    "parents": [
+        {
+            "html_url": "https://github.com/octocat/linguist/commit/3878afa2e0f29b8e472dbaa40842e64c78a0a5ba",
+            "sha": "3878afa2e0f29b8e472dbaa40842e64c78a0a5ba",
+            "url": "https://api.github.com/repos/octocat/linguist/git/commits/3878afa2e0f29b8e472dbaa40842e64c78a0a5ba"
+        }
+    ],
+    "sha": "6062d3b25cbe99b8660724250436eeb249483119",
+    "tree": {
+        "sha": "4ebac834664005a103a23bb4047f2fe0c479372f",
+        "url": "https://api.github.com/repos/octocat/linguist/git/trees/4ebac834664005a103a23bb4047f2fe0c479372f"
+    },
+    "url": "https://api.github.com/repos/octocat/linguist/git/commits/6062d3b25cbe99b8660724250436eeb249483119",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

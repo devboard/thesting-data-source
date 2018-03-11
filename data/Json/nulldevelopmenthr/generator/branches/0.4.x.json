@@ -1,94 +1,92 @@
 {
-  "name": "0.4.x",
-  "commit": {
-    "sha": "bf8bb843d125b28d0eaaf1974fac914e1042fc41",
+    "_links": {
+        "html": "https://github.com/nulldevelopmenthr/generator/tree/0.4.x",
+        "self": "https://api.github.com/repos/nulldevelopmenthr/generator/branches/0.4.x"
+    },
     "commit": {
-      "author": {
-        "name": "Miro Svrtan",
-        "email": "miro@mirosvrtan.me",
-        "date": "2016-11-12T18:17:16Z"
-      },
-      "committer": {
-        "name": "Miro Svrtan",
-        "email": "msvrtan@users.noreply.github.com",
-        "date": "2016-11-12T18:20:48Z"
-      },
-      "message": "Adding DoctrineORM read code generation",
-      "tree": {
-        "sha": "df2580d917cfde4e8325d0165ec4d78b625cf3fd",
-        "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/trees/df2580d917cfde4e8325d0165ec4d78b625cf3fd"
-      },
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/bf8bb843d125b28d0eaaf1974fac914e1042fc41",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+            "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+            "followers_url": "https://api.github.com/users/msvrtan/followers",
+            "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+            "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/msvrtan",
+            "id": 1780572,
+            "login": "msvrtan",
+            "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+            "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+            "repos_url": "https://api.github.com/users/msvrtan/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/msvrtan"
+        },
+        "comments_url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/bf8bb843d125b28d0eaaf1974fac914e1042fc41/comments",
+        "commit": {
+            "author": {
+                "date": "2016-11-12T18:17:16Z",
+                "email": "miro@mirosvrtan.me",
+                "name": "Miro Svrtan"
+            },
+            "comment_count": 0,
+            "committer": {
+                "date": "2016-11-12T18:20:48Z",
+                "email": "msvrtan@users.noreply.github.com",
+                "name": "Miro Svrtan"
+            },
+            "message": "Adding DoctrineORM read code generation",
+            "tree": {
+                "sha": "df2580d917cfde4e8325d0165ec4d78b625cf3fd",
+                "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/trees/df2580d917cfde4e8325d0165ec4d78b625cf3fd"
+            },
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/bf8bb843d125b28d0eaaf1974fac914e1042fc41",
+            "verification": {
+                "payload": null,
+                "reason": "unsigned",
+                "signature": null,
+                "verified": false
+            }
+        },
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+            "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+            "followers_url": "https://api.github.com/users/msvrtan/followers",
+            "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+            "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/msvrtan",
+            "id": 1780572,
+            "login": "msvrtan",
+            "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+            "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+            "repos_url": "https://api.github.com/users/msvrtan/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/msvrtan"
+        },
+        "html_url": "https://github.com/nulldevelopmenthr/generator/commit/bf8bb843d125b28d0eaaf1974fac914e1042fc41",
+        "parents": [
+            {
+                "html_url": "https://github.com/nulldevelopmenthr/generator/commit/7c985c5296e300cfc08706415ea2d07be175c271",
+                "sha": "7c985c5296e300cfc08706415ea2d07be175c271",
+                "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/7c985c5296e300cfc08706415ea2d07be175c271"
+            }
+        ],
+        "sha": "bf8bb843d125b28d0eaaf1974fac914e1042fc41",
+        "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/bf8bb843d125b28d0eaaf1974fac914e1042fc41"
     },
-    "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/bf8bb843d125b28d0eaaf1974fac914e1042fc41",
-    "html_url": "https://github.com/nulldevelopmenthr/generator/commit/bf8bb843d125b28d0eaaf1974fac914e1042fc41",
-    "comments_url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/bf8bb843d125b28d0eaaf1974fac914e1042fc41/comments",
-    "author": {
-      "login": "msvrtan",
-      "id": 1780572,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/msvrtan",
-      "html_url": "https://github.com/msvrtan",
-      "followers_url": "https://api.github.com/users/msvrtan/followers",
-      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
-      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
-      "repos_url": "https://api.github.com/users/msvrtan/repos",
-      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
-      "type": "User",
-      "site_admin": false
+    "name": "0.4.x",
+    "protected": false,
+    "protection": {
+        "enabled": false,
+        "required_status_checks": {
+            "contexts": [],
+            "enforcement_level": "off"
+        }
     },
-    "committer": {
-      "login": "msvrtan",
-      "id": 1780572,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/msvrtan",
-      "html_url": "https://github.com/msvrtan",
-      "followers_url": "https://api.github.com/users/msvrtan/followers",
-      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
-      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
-      "repos_url": "https://api.github.com/users/msvrtan/repos",
-      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "7c985c5296e300cfc08706415ea2d07be175c271",
-        "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/7c985c5296e300cfc08706415ea2d07be175c271",
-        "html_url": "https://github.com/nulldevelopmenthr/generator/commit/7c985c5296e300cfc08706415ea2d07be175c271"
-      }
-    ]
-  },
-  "_links": {
-    "self": "https://api.github.com/repos/nulldevelopmenthr/generator/branches/0.4.x",
-    "html": "https://github.com/nulldevelopmenthr/generator/tree/0.4.x"
-  },
-  "protected": false,
-  "protection": {
-    "enabled": false,
-    "required_status_checks": {
-      "enforcement_level": "off",
-      "contexts": [
-
-      ]
-    }
-  },
-  "protection_url": "https://api.github.com/repos/nulldevelopmenthr/generator/branches/0.4.x/protection"
+    "protection_url": "https://api.github.com/repos/nulldevelopmenthr/generator/branches/0.4.x/protection"
 }

@@ -1,33 +1,33 @@
 {
-  "sha": "c831050da831267f05875d52dd3123e8058146a4",
-  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/c831050da831267f05875d52dd3123e8058146a4",
-  "html_url": "https://github.com/symfony/symfony-docs/commit/c831050da831267f05875d52dd3123e8058146a4",
-  "author": {
-    "name": "Javier Eguiluz",
-    "email": "javier.eguiluz@gmail.com",
-    "date": "2018-01-30T09:53:20Z"
-  },
-  "committer": {
-    "name": "Christian Flothmann",
-    "email": "christian.flothmann@sensiolabs.de",
-    "date": "2018-01-31T12:29:17Z"
-  },
-  "tree": {
-    "sha": "ae8f68e324c0751e108e245d143c4cf16e19ada2",
-    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/ae8f68e324c0751e108e245d143c4cf16e19ada2"
-  },
-  "message": "minor #9167 Improved the docs about multiple Webpack configs (javiereguiluz)\n\nThis PR was merged into the 3.4 branch.\n\nDiscussion\n----------\n\nImproved the docs about multiple Webpack configs\n\nThis fixes #9166.\n\nCommits\n-------\n\n68c92e901 Improved the docs about multiple Webpack configs",
-  "parents": [
-    {
-      "sha": "7a9a193acf7bc6da68336d47df4b91b1dc60243c",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/7a9a193acf7bc6da68336d47df4b91b1dc60243c",
-      "html_url": "https://github.com/symfony/symfony-docs/commit/7a9a193acf7bc6da68336d47df4b91b1dc60243c"
+    "author": {
+        "date": "2018-01-30T09:53:20Z",
+        "email": "javier.eguiluz@gmail.com",
+        "name": "Javier Eguiluz"
+    },
+    "committer": {
+        "date": "2018-01-31T12:29:17Z",
+        "email": "christian.flothmann@sensiolabs.de",
+        "name": "Christian Flothmann"
+    },
+    "html_url": "https://github.com/symfony/symfony-docs/commit/c831050da831267f05875d52dd3123e8058146a4",
+    "message": "minor #9167 Improved the docs about multiple Webpack configs (javiereguiluz)\n\nThis PR was merged into the 3.4 branch.\n\nDiscussion\n----------\n\nImproved the docs about multiple Webpack configs\n\nThis fixes #9166.\n\nCommits\n-------\n\n68c92e901 Improved the docs about multiple Webpack configs",
+    "parents": [
+        {
+            "html_url": "https://github.com/symfony/symfony-docs/commit/7a9a193acf7bc6da68336d47df4b91b1dc60243c",
+            "sha": "7a9a193acf7bc6da68336d47df4b91b1dc60243c",
+            "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/7a9a193acf7bc6da68336d47df4b91b1dc60243c"
+        }
+    ],
+    "sha": "c831050da831267f05875d52dd3123e8058146a4",
+    "tree": {
+        "sha": "ae8f68e324c0751e108e245d143c4cf16e19ada2",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/ae8f68e324c0751e108e245d143c4cf16e19ada2"
+    },
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/c831050da831267f05875d52dd3123e8058146a4",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

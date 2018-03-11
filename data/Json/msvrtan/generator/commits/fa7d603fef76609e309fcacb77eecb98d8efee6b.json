@@ -1,33 +1,33 @@
 {
-  "sha": "fa7d603fef76609e309fcacb77eecb98d8efee6b",
-  "url": "https://api.github.com/repos/msvrtan/generator/git/commits/fa7d603fef76609e309fcacb77eecb98d8efee6b",
-  "html_url": "https://github.com/msvrtan/generator/commit/fa7d603fef76609e309fcacb77eecb98d8efee6b",
-  "author": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2017-07-13T20:55:05Z"
-  },
-  "committer": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2017-07-13T21:14:36Z"
-  },
-  "tree": {
-    "sha": "9918f124e5f2fa2f01ad9e5093c134fa52c3d8cb",
-    "url": "https://api.github.com/repos/msvrtan/generator/git/trees/9918f124e5f2fa2f01ad9e5093c134fa52c3d8cb"
-  },
-  "message": "fix",
-  "parents": [
-    {
-      "sha": "6d1497b9f9a726fd372234d70fb5991b45d9914f",
-      "url": "https://api.github.com/repos/msvrtan/generator/git/commits/6d1497b9f9a726fd372234d70fb5991b45d9914f",
-      "html_url": "https://github.com/msvrtan/generator/commit/6d1497b9f9a726fd372234d70fb5991b45d9914f"
+    "author": {
+        "date": "2017-07-13T20:55:05Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "committer": {
+        "date": "2017-07-13T21:14:36Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "html_url": "https://github.com/msvrtan/generator/commit/fa7d603fef76609e309fcacb77eecb98d8efee6b",
+    "message": "fix",
+    "parents": [
+        {
+            "html_url": "https://github.com/msvrtan/generator/commit/6d1497b9f9a726fd372234d70fb5991b45d9914f",
+            "sha": "6d1497b9f9a726fd372234d70fb5991b45d9914f",
+            "url": "https://api.github.com/repos/msvrtan/generator/git/commits/6d1497b9f9a726fd372234d70fb5991b45d9914f"
+        }
+    ],
+    "sha": "fa7d603fef76609e309fcacb77eecb98d8efee6b",
+    "tree": {
+        "sha": "9918f124e5f2fa2f01ad9e5093c134fa52c3d8cb",
+        "url": "https://api.github.com/repos/msvrtan/generator/git/trees/9918f124e5f2fa2f01ad9e5093c134fa52c3d8cb"
+    },
+    "url": "https://api.github.com/repos/msvrtan/generator/git/commits/fa7d603fef76609e309fcacb77eecb98d8efee6b",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

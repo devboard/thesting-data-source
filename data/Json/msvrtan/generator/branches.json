@@ -1,44 +1,44 @@
 [
-  {
-    "name": "25-suppress-warnings",
-    "commit": {
-      "sha": "f9e34dec772a6f75b6c009f40a50b65c53598a14",
-      "url": "https://api.github.com/repos/msvrtan/generator/commits/f9e34dec772a6f75b6c009f40a50b65c53598a14"
+    {
+        "commit": {
+            "sha": "f9e34dec772a6f75b6c009f40a50b65c53598a14",
+            "url": "https://api.github.com/repos/msvrtan/generator/commits/f9e34dec772a6f75b6c009f40a50b65c53598a14"
+        },
+        "name": "25-suppress-warnings"
+    },
+    {
+        "commit": {
+            "sha": "429dfa503d9475699ae8f020f407cccd2e738f63",
+            "url": "https://api.github.com/repos/msvrtan/generator/commits/429dfa503d9475699ae8f020f407cccd2e738f63"
+        },
+        "name": "autocomplete-hacks"
+    },
+    {
+        "commit": {
+            "sha": "f77b59d5d480c56e60f6edef27e7bec6f93d8c6f",
+            "url": "https://api.github.com/repos/msvrtan/generator/commits/f77b59d5d480c56e60f6edef27e7bec6f93d8c6f"
+        },
+        "name": "dev"
+    },
+    {
+        "commit": {
+            "sha": "f77b59d5d480c56e60f6edef27e7bec6f93d8c6f",
+            "url": "https://api.github.com/repos/msvrtan/generator/commits/f77b59d5d480c56e60f6edef27e7bec6f93d8c6f"
+        },
+        "name": "master"
+    },
+    {
+        "commit": {
+            "sha": "75ee1be6c5a21b8173a756ef3839a5ccb58a34e2",
+            "url": "https://api.github.com/repos/msvrtan/generator/commits/75ee1be6c5a21b8173a756ef3839a5ccb58a34e2"
+        },
+        "name": "new-features"
+    },
+    {
+        "commit": {
+            "sha": "fa7d603fef76609e309fcacb77eecb98d8efee6b",
+            "url": "https://api.github.com/repos/msvrtan/generator/commits/fa7d603fef76609e309fcacb77eecb98d8efee6b"
+        },
+        "name": "something"
     }
-  },
-  {
-    "name": "autocomplete-hacks",
-    "commit": {
-      "sha": "429dfa503d9475699ae8f020f407cccd2e738f63",
-      "url": "https://api.github.com/repos/msvrtan/generator/commits/429dfa503d9475699ae8f020f407cccd2e738f63"
-    }
-  },
-  {
-    "name": "dev",
-    "commit": {
-      "sha": "f77b59d5d480c56e60f6edef27e7bec6f93d8c6f",
-      "url": "https://api.github.com/repos/msvrtan/generator/commits/f77b59d5d480c56e60f6edef27e7bec6f93d8c6f"
-    }
-  },
-  {
-    "name": "master",
-    "commit": {
-      "sha": "f77b59d5d480c56e60f6edef27e7bec6f93d8c6f",
-      "url": "https://api.github.com/repos/msvrtan/generator/commits/f77b59d5d480c56e60f6edef27e7bec6f93d8c6f"
-    }
-  },
-  {
-    "name": "new-features",
-    "commit": {
-      "sha": "75ee1be6c5a21b8173a756ef3839a5ccb58a34e2",
-      "url": "https://api.github.com/repos/msvrtan/generator/commits/75ee1be6c5a21b8173a756ef3839a5ccb58a34e2"
-    }
-  },
-  {
-    "name": "something",
-    "commit": {
-      "sha": "fa7d603fef76609e309fcacb77eecb98d8efee6b",
-      "url": "https://api.github.com/repos/msvrtan/generator/commits/fa7d603fef76609e309fcacb77eecb98d8efee6b"
-    }
-  }
 ]

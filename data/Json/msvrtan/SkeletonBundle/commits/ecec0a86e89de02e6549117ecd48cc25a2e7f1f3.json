@@ -1,33 +1,33 @@
 {
-  "sha": "ecec0a86e89de02e6549117ecd48cc25a2e7f1f3",
-  "url": "https://api.github.com/repos/msvrtan/SkeletonBundle/git/commits/ecec0a86e89de02e6549117ecd48cc25a2e7f1f3",
-  "html_url": "https://github.com/msvrtan/SkeletonBundle/commit/ecec0a86e89de02e6549117ecd48cc25a2e7f1f3",
-  "author": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2016-11-12T18:36:37Z"
-  },
-  "committer": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2016-11-12T18:49:13Z"
-  },
-  "tree": {
-    "sha": "99bc23de8b78705174ed254ac233e5945e464906",
-    "url": "https://api.github.com/repos/msvrtan/SkeletonBundle/git/trees/99bc23de8b78705174ed254ac233e5945e464906"
-  },
-  "message": "Add skeleton:broadway:read:doctrine-orm",
-  "parents": [
-    {
-      "sha": "8e53b31bf5deca20bae042e417bb7544a1b34717",
-      "url": "https://api.github.com/repos/msvrtan/SkeletonBundle/git/commits/8e53b31bf5deca20bae042e417bb7544a1b34717",
-      "html_url": "https://github.com/msvrtan/SkeletonBundle/commit/8e53b31bf5deca20bae042e417bb7544a1b34717"
+    "author": {
+        "date": "2016-11-12T18:36:37Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "committer": {
+        "date": "2016-11-12T18:49:13Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "html_url": "https://github.com/msvrtan/SkeletonBundle/commit/ecec0a86e89de02e6549117ecd48cc25a2e7f1f3",
+    "message": "Add skeleton:broadway:read:doctrine-orm",
+    "parents": [
+        {
+            "html_url": "https://github.com/msvrtan/SkeletonBundle/commit/8e53b31bf5deca20bae042e417bb7544a1b34717",
+            "sha": "8e53b31bf5deca20bae042e417bb7544a1b34717",
+            "url": "https://api.github.com/repos/msvrtan/SkeletonBundle/git/commits/8e53b31bf5deca20bae042e417bb7544a1b34717"
+        }
+    ],
+    "sha": "ecec0a86e89de02e6549117ecd48cc25a2e7f1f3",
+    "tree": {
+        "sha": "99bc23de8b78705174ed254ac233e5945e464906",
+        "url": "https://api.github.com/repos/msvrtan/SkeletonBundle/git/trees/99bc23de8b78705174ed254ac233e5945e464906"
+    },
+    "url": "https://api.github.com/repos/msvrtan/SkeletonBundle/git/commits/ecec0a86e89de02e6549117ecd48cc25a2e7f1f3",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

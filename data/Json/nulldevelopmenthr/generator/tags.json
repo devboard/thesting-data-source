@@ -1,110 +1,110 @@
 [
-  {
-    "name": "v0.7.0",
-    "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.7.0",
-    "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.7.0",
-    "commit": {
-      "sha": "91f1550f1ea5fb9a41d3aacb968e12913f8cfac3",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/91f1550f1ea5fb9a41d3aacb968e12913f8cfac3"
+    {
+        "commit": {
+            "sha": "91f1550f1ea5fb9a41d3aacb968e12913f8cfac3",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/91f1550f1ea5fb9a41d3aacb968e12913f8cfac3"
+        },
+        "name": "v0.7.0",
+        "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.7.0",
+        "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.7.0"
+    },
+    {
+        "commit": {
+            "sha": "989d9ed6ef65bceaba19766d18e7d1746e1ea4c1",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/989d9ed6ef65bceaba19766d18e7d1746e1ea4c1"
+        },
+        "name": "v0.6.2",
+        "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.6.2",
+        "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.6.2"
+    },
+    {
+        "commit": {
+            "sha": "26b700ed5c91cb683d06d7eae9b2c0161ea1dd9f",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/26b700ed5c91cb683d06d7eae9b2c0161ea1dd9f"
+        },
+        "name": "v0.6.1",
+        "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.6.1",
+        "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.6.1"
+    },
+    {
+        "commit": {
+            "sha": "b136d136492dfe7d9d43c9d2f469f5c959ce85a5",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/b136d136492dfe7d9d43c9d2f469f5c959ce85a5"
+        },
+        "name": "v0.6.0",
+        "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.6.0",
+        "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.6.0"
+    },
+    {
+        "commit": {
+            "sha": "73cecef15e1d364d591fec95d3c819003182fdcd",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/73cecef15e1d364d591fec95d3c819003182fdcd"
+        },
+        "name": "v0.5.2",
+        "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.5.2",
+        "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.5.2"
+    },
+    {
+        "commit": {
+            "sha": "cd0d656268bed4b00a3b0b2397304d88140b03c8",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/cd0d656268bed4b00a3b0b2397304d88140b03c8"
+        },
+        "name": "v0.5.1",
+        "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.5.1",
+        "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.5.1"
+    },
+    {
+        "commit": {
+            "sha": "a19cccbf22a4231cab89c8b281f59221ac9b1c00",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/a19cccbf22a4231cab89c8b281f59221ac9b1c00"
+        },
+        "name": "v0.5.0",
+        "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.5.0",
+        "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.5.0"
+    },
+    {
+        "commit": {
+            "sha": "bf8bb843d125b28d0eaaf1974fac914e1042fc41",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/bf8bb843d125b28d0eaaf1974fac914e1042fc41"
+        },
+        "name": "v0.4.0",
+        "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.4.0",
+        "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.4.0"
+    },
+    {
+        "commit": {
+            "sha": "e25460d8d6d93bf521123189437ff2eb570ce2ab",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/e25460d8d6d93bf521123189437ff2eb570ce2ab"
+        },
+        "name": "v0.2.3",
+        "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.2.3",
+        "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.2.3"
+    },
+    {
+        "commit": {
+            "sha": "53b986f6ea9e1f9a131dbaaa663a0ab5e1aff0fe",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/53b986f6ea9e1f9a131dbaaa663a0ab5e1aff0fe"
+        },
+        "name": "v0.2.2",
+        "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.2.2",
+        "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.2.2"
+    },
+    {
+        "commit": {
+            "sha": "c322d05b7a4338197082aa8b4735d11f10d959f8",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/c322d05b7a4338197082aa8b4735d11f10d959f8"
+        },
+        "name": "v0.2.1",
+        "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.2.1",
+        "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.2.1"
+    },
+    {
+        "commit": {
+            "sha": "5c9933d1e063d69e920d9646e78d45418a97e2ca",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/5c9933d1e063d69e920d9646e78d45418a97e2ca"
+        },
+        "name": "v0.2.0",
+        "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.2.0",
+        "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.2.0"
     }
-  },
-  {
-    "name": "v0.6.2",
-    "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.6.2",
-    "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.6.2",
-    "commit": {
-      "sha": "989d9ed6ef65bceaba19766d18e7d1746e1ea4c1",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/989d9ed6ef65bceaba19766d18e7d1746e1ea4c1"
-    }
-  },
-  {
-    "name": "v0.6.1",
-    "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.6.1",
-    "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.6.1",
-    "commit": {
-      "sha": "26b700ed5c91cb683d06d7eae9b2c0161ea1dd9f",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/26b700ed5c91cb683d06d7eae9b2c0161ea1dd9f"
-    }
-  },
-  {
-    "name": "v0.6.0",
-    "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.6.0",
-    "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.6.0",
-    "commit": {
-      "sha": "b136d136492dfe7d9d43c9d2f469f5c959ce85a5",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/b136d136492dfe7d9d43c9d2f469f5c959ce85a5"
-    }
-  },
-  {
-    "name": "v0.5.2",
-    "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.5.2",
-    "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.5.2",
-    "commit": {
-      "sha": "73cecef15e1d364d591fec95d3c819003182fdcd",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/73cecef15e1d364d591fec95d3c819003182fdcd"
-    }
-  },
-  {
-    "name": "v0.5.1",
-    "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.5.1",
-    "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.5.1",
-    "commit": {
-      "sha": "cd0d656268bed4b00a3b0b2397304d88140b03c8",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/cd0d656268bed4b00a3b0b2397304d88140b03c8"
-    }
-  },
-  {
-    "name": "v0.5.0",
-    "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.5.0",
-    "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.5.0",
-    "commit": {
-      "sha": "a19cccbf22a4231cab89c8b281f59221ac9b1c00",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/a19cccbf22a4231cab89c8b281f59221ac9b1c00"
-    }
-  },
-  {
-    "name": "v0.4.0",
-    "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.4.0",
-    "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.4.0",
-    "commit": {
-      "sha": "bf8bb843d125b28d0eaaf1974fac914e1042fc41",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/bf8bb843d125b28d0eaaf1974fac914e1042fc41"
-    }
-  },
-  {
-    "name": "v0.2.3",
-    "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.2.3",
-    "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.2.3",
-    "commit": {
-      "sha": "e25460d8d6d93bf521123189437ff2eb570ce2ab",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/e25460d8d6d93bf521123189437ff2eb570ce2ab"
-    }
-  },
-  {
-    "name": "v0.2.2",
-    "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.2.2",
-    "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.2.2",
-    "commit": {
-      "sha": "53b986f6ea9e1f9a131dbaaa663a0ab5e1aff0fe",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/53b986f6ea9e1f9a131dbaaa663a0ab5e1aff0fe"
-    }
-  },
-  {
-    "name": "v0.2.1",
-    "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.2.1",
-    "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.2.1",
-    "commit": {
-      "sha": "c322d05b7a4338197082aa8b4735d11f10d959f8",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/c322d05b7a4338197082aa8b4735d11f10d959f8"
-    }
-  },
-  {
-    "name": "v0.2.0",
-    "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.2.0",
-    "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.2.0",
-    "commit": {
-      "sha": "5c9933d1e063d69e920d9646e78d45418a97e2ca",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/5c9933d1e063d69e920d9646e78d45418a97e2ca"
-    }
-  }
 ]

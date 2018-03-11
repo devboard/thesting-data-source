@@ -1,33 +1,33 @@
 {
-  "sha": "214023c12d389ee074248411f8e26d5d6e42a3c9",
-  "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/git/commits/214023c12d389ee074248411f8e26d5d6e42a3c9",
-  "html_url": "https://github.com/msvrtan/skeleton-sandbox/commit/214023c12d389ee074248411f8e26d5d6e42a3c9",
-  "author": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2016-06-18T20:17:48Z"
-  },
-  "committer": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2016-06-18T22:47:17Z"
-  },
-  "tree": {
-    "sha": "fcaabcd2fcbc01cc1de43e32fee814aed72d5e9c",
-    "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/git/trees/fcaabcd2fcbc01cc1de43e32fee814aed72d5e9c"
-  },
-  "message": "Updated composer.lock",
-  "parents": [
-    {
-      "sha": "73c7f9e5ffeacf38042abdd900b2c26ed7db0c1d",
-      "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/git/commits/73c7f9e5ffeacf38042abdd900b2c26ed7db0c1d",
-      "html_url": "https://github.com/msvrtan/skeleton-sandbox/commit/73c7f9e5ffeacf38042abdd900b2c26ed7db0c1d"
+    "author": {
+        "date": "2016-06-18T20:17:48Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "committer": {
+        "date": "2016-06-18T22:47:17Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "html_url": "https://github.com/msvrtan/skeleton-sandbox/commit/214023c12d389ee074248411f8e26d5d6e42a3c9",
+    "message": "Updated composer.lock",
+    "parents": [
+        {
+            "html_url": "https://github.com/msvrtan/skeleton-sandbox/commit/73c7f9e5ffeacf38042abdd900b2c26ed7db0c1d",
+            "sha": "73c7f9e5ffeacf38042abdd900b2c26ed7db0c1d",
+            "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/git/commits/73c7f9e5ffeacf38042abdd900b2c26ed7db0c1d"
+        }
+    ],
+    "sha": "214023c12d389ee074248411f8e26d5d6e42a3c9",
+    "tree": {
+        "sha": "fcaabcd2fcbc01cc1de43e32fee814aed72d5e9c",
+        "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/git/trees/fcaabcd2fcbc01cc1de43e32fee814aed72d5e9c"
+    },
+    "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/git/commits/214023c12d389ee074248411f8e26d5d6e42a3c9",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

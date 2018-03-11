@@ -1,1 +1,9 @@
-{"name":"v0.2.3","zipball_url":"https:\/\/api.github.com\/repos\/nulldevelopmenthr\/SkeletonBundle\/zipball\/v0.2.3","tarball_url":"https:\/\/api.github.com\/repos\/nulldevelopmenthr\/SkeletonBundle\/tarball\/v0.2.3","commit":{"sha":"e31ef5597140dc0c696a410108d5deb9db62c753","url":"https:\/\/api.github.com\/repos\/nulldevelopmenthr\/SkeletonBundle\/commits\/e31ef5597140dc0c696a410108d5deb9db62c753"}}
+{
+    "commit": {
+        "sha": "e31ef5597140dc0c696a410108d5deb9db62c753",
+        "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/commits/e31ef5597140dc0c696a410108d5deb9db62c753"
+    },
+    "name": "v0.2.3",
+    "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/tarball/v0.2.3",
+    "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/zipball/v0.2.3"
+}

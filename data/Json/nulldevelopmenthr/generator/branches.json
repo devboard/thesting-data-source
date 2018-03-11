@@ -1,65 +1,65 @@
 [
-  {
-    "name": "0.1.x",
-    "commit": {
-      "sha": "37c058360baa4882210e207bd2857fb1ca402ddc",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/37c058360baa4882210e207bd2857fb1ca402ddc"
+    {
+        "commit": {
+            "sha": "37c058360baa4882210e207bd2857fb1ca402ddc",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/37c058360baa4882210e207bd2857fb1ca402ddc"
+        },
+        "name": "0.1.x"
+    },
+    {
+        "commit": {
+            "sha": "e25460d8d6d93bf521123189437ff2eb570ce2ab",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/e25460d8d6d93bf521123189437ff2eb570ce2ab"
+        },
+        "name": "0.2.x"
+    },
+    {
+        "commit": {
+            "sha": "39dec76457e066fdd029cbdc5c9da320a88865dc",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/39dec76457e066fdd029cbdc5c9da320a88865dc"
+        },
+        "name": "0.3.x"
+    },
+    {
+        "commit": {
+            "sha": "bf8bb843d125b28d0eaaf1974fac914e1042fc41",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/bf8bb843d125b28d0eaaf1974fac914e1042fc41"
+        },
+        "name": "0.4.x"
+    },
+    {
+        "commit": {
+            "sha": "73cecef15e1d364d591fec95d3c819003182fdcd",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/73cecef15e1d364d591fec95d3c819003182fdcd"
+        },
+        "name": "0.5.x"
+    },
+    {
+        "commit": {
+            "sha": "989d9ed6ef65bceaba19766d18e7d1746e1ea4c1",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/989d9ed6ef65bceaba19766d18e7d1746e1ea4c1"
+        },
+        "name": "0.6.x"
+    },
+    {
+        "commit": {
+            "sha": "012019aae922c1019e4a50a6ed1aeba96a35a44e",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/012019aae922c1019e4a50a6ed1aeba96a35a44e"
+        },
+        "name": "0.7.x"
+    },
+    {
+        "commit": {
+            "sha": "188819c4301148d6bc11343d053aea9f483f8e9b",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/188819c4301148d6bc11343d053aea9f483f8e9b"
+        },
+        "name": "master"
+    },
+    {
+        "commit": {
+            "sha": "7f981004a777d2c67865a6a91d40ab2fca6af4c1",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/7f981004a777d2c67865a6a91d40ab2fca6af4c1"
+        },
+        "name": "new-master"
     }
-  },
-  {
-    "name": "0.2.x",
-    "commit": {
-      "sha": "e25460d8d6d93bf521123189437ff2eb570ce2ab",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/e25460d8d6d93bf521123189437ff2eb570ce2ab"
-    }
-  },
-  {
-    "name": "0.3.x",
-    "commit": {
-      "sha": "39dec76457e066fdd029cbdc5c9da320a88865dc",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/39dec76457e066fdd029cbdc5c9da320a88865dc"
-    }
-  },
-  {
-    "name": "0.4.x",
-    "commit": {
-      "sha": "bf8bb843d125b28d0eaaf1974fac914e1042fc41",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/bf8bb843d125b28d0eaaf1974fac914e1042fc41"
-    }
-  },
-  {
-    "name": "0.5.x",
-    "commit": {
-      "sha": "73cecef15e1d364d591fec95d3c819003182fdcd",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/73cecef15e1d364d591fec95d3c819003182fdcd"
-    }
-  },
-  {
-    "name": "0.6.x",
-    "commit": {
-      "sha": "989d9ed6ef65bceaba19766d18e7d1746e1ea4c1",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/989d9ed6ef65bceaba19766d18e7d1746e1ea4c1"
-    }
-  },
-  {
-    "name": "0.7.x",
-    "commit": {
-      "sha": "012019aae922c1019e4a50a6ed1aeba96a35a44e",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/012019aae922c1019e4a50a6ed1aeba96a35a44e"
-    }
-  },
-  {
-    "name": "master",
-    "commit": {
-      "sha": "188819c4301148d6bc11343d053aea9f483f8e9b",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/188819c4301148d6bc11343d053aea9f483f8e9b"
-    }
-  },
-  {
-    "name": "new-master",
-    "commit": {
-      "sha": "7f981004a777d2c67865a6a91d40ab2fca6af4c1",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/7f981004a777d2c67865a6a91d40ab2fca6af4c1"
-    }
-  }
 ]

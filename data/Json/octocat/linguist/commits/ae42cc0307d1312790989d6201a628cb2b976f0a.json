@@ -1,38 +1,38 @@
 {
-  "sha": "ae42cc0307d1312790989d6201a628cb2b976f0a",
-  "url": "https://api.github.com/repos/octocat/linguist/git/commits/ae42cc0307d1312790989d6201a628cb2b976f0a",
-  "html_url": "https://github.com/octocat/linguist/commit/ae42cc0307d1312790989d6201a628cb2b976f0a",
-  "author": {
-    "name": "Arfon Smith",
-    "email": "arfon@users.noreply.github.com",
-    "date": "2015-10-05T10:15:35Z"
-  },
-  "committer": {
-    "name": "Arfon Smith",
-    "email": "arfon@users.noreply.github.com",
-    "date": "2015-10-05T10:15:35Z"
-  },
-  "tree": {
-    "sha": "b82a255d159fd7b249200e1503c490edd1da5bcc",
-    "url": "https://api.github.com/repos/octocat/linguist/git/trees/b82a255d159fd7b249200e1503c490edd1da5bcc"
-  },
-  "message": "Merge pull request #2672 from github/cut-release-v4.6.4\n\nCut release v4.6.4",
-  "parents": [
-    {
-      "sha": "d72f7311f61f3784b3f205d915aa012b62a2f829",
-      "url": "https://api.github.com/repos/octocat/linguist/git/commits/d72f7311f61f3784b3f205d915aa012b62a2f829",
-      "html_url": "https://github.com/octocat/linguist/commit/d72f7311f61f3784b3f205d915aa012b62a2f829"
+    "author": {
+        "date": "2015-10-05T10:15:35Z",
+        "email": "arfon@users.noreply.github.com",
+        "name": "Arfon Smith"
     },
-    {
-      "sha": "d06860df37a9528c531c146c684419fa30a6d078",
-      "url": "https://api.github.com/repos/octocat/linguist/git/commits/d06860df37a9528c531c146c684419fa30a6d078",
-      "html_url": "https://github.com/octocat/linguist/commit/d06860df37a9528c531c146c684419fa30a6d078"
+    "committer": {
+        "date": "2015-10-05T10:15:35Z",
+        "email": "arfon@users.noreply.github.com",
+        "name": "Arfon Smith"
+    },
+    "html_url": "https://github.com/octocat/linguist/commit/ae42cc0307d1312790989d6201a628cb2b976f0a",
+    "message": "Merge pull request #2672 from github/cut-release-v4.6.4\n\nCut release v4.6.4",
+    "parents": [
+        {
+            "html_url": "https://github.com/octocat/linguist/commit/d72f7311f61f3784b3f205d915aa012b62a2f829",
+            "sha": "d72f7311f61f3784b3f205d915aa012b62a2f829",
+            "url": "https://api.github.com/repos/octocat/linguist/git/commits/d72f7311f61f3784b3f205d915aa012b62a2f829"
+        },
+        {
+            "html_url": "https://github.com/octocat/linguist/commit/d06860df37a9528c531c146c684419fa30a6d078",
+            "sha": "d06860df37a9528c531c146c684419fa30a6d078",
+            "url": "https://api.github.com/repos/octocat/linguist/git/commits/d06860df37a9528c531c146c684419fa30a6d078"
+        }
+    ],
+    "sha": "ae42cc0307d1312790989d6201a628cb2b976f0a",
+    "tree": {
+        "sha": "b82a255d159fd7b249200e1503c490edd1da5bcc",
+        "url": "https://api.github.com/repos/octocat/linguist/git/trees/b82a255d159fd7b249200e1503c490edd1da5bcc"
+    },
+    "url": "https://api.github.com/repos/octocat/linguist/git/commits/ae42cc0307d1312790989d6201a628cb2b976f0a",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

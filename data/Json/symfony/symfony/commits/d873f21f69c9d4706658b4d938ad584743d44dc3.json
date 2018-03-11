@@ -1,33 +1,33 @@
 {
-  "sha": "d873f21f69c9d4706658b4d938ad584743d44dc3",
-  "url": "https://api.github.com/repos/symfony/symfony/git/commits/d873f21f69c9d4706658b4d938ad584743d44dc3",
-  "html_url": "https://github.com/symfony/symfony/commit/d873f21f69c9d4706658b4d938ad584743d44dc3",
-  "author": {
-    "name": "Fabien Potencier",
-    "email": "fabien.potencier@gmail.com",
-    "date": "2011-04-12T13:23:02Z"
-  },
-  "committer": {
-    "name": "Fabien Potencier",
-    "email": "fabien.potencier@gmail.com",
-    "date": "2011-04-12T13:23:02Z"
-  },
-  "tree": {
-    "sha": "7c127ae2e78d4137fc12f1a29fecb38ddceab55e",
-    "url": "https://api.github.com/repos/symfony/symfony/git/trees/7c127ae2e78d4137fc12f1a29fecb38ddceab55e"
-  },
-  "message": "[FrameworkBundle] removed links in exceptions when the file does not exist (mostly useful because of shortcut notations for templates)",
-  "parents": [
-    {
-      "sha": "b68624aa7f3e7e81c883fd3cce0f161ab479c9a8",
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/b68624aa7f3e7e81c883fd3cce0f161ab479c9a8",
-      "html_url": "https://github.com/symfony/symfony/commit/b68624aa7f3e7e81c883fd3cce0f161ab479c9a8"
+    "author": {
+        "date": "2011-04-12T13:23:02Z",
+        "email": "fabien.potencier@gmail.com",
+        "name": "Fabien Potencier"
+    },
+    "committer": {
+        "date": "2011-04-12T13:23:02Z",
+        "email": "fabien.potencier@gmail.com",
+        "name": "Fabien Potencier"
+    },
+    "html_url": "https://github.com/symfony/symfony/commit/d873f21f69c9d4706658b4d938ad584743d44dc3",
+    "message": "[FrameworkBundle] removed links in exceptions when the file does not exist (mostly useful because of shortcut notations for templates)",
+    "parents": [
+        {
+            "html_url": "https://github.com/symfony/symfony/commit/b68624aa7f3e7e81c883fd3cce0f161ab479c9a8",
+            "sha": "b68624aa7f3e7e81c883fd3cce0f161ab479c9a8",
+            "url": "https://api.github.com/repos/symfony/symfony/git/commits/b68624aa7f3e7e81c883fd3cce0f161ab479c9a8"
+        }
+    ],
+    "sha": "d873f21f69c9d4706658b4d938ad584743d44dc3",
+    "tree": {
+        "sha": "7c127ae2e78d4137fc12f1a29fecb38ddceab55e",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/7c127ae2e78d4137fc12f1a29fecb38ddceab55e"
+    },
+    "url": "https://api.github.com/repos/symfony/symfony/git/commits/d873f21f69c9d4706658b4d938ad584743d44dc3",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

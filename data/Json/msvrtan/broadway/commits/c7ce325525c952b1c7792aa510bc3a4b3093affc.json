@@ -1,33 +1,33 @@
 {
-  "sha": "c7ce325525c952b1c7792aa510bc3a4b3093affc",
-  "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/c7ce325525c952b1c7792aa510bc3a4b3093affc",
-  "html_url": "https://github.com/msvrtan/broadway/commit/c7ce325525c952b1c7792aa510bc3a4b3093affc",
-  "author": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2016-08-06T19:03:53Z"
-  },
-  "committer": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2016-08-06T19:03:53Z"
-  },
-  "tree": {
-    "sha": "f277ee67217aaea9077009ee90a39aa514c0e63c",
-    "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/f277ee67217aaea9077009ee90a39aa514c0e63c"
-  },
-  "message": "Run travis on all branches",
-  "parents": [
-    {
-      "sha": "91473c03e04b9def2ed980021735ed4d88aad169",
-      "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/91473c03e04b9def2ed980021735ed4d88aad169",
-      "html_url": "https://github.com/msvrtan/broadway/commit/91473c03e04b9def2ed980021735ed4d88aad169"
+    "author": {
+        "date": "2016-08-06T19:03:53Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "committer": {
+        "date": "2016-08-06T19:03:53Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "html_url": "https://github.com/msvrtan/broadway/commit/c7ce325525c952b1c7792aa510bc3a4b3093affc",
+    "message": "Run travis on all branches",
+    "parents": [
+        {
+            "html_url": "https://github.com/msvrtan/broadway/commit/91473c03e04b9def2ed980021735ed4d88aad169",
+            "sha": "91473c03e04b9def2ed980021735ed4d88aad169",
+            "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/91473c03e04b9def2ed980021735ed4d88aad169"
+        }
+    ],
+    "sha": "c7ce325525c952b1c7792aa510bc3a4b3093affc",
+    "tree": {
+        "sha": "f277ee67217aaea9077009ee90a39aa514c0e63c",
+        "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/f277ee67217aaea9077009ee90a39aa514c0e63c"
+    },
+    "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/c7ce325525c952b1c7792aa510bc3a4b3093affc",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

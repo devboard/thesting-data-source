@@ -1,38 +1,38 @@
 {
-  "sha": "11d79cbb126283501092fd866210a9b1fd7a230e",
-  "url": "https://api.github.com/repos/symfony/symfony/git/commits/11d79cbb126283501092fd866210a9b1fd7a230e",
-  "html_url": "https://github.com/symfony/symfony/commit/11d79cbb126283501092fd866210a9b1fd7a230e",
-  "author": {
-    "name": "Christophe Coevoet",
-    "email": "stof@notk.org",
-    "date": "2017-11-17T13:57:47Z"
-  },
-  "committer": {
-    "name": "Christophe Coevoet",
-    "email": "stof@notk.org",
-    "date": "2017-11-17T13:57:47Z"
-  },
-  "tree": {
-    "sha": "febc874a580c53cbbcdd95f4a1cf320f84cd30c5",
-    "url": "https://api.github.com/repos/symfony/symfony/git/trees/febc874a580c53cbbcdd95f4a1cf320f84cd30c5"
-  },
-  "message": "bug #24956 Fix ambiguous pattern (weltling)\n\nThis PR was merged into the 2.7 branch.\n\nDiscussion\n----------\n\nFix ambiguous pattern\n\n[Validator][Constraints][UrlValidator] Fix domain name pattern.\n\n| Q             | A\n| ------------- | ---\n| Branch?       | 2.7\n| Bug fix?      | yes\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets |\n| License       | MIT\n| Doc PR        |\n\n`\\pS` is a unicode character class, `\\pS-\\.` pretends to be a range which is not. This pattern fails with PCRE2.\n\nThanks.\n\nCommits\n-------\n\n059f59a106 Fix ambiguous pattern",
-  "parents": [
-    {
-      "sha": "c963178206515c40968c01dcccdbd9ddbc250fe1",
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/c963178206515c40968c01dcccdbd9ddbc250fe1",
-      "html_url": "https://github.com/symfony/symfony/commit/c963178206515c40968c01dcccdbd9ddbc250fe1"
+    "author": {
+        "date": "2017-11-17T13:57:47Z",
+        "email": "stof@notk.org",
+        "name": "Christophe Coevoet"
     },
-    {
-      "sha": "059f59a106634ba9e408c70c8dea557a9bd6c658",
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/059f59a106634ba9e408c70c8dea557a9bd6c658",
-      "html_url": "https://github.com/symfony/symfony/commit/059f59a106634ba9e408c70c8dea557a9bd6c658"
+    "committer": {
+        "date": "2017-11-17T13:57:47Z",
+        "email": "stof@notk.org",
+        "name": "Christophe Coevoet"
+    },
+    "html_url": "https://github.com/symfony/symfony/commit/11d79cbb126283501092fd866210a9b1fd7a230e",
+    "message": "bug #24956 Fix ambiguous pattern (weltling)\n\nThis PR was merged into the 2.7 branch.\n\nDiscussion\n----------\n\nFix ambiguous pattern\n\n[Validator][Constraints][UrlValidator] Fix domain name pattern.\n\n| Q             | A\n| ------------- | ---\n| Branch?       | 2.7\n| Bug fix?      | yes\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets |\n| License       | MIT\n| Doc PR        |\n\n`\\pS` is a unicode character class, `\\pS-\\.` pretends to be a range which is not. This pattern fails with PCRE2.\n\nThanks.\n\nCommits\n-------\n\n059f59a106 Fix ambiguous pattern",
+    "parents": [
+        {
+            "html_url": "https://github.com/symfony/symfony/commit/c963178206515c40968c01dcccdbd9ddbc250fe1",
+            "sha": "c963178206515c40968c01dcccdbd9ddbc250fe1",
+            "url": "https://api.github.com/repos/symfony/symfony/git/commits/c963178206515c40968c01dcccdbd9ddbc250fe1"
+        },
+        {
+            "html_url": "https://github.com/symfony/symfony/commit/059f59a106634ba9e408c70c8dea557a9bd6c658",
+            "sha": "059f59a106634ba9e408c70c8dea557a9bd6c658",
+            "url": "https://api.github.com/repos/symfony/symfony/git/commits/059f59a106634ba9e408c70c8dea557a9bd6c658"
+        }
+    ],
+    "sha": "11d79cbb126283501092fd866210a9b1fd7a230e",
+    "tree": {
+        "sha": "febc874a580c53cbbcdd95f4a1cf320f84cd30c5",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/febc874a580c53cbbcdd95f4a1cf320f84cd30c5"
+    },
+    "url": "https://api.github.com/repos/symfony/symfony/git/commits/11d79cbb126283501092fd866210a9b1fd7a230e",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

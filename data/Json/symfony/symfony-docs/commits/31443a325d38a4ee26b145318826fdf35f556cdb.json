@@ -1,33 +1,33 @@
 {
-  "sha": "31443a325d38a4ee26b145318826fdf35f556cdb",
-  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/31443a325d38a4ee26b145318826fdf35f556cdb",
-  "html_url": "https://github.com/symfony/symfony-docs/commit/31443a325d38a4ee26b145318826fdf35f556cdb",
-  "author": {
-    "name": "Ryan Weaver",
-    "email": "ryan@thatsquality.com",
-    "date": "2013-07-29T00:53:10Z"
-  },
-  "committer": {
-    "name": "Ryan Weaver",
-    "email": "ryan@thatsquality.com",
-    "date": "2013-07-29T00:53:10Z"
-  },
-  "tree": {
-    "sha": "d4c89e9eff57be0ee8a3345b2334126466e05bca",
-    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/d4c89e9eff57be0ee8a3345b2334126466e05bca"
-  },
-  "message": "[#2783] Putting back my a/b labels - I think this helps you track the sections and this area - since it deals with security - is very very important",
-  "parents": [
-    {
-      "sha": "a3a45772d9505b5fa2ec5555b64e15bef8585411",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/a3a45772d9505b5fa2ec5555b64e15bef8585411",
-      "html_url": "https://github.com/symfony/symfony-docs/commit/a3a45772d9505b5fa2ec5555b64e15bef8585411"
+    "author": {
+        "date": "2013-07-29T00:53:10Z",
+        "email": "ryan@thatsquality.com",
+        "name": "Ryan Weaver"
+    },
+    "committer": {
+        "date": "2013-07-29T00:53:10Z",
+        "email": "ryan@thatsquality.com",
+        "name": "Ryan Weaver"
+    },
+    "html_url": "https://github.com/symfony/symfony-docs/commit/31443a325d38a4ee26b145318826fdf35f556cdb",
+    "message": "[#2783] Putting back my a/b labels - I think this helps you track the sections and this area - since it deals with security - is very very important",
+    "parents": [
+        {
+            "html_url": "https://github.com/symfony/symfony-docs/commit/a3a45772d9505b5fa2ec5555b64e15bef8585411",
+            "sha": "a3a45772d9505b5fa2ec5555b64e15bef8585411",
+            "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/a3a45772d9505b5fa2ec5555b64e15bef8585411"
+        }
+    ],
+    "sha": "31443a325d38a4ee26b145318826fdf35f556cdb",
+    "tree": {
+        "sha": "d4c89e9eff57be0ee8a3345b2334126466e05bca",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/d4c89e9eff57be0ee8a3345b2334126466e05bca"
+    },
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/31443a325d38a4ee26b145318826fdf35f556cdb",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

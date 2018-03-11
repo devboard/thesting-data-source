@@ -1,119 +1,119 @@
 [
-  {
-    "name": "0.8.0",
-    "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.8.0",
-    "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.8.0",
-    "commit": {
-      "sha": "c2d095854e5d3a14a68c90b79cfa7aae01a7cf82",
-      "url": "https://api.github.com/repos/msvrtan/broadway/commits/c2d095854e5d3a14a68c90b79cfa7aae01a7cf82"
+    {
+        "commit": {
+            "sha": "c2d095854e5d3a14a68c90b79cfa7aae01a7cf82",
+            "url": "https://api.github.com/repos/msvrtan/broadway/commits/c2d095854e5d3a14a68c90b79cfa7aae01a7cf82"
+        },
+        "name": "0.8.0",
+        "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.8.0",
+        "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.8.0"
+    },
+    {
+        "commit": {
+            "sha": "a5a40d700f323a43ff39b075d5b94507a763544e",
+            "url": "https://api.github.com/repos/msvrtan/broadway/commits/a5a40d700f323a43ff39b075d5b94507a763544e"
+        },
+        "name": "0.7.1",
+        "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.7.1",
+        "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.7.1"
+    },
+    {
+        "commit": {
+            "sha": "c8fbc3f24bf263de7ad377a3c26aaa720c8bf3c7",
+            "url": "https://api.github.com/repos/msvrtan/broadway/commits/c8fbc3f24bf263de7ad377a3c26aaa720c8bf3c7"
+        },
+        "name": "0.7.0",
+        "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.7.0",
+        "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.7.0"
+    },
+    {
+        "commit": {
+            "sha": "9f8247b3e7d0f349f67b11cbfe94d1d333fb2134",
+            "url": "https://api.github.com/repos/msvrtan/broadway/commits/9f8247b3e7d0f349f67b11cbfe94d1d333fb2134"
+        },
+        "name": "0.6.0",
+        "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.6.0",
+        "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.6.0"
+    },
+    {
+        "commit": {
+            "sha": "0fce8c532086ad249a46fec179759c1fa089e35d",
+            "url": "https://api.github.com/repos/msvrtan/broadway/commits/0fce8c532086ad249a46fec179759c1fa089e35d"
+        },
+        "name": "0.5.2",
+        "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.5.2",
+        "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.5.2"
+    },
+    {
+        "commit": {
+            "sha": "85159bd4134905d7b2aa7e6c9bc08ec8eaa3848a",
+            "url": "https://api.github.com/repos/msvrtan/broadway/commits/85159bd4134905d7b2aa7e6c9bc08ec8eaa3848a"
+        },
+        "name": "0.5.1",
+        "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.5.1",
+        "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.5.1"
+    },
+    {
+        "commit": {
+            "sha": "f1456c5a960f4b65c5856408eda3ac533930d169",
+            "url": "https://api.github.com/repos/msvrtan/broadway/commits/f1456c5a960f4b65c5856408eda3ac533930d169"
+        },
+        "name": "0.5.0",
+        "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.5.0",
+        "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.5.0"
+    },
+    {
+        "commit": {
+            "sha": "b875bddde981514001ea1551c3e08976da2568a1",
+            "url": "https://api.github.com/repos/msvrtan/broadway/commits/b875bddde981514001ea1551c3e08976da2568a1"
+        },
+        "name": "0.4.0",
+        "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.4.0",
+        "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.4.0"
+    },
+    {
+        "commit": {
+            "sha": "218d640eb35c96cdcf1685ace5052d91d3c795db",
+            "url": "https://api.github.com/repos/msvrtan/broadway/commits/218d640eb35c96cdcf1685ace5052d91d3c795db"
+        },
+        "name": "0.3.0",
+        "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.3.0",
+        "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.3.0"
+    },
+    {
+        "commit": {
+            "sha": "b0ef27ec40f89a60f201e9dada0765b14a801500",
+            "url": "https://api.github.com/repos/msvrtan/broadway/commits/b0ef27ec40f89a60f201e9dada0765b14a801500"
+        },
+        "name": "0.2.1",
+        "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.2.1",
+        "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.2.1"
+    },
+    {
+        "commit": {
+            "sha": "b7fb136a3abb169f61c8c22f3e37e62f89439b62",
+            "url": "https://api.github.com/repos/msvrtan/broadway/commits/b7fb136a3abb169f61c8c22f3e37e62f89439b62"
+        },
+        "name": "0.2.0",
+        "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.2.0",
+        "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.2.0"
+    },
+    {
+        "commit": {
+            "sha": "cc4a09bb5366f75fae1607080ba6af2c54ba4802",
+            "url": "https://api.github.com/repos/msvrtan/broadway/commits/cc4a09bb5366f75fae1607080ba6af2c54ba4802"
+        },
+        "name": "0.1.1",
+        "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.1.1",
+        "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.1.1"
+    },
+    {
+        "commit": {
+            "sha": "3fb5f3d323f6c5d807e5b926c1da9f5b2abc956c",
+            "url": "https://api.github.com/repos/msvrtan/broadway/commits/3fb5f3d323f6c5d807e5b926c1da9f5b2abc956c"
+        },
+        "name": "0.1.0",
+        "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.1.0",
+        "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.1.0"
     }
-  },
-  {
-    "name": "0.7.1",
-    "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.7.1",
-    "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.7.1",
-    "commit": {
-      "sha": "a5a40d700f323a43ff39b075d5b94507a763544e",
-      "url": "https://api.github.com/repos/msvrtan/broadway/commits/a5a40d700f323a43ff39b075d5b94507a763544e"
-    }
-  },
-  {
-    "name": "0.7.0",
-    "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.7.0",
-    "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.7.0",
-    "commit": {
-      "sha": "c8fbc3f24bf263de7ad377a3c26aaa720c8bf3c7",
-      "url": "https://api.github.com/repos/msvrtan/broadway/commits/c8fbc3f24bf263de7ad377a3c26aaa720c8bf3c7"
-    }
-  },
-  {
-    "name": "0.6.0",
-    "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.6.0",
-    "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.6.0",
-    "commit": {
-      "sha": "9f8247b3e7d0f349f67b11cbfe94d1d333fb2134",
-      "url": "https://api.github.com/repos/msvrtan/broadway/commits/9f8247b3e7d0f349f67b11cbfe94d1d333fb2134"
-    }
-  },
-  {
-    "name": "0.5.2",
-    "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.5.2",
-    "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.5.2",
-    "commit": {
-      "sha": "0fce8c532086ad249a46fec179759c1fa089e35d",
-      "url": "https://api.github.com/repos/msvrtan/broadway/commits/0fce8c532086ad249a46fec179759c1fa089e35d"
-    }
-  },
-  {
-    "name": "0.5.1",
-    "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.5.1",
-    "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.5.1",
-    "commit": {
-      "sha": "85159bd4134905d7b2aa7e6c9bc08ec8eaa3848a",
-      "url": "https://api.github.com/repos/msvrtan/broadway/commits/85159bd4134905d7b2aa7e6c9bc08ec8eaa3848a"
-    }
-  },
-  {
-    "name": "0.5.0",
-    "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.5.0",
-    "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.5.0",
-    "commit": {
-      "sha": "f1456c5a960f4b65c5856408eda3ac533930d169",
-      "url": "https://api.github.com/repos/msvrtan/broadway/commits/f1456c5a960f4b65c5856408eda3ac533930d169"
-    }
-  },
-  {
-    "name": "0.4.0",
-    "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.4.0",
-    "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.4.0",
-    "commit": {
-      "sha": "b875bddde981514001ea1551c3e08976da2568a1",
-      "url": "https://api.github.com/repos/msvrtan/broadway/commits/b875bddde981514001ea1551c3e08976da2568a1"
-    }
-  },
-  {
-    "name": "0.3.0",
-    "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.3.0",
-    "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.3.0",
-    "commit": {
-      "sha": "218d640eb35c96cdcf1685ace5052d91d3c795db",
-      "url": "https://api.github.com/repos/msvrtan/broadway/commits/218d640eb35c96cdcf1685ace5052d91d3c795db"
-    }
-  },
-  {
-    "name": "0.2.1",
-    "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.2.1",
-    "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.2.1",
-    "commit": {
-      "sha": "b0ef27ec40f89a60f201e9dada0765b14a801500",
-      "url": "https://api.github.com/repos/msvrtan/broadway/commits/b0ef27ec40f89a60f201e9dada0765b14a801500"
-    }
-  },
-  {
-    "name": "0.2.0",
-    "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.2.0",
-    "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.2.0",
-    "commit": {
-      "sha": "b7fb136a3abb169f61c8c22f3e37e62f89439b62",
-      "url": "https://api.github.com/repos/msvrtan/broadway/commits/b7fb136a3abb169f61c8c22f3e37e62f89439b62"
-    }
-  },
-  {
-    "name": "0.1.1",
-    "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.1.1",
-    "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.1.1",
-    "commit": {
-      "sha": "cc4a09bb5366f75fae1607080ba6af2c54ba4802",
-      "url": "https://api.github.com/repos/msvrtan/broadway/commits/cc4a09bb5366f75fae1607080ba6af2c54ba4802"
-    }
-  },
-  {
-    "name": "0.1.0",
-    "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.1.0",
-    "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.1.0",
-    "commit": {
-      "sha": "3fb5f3d323f6c5d807e5b926c1da9f5b2abc956c",
-      "url": "https://api.github.com/repos/msvrtan/broadway/commits/3fb5f3d323f6c5d807e5b926c1da9f5b2abc956c"
-    }
-  }
 ]

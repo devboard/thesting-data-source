@@ -1,38 +1,38 @@
 {
-  "sha": "8eb97f5c483b57d8cec2fe999d1437fadfeae575",
-  "url": "https://api.github.com/repos/symfony/symfony/git/commits/8eb97f5c483b57d8cec2fe999d1437fadfeae575",
-  "html_url": "https://github.com/symfony/symfony/commit/8eb97f5c483b57d8cec2fe999d1437fadfeae575",
-  "author": {
-    "name": "Tobias Schultze",
-    "email": "webmaster@tubo-world.de",
-    "date": "2017-11-17T15:56:02Z"
-  },
-  "committer": {
-    "name": "Tobias Schultze",
-    "email": "webmaster@tubo-world.de",
-    "date": "2017-11-17T15:56:02Z"
-  },
-  "tree": {
-    "sha": "7bd94a1ade470b8d5df8f22d9e4398b0d494f97b",
-    "url": "https://api.github.com/repos/symfony/symfony/git/trees/7bd94a1ade470b8d5df8f22d9e4398b0d494f97b"
-  },
-  "message": "minor #24961 [Console] remove debug dependency that was dead code (Tobion)\n\nThis PR was merged into the 4.0-dev branch.\n\nDiscussion\n----------\n\n[Console] remove debug dependency that was dead code\n\n| Q             | A\n| ------------- | ---\n| Branch?       | master\n| Bug fix?      | no\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets | #24873\n| License       | MIT\n| Doc PR        |\n\nCommits\n-------\n\n453e7996ab [Console] remove debug dependency that was dead code",
-  "parents": [
-    {
-      "sha": "3fc2d1c4bf06a30ba999d88b01f607293fff2558",
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/3fc2d1c4bf06a30ba999d88b01f607293fff2558",
-      "html_url": "https://github.com/symfony/symfony/commit/3fc2d1c4bf06a30ba999d88b01f607293fff2558"
+    "author": {
+        "date": "2017-11-17T15:56:02Z",
+        "email": "webmaster@tubo-world.de",
+        "name": "Tobias Schultze"
     },
-    {
-      "sha": "453e7996abf7562ac3a4741931d74d4c9fd40e23",
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/453e7996abf7562ac3a4741931d74d4c9fd40e23",
-      "html_url": "https://github.com/symfony/symfony/commit/453e7996abf7562ac3a4741931d74d4c9fd40e23"
+    "committer": {
+        "date": "2017-11-17T15:56:02Z",
+        "email": "webmaster@tubo-world.de",
+        "name": "Tobias Schultze"
+    },
+    "html_url": "https://github.com/symfony/symfony/commit/8eb97f5c483b57d8cec2fe999d1437fadfeae575",
+    "message": "minor #24961 [Console] remove debug dependency that was dead code (Tobion)\n\nThis PR was merged into the 4.0-dev branch.\n\nDiscussion\n----------\n\n[Console] remove debug dependency that was dead code\n\n| Q             | A\n| ------------- | ---\n| Branch?       | master\n| Bug fix?      | no\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets | #24873\n| License       | MIT\n| Doc PR        |\n\nCommits\n-------\n\n453e7996ab [Console] remove debug dependency that was dead code",
+    "parents": [
+        {
+            "html_url": "https://github.com/symfony/symfony/commit/3fc2d1c4bf06a30ba999d88b01f607293fff2558",
+            "sha": "3fc2d1c4bf06a30ba999d88b01f607293fff2558",
+            "url": "https://api.github.com/repos/symfony/symfony/git/commits/3fc2d1c4bf06a30ba999d88b01f607293fff2558"
+        },
+        {
+            "html_url": "https://github.com/symfony/symfony/commit/453e7996abf7562ac3a4741931d74d4c9fd40e23",
+            "sha": "453e7996abf7562ac3a4741931d74d4c9fd40e23",
+            "url": "https://api.github.com/repos/symfony/symfony/git/commits/453e7996abf7562ac3a4741931d74d4c9fd40e23"
+        }
+    ],
+    "sha": "8eb97f5c483b57d8cec2fe999d1437fadfeae575",
+    "tree": {
+        "sha": "7bd94a1ade470b8d5df8f22d9e4398b0d494f97b",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/7bd94a1ade470b8d5df8f22d9e4398b0d494f97b"
+    },
+    "url": "https://api.github.com/repos/symfony/symfony/git/commits/8eb97f5c483b57d8cec2fe999d1437fadfeae575",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

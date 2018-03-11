@@ -1,94 +1,92 @@
 {
-  "name": "merging",
-  "commit": {
-    "sha": "a3fbe2c4bd67f0eaf3f37910a029571ff2b66f39",
+    "_links": {
+        "html": "https://github.com/msvrtan/starter-edition/tree/merging",
+        "self": "https://api.github.com/repos/msvrtan/starter-edition/branches/merging"
+    },
     "commit": {
-      "author": {
-        "name": "Miro Svrtan",
-        "email": "miro@mirosvrtan.me",
-        "date": "2016-10-22T20:01:59Z"
-      },
-      "committer": {
-        "name": "Miro Svrtan",
-        "email": "miro@mirosvrtan.me",
-        "date": "2016-10-22T20:01:59Z"
-      },
-      "message": "z",
-      "tree": {
-        "sha": "91cbaeeb53c2bb607846c0e74727d3ed7edcc55d",
-        "url": "https://api.github.com/repos/msvrtan/starter-edition/git/trees/91cbaeeb53c2bb607846c0e74727d3ed7edcc55d"
-      },
-      "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/a3fbe2c4bd67f0eaf3f37910a029571ff2b66f39",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+            "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+            "followers_url": "https://api.github.com/users/msvrtan/followers",
+            "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+            "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/msvrtan",
+            "id": 1780572,
+            "login": "msvrtan",
+            "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+            "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+            "repos_url": "https://api.github.com/users/msvrtan/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/msvrtan"
+        },
+        "comments_url": "https://api.github.com/repos/msvrtan/starter-edition/commits/a3fbe2c4bd67f0eaf3f37910a029571ff2b66f39/comments",
+        "commit": {
+            "author": {
+                "date": "2016-10-22T20:01:59Z",
+                "email": "miro@mirosvrtan.me",
+                "name": "Miro Svrtan"
+            },
+            "comment_count": 0,
+            "committer": {
+                "date": "2016-10-22T20:01:59Z",
+                "email": "miro@mirosvrtan.me",
+                "name": "Miro Svrtan"
+            },
+            "message": "z",
+            "tree": {
+                "sha": "91cbaeeb53c2bb607846c0e74727d3ed7edcc55d",
+                "url": "https://api.github.com/repos/msvrtan/starter-edition/git/trees/91cbaeeb53c2bb607846c0e74727d3ed7edcc55d"
+            },
+            "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/a3fbe2c4bd67f0eaf3f37910a029571ff2b66f39",
+            "verification": {
+                "payload": null,
+                "reason": "unsigned",
+                "signature": null,
+                "verified": false
+            }
+        },
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+            "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+            "followers_url": "https://api.github.com/users/msvrtan/followers",
+            "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+            "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/msvrtan",
+            "id": 1780572,
+            "login": "msvrtan",
+            "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+            "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+            "repos_url": "https://api.github.com/users/msvrtan/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/msvrtan"
+        },
+        "html_url": "https://github.com/msvrtan/starter-edition/commit/a3fbe2c4bd67f0eaf3f37910a029571ff2b66f39",
+        "parents": [
+            {
+                "html_url": "https://github.com/msvrtan/starter-edition/commit/e7764b085ac463c65b06c536155bfae51f7108b3",
+                "sha": "e7764b085ac463c65b06c536155bfae51f7108b3",
+                "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/e7764b085ac463c65b06c536155bfae51f7108b3"
+            }
+        ],
+        "sha": "a3fbe2c4bd67f0eaf3f37910a029571ff2b66f39",
+        "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/a3fbe2c4bd67f0eaf3f37910a029571ff2b66f39"
     },
-    "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/a3fbe2c4bd67f0eaf3f37910a029571ff2b66f39",
-    "html_url": "https://github.com/msvrtan/starter-edition/commit/a3fbe2c4bd67f0eaf3f37910a029571ff2b66f39",
-    "comments_url": "https://api.github.com/repos/msvrtan/starter-edition/commits/a3fbe2c4bd67f0eaf3f37910a029571ff2b66f39/comments",
-    "author": {
-      "login": "msvrtan",
-      "id": 1780572,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/msvrtan",
-      "html_url": "https://github.com/msvrtan",
-      "followers_url": "https://api.github.com/users/msvrtan/followers",
-      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
-      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
-      "repos_url": "https://api.github.com/users/msvrtan/repos",
-      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
-      "type": "User",
-      "site_admin": false
+    "name": "merging",
+    "protected": false,
+    "protection": {
+        "enabled": false,
+        "required_status_checks": {
+            "contexts": [],
+            "enforcement_level": "off"
+        }
     },
-    "committer": {
-      "login": "msvrtan",
-      "id": 1780572,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/msvrtan",
-      "html_url": "https://github.com/msvrtan",
-      "followers_url": "https://api.github.com/users/msvrtan/followers",
-      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
-      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
-      "repos_url": "https://api.github.com/users/msvrtan/repos",
-      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "e7764b085ac463c65b06c536155bfae51f7108b3",
-        "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/e7764b085ac463c65b06c536155bfae51f7108b3",
-        "html_url": "https://github.com/msvrtan/starter-edition/commit/e7764b085ac463c65b06c536155bfae51f7108b3"
-      }
-    ]
-  },
-  "_links": {
-    "self": "https://api.github.com/repos/msvrtan/starter-edition/branches/merging",
-    "html": "https://github.com/msvrtan/starter-edition/tree/merging"
-  },
-  "protected": false,
-  "protection": {
-    "enabled": false,
-    "required_status_checks": {
-      "enforcement_level": "off",
-      "contexts": [
-
-      ]
-    }
-  },
-  "protection_url": "https://api.github.com/repos/msvrtan/starter-edition/branches/merging/protection"
+    "protection_url": "https://api.github.com/repos/msvrtan/starter-edition/branches/merging/protection"
 }

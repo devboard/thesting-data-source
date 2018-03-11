@@ -1,1 +1,9 @@
-{"name":"0.8.0","zipball_url":"https:\/\/api.github.com\/repos\/msvrtan\/broadway\/zipball\/0.8.0","tarball_url":"https:\/\/api.github.com\/repos\/msvrtan\/broadway\/tarball\/0.8.0","commit":{"sha":"c2d095854e5d3a14a68c90b79cfa7aae01a7cf82","url":"https:\/\/api.github.com\/repos\/msvrtan\/broadway\/commits\/c2d095854e5d3a14a68c90b79cfa7aae01a7cf82"}}
+{
+    "commit": {
+        "sha": "c2d095854e5d3a14a68c90b79cfa7aae01a7cf82",
+        "url": "https://api.github.com/repos/msvrtan/broadway/commits/c2d095854e5d3a14a68c90b79cfa7aae01a7cf82"
+    },
+    "name": "0.8.0",
+    "tarball_url": "https://api.github.com/repos/msvrtan/broadway/tarball/0.8.0",
+    "zipball_url": "https://api.github.com/repos/msvrtan/broadway/zipball/0.8.0"
+}

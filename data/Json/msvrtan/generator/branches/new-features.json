@@ -1,94 +1,92 @@
 {
-  "name": "new-features",
-  "commit": {
-    "sha": "75ee1be6c5a21b8173a756ef3839a5ccb58a34e2",
+    "_links": {
+        "html": "https://github.com/msvrtan/generator/tree/new-features",
+        "self": "https://api.github.com/repos/msvrtan/generator/branches/new-features"
+    },
     "commit": {
-      "author": {
-        "name": "Miro Svrtan",
-        "email": "miro@mirosvrtan.me",
-        "date": "2016-11-01T21:32:13Z"
-      },
-      "committer": {
-        "name": "Miro Svrtan",
-        "email": "miro@mirosvrtan.me",
-        "date": "2016-11-01T21:32:13Z"
-      },
-      "message": "Expose constructor arguments in spec files",
-      "tree": {
-        "sha": "28942dccceee5314ee7bf69da79e2947d70166f7",
-        "url": "https://api.github.com/repos/msvrtan/generator/git/trees/28942dccceee5314ee7bf69da79e2947d70166f7"
-      },
-      "url": "https://api.github.com/repos/msvrtan/generator/git/commits/75ee1be6c5a21b8173a756ef3839a5ccb58a34e2",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+            "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+            "followers_url": "https://api.github.com/users/msvrtan/followers",
+            "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+            "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/msvrtan",
+            "id": 1780572,
+            "login": "msvrtan",
+            "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+            "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+            "repos_url": "https://api.github.com/users/msvrtan/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/msvrtan"
+        },
+        "comments_url": "https://api.github.com/repos/msvrtan/generator/commits/75ee1be6c5a21b8173a756ef3839a5ccb58a34e2/comments",
+        "commit": {
+            "author": {
+                "date": "2016-11-01T21:32:13Z",
+                "email": "miro@mirosvrtan.me",
+                "name": "Miro Svrtan"
+            },
+            "comment_count": 0,
+            "committer": {
+                "date": "2016-11-01T21:32:13Z",
+                "email": "miro@mirosvrtan.me",
+                "name": "Miro Svrtan"
+            },
+            "message": "Expose constructor arguments in spec files",
+            "tree": {
+                "sha": "28942dccceee5314ee7bf69da79e2947d70166f7",
+                "url": "https://api.github.com/repos/msvrtan/generator/git/trees/28942dccceee5314ee7bf69da79e2947d70166f7"
+            },
+            "url": "https://api.github.com/repos/msvrtan/generator/git/commits/75ee1be6c5a21b8173a756ef3839a5ccb58a34e2",
+            "verification": {
+                "payload": null,
+                "reason": "unsigned",
+                "signature": null,
+                "verified": false
+            }
+        },
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+            "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+            "followers_url": "https://api.github.com/users/msvrtan/followers",
+            "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+            "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/msvrtan",
+            "id": 1780572,
+            "login": "msvrtan",
+            "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+            "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+            "repos_url": "https://api.github.com/users/msvrtan/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/msvrtan"
+        },
+        "html_url": "https://github.com/msvrtan/generator/commit/75ee1be6c5a21b8173a756ef3839a5ccb58a34e2",
+        "parents": [
+            {
+                "html_url": "https://github.com/msvrtan/generator/commit/0efbbe187c1305a1647d6631e903e323f0ae0818",
+                "sha": "0efbbe187c1305a1647d6631e903e323f0ae0818",
+                "url": "https://api.github.com/repos/msvrtan/generator/commits/0efbbe187c1305a1647d6631e903e323f0ae0818"
+            }
+        ],
+        "sha": "75ee1be6c5a21b8173a756ef3839a5ccb58a34e2",
+        "url": "https://api.github.com/repos/msvrtan/generator/commits/75ee1be6c5a21b8173a756ef3839a5ccb58a34e2"
     },
-    "url": "https://api.github.com/repos/msvrtan/generator/commits/75ee1be6c5a21b8173a756ef3839a5ccb58a34e2",
-    "html_url": "https://github.com/msvrtan/generator/commit/75ee1be6c5a21b8173a756ef3839a5ccb58a34e2",
-    "comments_url": "https://api.github.com/repos/msvrtan/generator/commits/75ee1be6c5a21b8173a756ef3839a5ccb58a34e2/comments",
-    "author": {
-      "login": "msvrtan",
-      "id": 1780572,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/msvrtan",
-      "html_url": "https://github.com/msvrtan",
-      "followers_url": "https://api.github.com/users/msvrtan/followers",
-      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
-      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
-      "repos_url": "https://api.github.com/users/msvrtan/repos",
-      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
-      "type": "User",
-      "site_admin": false
+    "name": "new-features",
+    "protected": false,
+    "protection": {
+        "enabled": false,
+        "required_status_checks": {
+            "contexts": [],
+            "enforcement_level": "off"
+        }
     },
-    "committer": {
-      "login": "msvrtan",
-      "id": 1780572,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/msvrtan",
-      "html_url": "https://github.com/msvrtan",
-      "followers_url": "https://api.github.com/users/msvrtan/followers",
-      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
-      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
-      "repos_url": "https://api.github.com/users/msvrtan/repos",
-      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "0efbbe187c1305a1647d6631e903e323f0ae0818",
-        "url": "https://api.github.com/repos/msvrtan/generator/commits/0efbbe187c1305a1647d6631e903e323f0ae0818",
-        "html_url": "https://github.com/msvrtan/generator/commit/0efbbe187c1305a1647d6631e903e323f0ae0818"
-      }
-    ]
-  },
-  "_links": {
-    "self": "https://api.github.com/repos/msvrtan/generator/branches/new-features",
-    "html": "https://github.com/msvrtan/generator/tree/new-features"
-  },
-  "protected": false,
-  "protection": {
-    "enabled": false,
-    "required_status_checks": {
-      "enforcement_level": "off",
-      "contexts": [
-
-      ]
-    }
-  },
-  "protection_url": "https://api.github.com/repos/msvrtan/generator/branches/new-features/protection"
+    "protection_url": "https://api.github.com/repos/msvrtan/generator/branches/new-features/protection"
 }

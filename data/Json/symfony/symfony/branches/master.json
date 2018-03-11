@@ -1,100 +1,100 @@
 {
-  "name": "master",
-  "commit": {
-    "sha": "7ff71b548b505e678099221473fba569201c707b",
+    "_links": {
+        "html": "https://github.com/symfony/symfony/tree/master",
+        "self": "https://api.github.com/repos/symfony/symfony/branches/master"
+    },
     "commit": {
-      "author": {
-        "name": "Fabien Potencier",
-        "email": "fabien.potencier@gmail.com",
-        "date": "2018-03-11T18:21:30Z"
-      },
-      "committer": {
-        "name": "Fabien Potencier",
-        "email": "fabien.potencier@gmail.com",
-        "date": "2018-03-11T18:21:30Z"
-      },
-      "message": "minor #26465 Default deleteFileAfterSend() to true (nowendwell)\n\nThis PR was merged into the 4.1-dev branch.\n\nDiscussion\n----------\n\nDefault deleteFileAfterSend() to true\n\nThis should default to true when called since there is only one option.\n\n| Q             | A\n| ------------- | ---\n| Branch?       | master\n| Bug fix?      | no\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | N/A\n| Fixed tickets | N/A\n| License       | MIT\n| Doc PR        |\n\n<!--\n* Defaults deleteFileAfterSend() to true\n-->\n\nCommits\n-------\n\n1de6f738ef Default deleteFileAfterSend() to true",
-      "tree": {
-        "sha": "2829291a678da8d7398a7ace988d062280820d61",
-        "url": "https://api.github.com/repos/symfony/symfony/git/trees/2829291a678da8d7398a7ace988d062280820d61"
-      },
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/7ff71b548b505e678099221473fba569201c707b",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
+        "author": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
+            "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+            "followers_url": "https://api.github.com/users/fabpot/followers",
+            "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+            "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/fabpot",
+            "id": 47313,
+            "login": "fabpot",
+            "organizations_url": "https://api.github.com/users/fabpot/orgs",
+            "received_events_url": "https://api.github.com/users/fabpot/received_events",
+            "repos_url": "https://api.github.com/users/fabpot/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/fabpot"
+        },
+        "comments_url": "https://api.github.com/repos/symfony/symfony/commits/7ff71b548b505e678099221473fba569201c707b/comments",
+        "commit": {
+            "author": {
+                "date": "2018-03-11T18:21:30Z",
+                "email": "fabien.potencier@gmail.com",
+                "name": "Fabien Potencier"
+            },
+            "comment_count": 0,
+            "committer": {
+                "date": "2018-03-11T18:21:30Z",
+                "email": "fabien.potencier@gmail.com",
+                "name": "Fabien Potencier"
+            },
+            "message": "minor #26465 Default deleteFileAfterSend() to true (nowendwell)\n\nThis PR was merged into the 4.1-dev branch.\n\nDiscussion\n----------\n\nDefault deleteFileAfterSend() to true\n\nThis should default to true when called since there is only one option.\n\n| Q             | A\n| ------------- | ---\n| Branch?       | master\n| Bug fix?      | no\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | N/A\n| Fixed tickets | N/A\n| License       | MIT\n| Doc PR        |\n\n<!--\n* Defaults deleteFileAfterSend() to true\n-->\n\nCommits\n-------\n\n1de6f738ef Default deleteFileAfterSend() to true",
+            "tree": {
+                "sha": "2829291a678da8d7398a7ace988d062280820d61",
+                "url": "https://api.github.com/repos/symfony/symfony/git/trees/2829291a678da8d7398a7ace988d062280820d61"
+            },
+            "url": "https://api.github.com/repos/symfony/symfony/git/commits/7ff71b548b505e678099221473fba569201c707b",
+            "verification": {
+                "payload": null,
+                "reason": "unsigned",
+                "signature": null,
+                "verified": false
+            }
+        },
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
+            "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+            "followers_url": "https://api.github.com/users/fabpot/followers",
+            "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+            "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/fabpot",
+            "id": 47313,
+            "login": "fabpot",
+            "organizations_url": "https://api.github.com/users/fabpot/orgs",
+            "received_events_url": "https://api.github.com/users/fabpot/received_events",
+            "repos_url": "https://api.github.com/users/fabpot/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/fabpot"
+        },
+        "html_url": "https://github.com/symfony/symfony/commit/7ff71b548b505e678099221473fba569201c707b",
+        "parents": [
+            {
+                "html_url": "https://github.com/symfony/symfony/commit/b486fdaffd37a6bd2385ce762ef54f19e03be514",
+                "sha": "b486fdaffd37a6bd2385ce762ef54f19e03be514",
+                "url": "https://api.github.com/repos/symfony/symfony/commits/b486fdaffd37a6bd2385ce762ef54f19e03be514"
+            },
+            {
+                "html_url": "https://github.com/symfony/symfony/commit/1de6f738efbcf80b18103a8ee29b07a3c9edc405",
+                "sha": "1de6f738efbcf80b18103a8ee29b07a3c9edc405",
+                "url": "https://api.github.com/repos/symfony/symfony/commits/1de6f738efbcf80b18103a8ee29b07a3c9edc405"
+            }
+        ],
+        "sha": "7ff71b548b505e678099221473fba569201c707b",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/7ff71b548b505e678099221473fba569201c707b"
     },
-    "url": "https://api.github.com/repos/symfony/symfony/commits/7ff71b548b505e678099221473fba569201c707b",
-    "html_url": "https://github.com/symfony/symfony/commit/7ff71b548b505e678099221473fba569201c707b",
-    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/7ff71b548b505e678099221473fba569201c707b/comments",
-    "author": {
-      "login": "fabpot",
-      "id": 47313,
-      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/fabpot",
-      "html_url": "https://github.com/fabpot",
-      "followers_url": "https://api.github.com/users/fabpot/followers",
-      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
-      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
-      "organizations_url": "https://api.github.com/users/fabpot/orgs",
-      "repos_url": "https://api.github.com/users/fabpot/repos",
-      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/fabpot/received_events",
-      "type": "User",
-      "site_admin": false
+    "name": "master",
+    "protected": true,
+    "protection": {
+        "enabled": true,
+        "required_status_checks": {
+            "contexts": [
+                "continuous-integration/travis-ci",
+                "fabbot.io"
+            ],
+            "enforcement_level": "off"
+        }
     },
-    "committer": {
-      "login": "fabpot",
-      "id": 47313,
-      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/fabpot",
-      "html_url": "https://github.com/fabpot",
-      "followers_url": "https://api.github.com/users/fabpot/followers",
-      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
-      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
-      "organizations_url": "https://api.github.com/users/fabpot/orgs",
-      "repos_url": "https://api.github.com/users/fabpot/repos",
-      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/fabpot/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "b486fdaffd37a6bd2385ce762ef54f19e03be514",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/b486fdaffd37a6bd2385ce762ef54f19e03be514",
-        "html_url": "https://github.com/symfony/symfony/commit/b486fdaffd37a6bd2385ce762ef54f19e03be514"
-      },
-      {
-        "sha": "1de6f738efbcf80b18103a8ee29b07a3c9edc405",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/1de6f738efbcf80b18103a8ee29b07a3c9edc405",
-        "html_url": "https://github.com/symfony/symfony/commit/1de6f738efbcf80b18103a8ee29b07a3c9edc405"
-      }
-    ]
-  },
-  "_links": {
-    "self": "https://api.github.com/repos/symfony/symfony/branches/master",
-    "html": "https://github.com/symfony/symfony/tree/master"
-  },
-  "protected": true,
-  "protection": {
-    "enabled": true,
-    "required_status_checks": {
-      "enforcement_level": "off",
-      "contexts": [
-        "continuous-integration/travis-ci",
-        "fabbot.io"
-      ]
-    }
-  },
-  "protection_url": "https://api.github.com/repos/symfony/symfony/branches/master/protection"
+    "protection_url": "https://api.github.com/repos/symfony/symfony/branches/master/protection"
 }

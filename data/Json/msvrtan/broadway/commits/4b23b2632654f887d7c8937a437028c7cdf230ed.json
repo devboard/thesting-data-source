@@ -1,33 +1,33 @@
 {
-  "sha": "4b23b2632654f887d7c8937a437028c7cdf230ed",
-  "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/4b23b2632654f887d7c8937a437028c7cdf230ed",
-  "html_url": "https://github.com/msvrtan/broadway/commit/4b23b2632654f887d7c8937a437028c7cdf230ed",
-  "author": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2016-04-20T13:07:37Z"
-  },
-  "committer": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2016-04-20T13:09:49Z"
-  },
-  "tree": {
-    "sha": "be63af069bfbb4d17ebad8c2744555462887a428",
-    "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/be63af069bfbb4d17ebad8c2744555462887a428"
-  },
-  "message": "Prefixed command_handler tag with broadway",
-  "parents": [
-    {
-      "sha": "c32d90ae546d1e7f17baf6d696d6a09634a5e574",
-      "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/c32d90ae546d1e7f17baf6d696d6a09634a5e574",
-      "html_url": "https://github.com/msvrtan/broadway/commit/c32d90ae546d1e7f17baf6d696d6a09634a5e574"
+    "author": {
+        "date": "2016-04-20T13:07:37Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "committer": {
+        "date": "2016-04-20T13:09:49Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "html_url": "https://github.com/msvrtan/broadway/commit/4b23b2632654f887d7c8937a437028c7cdf230ed",
+    "message": "Prefixed command_handler tag with broadway",
+    "parents": [
+        {
+            "html_url": "https://github.com/msvrtan/broadway/commit/c32d90ae546d1e7f17baf6d696d6a09634a5e574",
+            "sha": "c32d90ae546d1e7f17baf6d696d6a09634a5e574",
+            "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/c32d90ae546d1e7f17baf6d696d6a09634a5e574"
+        }
+    ],
+    "sha": "4b23b2632654f887d7c8937a437028c7cdf230ed",
+    "tree": {
+        "sha": "be63af069bfbb4d17ebad8c2744555462887a428",
+        "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/be63af069bfbb4d17ebad8c2744555462887a428"
+    },
+    "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/4b23b2632654f887d7c8937a437028c7cdf230ed",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

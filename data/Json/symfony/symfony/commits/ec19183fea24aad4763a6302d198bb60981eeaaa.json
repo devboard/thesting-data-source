@@ -1,38 +1,38 @@
 {
-  "sha": "ec19183fea24aad4763a6302d198bb60981eeaaa",
-  "url": "https://api.github.com/repos/symfony/symfony/git/commits/ec19183fea24aad4763a6302d198bb60981eeaaa",
-  "html_url": "https://github.com/symfony/symfony/commit/ec19183fea24aad4763a6302d198bb60981eeaaa",
-  "author": {
-    "name": "Fabien Potencier",
-    "email": "fabien@potencier.org",
-    "date": "2017-11-24T15:21:39Z"
-  },
-  "committer": {
-    "name": "GitHub",
-    "email": "noreply@github.com",
-    "date": "2017-11-24T15:21:39Z"
-  },
-  "tree": {
-    "sha": "8f918f76316e6eb63b48b1b92496034c224bf943",
-    "url": "https://api.github.com/repos/symfony/symfony/git/trees/8f918f76316e6eb63b48b1b92496034c224bf943"
-  },
-  "message": "Merge pull request #25150 from fabpot/release-4.0.0-RC2\n\nreleased v4.0.0-RC2",
-  "parents": [
-    {
-      "sha": "8b98282821c7e2b108ecf552fdc394c5e1019292",
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/8b98282821c7e2b108ecf552fdc394c5e1019292",
-      "html_url": "https://github.com/symfony/symfony/commit/8b98282821c7e2b108ecf552fdc394c5e1019292"
+    "author": {
+        "date": "2017-11-24T15:21:39Z",
+        "email": "fabien@potencier.org",
+        "name": "Fabien Potencier"
     },
-    {
-      "sha": "a76ef07106ef471d378a86502f4d01c142245201",
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/a76ef07106ef471d378a86502f4d01c142245201",
-      "html_url": "https://github.com/symfony/symfony/commit/a76ef07106ef471d378a86502f4d01c142245201"
+    "committer": {
+        "date": "2017-11-24T15:21:39Z",
+        "email": "noreply@github.com",
+        "name": "GitHub"
+    },
+    "html_url": "https://github.com/symfony/symfony/commit/ec19183fea24aad4763a6302d198bb60981eeaaa",
+    "message": "Merge pull request #25150 from fabpot/release-4.0.0-RC2\n\nreleased v4.0.0-RC2",
+    "parents": [
+        {
+            "html_url": "https://github.com/symfony/symfony/commit/8b98282821c7e2b108ecf552fdc394c5e1019292",
+            "sha": "8b98282821c7e2b108ecf552fdc394c5e1019292",
+            "url": "https://api.github.com/repos/symfony/symfony/git/commits/8b98282821c7e2b108ecf552fdc394c5e1019292"
+        },
+        {
+            "html_url": "https://github.com/symfony/symfony/commit/a76ef07106ef471d378a86502f4d01c142245201",
+            "sha": "a76ef07106ef471d378a86502f4d01c142245201",
+            "url": "https://api.github.com/repos/symfony/symfony/git/commits/a76ef07106ef471d378a86502f4d01c142245201"
+        }
+    ],
+    "sha": "ec19183fea24aad4763a6302d198bb60981eeaaa",
+    "tree": {
+        "sha": "8f918f76316e6eb63b48b1b92496034c224bf943",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/8f918f76316e6eb63b48b1b92496034c224bf943"
+    },
+    "url": "https://api.github.com/repos/symfony/symfony/git/commits/ec19183fea24aad4763a6302d198bb60981eeaaa",
+    "verification": {
+        "payload": "tree 8f918f76316e6eb63b48b1b92496034c224bf943\nparent 8b98282821c7e2b108ecf552fdc394c5e1019292\nparent a76ef07106ef471d378a86502f4d01c142245201\nauthor Fabien Potencier <fabien@potencier.org> 1511536899 -0800\ncommitter GitHub <noreply@github.com> 1511536899 -0800\n\nMerge pull request #25150 from fabpot/release-4.0.0-RC2\n\nreleased v4.0.0-RC2",
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJaGDkDCRBK7hj4Ov3rIwAAdHIIACxZvaF0TdLWb2g4r4YPUHjA\nAhVTY+kgOcO9i0h6kJ4n7NfmqqGIRIGk9P4nNm90L1HzSAzL8v7thFd2oY2qBAuL\n/63kbZ6l38aIGyOFtnYBAbdewjGA1NfK520lxrcyyQOtOEBh+TuM9GBAhHYEokoH\ntt9cfDFarYGArnCU1xA5VduaTJsT4sUIS4DinEeoYtDvLWL0tGrFeKhZnsGvSzLO\nKuBkRAc8jRSaPtCA6BK5OGvP+2ioaPjxAyraDDnsIO7+ICB5Wxs28dK7THhxdq/b\nB35NJgYnM7NOGnJgFD1Pnly+opcroDfPrhxaoLQVka0D1b1h7y1yNg+CPTYLsBc=\n=S8G3\n-----END PGP SIGNATURE-----\n",
+        "verified": true
     }
-  ],
-  "verification": {
-    "verified": true,
-    "reason": "valid",
-    "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJaGDkDCRBK7hj4Ov3rIwAAdHIIACxZvaF0TdLWb2g4r4YPUHjA\nAhVTY+kgOcO9i0h6kJ4n7NfmqqGIRIGk9P4nNm90L1HzSAzL8v7thFd2oY2qBAuL\n/63kbZ6l38aIGyOFtnYBAbdewjGA1NfK520lxrcyyQOtOEBh+TuM9GBAhHYEokoH\ntt9cfDFarYGArnCU1xA5VduaTJsT4sUIS4DinEeoYtDvLWL0tGrFeKhZnsGvSzLO\nKuBkRAc8jRSaPtCA6BK5OGvP+2ioaPjxAyraDDnsIO7+ICB5Wxs28dK7THhxdq/b\nB35NJgYnM7NOGnJgFD1Pnly+opcroDfPrhxaoLQVka0D1b1h7y1yNg+CPTYLsBc=\n=S8G3\n-----END PGP SIGNATURE-----\n",
-    "payload": "tree 8f918f76316e6eb63b48b1b92496034c224bf943\nparent 8b98282821c7e2b108ecf552fdc394c5e1019292\nparent a76ef07106ef471d378a86502f4d01c142245201\nauthor Fabien Potencier <fabien@potencier.org> 1511536899 -0800\ncommitter GitHub <noreply@github.com> 1511536899 -0800\n\nMerge pull request #25150 from fabpot/release-4.0.0-RC2\n\nreleased v4.0.0-RC2"
-  }
 }

@@ -1,33 +1,33 @@
 {
-  "sha": "8d3d45390f6bee4860a061213ea9fb119085dce9",
-  "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/commits/8d3d45390f6bee4860a061213ea9fb119085dce9",
-  "html_url": "https://github.com/nulldevelopmenthr/SkeletonBundle/commit/8d3d45390f6bee4860a061213ea9fb119085dce9",
-  "author": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2016-11-01T21:52:58Z"
-  },
-  "committer": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2016-11-01T21:52:58Z"
-  },
-  "tree": {
-    "sha": "1c97f6dcaf2344b0d71974e1ad6dc81f6d957a9b",
-    "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/trees/1c97f6dcaf2344b0d71974e1ad6dc81f6d957a9b"
-  },
-  "message": "Update composer.lock for 0.3.x-dev@dev",
-  "parents": [
-    {
-      "sha": "84f3c010579597a3fd42876382d12bd7c8208931",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/commits/84f3c010579597a3fd42876382d12bd7c8208931",
-      "html_url": "https://github.com/nulldevelopmenthr/SkeletonBundle/commit/84f3c010579597a3fd42876382d12bd7c8208931"
+    "author": {
+        "date": "2016-11-01T21:52:58Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "committer": {
+        "date": "2016-11-01T21:52:58Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "html_url": "https://github.com/nulldevelopmenthr/SkeletonBundle/commit/8d3d45390f6bee4860a061213ea9fb119085dce9",
+    "message": "Update composer.lock for 0.3.x-dev@dev",
+    "parents": [
+        {
+            "html_url": "https://github.com/nulldevelopmenthr/SkeletonBundle/commit/84f3c010579597a3fd42876382d12bd7c8208931",
+            "sha": "84f3c010579597a3fd42876382d12bd7c8208931",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/commits/84f3c010579597a3fd42876382d12bd7c8208931"
+        }
+    ],
+    "sha": "8d3d45390f6bee4860a061213ea9fb119085dce9",
+    "tree": {
+        "sha": "1c97f6dcaf2344b0d71974e1ad6dc81f6d957a9b",
+        "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/trees/1c97f6dcaf2344b0d71974e1ad6dc81f6d957a9b"
+    },
+    "url": "https://api.github.com/repos/nulldevelopmenthr/SkeletonBundle/git/commits/8d3d45390f6bee4860a061213ea9fb119085dce9",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

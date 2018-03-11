@@ -1,33 +1,33 @@
 {
-  "sha": "0c6a96926a7e183f8c471d79819be8d4a114f7f8",
-  "url": "https://api.github.com/repos/nulldevelopmenthr/user-edition/git/commits/0c6a96926a7e183f8c471d79819be8d4a114f7f8",
-  "html_url": "https://github.com/nulldevelopmenthr/user-edition/commit/0c6a96926a7e183f8c471d79819be8d4a114f7f8",
-  "author": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2016-03-06T23:27:35Z"
-  },
-  "committer": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2017-06-10T19:35:42Z"
-  },
-  "tree": {
-    "sha": "9a0b99dd02cff85a47a6f1324c9b6bdf417215f2",
-    "url": "https://api.github.com/repos/nulldevelopmenthr/user-edition/git/trees/9a0b99dd02cff85a47a6f1324c9b6bdf417215f2"
-  },
-  "message": "[user-edition] Updated composer.lock for FOSUserBundle",
-  "parents": [
-    {
-      "sha": "b338006b4be17d12ed6cdaaa34a7b376cb720302",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/user-edition/git/commits/b338006b4be17d12ed6cdaaa34a7b376cb720302",
-      "html_url": "https://github.com/nulldevelopmenthr/user-edition/commit/b338006b4be17d12ed6cdaaa34a7b376cb720302"
+    "author": {
+        "date": "2016-03-06T23:27:35Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "committer": {
+        "date": "2017-06-10T19:35:42Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "html_url": "https://github.com/nulldevelopmenthr/user-edition/commit/0c6a96926a7e183f8c471d79819be8d4a114f7f8",
+    "message": "[user-edition] Updated composer.lock for FOSUserBundle",
+    "parents": [
+        {
+            "html_url": "https://github.com/nulldevelopmenthr/user-edition/commit/b338006b4be17d12ed6cdaaa34a7b376cb720302",
+            "sha": "b338006b4be17d12ed6cdaaa34a7b376cb720302",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/user-edition/git/commits/b338006b4be17d12ed6cdaaa34a7b376cb720302"
+        }
+    ],
+    "sha": "0c6a96926a7e183f8c471d79819be8d4a114f7f8",
+    "tree": {
+        "sha": "9a0b99dd02cff85a47a6f1324c9b6bdf417215f2",
+        "url": "https://api.github.com/repos/nulldevelopmenthr/user-edition/git/trees/9a0b99dd02cff85a47a6f1324c9b6bdf417215f2"
+    },
+    "url": "https://api.github.com/repos/nulldevelopmenthr/user-edition/git/commits/0c6a96926a7e183f8c471d79819be8d4a114f7f8",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

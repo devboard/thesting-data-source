@@ -1,33 +1,33 @@
 {
-  "sha": "a86bac44ce29abd30bb5965fb2aac43a4918e9a9",
-  "url": "https://api.github.com/repos/symfony/symfony/git/commits/a86bac44ce29abd30bb5965fb2aac43a4918e9a9",
-  "html_url": "https://github.com/symfony/symfony/commit/a86bac44ce29abd30bb5965fb2aac43a4918e9a9",
-  "author": {
-    "name": "Jeremy Mikola",
-    "email": "jmikola@theopenskyproject.com",
-    "date": "2010-09-10T18:27:17Z"
-  },
-  "committer": {
-    "name": "Fabien Potencier",
-    "email": "fabien.potencier@gmail.com",
-    "date": "2010-09-10T18:42:22Z"
-  },
-  "tree": {
-    "sha": "52727644964e9034d49ca806f41c3d16ddffce40",
-    "url": "https://api.github.com/repos/symfony/symfony/git/trees/52727644964e9034d49ca806f41c3d16ddffce40"
-  },
-  "message": "[Validator] Remove leading '@' when validating email domain MX record",
-  "parents": [
-    {
-      "sha": "74bc9d461bb60e7fedd6ddf8abf2454a7e312c48",
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/74bc9d461bb60e7fedd6ddf8abf2454a7e312c48",
-      "html_url": "https://github.com/symfony/symfony/commit/74bc9d461bb60e7fedd6ddf8abf2454a7e312c48"
+    "author": {
+        "date": "2010-09-10T18:27:17Z",
+        "email": "jmikola@theopenskyproject.com",
+        "name": "Jeremy Mikola"
+    },
+    "committer": {
+        "date": "2010-09-10T18:42:22Z",
+        "email": "fabien.potencier@gmail.com",
+        "name": "Fabien Potencier"
+    },
+    "html_url": "https://github.com/symfony/symfony/commit/a86bac44ce29abd30bb5965fb2aac43a4918e9a9",
+    "message": "[Validator] Remove leading '@' when validating email domain MX record",
+    "parents": [
+        {
+            "html_url": "https://github.com/symfony/symfony/commit/74bc9d461bb60e7fedd6ddf8abf2454a7e312c48",
+            "sha": "74bc9d461bb60e7fedd6ddf8abf2454a7e312c48",
+            "url": "https://api.github.com/repos/symfony/symfony/git/commits/74bc9d461bb60e7fedd6ddf8abf2454a7e312c48"
+        }
+    ],
+    "sha": "a86bac44ce29abd30bb5965fb2aac43a4918e9a9",
+    "tree": {
+        "sha": "52727644964e9034d49ca806f41c3d16ddffce40",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/52727644964e9034d49ca806f41c3d16ddffce40"
+    },
+    "url": "https://api.github.com/repos/symfony/symfony/git/commits/a86bac44ce29abd30bb5965fb2aac43a4918e9a9",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

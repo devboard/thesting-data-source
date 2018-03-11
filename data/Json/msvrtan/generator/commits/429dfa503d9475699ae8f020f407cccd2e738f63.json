@@ -1,33 +1,33 @@
 {
-  "sha": "429dfa503d9475699ae8f020f407cccd2e738f63",
-  "url": "https://api.github.com/repos/msvrtan/generator/git/commits/429dfa503d9475699ae8f020f407cccd2e738f63",
-  "html_url": "https://github.com/msvrtan/generator/commit/429dfa503d9475699ae8f020f407cccd2e738f63",
-  "author": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2017-07-13T19:41:27Z"
-  },
-  "committer": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2017-07-13T19:41:50Z"
-  },
-  "tree": {
-    "sha": "7c60deb6c1add991d2f5b571af6dc1deb95949e8",
-    "url": "https://api.github.com/repos/msvrtan/generator/git/trees/7c60deb6c1add991d2f5b571af6dc1deb95949e8"
-  },
-  "message": "Add MyQuestionHelper with autocomplete hacks",
-  "parents": [
-    {
-      "sha": "f77b59d5d480c56e60f6edef27e7bec6f93d8c6f",
-      "url": "https://api.github.com/repos/msvrtan/generator/git/commits/f77b59d5d480c56e60f6edef27e7bec6f93d8c6f",
-      "html_url": "https://github.com/msvrtan/generator/commit/f77b59d5d480c56e60f6edef27e7bec6f93d8c6f"
+    "author": {
+        "date": "2017-07-13T19:41:27Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "committer": {
+        "date": "2017-07-13T19:41:50Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "html_url": "https://github.com/msvrtan/generator/commit/429dfa503d9475699ae8f020f407cccd2e738f63",
+    "message": "Add MyQuestionHelper with autocomplete hacks",
+    "parents": [
+        {
+            "html_url": "https://github.com/msvrtan/generator/commit/f77b59d5d480c56e60f6edef27e7bec6f93d8c6f",
+            "sha": "f77b59d5d480c56e60f6edef27e7bec6f93d8c6f",
+            "url": "https://api.github.com/repos/msvrtan/generator/git/commits/f77b59d5d480c56e60f6edef27e7bec6f93d8c6f"
+        }
+    ],
+    "sha": "429dfa503d9475699ae8f020f407cccd2e738f63",
+    "tree": {
+        "sha": "7c60deb6c1add991d2f5b571af6dc1deb95949e8",
+        "url": "https://api.github.com/repos/msvrtan/generator/git/trees/7c60deb6c1add991d2f5b571af6dc1deb95949e8"
+    },
+    "url": "https://api.github.com/repos/msvrtan/generator/git/commits/429dfa503d9475699ae8f020f407cccd2e738f63",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

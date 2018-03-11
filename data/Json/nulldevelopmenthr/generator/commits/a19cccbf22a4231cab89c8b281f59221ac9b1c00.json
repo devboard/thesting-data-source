@@ -1,33 +1,33 @@
 {
-  "sha": "a19cccbf22a4231cab89c8b281f59221ac9b1c00",
-  "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/a19cccbf22a4231cab89c8b281f59221ac9b1c00",
-  "html_url": "https://github.com/nulldevelopmenthr/generator/commit/a19cccbf22a4231cab89c8b281f59221ac9b1c00",
-  "author": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2016-12-06T21:43:01Z"
-  },
-  "committer": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2016-12-06T21:43:01Z"
-  },
-  "tree": {
-    "sha": "0dbc51eb0513a3907f0c8250a352747eab86ea69",
-    "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/trees/0dbc51eb0513a3907f0c8250a352747eab86ea69"
-  },
-  "message": "Update composer.lock",
-  "parents": [
-    {
-      "sha": "cfc0aec8dcde2387502640ff9e7b91f87d31b7f0",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/cfc0aec8dcde2387502640ff9e7b91f87d31b7f0",
-      "html_url": "https://github.com/nulldevelopmenthr/generator/commit/cfc0aec8dcde2387502640ff9e7b91f87d31b7f0"
+    "author": {
+        "date": "2016-12-06T21:43:01Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "committer": {
+        "date": "2016-12-06T21:43:01Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "html_url": "https://github.com/nulldevelopmenthr/generator/commit/a19cccbf22a4231cab89c8b281f59221ac9b1c00",
+    "message": "Update composer.lock",
+    "parents": [
+        {
+            "html_url": "https://github.com/nulldevelopmenthr/generator/commit/cfc0aec8dcde2387502640ff9e7b91f87d31b7f0",
+            "sha": "cfc0aec8dcde2387502640ff9e7b91f87d31b7f0",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/cfc0aec8dcde2387502640ff9e7b91f87d31b7f0"
+        }
+    ],
+    "sha": "a19cccbf22a4231cab89c8b281f59221ac9b1c00",
+    "tree": {
+        "sha": "0dbc51eb0513a3907f0c8250a352747eab86ea69",
+        "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/trees/0dbc51eb0513a3907f0c8250a352747eab86ea69"
+    },
+    "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/a19cccbf22a4231cab89c8b281f59221ac9b1c00",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

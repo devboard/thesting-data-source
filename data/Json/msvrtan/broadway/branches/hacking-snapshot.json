@@ -1,94 +1,92 @@
 {
-  "name": "hacking-snapshot",
-  "commit": {
-    "sha": "c7ce325525c952b1c7792aa510bc3a4b3093affc",
+    "_links": {
+        "html": "https://github.com/msvrtan/broadway/tree/hacking-snapshot",
+        "self": "https://api.github.com/repos/msvrtan/broadway/branches/hacking-snapshot"
+    },
     "commit": {
-      "author": {
-        "name": "Miro Svrtan",
-        "email": "miro@mirosvrtan.me",
-        "date": "2016-08-06T19:03:53Z"
-      },
-      "committer": {
-        "name": "Miro Svrtan",
-        "email": "miro@mirosvrtan.me",
-        "date": "2016-08-06T19:03:53Z"
-      },
-      "message": "Run travis on all branches",
-      "tree": {
-        "sha": "f277ee67217aaea9077009ee90a39aa514c0e63c",
-        "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/f277ee67217aaea9077009ee90a39aa514c0e63c"
-      },
-      "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/c7ce325525c952b1c7792aa510bc3a4b3093affc",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+            "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+            "followers_url": "https://api.github.com/users/msvrtan/followers",
+            "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+            "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/msvrtan",
+            "id": 1780572,
+            "login": "msvrtan",
+            "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+            "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+            "repos_url": "https://api.github.com/users/msvrtan/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/msvrtan"
+        },
+        "comments_url": "https://api.github.com/repos/msvrtan/broadway/commits/c7ce325525c952b1c7792aa510bc3a4b3093affc/comments",
+        "commit": {
+            "author": {
+                "date": "2016-08-06T19:03:53Z",
+                "email": "miro@mirosvrtan.me",
+                "name": "Miro Svrtan"
+            },
+            "comment_count": 0,
+            "committer": {
+                "date": "2016-08-06T19:03:53Z",
+                "email": "miro@mirosvrtan.me",
+                "name": "Miro Svrtan"
+            },
+            "message": "Run travis on all branches",
+            "tree": {
+                "sha": "f277ee67217aaea9077009ee90a39aa514c0e63c",
+                "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/f277ee67217aaea9077009ee90a39aa514c0e63c"
+            },
+            "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/c7ce325525c952b1c7792aa510bc3a4b3093affc",
+            "verification": {
+                "payload": null,
+                "reason": "unsigned",
+                "signature": null,
+                "verified": false
+            }
+        },
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+            "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+            "followers_url": "https://api.github.com/users/msvrtan/followers",
+            "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+            "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/msvrtan",
+            "id": 1780572,
+            "login": "msvrtan",
+            "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+            "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+            "repos_url": "https://api.github.com/users/msvrtan/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/msvrtan"
+        },
+        "html_url": "https://github.com/msvrtan/broadway/commit/c7ce325525c952b1c7792aa510bc3a4b3093affc",
+        "parents": [
+            {
+                "html_url": "https://github.com/msvrtan/broadway/commit/91473c03e04b9def2ed980021735ed4d88aad169",
+                "sha": "91473c03e04b9def2ed980021735ed4d88aad169",
+                "url": "https://api.github.com/repos/msvrtan/broadway/commits/91473c03e04b9def2ed980021735ed4d88aad169"
+            }
+        ],
+        "sha": "c7ce325525c952b1c7792aa510bc3a4b3093affc",
+        "url": "https://api.github.com/repos/msvrtan/broadway/commits/c7ce325525c952b1c7792aa510bc3a4b3093affc"
     },
-    "url": "https://api.github.com/repos/msvrtan/broadway/commits/c7ce325525c952b1c7792aa510bc3a4b3093affc",
-    "html_url": "https://github.com/msvrtan/broadway/commit/c7ce325525c952b1c7792aa510bc3a4b3093affc",
-    "comments_url": "https://api.github.com/repos/msvrtan/broadway/commits/c7ce325525c952b1c7792aa510bc3a4b3093affc/comments",
-    "author": {
-      "login": "msvrtan",
-      "id": 1780572,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/msvrtan",
-      "html_url": "https://github.com/msvrtan",
-      "followers_url": "https://api.github.com/users/msvrtan/followers",
-      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
-      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
-      "repos_url": "https://api.github.com/users/msvrtan/repos",
-      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
-      "type": "User",
-      "site_admin": false
+    "name": "hacking-snapshot",
+    "protected": false,
+    "protection": {
+        "enabled": false,
+        "required_status_checks": {
+            "contexts": [],
+            "enforcement_level": "off"
+        }
     },
-    "committer": {
-      "login": "msvrtan",
-      "id": 1780572,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/msvrtan",
-      "html_url": "https://github.com/msvrtan",
-      "followers_url": "https://api.github.com/users/msvrtan/followers",
-      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
-      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
-      "repos_url": "https://api.github.com/users/msvrtan/repos",
-      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "91473c03e04b9def2ed980021735ed4d88aad169",
-        "url": "https://api.github.com/repos/msvrtan/broadway/commits/91473c03e04b9def2ed980021735ed4d88aad169",
-        "html_url": "https://github.com/msvrtan/broadway/commit/91473c03e04b9def2ed980021735ed4d88aad169"
-      }
-    ]
-  },
-  "_links": {
-    "self": "https://api.github.com/repos/msvrtan/broadway/branches/hacking-snapshot",
-    "html": "https://github.com/msvrtan/broadway/tree/hacking-snapshot"
-  },
-  "protected": false,
-  "protection": {
-    "enabled": false,
-    "required_status_checks": {
-      "enforcement_level": "off",
-      "contexts": [
-
-      ]
-    }
-  },
-  "protection_url": "https://api.github.com/repos/msvrtan/broadway/branches/hacking-snapshot/protection"
+    "protection_url": "https://api.github.com/repos/msvrtan/broadway/branches/hacking-snapshot/protection"
 }

@@ -1,33 +1,33 @@
 {
-  "sha": "6a0208cd5ba14e1ecdf0f7efb9e536dc0a57dd5a",
-  "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/6a0208cd5ba14e1ecdf0f7efb9e536dc0a57dd5a",
-  "html_url": "https://github.com/msvrtan/starter-edition/commit/6a0208cd5ba14e1ecdf0f7efb9e536dc0a57dd5a",
-  "author": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2016-10-22T17:09:10Z"
-  },
-  "committer": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2016-10-22T17:09:10Z"
-  },
-  "tree": {
-    "sha": "0ea0edb385f517b662273ffcbcac4c857d4be0c3",
-    "url": "https://api.github.com/repos/msvrtan/starter-edition/git/trees/0ea0edb385f517b662273ffcbcac4c857d4be0c3"
-  },
-  "message": "w",
-  "parents": [
-    {
-      "sha": "3df09dc0b06ae0c23ed244c6034a223cf78f2854",
-      "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/3df09dc0b06ae0c23ed244c6034a223cf78f2854",
-      "html_url": "https://github.com/msvrtan/starter-edition/commit/3df09dc0b06ae0c23ed244c6034a223cf78f2854"
+    "author": {
+        "date": "2016-10-22T17:09:10Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "committer": {
+        "date": "2016-10-22T17:09:10Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "html_url": "https://github.com/msvrtan/starter-edition/commit/6a0208cd5ba14e1ecdf0f7efb9e536dc0a57dd5a",
+    "message": "w",
+    "parents": [
+        {
+            "html_url": "https://github.com/msvrtan/starter-edition/commit/3df09dc0b06ae0c23ed244c6034a223cf78f2854",
+            "sha": "3df09dc0b06ae0c23ed244c6034a223cf78f2854",
+            "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/3df09dc0b06ae0c23ed244c6034a223cf78f2854"
+        }
+    ],
+    "sha": "6a0208cd5ba14e1ecdf0f7efb9e536dc0a57dd5a",
+    "tree": {
+        "sha": "0ea0edb385f517b662273ffcbcac4c857d4be0c3",
+        "url": "https://api.github.com/repos/msvrtan/starter-edition/git/trees/0ea0edb385f517b662273ffcbcac4c857d4be0c3"
+    },
+    "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/6a0208cd5ba14e1ecdf0f7efb9e536dc0a57dd5a",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

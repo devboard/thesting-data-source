@@ -1,1 +1,9 @@
-{"name":"v3.4.6","zipball_url":"https:\/\/api.github.com\/repos\/symfony\/symfony-standard\/zipball\/v3.4.6","tarball_url":"https:\/\/api.github.com\/repos\/symfony\/symfony-standard\/tarball\/v3.4.6","commit":{"sha":"55db90ef954fcd314a0ed08017af4f846c57244b","url":"https:\/\/api.github.com\/repos\/symfony\/symfony-standard\/commits\/55db90ef954fcd314a0ed08017af4f846c57244b"}}
+{
+    "commit": {
+        "sha": "55db90ef954fcd314a0ed08017af4f846c57244b",
+        "url": "https://api.github.com/repos/symfony/symfony-standard/commits/55db90ef954fcd314a0ed08017af4f846c57244b"
+    },
+    "name": "v3.4.6",
+    "tarball_url": "https://api.github.com/repos/symfony/symfony-standard/tarball/v3.4.6",
+    "zipball_url": "https://api.github.com/repos/symfony/symfony-standard/zipball/v3.4.6"
+}

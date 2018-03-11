@@ -1,38 +1,38 @@
 {
-  "sha": "4d23c70b6056b553d39bcf4374417c15852b131e",
-  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/4d23c70b6056b553d39bcf4374417c15852b131e",
-  "html_url": "https://github.com/symfony/symfony-docs/commit/4d23c70b6056b553d39bcf4374417c15852b131e",
-  "author": {
-    "name": "Fabien Potencier",
-    "email": "fabien.potencier@gmail.com",
-    "date": "2013-01-24T07:16:40Z"
-  },
-  "committer": {
-    "name": "Fabien Potencier",
-    "email": "fabien.potencier@gmail.com",
-    "date": "2013-01-24T07:16:40Z"
-  },
-  "tree": {
-    "sha": "dd20a93aa5d8d0c0295df25d865930e031208e3a",
-    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/dd20a93aa5d8d0c0295df25d865930e031208e3a"
-  },
-  "message": "merged branch fabpot/content-renderer-simplification (PR #2179)\n\nThis PR was merged into the master branch.\n\nCommits\n-------\n\n7ab8be5 replaced the proxy route with a listener\n\nDiscussion\n----------\n\nreplaced the proxy route with a listener\n\nsee symfony/symfony#6829",
-  "parents": [
-    {
-      "sha": "65494c83e43ea07b9d9fdd67737f99540a57e770",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/65494c83e43ea07b9d9fdd67737f99540a57e770",
-      "html_url": "https://github.com/symfony/symfony-docs/commit/65494c83e43ea07b9d9fdd67737f99540a57e770"
+    "author": {
+        "date": "2013-01-24T07:16:40Z",
+        "email": "fabien.potencier@gmail.com",
+        "name": "Fabien Potencier"
     },
-    {
-      "sha": "7ab8be5a9c8e9f36eedf0b3dd3b815f23b159c1f",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/7ab8be5a9c8e9f36eedf0b3dd3b815f23b159c1f",
-      "html_url": "https://github.com/symfony/symfony-docs/commit/7ab8be5a9c8e9f36eedf0b3dd3b815f23b159c1f"
+    "committer": {
+        "date": "2013-01-24T07:16:40Z",
+        "email": "fabien.potencier@gmail.com",
+        "name": "Fabien Potencier"
+    },
+    "html_url": "https://github.com/symfony/symfony-docs/commit/4d23c70b6056b553d39bcf4374417c15852b131e",
+    "message": "merged branch fabpot/content-renderer-simplification (PR #2179)\n\nThis PR was merged into the master branch.\n\nCommits\n-------\n\n7ab8be5 replaced the proxy route with a listener\n\nDiscussion\n----------\n\nreplaced the proxy route with a listener\n\nsee symfony/symfony#6829",
+    "parents": [
+        {
+            "html_url": "https://github.com/symfony/symfony-docs/commit/65494c83e43ea07b9d9fdd67737f99540a57e770",
+            "sha": "65494c83e43ea07b9d9fdd67737f99540a57e770",
+            "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/65494c83e43ea07b9d9fdd67737f99540a57e770"
+        },
+        {
+            "html_url": "https://github.com/symfony/symfony-docs/commit/7ab8be5a9c8e9f36eedf0b3dd3b815f23b159c1f",
+            "sha": "7ab8be5a9c8e9f36eedf0b3dd3b815f23b159c1f",
+            "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/7ab8be5a9c8e9f36eedf0b3dd3b815f23b159c1f"
+        }
+    ],
+    "sha": "4d23c70b6056b553d39bcf4374417c15852b131e",
+    "tree": {
+        "sha": "dd20a93aa5d8d0c0295df25d865930e031208e3a",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/dd20a93aa5d8d0c0295df25d865930e031208e3a"
+    },
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/4d23c70b6056b553d39bcf4374417c15852b131e",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

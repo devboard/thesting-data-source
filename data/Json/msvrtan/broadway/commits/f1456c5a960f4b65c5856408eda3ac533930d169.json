@@ -1,38 +1,38 @@
 {
-  "sha": "f1456c5a960f4b65c5856408eda3ac533930d169",
-  "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/f1456c5a960f4b65c5856408eda3ac533930d169",
-  "html_url": "https://github.com/msvrtan/broadway/commit/f1456c5a960f4b65c5856408eda3ac533930d169",
-  "author": {
-    "name": "Willem-Jan Zijderveld",
-    "email": "wjzijderveld@gmail.com",
-    "date": "2015-02-16T20:42:42Z"
-  },
-  "committer": {
-    "name": "Willem-Jan Zijderveld",
-    "email": "wjzijderveld@gmail.com",
-    "date": "2015-02-16T20:42:42Z"
-  },
-  "tree": {
-    "sha": "7b383ad481083dc340cd820c0e9df644d92588da",
-    "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/7b383ad481083dc340cd820c0e9df644d92588da"
-  },
-  "message": "Merge pull request #135 from lrqdo/feature-event-bus-resilience\n\nMake the simple event bus more resilient.",
-  "parents": [
-    {
-      "sha": "48a0a1ba95e74b9bb1db1c328148b938b2c0eade",
-      "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/48a0a1ba95e74b9bb1db1c328148b938b2c0eade",
-      "html_url": "https://github.com/msvrtan/broadway/commit/48a0a1ba95e74b9bb1db1c328148b938b2c0eade"
+    "author": {
+        "date": "2015-02-16T20:42:42Z",
+        "email": "wjzijderveld@gmail.com",
+        "name": "Willem-Jan Zijderveld"
     },
-    {
-      "sha": "1f1df945b71f18d49b5c3bc4323fafd3ec234876",
-      "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/1f1df945b71f18d49b5c3bc4323fafd3ec234876",
-      "html_url": "https://github.com/msvrtan/broadway/commit/1f1df945b71f18d49b5c3bc4323fafd3ec234876"
+    "committer": {
+        "date": "2015-02-16T20:42:42Z",
+        "email": "wjzijderveld@gmail.com",
+        "name": "Willem-Jan Zijderveld"
+    },
+    "html_url": "https://github.com/msvrtan/broadway/commit/f1456c5a960f4b65c5856408eda3ac533930d169",
+    "message": "Merge pull request #135 from lrqdo/feature-event-bus-resilience\n\nMake the simple event bus more resilient.",
+    "parents": [
+        {
+            "html_url": "https://github.com/msvrtan/broadway/commit/48a0a1ba95e74b9bb1db1c328148b938b2c0eade",
+            "sha": "48a0a1ba95e74b9bb1db1c328148b938b2c0eade",
+            "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/48a0a1ba95e74b9bb1db1c328148b938b2c0eade"
+        },
+        {
+            "html_url": "https://github.com/msvrtan/broadway/commit/1f1df945b71f18d49b5c3bc4323fafd3ec234876",
+            "sha": "1f1df945b71f18d49b5c3bc4323fafd3ec234876",
+            "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/1f1df945b71f18d49b5c3bc4323fafd3ec234876"
+        }
+    ],
+    "sha": "f1456c5a960f4b65c5856408eda3ac533930d169",
+    "tree": {
+        "sha": "7b383ad481083dc340cd820c0e9df644d92588da",
+        "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/7b383ad481083dc340cd820c0e9df644d92588da"
+    },
+    "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/f1456c5a960f4b65c5856408eda3ac533930d169",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

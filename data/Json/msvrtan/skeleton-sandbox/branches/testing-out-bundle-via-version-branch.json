@@ -1,94 +1,92 @@
 {
-  "name": "testing-out-bundle-via-version-branch",
-  "commit": {
-    "sha": "ca0f4ed011d2c546dcefa2a7f3d4cb92a805a7f7",
+    "_links": {
+        "html": "https://github.com/msvrtan/skeleton-sandbox/tree/testing-out-bundle-via-version-branch",
+        "self": "https://api.github.com/repos/msvrtan/skeleton-sandbox/branches/testing-out-bundle-via-version-branch"
+    },
     "commit": {
-      "author": {
-        "name": "Miro Svrtan",
-        "email": "miro@mirosvrtan.me",
-        "date": "2016-06-19T13:08:43Z"
-      },
-      "committer": {
-        "name": "Miro Svrtan",
-        "email": "miro@mirosvrtan.me",
-        "date": "2016-06-19T13:08:43Z"
-      },
-      "message": "zz",
-      "tree": {
-        "sha": "ff5d1066a7875c965436aaa3f40aa6a926909c9e",
-        "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/git/trees/ff5d1066a7875c965436aaa3f40aa6a926909c9e"
-      },
-      "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/git/commits/ca0f4ed011d2c546dcefa2a7f3d4cb92a805a7f7",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+            "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+            "followers_url": "https://api.github.com/users/msvrtan/followers",
+            "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+            "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/msvrtan",
+            "id": 1780572,
+            "login": "msvrtan",
+            "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+            "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+            "repos_url": "https://api.github.com/users/msvrtan/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/msvrtan"
+        },
+        "comments_url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/commits/ca0f4ed011d2c546dcefa2a7f3d4cb92a805a7f7/comments",
+        "commit": {
+            "author": {
+                "date": "2016-06-19T13:08:43Z",
+                "email": "miro@mirosvrtan.me",
+                "name": "Miro Svrtan"
+            },
+            "comment_count": 0,
+            "committer": {
+                "date": "2016-06-19T13:08:43Z",
+                "email": "miro@mirosvrtan.me",
+                "name": "Miro Svrtan"
+            },
+            "message": "zz",
+            "tree": {
+                "sha": "ff5d1066a7875c965436aaa3f40aa6a926909c9e",
+                "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/git/trees/ff5d1066a7875c965436aaa3f40aa6a926909c9e"
+            },
+            "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/git/commits/ca0f4ed011d2c546dcefa2a7f3d4cb92a805a7f7",
+            "verification": {
+                "payload": null,
+                "reason": "unsigned",
+                "signature": null,
+                "verified": false
+            }
+        },
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+            "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+            "followers_url": "https://api.github.com/users/msvrtan/followers",
+            "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+            "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/msvrtan",
+            "id": 1780572,
+            "login": "msvrtan",
+            "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+            "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+            "repos_url": "https://api.github.com/users/msvrtan/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/msvrtan"
+        },
+        "html_url": "https://github.com/msvrtan/skeleton-sandbox/commit/ca0f4ed011d2c546dcefa2a7f3d4cb92a805a7f7",
+        "parents": [
+            {
+                "html_url": "https://github.com/msvrtan/skeleton-sandbox/commit/0ac98745dae8818d2d9ba3a08c29223499677b07",
+                "sha": "0ac98745dae8818d2d9ba3a08c29223499677b07",
+                "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/commits/0ac98745dae8818d2d9ba3a08c29223499677b07"
+            }
+        ],
+        "sha": "ca0f4ed011d2c546dcefa2a7f3d4cb92a805a7f7",
+        "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/commits/ca0f4ed011d2c546dcefa2a7f3d4cb92a805a7f7"
     },
-    "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/commits/ca0f4ed011d2c546dcefa2a7f3d4cb92a805a7f7",
-    "html_url": "https://github.com/msvrtan/skeleton-sandbox/commit/ca0f4ed011d2c546dcefa2a7f3d4cb92a805a7f7",
-    "comments_url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/commits/ca0f4ed011d2c546dcefa2a7f3d4cb92a805a7f7/comments",
-    "author": {
-      "login": "msvrtan",
-      "id": 1780572,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/msvrtan",
-      "html_url": "https://github.com/msvrtan",
-      "followers_url": "https://api.github.com/users/msvrtan/followers",
-      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
-      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
-      "repos_url": "https://api.github.com/users/msvrtan/repos",
-      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
-      "type": "User",
-      "site_admin": false
+    "name": "testing-out-bundle-via-version-branch",
+    "protected": false,
+    "protection": {
+        "enabled": false,
+        "required_status_checks": {
+            "contexts": [],
+            "enforcement_level": "off"
+        }
     },
-    "committer": {
-      "login": "msvrtan",
-      "id": 1780572,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/msvrtan",
-      "html_url": "https://github.com/msvrtan",
-      "followers_url": "https://api.github.com/users/msvrtan/followers",
-      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
-      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
-      "repos_url": "https://api.github.com/users/msvrtan/repos",
-      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "0ac98745dae8818d2d9ba3a08c29223499677b07",
-        "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/commits/0ac98745dae8818d2d9ba3a08c29223499677b07",
-        "html_url": "https://github.com/msvrtan/skeleton-sandbox/commit/0ac98745dae8818d2d9ba3a08c29223499677b07"
-      }
-    ]
-  },
-  "_links": {
-    "self": "https://api.github.com/repos/msvrtan/skeleton-sandbox/branches/testing-out-bundle-via-version-branch",
-    "html": "https://github.com/msvrtan/skeleton-sandbox/tree/testing-out-bundle-via-version-branch"
-  },
-  "protected": false,
-  "protection": {
-    "enabled": false,
-    "required_status_checks": {
-      "enforcement_level": "off",
-      "contexts": [
-
-      ]
-    }
-  },
-  "protection_url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/branches/testing-out-bundle-via-version-branch/protection"
+    "protection_url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/branches/testing-out-bundle-via-version-branch/protection"
 }

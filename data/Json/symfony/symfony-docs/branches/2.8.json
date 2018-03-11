@@ -1,99 +1,97 @@
 {
-  "name": "2.8",
-  "commit": {
-    "sha": "d8a188ee26461dcc24e482cd560f6f79679f6f2f",
+    "_links": {
+        "html": "https://github.com/symfony/symfony-docs/tree/2.8",
+        "self": "https://api.github.com/repos/symfony/symfony-docs/branches/2.8"
+    },
     "commit": {
-      "author": {
-        "name": "Javier Eguiluz",
-        "email": "javier.eguiluz@gmail.com",
-        "date": "2018-03-11T17:38:59Z"
-      },
-      "committer": {
-        "name": "Javier Eguiluz",
-        "email": "javier.eguiluz@gmail.com",
-        "date": "2018-03-11T17:38:59Z"
-      },
-      "message": "Merge branch '2.7' into 2.8\n\n* 2.7:\n  Fix the explanation about registering commands\n  Add a 2nd argument to create()",
-      "tree": {
-        "sha": "05e95def008b199c8d77efe6cdba128d8b5e694b",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/05e95def008b199c8d77efe6cdba128d8b5e694b"
-      },
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/d8a188ee26461dcc24e482cd560f6f79679f6f2f",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
+        "author": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/73419?v=4",
+            "events_url": "https://api.github.com/users/javiereguiluz/events{/privacy}",
+            "followers_url": "https://api.github.com/users/javiereguiluz/followers",
+            "following_url": "https://api.github.com/users/javiereguiluz/following{/other_user}",
+            "gists_url": "https://api.github.com/users/javiereguiluz/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/javiereguiluz",
+            "id": 73419,
+            "login": "javiereguiluz",
+            "organizations_url": "https://api.github.com/users/javiereguiluz/orgs",
+            "received_events_url": "https://api.github.com/users/javiereguiluz/received_events",
+            "repos_url": "https://api.github.com/users/javiereguiluz/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/javiereguiluz/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/javiereguiluz/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/javiereguiluz"
+        },
+        "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/d8a188ee26461dcc24e482cd560f6f79679f6f2f/comments",
+        "commit": {
+            "author": {
+                "date": "2018-03-11T17:38:59Z",
+                "email": "javier.eguiluz@gmail.com",
+                "name": "Javier Eguiluz"
+            },
+            "comment_count": 0,
+            "committer": {
+                "date": "2018-03-11T17:38:59Z",
+                "email": "javier.eguiluz@gmail.com",
+                "name": "Javier Eguiluz"
+            },
+            "message": "Merge branch '2.7' into 2.8\n\n* 2.7:\n  Fix the explanation about registering commands\n  Add a 2nd argument to create()",
+            "tree": {
+                "sha": "05e95def008b199c8d77efe6cdba128d8b5e694b",
+                "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/05e95def008b199c8d77efe6cdba128d8b5e694b"
+            },
+            "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/d8a188ee26461dcc24e482cd560f6f79679f6f2f",
+            "verification": {
+                "payload": null,
+                "reason": "unsigned",
+                "signature": null,
+                "verified": false
+            }
+        },
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/73419?v=4",
+            "events_url": "https://api.github.com/users/javiereguiluz/events{/privacy}",
+            "followers_url": "https://api.github.com/users/javiereguiluz/followers",
+            "following_url": "https://api.github.com/users/javiereguiluz/following{/other_user}",
+            "gists_url": "https://api.github.com/users/javiereguiluz/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/javiereguiluz",
+            "id": 73419,
+            "login": "javiereguiluz",
+            "organizations_url": "https://api.github.com/users/javiereguiluz/orgs",
+            "received_events_url": "https://api.github.com/users/javiereguiluz/received_events",
+            "repos_url": "https://api.github.com/users/javiereguiluz/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/javiereguiluz/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/javiereguiluz/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/javiereguiluz"
+        },
+        "html_url": "https://github.com/symfony/symfony-docs/commit/d8a188ee26461dcc24e482cd560f6f79679f6f2f",
+        "parents": [
+            {
+                "html_url": "https://github.com/symfony/symfony-docs/commit/2b3c6d9faa54847a99762119d34fa5814ecf02b4",
+                "sha": "2b3c6d9faa54847a99762119d34fa5814ecf02b4",
+                "url": "https://api.github.com/repos/symfony/symfony-docs/commits/2b3c6d9faa54847a99762119d34fa5814ecf02b4"
+            },
+            {
+                "html_url": "https://github.com/symfony/symfony-docs/commit/95f93481f2ae3bca2943d38225969c3f803383dc",
+                "sha": "95f93481f2ae3bca2943d38225969c3f803383dc",
+                "url": "https://api.github.com/repos/symfony/symfony-docs/commits/95f93481f2ae3bca2943d38225969c3f803383dc"
+            }
+        ],
+        "sha": "d8a188ee26461dcc24e482cd560f6f79679f6f2f",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/d8a188ee26461dcc24e482cd560f6f79679f6f2f"
     },
-    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/d8a188ee26461dcc24e482cd560f6f79679f6f2f",
-    "html_url": "https://github.com/symfony/symfony-docs/commit/d8a188ee26461dcc24e482cd560f6f79679f6f2f",
-    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/d8a188ee26461dcc24e482cd560f6f79679f6f2f/comments",
-    "author": {
-      "login": "javiereguiluz",
-      "id": 73419,
-      "avatar_url": "https://avatars3.githubusercontent.com/u/73419?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/javiereguiluz",
-      "html_url": "https://github.com/javiereguiluz",
-      "followers_url": "https://api.github.com/users/javiereguiluz/followers",
-      "following_url": "https://api.github.com/users/javiereguiluz/following{/other_user}",
-      "gists_url": "https://api.github.com/users/javiereguiluz/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/javiereguiluz/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/javiereguiluz/subscriptions",
-      "organizations_url": "https://api.github.com/users/javiereguiluz/orgs",
-      "repos_url": "https://api.github.com/users/javiereguiluz/repos",
-      "events_url": "https://api.github.com/users/javiereguiluz/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/javiereguiluz/received_events",
-      "type": "User",
-      "site_admin": false
+    "name": "2.8",
+    "protected": false,
+    "protection": {
+        "enabled": false,
+        "required_status_checks": {
+            "contexts": [],
+            "enforcement_level": "off"
+        }
     },
-    "committer": {
-      "login": "javiereguiluz",
-      "id": 73419,
-      "avatar_url": "https://avatars3.githubusercontent.com/u/73419?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/javiereguiluz",
-      "html_url": "https://github.com/javiereguiluz",
-      "followers_url": "https://api.github.com/users/javiereguiluz/followers",
-      "following_url": "https://api.github.com/users/javiereguiluz/following{/other_user}",
-      "gists_url": "https://api.github.com/users/javiereguiluz/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/javiereguiluz/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/javiereguiluz/subscriptions",
-      "organizations_url": "https://api.github.com/users/javiereguiluz/orgs",
-      "repos_url": "https://api.github.com/users/javiereguiluz/repos",
-      "events_url": "https://api.github.com/users/javiereguiluz/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/javiereguiluz/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "2b3c6d9faa54847a99762119d34fa5814ecf02b4",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/2b3c6d9faa54847a99762119d34fa5814ecf02b4",
-        "html_url": "https://github.com/symfony/symfony-docs/commit/2b3c6d9faa54847a99762119d34fa5814ecf02b4"
-      },
-      {
-        "sha": "95f93481f2ae3bca2943d38225969c3f803383dc",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/95f93481f2ae3bca2943d38225969c3f803383dc",
-        "html_url": "https://github.com/symfony/symfony-docs/commit/95f93481f2ae3bca2943d38225969c3f803383dc"
-      }
-    ]
-  },
-  "_links": {
-    "self": "https://api.github.com/repos/symfony/symfony-docs/branches/2.8",
-    "html": "https://github.com/symfony/symfony-docs/tree/2.8"
-  },
-  "protected": false,
-  "protection": {
-    "enabled": false,
-    "required_status_checks": {
-      "enforcement_level": "off",
-      "contexts": [
-
-      ]
-    }
-  },
-  "protection_url": "https://api.github.com/repos/symfony/symfony-docs/branches/2.8/protection"
+    "protection_url": "https://api.github.com/repos/symfony/symfony-docs/branches/2.8/protection"
 }

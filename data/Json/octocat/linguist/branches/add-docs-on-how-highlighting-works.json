@@ -1,94 +1,92 @@
 {
-  "name": "add-docs-on-how-highlighting-works",
-  "commit": {
-    "sha": "d29ec3bf51561c618498febce853c324de5a58a6",
+    "_links": {
+        "html": "https://github.com/octocat/linguist/tree/add-docs-on-how-highlighting-works",
+        "self": "https://api.github.com/repos/octocat/linguist/branches/add-docs-on-how-highlighting-works"
+    },
     "commit": {
-      "author": {
-        "name": "Garen Torikian",
-        "email": "gjtorikian@gmail.com",
-        "date": "2015-04-22T01:44:57Z"
-      },
-      "committer": {
-        "name": "Garen Torikian",
-        "email": "gjtorikian@gmail.com",
-        "date": "2015-04-22T01:44:57Z"
-      },
-      "message": "Indicate how we come at the highlighting word",
-      "tree": {
-        "sha": "15d6932dbe60c582c8b72ae7a6df175a9f481cef",
-        "url": "https://api.github.com/repos/octocat/linguist/git/trees/15d6932dbe60c582c8b72ae7a6df175a9f481cef"
-      },
-      "url": "https://api.github.com/repos/octocat/linguist/git/commits/d29ec3bf51561c618498febce853c324de5a58a6",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/64050?v=4",
+            "events_url": "https://api.github.com/users/gjtorikian/events{/privacy}",
+            "followers_url": "https://api.github.com/users/gjtorikian/followers",
+            "following_url": "https://api.github.com/users/gjtorikian/following{/other_user}",
+            "gists_url": "https://api.github.com/users/gjtorikian/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/gjtorikian",
+            "id": 64050,
+            "login": "gjtorikian",
+            "organizations_url": "https://api.github.com/users/gjtorikian/orgs",
+            "received_events_url": "https://api.github.com/users/gjtorikian/received_events",
+            "repos_url": "https://api.github.com/users/gjtorikian/repos",
+            "site_admin": true,
+            "starred_url": "https://api.github.com/users/gjtorikian/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/gjtorikian/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/gjtorikian"
+        },
+        "comments_url": "https://api.github.com/repos/octocat/linguist/commits/d29ec3bf51561c618498febce853c324de5a58a6/comments",
+        "commit": {
+            "author": {
+                "date": "2015-04-22T01:44:57Z",
+                "email": "gjtorikian@gmail.com",
+                "name": "Garen Torikian"
+            },
+            "comment_count": 0,
+            "committer": {
+                "date": "2015-04-22T01:44:57Z",
+                "email": "gjtorikian@gmail.com",
+                "name": "Garen Torikian"
+            },
+            "message": "Indicate how we come at the highlighting word",
+            "tree": {
+                "sha": "15d6932dbe60c582c8b72ae7a6df175a9f481cef",
+                "url": "https://api.github.com/repos/octocat/linguist/git/trees/15d6932dbe60c582c8b72ae7a6df175a9f481cef"
+            },
+            "url": "https://api.github.com/repos/octocat/linguist/git/commits/d29ec3bf51561c618498febce853c324de5a58a6",
+            "verification": {
+                "payload": null,
+                "reason": "unsigned",
+                "signature": null,
+                "verified": false
+            }
+        },
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/64050?v=4",
+            "events_url": "https://api.github.com/users/gjtorikian/events{/privacy}",
+            "followers_url": "https://api.github.com/users/gjtorikian/followers",
+            "following_url": "https://api.github.com/users/gjtorikian/following{/other_user}",
+            "gists_url": "https://api.github.com/users/gjtorikian/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/gjtorikian",
+            "id": 64050,
+            "login": "gjtorikian",
+            "organizations_url": "https://api.github.com/users/gjtorikian/orgs",
+            "received_events_url": "https://api.github.com/users/gjtorikian/received_events",
+            "repos_url": "https://api.github.com/users/gjtorikian/repos",
+            "site_admin": true,
+            "starred_url": "https://api.github.com/users/gjtorikian/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/gjtorikian/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/gjtorikian"
+        },
+        "html_url": "https://github.com/octocat/linguist/commit/d29ec3bf51561c618498febce853c324de5a58a6",
+        "parents": [
+            {
+                "html_url": "https://github.com/octocat/linguist/commit/f4289a235b0190b93356917d3c77a2d4d5683503",
+                "sha": "f4289a235b0190b93356917d3c77a2d4d5683503",
+                "url": "https://api.github.com/repos/octocat/linguist/commits/f4289a235b0190b93356917d3c77a2d4d5683503"
+            }
+        ],
+        "sha": "d29ec3bf51561c618498febce853c324de5a58a6",
+        "url": "https://api.github.com/repos/octocat/linguist/commits/d29ec3bf51561c618498febce853c324de5a58a6"
     },
-    "url": "https://api.github.com/repos/octocat/linguist/commits/d29ec3bf51561c618498febce853c324de5a58a6",
-    "html_url": "https://github.com/octocat/linguist/commit/d29ec3bf51561c618498febce853c324de5a58a6",
-    "comments_url": "https://api.github.com/repos/octocat/linguist/commits/d29ec3bf51561c618498febce853c324de5a58a6/comments",
-    "author": {
-      "login": "gjtorikian",
-      "id": 64050,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/64050?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/gjtorikian",
-      "html_url": "https://github.com/gjtorikian",
-      "followers_url": "https://api.github.com/users/gjtorikian/followers",
-      "following_url": "https://api.github.com/users/gjtorikian/following{/other_user}",
-      "gists_url": "https://api.github.com/users/gjtorikian/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/gjtorikian/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/gjtorikian/subscriptions",
-      "organizations_url": "https://api.github.com/users/gjtorikian/orgs",
-      "repos_url": "https://api.github.com/users/gjtorikian/repos",
-      "events_url": "https://api.github.com/users/gjtorikian/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/gjtorikian/received_events",
-      "type": "User",
-      "site_admin": true
+    "name": "add-docs-on-how-highlighting-works",
+    "protected": false,
+    "protection": {
+        "enabled": false,
+        "required_status_checks": {
+            "contexts": [],
+            "enforcement_level": "off"
+        }
     },
-    "committer": {
-      "login": "gjtorikian",
-      "id": 64050,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/64050?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/gjtorikian",
-      "html_url": "https://github.com/gjtorikian",
-      "followers_url": "https://api.github.com/users/gjtorikian/followers",
-      "following_url": "https://api.github.com/users/gjtorikian/following{/other_user}",
-      "gists_url": "https://api.github.com/users/gjtorikian/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/gjtorikian/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/gjtorikian/subscriptions",
-      "organizations_url": "https://api.github.com/users/gjtorikian/orgs",
-      "repos_url": "https://api.github.com/users/gjtorikian/repos",
-      "events_url": "https://api.github.com/users/gjtorikian/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/gjtorikian/received_events",
-      "type": "User",
-      "site_admin": true
-    },
-    "parents": [
-      {
-        "sha": "f4289a235b0190b93356917d3c77a2d4d5683503",
-        "url": "https://api.github.com/repos/octocat/linguist/commits/f4289a235b0190b93356917d3c77a2d4d5683503",
-        "html_url": "https://github.com/octocat/linguist/commit/f4289a235b0190b93356917d3c77a2d4d5683503"
-      }
-    ]
-  },
-  "_links": {
-    "self": "https://api.github.com/repos/octocat/linguist/branches/add-docs-on-how-highlighting-works",
-    "html": "https://github.com/octocat/linguist/tree/add-docs-on-how-highlighting-works"
-  },
-  "protected": false,
-  "protection": {
-    "enabled": false,
-    "required_status_checks": {
-      "enforcement_level": "off",
-      "contexts": [
-
-      ]
-    }
-  },
-  "protection_url": "https://api.github.com/repos/octocat/linguist/branches/add-docs-on-how-highlighting-works/protection"
+    "protection_url": "https://api.github.com/repos/octocat/linguist/branches/add-docs-on-how-highlighting-works/protection"
 }

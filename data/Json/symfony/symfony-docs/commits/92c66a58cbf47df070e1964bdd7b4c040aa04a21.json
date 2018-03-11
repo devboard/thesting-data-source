@@ -1,33 +1,33 @@
 {
-  "sha": "92c66a58cbf47df070e1964bdd7b4c040aa04a21",
-  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/92c66a58cbf47df070e1964bdd7b4c040aa04a21",
-  "html_url": "https://github.com/symfony/symfony-docs/commit/92c66a58cbf47df070e1964bdd7b4c040aa04a21",
-  "author": {
-    "name": "Ryan Weaver",
-    "email": "ryan@thatsquality.com",
-    "date": "2013-08-05T22:14:56Z"
-  },
-  "committer": {
-    "name": "Ryan Weaver",
-    "email": "ryan@thatsquality.com",
-    "date": "2013-08-05T22:14:56Z"
-  },
-  "tree": {
-    "sha": "b2a85ba7c2b5d26113add5d6b474341d6bee71eb",
-    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/b2a85ba7c2b5d26113add5d6b474341d6bee71eb"
-  },
-  "message": "Revert \"Added new tag\"\n\nThis reverts commit 26500fbd282a3f545330dcb56a27152a1473156d.",
-  "parents": [
-    {
-      "sha": "f73e5ce50444717aa0980ae24210e4a6c53a1092",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/f73e5ce50444717aa0980ae24210e4a6c53a1092",
-      "html_url": "https://github.com/symfony/symfony-docs/commit/f73e5ce50444717aa0980ae24210e4a6c53a1092"
+    "author": {
+        "date": "2013-08-05T22:14:56Z",
+        "email": "ryan@thatsquality.com",
+        "name": "Ryan Weaver"
+    },
+    "committer": {
+        "date": "2013-08-05T22:14:56Z",
+        "email": "ryan@thatsquality.com",
+        "name": "Ryan Weaver"
+    },
+    "html_url": "https://github.com/symfony/symfony-docs/commit/92c66a58cbf47df070e1964bdd7b4c040aa04a21",
+    "message": "Revert \"Added new tag\"\n\nThis reverts commit 26500fbd282a3f545330dcb56a27152a1473156d.",
+    "parents": [
+        {
+            "html_url": "https://github.com/symfony/symfony-docs/commit/f73e5ce50444717aa0980ae24210e4a6c53a1092",
+            "sha": "f73e5ce50444717aa0980ae24210e4a6c53a1092",
+            "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/f73e5ce50444717aa0980ae24210e4a6c53a1092"
+        }
+    ],
+    "sha": "92c66a58cbf47df070e1964bdd7b4c040aa04a21",
+    "tree": {
+        "sha": "b2a85ba7c2b5d26113add5d6b474341d6bee71eb",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/b2a85ba7c2b5d26113add5d6b474341d6bee71eb"
+    },
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/92c66a58cbf47df070e1964bdd7b4c040aa04a21",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

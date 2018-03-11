@@ -1,100 +1,100 @@
 {
-  "name": "3.4",
-  "commit": {
-    "sha": "2655496eba98a3f484fdf774e53a3d40e7cfcf09",
+    "_links": {
+        "html": "https://github.com/symfony/symfony/tree/3.4",
+        "self": "https://api.github.com/repos/symfony/symfony/branches/3.4"
+    },
     "commit": {
-      "author": {
-        "name": "Fabien Potencier",
-        "email": "fabien.potencier@gmail.com",
-        "date": "2018-03-11T18:19:37Z"
-      },
-      "committer": {
-        "name": "Fabien Potencier",
-        "email": "fabien.potencier@gmail.com",
-        "date": "2018-03-11T18:19:37Z"
-      },
-      "message": "bug #26041 Display the Welcome Page when there is no homepage defined (javiereguiluz)\n\nThis PR was squashed before being merged into the 3.4 branch (closes #26041).\n\nDiscussion\n----------\n\nDisplay the Welcome Page when there is no homepage defined\n\n| Q             | A\n| ------------- | ---\n| Branch?       | 3.4\n| Bug fix?      | yes\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets | https://github.com/symfony/symfony-docs/issues/9178\n| License       | MIT\n| Doc PR        | -\n\nIn 3.4 we added a trick to display the Welcome Page when the user browses `/` and there are no routes defined. However, when using the `website-skeleton` (which is what most newcomers use ... and they are the ones that mostly need the \"Welcome Page\") the premise about *\"no routes are defined\"* is never true and the Welcome Page is never shown (see https://github.com/symfony/symfony-docs/issues/9178 for one of the multiple error reports we've received).\n\nSo, I propose to make this change to always define the \"Welcome Page\" as the fallback:\n\n* If no routes are defined for `/`, the Welcome Page is displayed.\n* If there is a route defined for `/`, this code will never be executed because it's the last condition of the routing matcher.\n\nCommits\n-------\n\n5b0d9340d7 Display the Welcome Page when there is no homepage defined",
-      "tree": {
-        "sha": "71f867661ae8b5c0ea60699b9408300052fa971b",
-        "url": "https://api.github.com/repos/symfony/symfony/git/trees/71f867661ae8b5c0ea60699b9408300052fa971b"
-      },
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/2655496eba98a3f484fdf774e53a3d40e7cfcf09",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
+        "author": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
+            "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+            "followers_url": "https://api.github.com/users/fabpot/followers",
+            "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+            "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/fabpot",
+            "id": 47313,
+            "login": "fabpot",
+            "organizations_url": "https://api.github.com/users/fabpot/orgs",
+            "received_events_url": "https://api.github.com/users/fabpot/received_events",
+            "repos_url": "https://api.github.com/users/fabpot/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/fabpot"
+        },
+        "comments_url": "https://api.github.com/repos/symfony/symfony/commits/2655496eba98a3f484fdf774e53a3d40e7cfcf09/comments",
+        "commit": {
+            "author": {
+                "date": "2018-03-11T18:19:37Z",
+                "email": "fabien.potencier@gmail.com",
+                "name": "Fabien Potencier"
+            },
+            "comment_count": 0,
+            "committer": {
+                "date": "2018-03-11T18:19:37Z",
+                "email": "fabien.potencier@gmail.com",
+                "name": "Fabien Potencier"
+            },
+            "message": "bug #26041 Display the Welcome Page when there is no homepage defined (javiereguiluz)\n\nThis PR was squashed before being merged into the 3.4 branch (closes #26041).\n\nDiscussion\n----------\n\nDisplay the Welcome Page when there is no homepage defined\n\n| Q             | A\n| ------------- | ---\n| Branch?       | 3.4\n| Bug fix?      | yes\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets | https://github.com/symfony/symfony-docs/issues/9178\n| License       | MIT\n| Doc PR        | -\n\nIn 3.4 we added a trick to display the Welcome Page when the user browses `/` and there are no routes defined. However, when using the `website-skeleton` (which is what most newcomers use ... and they are the ones that mostly need the \"Welcome Page\") the premise about *\"no routes are defined\"* is never true and the Welcome Page is never shown (see https://github.com/symfony/symfony-docs/issues/9178 for one of the multiple error reports we've received).\n\nSo, I propose to make this change to always define the \"Welcome Page\" as the fallback:\n\n* If no routes are defined for `/`, the Welcome Page is displayed.\n* If there is a route defined for `/`, this code will never be executed because it's the last condition of the routing matcher.\n\nCommits\n-------\n\n5b0d9340d7 Display the Welcome Page when there is no homepage defined",
+            "tree": {
+                "sha": "71f867661ae8b5c0ea60699b9408300052fa971b",
+                "url": "https://api.github.com/repos/symfony/symfony/git/trees/71f867661ae8b5c0ea60699b9408300052fa971b"
+            },
+            "url": "https://api.github.com/repos/symfony/symfony/git/commits/2655496eba98a3f484fdf774e53a3d40e7cfcf09",
+            "verification": {
+                "payload": null,
+                "reason": "unsigned",
+                "signature": null,
+                "verified": false
+            }
+        },
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
+            "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+            "followers_url": "https://api.github.com/users/fabpot/followers",
+            "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+            "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/fabpot",
+            "id": 47313,
+            "login": "fabpot",
+            "organizations_url": "https://api.github.com/users/fabpot/orgs",
+            "received_events_url": "https://api.github.com/users/fabpot/received_events",
+            "repos_url": "https://api.github.com/users/fabpot/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/fabpot"
+        },
+        "html_url": "https://github.com/symfony/symfony/commit/2655496eba98a3f484fdf774e53a3d40e7cfcf09",
+        "parents": [
+            {
+                "html_url": "https://github.com/symfony/symfony/commit/07cccd53df3dbc20466a6e8210d4512cbad41fc3",
+                "sha": "07cccd53df3dbc20466a6e8210d4512cbad41fc3",
+                "url": "https://api.github.com/repos/symfony/symfony/commits/07cccd53df3dbc20466a6e8210d4512cbad41fc3"
+            },
+            {
+                "html_url": "https://github.com/symfony/symfony/commit/5b0d9340d7b8cc2a714847be9dc7e2cfaf9f367a",
+                "sha": "5b0d9340d7b8cc2a714847be9dc7e2cfaf9f367a",
+                "url": "https://api.github.com/repos/symfony/symfony/commits/5b0d9340d7b8cc2a714847be9dc7e2cfaf9f367a"
+            }
+        ],
+        "sha": "2655496eba98a3f484fdf774e53a3d40e7cfcf09",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/2655496eba98a3f484fdf774e53a3d40e7cfcf09"
     },
-    "url": "https://api.github.com/repos/symfony/symfony/commits/2655496eba98a3f484fdf774e53a3d40e7cfcf09",
-    "html_url": "https://github.com/symfony/symfony/commit/2655496eba98a3f484fdf774e53a3d40e7cfcf09",
-    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/2655496eba98a3f484fdf774e53a3d40e7cfcf09/comments",
-    "author": {
-      "login": "fabpot",
-      "id": 47313,
-      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/fabpot",
-      "html_url": "https://github.com/fabpot",
-      "followers_url": "https://api.github.com/users/fabpot/followers",
-      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
-      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
-      "organizations_url": "https://api.github.com/users/fabpot/orgs",
-      "repos_url": "https://api.github.com/users/fabpot/repos",
-      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/fabpot/received_events",
-      "type": "User",
-      "site_admin": false
+    "name": "3.4",
+    "protected": true,
+    "protection": {
+        "enabled": true,
+        "required_status_checks": {
+            "contexts": [
+                "continuous-integration/travis-ci",
+                "fabbot.io"
+            ],
+            "enforcement_level": "off"
+        }
     },
-    "committer": {
-      "login": "fabpot",
-      "id": 47313,
-      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/fabpot",
-      "html_url": "https://github.com/fabpot",
-      "followers_url": "https://api.github.com/users/fabpot/followers",
-      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
-      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
-      "organizations_url": "https://api.github.com/users/fabpot/orgs",
-      "repos_url": "https://api.github.com/users/fabpot/repos",
-      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/fabpot/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "07cccd53df3dbc20466a6e8210d4512cbad41fc3",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/07cccd53df3dbc20466a6e8210d4512cbad41fc3",
-        "html_url": "https://github.com/symfony/symfony/commit/07cccd53df3dbc20466a6e8210d4512cbad41fc3"
-      },
-      {
-        "sha": "5b0d9340d7b8cc2a714847be9dc7e2cfaf9f367a",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/5b0d9340d7b8cc2a714847be9dc7e2cfaf9f367a",
-        "html_url": "https://github.com/symfony/symfony/commit/5b0d9340d7b8cc2a714847be9dc7e2cfaf9f367a"
-      }
-    ]
-  },
-  "_links": {
-    "self": "https://api.github.com/repos/symfony/symfony/branches/3.4",
-    "html": "https://github.com/symfony/symfony/tree/3.4"
-  },
-  "protected": true,
-  "protection": {
-    "enabled": true,
-    "required_status_checks": {
-      "enforcement_level": "off",
-      "contexts": [
-        "continuous-integration/travis-ci",
-        "fabbot.io"
-      ]
-    }
-  },
-  "protection_url": "https://api.github.com/repos/symfony/symfony/branches/3.4/protection"
+    "protection_url": "https://api.github.com/repos/symfony/symfony/branches/3.4/protection"
 }

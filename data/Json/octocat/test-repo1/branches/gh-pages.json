@@ -1,90 +1,86 @@
 {
-  "name": "gh-pages",
-  "commit": {
-    "sha": "57523742631876181d95bc268e09fb3fd1a4d85e",
+    "_links": {
+        "html": "https://github.com/octocat/test-repo1/tree/gh-pages",
+        "self": "https://api.github.com/repos/octocat/test-repo1/branches/gh-pages"
+    },
     "commit": {
-      "author": {
-        "name": "tomjohnson1492",
-        "email": "tomjohnson1492@gmail.com",
-        "date": "2016-03-19T07:13:09Z"
-      },
-      "committer": {
-        "name": "tomjohnson1492",
-        "email": "tomjohnson1492@gmail.com",
-        "date": "2016-03-19T07:13:09Z"
-      },
-      "message": "committing new version of jekyll doc theme -- 5.0, with some refinements to come with the documentation",
-      "tree": {
-        "sha": "a9b3537d9d88f16ab7b18d48be991cbce2b31117",
-        "url": "https://api.github.com/repos/octocat/test-repo1/git/trees/a9b3537d9d88f16ab7b18d48be991cbce2b31117"
-      },
-      "url": "https://api.github.com/repos/octocat/test-repo1/git/commits/57523742631876181d95bc268e09fb3fd1a4d85e",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
+        "author": {
+            "avatar_url": "https://avatars2.githubusercontent.com/u/6385062?v=4",
+            "events_url": "https://api.github.com/users/tomjoht/events{/privacy}",
+            "followers_url": "https://api.github.com/users/tomjoht/followers",
+            "following_url": "https://api.github.com/users/tomjoht/following{/other_user}",
+            "gists_url": "https://api.github.com/users/tomjoht/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/tomjoht",
+            "id": 6385062,
+            "login": "tomjoht",
+            "organizations_url": "https://api.github.com/users/tomjoht/orgs",
+            "received_events_url": "https://api.github.com/users/tomjoht/received_events",
+            "repos_url": "https://api.github.com/users/tomjoht/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/tomjoht/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/tomjoht/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/tomjoht"
+        },
+        "comments_url": "https://api.github.com/repos/octocat/test-repo1/commits/57523742631876181d95bc268e09fb3fd1a4d85e/comments",
+        "commit": {
+            "author": {
+                "date": "2016-03-19T07:13:09Z",
+                "email": "tomjohnson1492@gmail.com",
+                "name": "tomjohnson1492"
+            },
+            "comment_count": 0,
+            "committer": {
+                "date": "2016-03-19T07:13:09Z",
+                "email": "tomjohnson1492@gmail.com",
+                "name": "tomjohnson1492"
+            },
+            "message": "committing new version of jekyll doc theme -- 5.0, with some refinements to come with the documentation",
+            "tree": {
+                "sha": "a9b3537d9d88f16ab7b18d48be991cbce2b31117",
+                "url": "https://api.github.com/repos/octocat/test-repo1/git/trees/a9b3537d9d88f16ab7b18d48be991cbce2b31117"
+            },
+            "url": "https://api.github.com/repos/octocat/test-repo1/git/commits/57523742631876181d95bc268e09fb3fd1a4d85e",
+            "verification": {
+                "payload": null,
+                "reason": "unsigned",
+                "signature": null,
+                "verified": false
+            }
+        },
+        "committer": {
+            "avatar_url": "https://avatars2.githubusercontent.com/u/6385062?v=4",
+            "events_url": "https://api.github.com/users/tomjoht/events{/privacy}",
+            "followers_url": "https://api.github.com/users/tomjoht/followers",
+            "following_url": "https://api.github.com/users/tomjoht/following{/other_user}",
+            "gists_url": "https://api.github.com/users/tomjoht/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/tomjoht",
+            "id": 6385062,
+            "login": "tomjoht",
+            "organizations_url": "https://api.github.com/users/tomjoht/orgs",
+            "received_events_url": "https://api.github.com/users/tomjoht/received_events",
+            "repos_url": "https://api.github.com/users/tomjoht/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/tomjoht/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/tomjoht/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/tomjoht"
+        },
+        "html_url": "https://github.com/octocat/test-repo1/commit/57523742631876181d95bc268e09fb3fd1a4d85e",
+        "parents": [],
+        "sha": "57523742631876181d95bc268e09fb3fd1a4d85e",
+        "url": "https://api.github.com/repos/octocat/test-repo1/commits/57523742631876181d95bc268e09fb3fd1a4d85e"
     },
-    "url": "https://api.github.com/repos/octocat/test-repo1/commits/57523742631876181d95bc268e09fb3fd1a4d85e",
-    "html_url": "https://github.com/octocat/test-repo1/commit/57523742631876181d95bc268e09fb3fd1a4d85e",
-    "comments_url": "https://api.github.com/repos/octocat/test-repo1/commits/57523742631876181d95bc268e09fb3fd1a4d85e/comments",
-    "author": {
-      "login": "tomjoht",
-      "id": 6385062,
-      "avatar_url": "https://avatars2.githubusercontent.com/u/6385062?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/tomjoht",
-      "html_url": "https://github.com/tomjoht",
-      "followers_url": "https://api.github.com/users/tomjoht/followers",
-      "following_url": "https://api.github.com/users/tomjoht/following{/other_user}",
-      "gists_url": "https://api.github.com/users/tomjoht/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/tomjoht/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/tomjoht/subscriptions",
-      "organizations_url": "https://api.github.com/users/tomjoht/orgs",
-      "repos_url": "https://api.github.com/users/tomjoht/repos",
-      "events_url": "https://api.github.com/users/tomjoht/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/tomjoht/received_events",
-      "type": "User",
-      "site_admin": false
+    "name": "gh-pages",
+    "protected": false,
+    "protection": {
+        "enabled": false,
+        "required_status_checks": {
+            "contexts": [],
+            "enforcement_level": "off"
+        }
     },
-    "committer": {
-      "login": "tomjoht",
-      "id": 6385062,
-      "avatar_url": "https://avatars2.githubusercontent.com/u/6385062?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/tomjoht",
-      "html_url": "https://github.com/tomjoht",
-      "followers_url": "https://api.github.com/users/tomjoht/followers",
-      "following_url": "https://api.github.com/users/tomjoht/following{/other_user}",
-      "gists_url": "https://api.github.com/users/tomjoht/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/tomjoht/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/tomjoht/subscriptions",
-      "organizations_url": "https://api.github.com/users/tomjoht/orgs",
-      "repos_url": "https://api.github.com/users/tomjoht/repos",
-      "events_url": "https://api.github.com/users/tomjoht/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/tomjoht/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "parents": [
-
-    ]
-  },
-  "_links": {
-    "self": "https://api.github.com/repos/octocat/test-repo1/branches/gh-pages",
-    "html": "https://github.com/octocat/test-repo1/tree/gh-pages"
-  },
-  "protected": false,
-  "protection": {
-    "enabled": false,
-    "required_status_checks": {
-      "enforcement_level": "off",
-      "contexts": [
-
-      ]
-    }
-  },
-  "protection_url": "https://api.github.com/repos/octocat/test-repo1/branches/gh-pages/protection"
+    "protection_url": "https://api.github.com/repos/octocat/test-repo1/branches/gh-pages/protection"
 }

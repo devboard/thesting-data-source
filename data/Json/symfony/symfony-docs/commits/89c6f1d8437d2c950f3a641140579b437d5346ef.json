@@ -1,38 +1,38 @@
 {
-  "sha": "89c6f1d8437d2c950f3a641140579b437d5346ef",
-  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/89c6f1d8437d2c950f3a641140579b437d5346ef",
-  "html_url": "https://github.com/symfony/symfony-docs/commit/89c6f1d8437d2c950f3a641140579b437d5346ef",
-  "author": {
-    "name": "Ryan Weaver",
-    "email": "ryan@thatsquality.com",
-    "date": "2014-02-20T20:00:31Z"
-  },
-  "committer": {
-    "name": "Ryan Weaver",
-    "email": "ryan@thatsquality.com",
-    "date": "2014-02-20T20:00:31Z"
-  },
-  "tree": {
-    "sha": "33cf7737c2ce65c39a232d915203ea2ad6961dba",
-    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/33cf7737c2ce65c39a232d915203ea2ad6961dba"
-  },
-  "message": "feature #3439 [Review] Added detailed Backwards Compatibility Promise text (webmozart)\n\nThis PR was merged into the 2.1 branch.\n\nDiscussion\n----------\n\n[Review] Added detailed Backwards Compatibility Promise text\n\nI created a detailed text about which parts of the Symfony code are covered by our BC promise. The goals are to:\n\n* tell our users which parts exactly are safe to use\n* tell our contributors which changes they are allowed to do\n\nI'll continue working on the individual rules of allowed changes. Nevertheless, let me hear your feedback.\n\n##### Update (2014/01/10)\n\nThe draft is ready for review now.\n\nCommits\n-------\n\n0717192 Removed useless line break\nce58ee9 Added rules for adding parent interfaces and moving methods/properties to parent interfaces/classes\nbe2251c Implemented @fabpot's comments\n90c4de6 Mentioned Semantic Versioning in the introduction\n2320906 Extracted duplicated text into _api_tagging.rst.inc\nbdd3c03 Implemented changes suggested by @WouterJ\nfd1d912 Typo\n11bb879 Grammar\n25443c0 Improved table formatting\ne11335f Improved the wording of the \"Using Symfony\" section\n4868452 Added prose about the difference between regular/API classes/interfaces\n8c6c7bf Simplified usage description\n6d9edf1 Improved wording: Changed \"safe\" to \"guaranteed\"\nef1f021 Added note about test classes\n5a160c5 Added note about deprecated interfaces/classes\n69768dd Improved wording: use -> call, access\n0c6420f Added information about changing parameter types\n6501a35 Added information about changing return types that are classes or interfaces\ndfb3e8b Improved wording\nbe76644 Added information about internal classes and interfaces\naf3a645 Added note about requesting `@api` tags\ndcbe79a Improved wording\nefd3911 Added that adding custom properties is not safe\n00c6ebe Fixed safety statements\n54fd836 Language improvements\ndb76288 Fixed headings\nc6e850d Language fixes\n4c5a55d Rearranged page to have different sections for different user bases\n502ed95 Added: Some breaking changes to unsafe operations are documented in the UPGRADE file\n31ab2db Improved wording\na3ad08c Removed most of the \"cannot\" statements which are repeated in the tables now\n345410c Rearranged safe operations to make more sense\nafadaab Changed: The last parameters of a method may be removed\n44ecf16 Fixed: No parameters must be added (ever) to API class methods\n0e925cb Added tables with safe operations\n79ca9f7 Added information about type compatibility\ndacd7ce Rearranged rules to be more easily understandable\n7320ed0 Updated BC promise to be valid as of Symfony 2.3\n840073c Added detailed BC promise text",
-  "parents": [
-    {
-      "sha": "4d04fd139a8bfd82d88b23eb1488f711d623dac3",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/4d04fd139a8bfd82d88b23eb1488f711d623dac3",
-      "html_url": "https://github.com/symfony/symfony-docs/commit/4d04fd139a8bfd82d88b23eb1488f711d623dac3"
+    "author": {
+        "date": "2014-02-20T20:00:31Z",
+        "email": "ryan@thatsquality.com",
+        "name": "Ryan Weaver"
     },
-    {
-      "sha": "0717192a561ac497b0d41a348c9872f349cbf963",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/0717192a561ac497b0d41a348c9872f349cbf963",
-      "html_url": "https://github.com/symfony/symfony-docs/commit/0717192a561ac497b0d41a348c9872f349cbf963"
+    "committer": {
+        "date": "2014-02-20T20:00:31Z",
+        "email": "ryan@thatsquality.com",
+        "name": "Ryan Weaver"
+    },
+    "html_url": "https://github.com/symfony/symfony-docs/commit/89c6f1d8437d2c950f3a641140579b437d5346ef",
+    "message": "feature #3439 [Review] Added detailed Backwards Compatibility Promise text (webmozart)\n\nThis PR was merged into the 2.1 branch.\n\nDiscussion\n----------\n\n[Review] Added detailed Backwards Compatibility Promise text\n\nI created a detailed text about which parts of the Symfony code are covered by our BC promise. The goals are to:\n\n* tell our users which parts exactly are safe to use\n* tell our contributors which changes they are allowed to do\n\nI'll continue working on the individual rules of allowed changes. Nevertheless, let me hear your feedback.\n\n##### Update (2014/01/10)\n\nThe draft is ready for review now.\n\nCommits\n-------\n\n0717192 Removed useless line break\nce58ee9 Added rules for adding parent interfaces and moving methods/properties to parent interfaces/classes\nbe2251c Implemented @fabpot's comments\n90c4de6 Mentioned Semantic Versioning in the introduction\n2320906 Extracted duplicated text into _api_tagging.rst.inc\nbdd3c03 Implemented changes suggested by @WouterJ\nfd1d912 Typo\n11bb879 Grammar\n25443c0 Improved table formatting\ne11335f Improved the wording of the \"Using Symfony\" section\n4868452 Added prose about the difference between regular/API classes/interfaces\n8c6c7bf Simplified usage description\n6d9edf1 Improved wording: Changed \"safe\" to \"guaranteed\"\nef1f021 Added note about test classes\n5a160c5 Added note about deprecated interfaces/classes\n69768dd Improved wording: use -> call, access\n0c6420f Added information about changing parameter types\n6501a35 Added information about changing return types that are classes or interfaces\ndfb3e8b Improved wording\nbe76644 Added information about internal classes and interfaces\naf3a645 Added note about requesting `@api` tags\ndcbe79a Improved wording\nefd3911 Added that adding custom properties is not safe\n00c6ebe Fixed safety statements\n54fd836 Language improvements\ndb76288 Fixed headings\nc6e850d Language fixes\n4c5a55d Rearranged page to have different sections for different user bases\n502ed95 Added: Some breaking changes to unsafe operations are documented in the UPGRADE file\n31ab2db Improved wording\na3ad08c Removed most of the \"cannot\" statements which are repeated in the tables now\n345410c Rearranged safe operations to make more sense\nafadaab Changed: The last parameters of a method may be removed\n44ecf16 Fixed: No parameters must be added (ever) to API class methods\n0e925cb Added tables with safe operations\n79ca9f7 Added information about type compatibility\ndacd7ce Rearranged rules to be more easily understandable\n7320ed0 Updated BC promise to be valid as of Symfony 2.3\n840073c Added detailed BC promise text",
+    "parents": [
+        {
+            "html_url": "https://github.com/symfony/symfony-docs/commit/4d04fd139a8bfd82d88b23eb1488f711d623dac3",
+            "sha": "4d04fd139a8bfd82d88b23eb1488f711d623dac3",
+            "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/4d04fd139a8bfd82d88b23eb1488f711d623dac3"
+        },
+        {
+            "html_url": "https://github.com/symfony/symfony-docs/commit/0717192a561ac497b0d41a348c9872f349cbf963",
+            "sha": "0717192a561ac497b0d41a348c9872f349cbf963",
+            "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/0717192a561ac497b0d41a348c9872f349cbf963"
+        }
+    ],
+    "sha": "89c6f1d8437d2c950f3a641140579b437d5346ef",
+    "tree": {
+        "sha": "33cf7737c2ce65c39a232d915203ea2ad6961dba",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/33cf7737c2ce65c39a232d915203ea2ad6961dba"
+    },
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/89c6f1d8437d2c950f3a641140579b437d5346ef",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }
