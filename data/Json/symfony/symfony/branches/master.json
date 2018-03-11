@@ -1,24 +1,24 @@
 {
   "name": "master",
   "commit": {
-    "sha": "8eb97f5c483b57d8cec2fe999d1437fadfeae575",
+    "sha": "7ff71b548b505e678099221473fba569201c707b",
     "commit": {
       "author": {
-        "name": "Tobias Schultze",
-        "email": "webmaster@tubo-world.de",
-        "date": "2017-11-17T15:56:02Z"
+        "name": "Fabien Potencier",
+        "email": "fabien.potencier@gmail.com",
+        "date": "2018-03-11T18:21:30Z"
       },
       "committer": {
-        "name": "Tobias Schultze",
-        "email": "webmaster@tubo-world.de",
-        "date": "2017-11-17T15:56:02Z"
+        "name": "Fabien Potencier",
+        "email": "fabien.potencier@gmail.com",
+        "date": "2018-03-11T18:21:30Z"
       },
-      "message": "minor #24961 [Console] remove debug dependency that was dead code (Tobion)\n\nThis PR was merged into the 4.0-dev branch.\n\nDiscussion\n----------\n\n[Console] remove debug dependency that was dead code\n\n| Q             | A\n| ------------- | ---\n| Branch?       | master\n| Bug fix?      | no\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets | #24873\n| License       | MIT\n| Doc PR        |\n\nCommits\n-------\n\n453e7996ab [Console] remove debug dependency that was dead code",
+      "message": "minor #26465 Default deleteFileAfterSend() to true (nowendwell)\n\nThis PR was merged into the 4.1-dev branch.\n\nDiscussion\n----------\n\nDefault deleteFileAfterSend() to true\n\nThis should default to true when called since there is only one option.\n\n| Q             | A\n| ------------- | ---\n| Branch?       | master\n| Bug fix?      | no\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | N/A\n| Fixed tickets | N/A\n| License       | MIT\n| Doc PR        |\n\n<!--\n* Defaults deleteFileAfterSend() to true\n-->\n\nCommits\n-------\n\n1de6f738ef Default deleteFileAfterSend() to true",
       "tree": {
-        "sha": "7bd94a1ade470b8d5df8f22d9e4398b0d494f97b",
-        "url": "https://api.github.com/repos/symfony/symfony/git/trees/7bd94a1ade470b8d5df8f22d9e4398b0d494f97b"
+        "sha": "2829291a678da8d7398a7ace988d062280820d61",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/2829291a678da8d7398a7ace988d062280820d61"
       },
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/8eb97f5c483b57d8cec2fe999d1437fadfeae575",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/7ff71b548b505e678099221473fba569201c707b",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -27,57 +27,57 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/symfony/symfony/commits/8eb97f5c483b57d8cec2fe999d1437fadfeae575",
-    "html_url": "https://github.com/symfony/symfony/commit/8eb97f5c483b57d8cec2fe999d1437fadfeae575",
-    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/8eb97f5c483b57d8cec2fe999d1437fadfeae575/comments",
+    "url": "https://api.github.com/repos/symfony/symfony/commits/7ff71b548b505e678099221473fba569201c707b",
+    "html_url": "https://github.com/symfony/symfony/commit/7ff71b548b505e678099221473fba569201c707b",
+    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/7ff71b548b505e678099221473fba569201c707b/comments",
     "author": {
-      "login": "Tobion",
-      "id": 610090,
-      "avatar_url": "https://avatars3.githubusercontent.com/u/610090?v=4",
+      "login": "fabpot",
+      "id": 47313,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/Tobion",
-      "html_url": "https://github.com/Tobion",
-      "followers_url": "https://api.github.com/users/Tobion/followers",
-      "following_url": "https://api.github.com/users/Tobion/following{/other_user}",
-      "gists_url": "https://api.github.com/users/Tobion/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/Tobion/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/Tobion/subscriptions",
-      "organizations_url": "https://api.github.com/users/Tobion/orgs",
-      "repos_url": "https://api.github.com/users/Tobion/repos",
-      "events_url": "https://api.github.com/users/Tobion/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/Tobion/received_events",
+      "url": "https://api.github.com/users/fabpot",
+      "html_url": "https://github.com/fabpot",
+      "followers_url": "https://api.github.com/users/fabpot/followers",
+      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+      "organizations_url": "https://api.github.com/users/fabpot/orgs",
+      "repos_url": "https://api.github.com/users/fabpot/repos",
+      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/fabpot/received_events",
       "type": "User",
       "site_admin": false
     },
     "committer": {
-      "login": "Tobion",
-      "id": 610090,
-      "avatar_url": "https://avatars3.githubusercontent.com/u/610090?v=4",
+      "login": "fabpot",
+      "id": 47313,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/Tobion",
-      "html_url": "https://github.com/Tobion",
-      "followers_url": "https://api.github.com/users/Tobion/followers",
-      "following_url": "https://api.github.com/users/Tobion/following{/other_user}",
-      "gists_url": "https://api.github.com/users/Tobion/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/Tobion/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/Tobion/subscriptions",
-      "organizations_url": "https://api.github.com/users/Tobion/orgs",
-      "repos_url": "https://api.github.com/users/Tobion/repos",
-      "events_url": "https://api.github.com/users/Tobion/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/Tobion/received_events",
+      "url": "https://api.github.com/users/fabpot",
+      "html_url": "https://github.com/fabpot",
+      "followers_url": "https://api.github.com/users/fabpot/followers",
+      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+      "organizations_url": "https://api.github.com/users/fabpot/orgs",
+      "repos_url": "https://api.github.com/users/fabpot/repos",
+      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/fabpot/received_events",
       "type": "User",
       "site_admin": false
     },
     "parents": [
       {
-        "sha": "3fc2d1c4bf06a30ba999d88b01f607293fff2558",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/3fc2d1c4bf06a30ba999d88b01f607293fff2558",
-        "html_url": "https://github.com/symfony/symfony/commit/3fc2d1c4bf06a30ba999d88b01f607293fff2558"
+        "sha": "b486fdaffd37a6bd2385ce762ef54f19e03be514",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/b486fdaffd37a6bd2385ce762ef54f19e03be514",
+        "html_url": "https://github.com/symfony/symfony/commit/b486fdaffd37a6bd2385ce762ef54f19e03be514"
       },
       {
-        "sha": "453e7996abf7562ac3a4741931d74d4c9fd40e23",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/453e7996abf7562ac3a4741931d74d4c9fd40e23",
-        "html_url": "https://github.com/symfony/symfony/commit/453e7996abf7562ac3a4741931d74d4c9fd40e23"
+        "sha": "1de6f738efbcf80b18103a8ee29b07a3c9edc405",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/1de6f738efbcf80b18103a8ee29b07a3c9edc405",
+        "html_url": "https://github.com/symfony/symfony/commit/1de6f738efbcf80b18103a8ee29b07a3c9edc405"
       }
     ]
   },

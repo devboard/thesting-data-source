@@ -1,24 +1,24 @@
 {
   "name": "3.4",
   "commit": {
-    "sha": "8d7f6ede84217dc67f4ed8c5bf17ac4702ce1516",
+    "sha": "2655496eba98a3f484fdf774e53a3d40e7cfcf09",
     "commit": {
       "author": {
-        "name": "Christophe Coevoet",
-        "email": "stof@notk.org",
-        "date": "2017-11-17T14:27:47Z"
+        "name": "Fabien Potencier",
+        "email": "fabien.potencier@gmail.com",
+        "date": "2018-03-11T18:19:37Z"
       },
       "committer": {
-        "name": "Christophe Coevoet",
-        "email": "stof@notk.org",
-        "date": "2017-11-17T14:27:47Z"
+        "name": "Fabien Potencier",
+        "email": "fabien.potencier@gmail.com",
+        "date": "2018-03-11T18:19:37Z"
       },
-      "message": "bug #24991 [DependencyInjection] Single typed argument can be applied on multiple parameters (nicolas-grekas, sroze)\n\nThis PR was merged into the 3.4 branch.\n\nDiscussion\n----------\n\n[DependencyInjection] Single typed argument can be applied on multiple parameters\n\n| Q             | A\n| ------------- | ---\n| Branch?       | master\n| Bug fix?      | yes\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets | ø\n| License       | MIT\n| Doc PR        | ø\n\nI'm @nicolas-grekas' test writer today. This makes the argument resolution working when injecting the same type multiple times (sub-set of PR #24978)\n\nCommits\n-------\n\nd51265447d Test that named arguments are prioritized over typehinted\nbf7eeef3fb Prove that change is working with tests\n2176be74d8 [DI] Fix by-type args injection",
+      "message": "bug #26041 Display the Welcome Page when there is no homepage defined (javiereguiluz)\n\nThis PR was squashed before being merged into the 3.4 branch (closes #26041).\n\nDiscussion\n----------\n\nDisplay the Welcome Page when there is no homepage defined\n\n| Q             | A\n| ------------- | ---\n| Branch?       | 3.4\n| Bug fix?      | yes\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets | https://github.com/symfony/symfony-docs/issues/9178\n| License       | MIT\n| Doc PR        | -\n\nIn 3.4 we added a trick to display the Welcome Page when the user browses `/` and there are no routes defined. However, when using the `website-skeleton` (which is what most newcomers use ... and they are the ones that mostly need the \"Welcome Page\") the premise about *\"no routes are defined\"* is never true and the Welcome Page is never shown (see https://github.com/symfony/symfony-docs/issues/9178 for one of the multiple error reports we've received).\n\nSo, I propose to make this change to always define the \"Welcome Page\" as the fallback:\n\n* If no routes are defined for `/`, the Welcome Page is displayed.\n* If there is a route defined for `/`, this code will never be executed because it's the last condition of the routing matcher.\n\nCommits\n-------\n\n5b0d9340d7 Display the Welcome Page when there is no homepage defined",
       "tree": {
-        "sha": "4cd6515c4ff73c7691c23fafb8d201117409f187",
-        "url": "https://api.github.com/repos/symfony/symfony/git/trees/4cd6515c4ff73c7691c23fafb8d201117409f187"
+        "sha": "71f867661ae8b5c0ea60699b9408300052fa971b",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/71f867661ae8b5c0ea60699b9408300052fa971b"
       },
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/8d7f6ede84217dc67f4ed8c5bf17ac4702ce1516",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/2655496eba98a3f484fdf774e53a3d40e7cfcf09",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -27,57 +27,57 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/symfony/symfony/commits/8d7f6ede84217dc67f4ed8c5bf17ac4702ce1516",
-    "html_url": "https://github.com/symfony/symfony/commit/8d7f6ede84217dc67f4ed8c5bf17ac4702ce1516",
-    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/8d7f6ede84217dc67f4ed8c5bf17ac4702ce1516/comments",
+    "url": "https://api.github.com/repos/symfony/symfony/commits/2655496eba98a3f484fdf774e53a3d40e7cfcf09",
+    "html_url": "https://github.com/symfony/symfony/commit/2655496eba98a3f484fdf774e53a3d40e7cfcf09",
+    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/2655496eba98a3f484fdf774e53a3d40e7cfcf09/comments",
     "author": {
-      "login": "stof",
-      "id": 439401,
-      "avatar_url": "https://avatars0.githubusercontent.com/u/439401?v=4",
+      "login": "fabpot",
+      "id": 47313,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/stof",
-      "html_url": "https://github.com/stof",
-      "followers_url": "https://api.github.com/users/stof/followers",
-      "following_url": "https://api.github.com/users/stof/following{/other_user}",
-      "gists_url": "https://api.github.com/users/stof/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/stof/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/stof/subscriptions",
-      "organizations_url": "https://api.github.com/users/stof/orgs",
-      "repos_url": "https://api.github.com/users/stof/repos",
-      "events_url": "https://api.github.com/users/stof/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/stof/received_events",
+      "url": "https://api.github.com/users/fabpot",
+      "html_url": "https://github.com/fabpot",
+      "followers_url": "https://api.github.com/users/fabpot/followers",
+      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+      "organizations_url": "https://api.github.com/users/fabpot/orgs",
+      "repos_url": "https://api.github.com/users/fabpot/repos",
+      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/fabpot/received_events",
       "type": "User",
       "site_admin": false
     },
     "committer": {
-      "login": "stof",
-      "id": 439401,
-      "avatar_url": "https://avatars0.githubusercontent.com/u/439401?v=4",
+      "login": "fabpot",
+      "id": 47313,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/stof",
-      "html_url": "https://github.com/stof",
-      "followers_url": "https://api.github.com/users/stof/followers",
-      "following_url": "https://api.github.com/users/stof/following{/other_user}",
-      "gists_url": "https://api.github.com/users/stof/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/stof/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/stof/subscriptions",
-      "organizations_url": "https://api.github.com/users/stof/orgs",
-      "repos_url": "https://api.github.com/users/stof/repos",
-      "events_url": "https://api.github.com/users/stof/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/stof/received_events",
+      "url": "https://api.github.com/users/fabpot",
+      "html_url": "https://github.com/fabpot",
+      "followers_url": "https://api.github.com/users/fabpot/followers",
+      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+      "organizations_url": "https://api.github.com/users/fabpot/orgs",
+      "repos_url": "https://api.github.com/users/fabpot/repos",
+      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/fabpot/received_events",
       "type": "User",
       "site_admin": false
     },
     "parents": [
       {
-        "sha": "2f19ddbd47867ec5fdde228e015f44eacedd4299",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/2f19ddbd47867ec5fdde228e015f44eacedd4299",
-        "html_url": "https://github.com/symfony/symfony/commit/2f19ddbd47867ec5fdde228e015f44eacedd4299"
+        "sha": "07cccd53df3dbc20466a6e8210d4512cbad41fc3",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/07cccd53df3dbc20466a6e8210d4512cbad41fc3",
+        "html_url": "https://github.com/symfony/symfony/commit/07cccd53df3dbc20466a6e8210d4512cbad41fc3"
       },
       {
-        "sha": "d51265447ddc9e786f5cfb055448e4cf05912cf4",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/d51265447ddc9e786f5cfb055448e4cf05912cf4",
-        "html_url": "https://github.com/symfony/symfony/commit/d51265447ddc9e786f5cfb055448e4cf05912cf4"
+        "sha": "5b0d9340d7b8cc2a714847be9dc7e2cfaf9f367a",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/5b0d9340d7b8cc2a714847be9dc7e2cfaf9f367a",
+        "html_url": "https://github.com/symfony/symfony/commit/5b0d9340d7b8cc2a714847be9dc7e2cfaf9f367a"
       }
     ]
   },

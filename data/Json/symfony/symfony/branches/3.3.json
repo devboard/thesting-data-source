@@ -1,24 +1,24 @@
 {
   "name": "3.3",
   "commit": {
-    "sha": "3b6c22e86a2a5f9bef247f6697eb99e9fb2b07c3",
+    "sha": "b66afe62e86dc2d50092489ea557daee1e6d723f",
     "commit": {
       "author": {
         "name": "Fabien Potencier",
         "email": "fabien.potencier@gmail.com",
-        "date": "2017-11-17T06:39:26Z"
+        "date": "2018-01-29T12:23:39Z"
       },
       "committer": {
         "name": "Fabien Potencier",
         "email": "fabien.potencier@gmail.com",
-        "date": "2017-11-17T06:39:26Z"
+        "date": "2018-01-29T12:23:39Z"
       },
-      "message": "bumped Symfony version to 3.3.14",
+      "message": "bumped Symfony version to 3.3.17",
       "tree": {
-        "sha": "cc8f812dc25ae09181899f79d3b61d7f6c5697cd",
-        "url": "https://api.github.com/repos/symfony/symfony/git/trees/cc8f812dc25ae09181899f79d3b61d7f6c5697cd"
+        "sha": "673ab0c44620cb5db59842f095ac9ef4ff61fda4",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/673ab0c44620cb5db59842f095ac9ef4ff61fda4"
       },
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/3b6c22e86a2a5f9bef247f6697eb99e9fb2b07c3",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/b66afe62e86dc2d50092489ea557daee1e6d723f",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -27,9 +27,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/symfony/symfony/commits/3b6c22e86a2a5f9bef247f6697eb99e9fb2b07c3",
-    "html_url": "https://github.com/symfony/symfony/commit/3b6c22e86a2a5f9bef247f6697eb99e9fb2b07c3",
-    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/3b6c22e86a2a5f9bef247f6697eb99e9fb2b07c3/comments",
+    "url": "https://api.github.com/repos/symfony/symfony/commits/b66afe62e86dc2d50092489ea557daee1e6d723f",
+    "html_url": "https://github.com/symfony/symfony/commit/b66afe62e86dc2d50092489ea557daee1e6d723f",
+    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/b66afe62e86dc2d50092489ea557daee1e6d723f/comments",
     "author": {
       "login": "fabpot",
       "id": 47313,
@@ -70,9 +70,9 @@
     },
     "parents": [
       {
-        "sha": "9b0226340705f75fd0cebd220746a36050ead8a9",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/9b0226340705f75fd0cebd220746a36050ead8a9",
-        "html_url": "https://github.com/symfony/symfony/commit/9b0226340705f75fd0cebd220746a36050ead8a9"
+        "sha": "98e128ccee7afff6313dc3e9cce619f6e1caedbc",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/98e128ccee7afff6313dc3e9cce619f6e1caedbc",
+        "html_url": "https://github.com/symfony/symfony/commit/98e128ccee7afff6313dc3e9cce619f6e1caedbc"
       }
     ]
   },

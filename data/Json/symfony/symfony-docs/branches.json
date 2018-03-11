@@ -51,15 +51,15 @@
   {
     "name": "2.7",
     "commit": {
-      "sha": "558be2169f4cb040a43a3dc714cce47972b353b2",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/558be2169f4cb040a43a3dc714cce47972b353b2"
+      "sha": "95f93481f2ae3bca2943d38225969c3f803383dc",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/95f93481f2ae3bca2943d38225969c3f803383dc"
     }
   },
   {
     "name": "2.8",
     "commit": {
-      "sha": "f0b833af9bbc57df3ecbf965b4010a34f46c399e",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/f0b833af9bbc57df3ecbf965b4010a34f46c399e"
+      "sha": "d8a188ee26461dcc24e482cd560f6f79679f6f2f",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/d8a188ee26461dcc24e482cd560f6f79679f6f2f"
     }
   },
   {
@@ -86,43 +86,29 @@
   {
     "name": "3.3",
     "commit": {
-      "sha": "433ba4fb1c38d420a8476091b985b963d568ec69",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/433ba4fb1c38d420a8476091b985b963d568ec69"
+      "sha": "c831050da831267f05875d52dd3123e8058146a4",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/c831050da831267f05875d52dd3123e8058146a4"
     }
   },
   {
     "name": "3.4",
     "commit": {
-      "sha": "d282ee7280f8f70ed0bc43084982dd7fc1b88b2c",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/d282ee7280f8f70ed0bc43084982dd7fc1b88b2c"
+      "sha": "3f53b03b10b5836df25d7a1b12954bb6fdae0916",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/3f53b03b10b5836df25d7a1b12954bb6fdae0916"
     }
   },
   {
-    "name": "fix_8298",
+    "name": "4.0",
     "commit": {
-      "sha": "7423e5d3a5b0d98585c48e9b2110f4d25ce7bcd2",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/7423e5d3a5b0d98585c48e9b2110f4d25ce7bcd2"
+      "sha": "1ffb8dc48b0b465eb8d6db5fcf36f51664433271",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/1ffb8dc48b0b465eb8d6db5fcf36f51664433271"
     }
   },
   {
     "name": "master",
     "commit": {
-      "sha": "4d5ebc4e66c277d7f508f5ae6f5fbf72a142ac64",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/4d5ebc4e66c277d7f508f5ae6f5fbf72a142ac64"
-    }
-  },
-  {
-    "name": "michaelesmith-patch-1",
-    "commit": {
-      "sha": "70291d73ab16f7717547433140ac48d8b87c67d7",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/70291d73ab16f7717547433140ac48d8b87c67d7"
-    }
-  },
-  {
-    "name": "routing-config-diff",
-    "commit": {
-      "sha": "156f7e759058202973568b9081ac3b8dffabe890",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/156f7e759058202973568b9081ac3b8dffabe890"
+      "sha": "9abccc8dd367f96b0a93b50a7938650cc4293756",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/commits/9abccc8dd367f96b0a93b50a7938650cc4293756"
     }
   },
   {
