@@ -1,0 +1,38 @@
+{
+  "sha": "2655496eba98a3f484fdf774e53a3d40e7cfcf09",
+  "url": "https://api.github.com/repos/symfony/symfony/git/commits/2655496eba98a3f484fdf774e53a3d40e7cfcf09",
+  "html_url": "https://github.com/symfony/symfony/commit/2655496eba98a3f484fdf774e53a3d40e7cfcf09",
+  "author": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2018-03-11T18:19:37Z"
+  },
+  "committer": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2018-03-11T18:19:37Z"
+  },
+  "tree": {
+    "sha": "71f867661ae8b5c0ea60699b9408300052fa971b",
+    "url": "https://api.github.com/repos/symfony/symfony/git/trees/71f867661ae8b5c0ea60699b9408300052fa971b"
+  },
+  "message": "bug #26041 Display the Welcome Page when there is no homepage defined (javiereguiluz)\n\nThis PR was squashed before being merged into the 3.4 branch (closes #26041).\n\nDiscussion\n----------\n\nDisplay the Welcome Page when there is no homepage defined\n\n| Q             | A\n| ------------- | ---\n| Branch?       | 3.4\n| Bug fix?      | yes\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets | https://github.com/symfony/symfony-docs/issues/9178\n| License       | MIT\n| Doc PR        | -\n\nIn 3.4 we added a trick to display the Welcome Page when the user browses `/` and there are no routes defined. However, when using the `website-skeleton` (which is what most newcomers use ... and they are the ones that mostly need the \"Welcome Page\") the premise about *\"no routes are defined\"* is never true and the Welcome Page is never shown (see https://github.com/symfony/symfony-docs/issues/9178 for one of the multiple error reports we've received).\n\nSo, I propose to make this change to always define the \"Welcome Page\" as the fallback:\n\n* If no routes are defined for `/`, the Welcome Page is displayed.\n* If there is a route defined for `/`, this code will never be executed because it's the last condition of the routing matcher.\n\nCommits\n-------\n\n5b0d9340d7 Display the Welcome Page when there is no homepage defined",
+  "parents": [
+    {
+      "sha": "07cccd53df3dbc20466a6e8210d4512cbad41fc3",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/07cccd53df3dbc20466a6e8210d4512cbad41fc3",
+      "html_url": "https://github.com/symfony/symfony/commit/07cccd53df3dbc20466a6e8210d4512cbad41fc3"
+    },
+    {
+      "sha": "5b0d9340d7b8cc2a714847be9dc7e2cfaf9f367a",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/5b0d9340d7b8cc2a714847be9dc7e2cfaf9f367a",
+      "html_url": "https://github.com/symfony/symfony/commit/5b0d9340d7b8cc2a714847be9dc7e2cfaf9f367a"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

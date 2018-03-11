@@ -1,0 +1,38 @@
+{
+  "sha": "b0bbdefbdb50a01731e86d0103c29875e2a75ea4",
+  "url": "https://api.github.com/repos/symfony/symfony/git/commits/b0bbdefbdb50a01731e86d0103c29875e2a75ea4",
+  "html_url": "https://github.com/symfony/symfony/commit/b0bbdefbdb50a01731e86d0103c29875e2a75ea4",
+  "author": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2018-03-10T18:19:36Z"
+  },
+  "committer": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2018-03-10T18:19:36Z"
+  },
+  "tree": {
+    "sha": "48005835e0e96e66c8d8ed36a7945d55135fe3de",
+    "url": "https://api.github.com/repos/symfony/symfony/git/trees/48005835e0e96e66c8d8ed36a7945d55135fe3de"
+  },
+  "message": "Merge branch '2.7' into 2.8\n\n* 2.7:\n  Php Inspections (EA Ultimate): address some of one-time used local variables\n  [Intl] Load locale aliases to support alias fallbacks\n  [CssSelector] Fix CSS identifiers parsing - they can start with dash",
+  "parents": [
+    {
+      "sha": "5757a8538d8cdb11a2b0faad843097f719421b1d",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/5757a8538d8cdb11a2b0faad843097f719421b1d",
+      "html_url": "https://github.com/symfony/symfony/commit/5757a8538d8cdb11a2b0faad843097f719421b1d"
+    },
+    {
+      "sha": "ed63ab62549ababd7cbac219dffbd7368df3ba95",
+      "url": "https://api.github.com/repos/symfony/symfony/git/commits/ed63ab62549ababd7cbac219dffbd7368df3ba95",
+      "html_url": "https://github.com/symfony/symfony/commit/ed63ab62549ababd7cbac219dffbd7368df3ba95"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}
