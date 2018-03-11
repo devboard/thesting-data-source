@@ -192,6 +192,17 @@ class JsonSource
         return $results;
     }
 
+    public function getPullRequests(string $repo): array
+    {
+        $results = [];
+
+        foreach ($this->reader->getPullRequestFiles($repo) as $item) {
+            $results[] = $this->decode($this->reader->loadPullRequestContent($repo, $this->extractName($item)));
+        }
+
+        return $results;
+    }
+
     private function decode(string $json): array
     {
         return json_decode($json, true);

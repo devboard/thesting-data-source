@@ -45,6 +45,11 @@ class JsonReader
         return file_get_contents($this->getBasePath().$repo.'/commit-statuses/'.$commitSha.'.json');
     }
 
+    public function loadPullRequestContent(string $repo, string $prNumber): string
+    {
+        return file_get_contents($this->getBasePath().$repo.'/pr/'.$prNumber.'.json');
+    }
+
     public function getBranchFiles(string $repo): array
     {
         return $this->getFilesIn($repo, 'branches');
@@ -78,6 +83,11 @@ class JsonReader
     public function getPushEventTagFiles(string $repo): array
     {
         return $this->getFilesIn($repo, 'push/tag');
+    }
+
+    public function getPullRequestFiles(string $repo): array
+    {
+        return $this->getFilesIn($repo, 'pr');
     }
 
     private function getFilesIn(string $repo, string $folderName): array
