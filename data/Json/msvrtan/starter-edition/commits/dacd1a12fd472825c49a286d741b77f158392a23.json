@@ -1,33 +1,33 @@
 {
-  "sha": "dacd1a12fd472825c49a286d741b77f158392a23",
-  "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/dacd1a12fd472825c49a286d741b77f158392a23",
-  "html_url": "https://github.com/msvrtan/starter-edition/commit/dacd1a12fd472825c49a286d741b77f158392a23",
-  "author": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2016-06-14T17:10:12Z"
-  },
-  "committer": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2016-06-14T17:10:12Z"
-  },
-  "tree": {
-    "sha": "1953ffc61a8894e5f70996ece4fb03d89f755b00",
-    "url": "https://api.github.com/repos/msvrtan/starter-edition/git/trees/1953ffc61a8894e5f70996ece4fb03d89f755b00"
-  },
-  "message": "[starter-edition] Updated composer.lock for Symfony 3.1",
-  "parents": [
-    {
-      "sha": "94bb739fe2492b87b182334e015869806fe9b582",
-      "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/94bb739fe2492b87b182334e015869806fe9b582",
-      "html_url": "https://github.com/msvrtan/starter-edition/commit/94bb739fe2492b87b182334e015869806fe9b582"
+    "author": {
+        "date": "2016-06-14T17:10:12Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "committer": {
+        "date": "2016-06-14T17:10:12Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "html_url": "https://github.com/msvrtan/starter-edition/commit/dacd1a12fd472825c49a286d741b77f158392a23",
+    "message": "[starter-edition] Updated composer.lock for Symfony 3.1",
+    "parents": [
+        {
+            "html_url": "https://github.com/msvrtan/starter-edition/commit/94bb739fe2492b87b182334e015869806fe9b582",
+            "sha": "94bb739fe2492b87b182334e015869806fe9b582",
+            "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/94bb739fe2492b87b182334e015869806fe9b582"
+        }
+    ],
+    "sha": "dacd1a12fd472825c49a286d741b77f158392a23",
+    "tree": {
+        "sha": "1953ffc61a8894e5f70996ece4fb03d89f755b00",
+        "url": "https://api.github.com/repos/msvrtan/starter-edition/git/trees/1953ffc61a8894e5f70996ece4fb03d89f755b00"
+    },
+    "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/dacd1a12fd472825c49a286d741b77f158392a23",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

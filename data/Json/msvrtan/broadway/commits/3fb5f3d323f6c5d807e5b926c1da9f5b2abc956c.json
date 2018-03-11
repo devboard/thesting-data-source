@@ -1,29 +1,27 @@
 {
-  "sha": "3fb5f3d323f6c5d807e5b926c1da9f5b2abc956c",
-  "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/3fb5f3d323f6c5d807e5b926c1da9f5b2abc956c",
-  "html_url": "https://github.com/msvrtan/broadway/commit/3fb5f3d323f6c5d807e5b926c1da9f5b2abc956c",
-  "author": {
-    "name": "Fritsjan Bakker",
-    "email": "fritsjan@qandidate.com",
-    "date": "2014-08-26T13:47:53Z"
-  },
-  "committer": {
-    "name": "Alexander",
-    "email": "iam.asm89@gmail.com",
-    "date": "2014-08-26T13:49:09Z"
-  },
-  "tree": {
-    "sha": "30abf77c01aafa1435f383970a10600cd98d560c",
-    "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/30abf77c01aafa1435f383970a10600cd98d560c"
-  },
-  "message": "Open source!",
-  "parents": [
-
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
+    "author": {
+        "date": "2014-08-26T13:47:53Z",
+        "email": "fritsjan@qandidate.com",
+        "name": "Fritsjan Bakker"
+    },
+    "committer": {
+        "date": "2014-08-26T13:49:09Z",
+        "email": "iam.asm89@gmail.com",
+        "name": "Alexander"
+    },
+    "html_url": "https://github.com/msvrtan/broadway/commit/3fb5f3d323f6c5d807e5b926c1da9f5b2abc956c",
+    "message": "Open source!",
+    "parents": [],
+    "sha": "3fb5f3d323f6c5d807e5b926c1da9f5b2abc956c",
+    "tree": {
+        "sha": "30abf77c01aafa1435f383970a10600cd98d560c",
+        "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/30abf77c01aafa1435f383970a10600cd98d560c"
+    },
+    "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/3fb5f3d323f6c5d807e5b926c1da9f5b2abc956c",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
+    }
 }

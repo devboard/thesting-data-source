@@ -1,38 +1,38 @@
 {
-  "sha": "59f308117569f4a40f4a2c4e4e561d8c5d62c664",
-  "url": "https://api.github.com/repos/symfony/symfony/git/commits/59f308117569f4a40f4a2c4e4e561d8c5d62c664",
-  "html_url": "https://github.com/symfony/symfony/commit/59f308117569f4a40f4a2c4e4e561d8c5d62c664",
-  "author": {
-    "name": "Fabien Potencier",
-    "email": "fabien.potencier@gmail.com",
-    "date": "2018-03-11T18:23:24Z"
-  },
-  "committer": {
-    "name": "Fabien Potencier",
-    "email": "fabien.potencier@gmail.com",
-    "date": "2018-03-11T18:23:24Z"
-  },
-  "tree": {
-    "sha": "7da132d9e6eebe6ed812c2c7eb5cf4da9ad16e42",
-    "url": "https://api.github.com/repos/symfony/symfony/git/trees/7da132d9e6eebe6ed812c2c7eb5cf4da9ad16e42"
-  },
-  "message": "minor #26487 [DI] Remove dead dumper check (ro0NL)\n\nThis PR was merged into the 4.0 branch.\n\nDiscussion\n----------\n\n[DI] Remove dead dumper check\n\n| Q             | A\n| ------------- | ---\n| Branch?       | 4.0\n| Bug fix?      | yes\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes    <!-- please add some, will be required by reviewers -->\n| Fixed tickets | #...   <!-- #-prefixed issue number(s), if any -->\n| License       | MIT\n| Doc PR        | symfony/symfony-docs#... <!-- required for new features -->\n\nA container is always compiled when dumped.\n\nCommits\n-------\n\n6a5f071bff [DI] Remove dead dumper check",
-  "parents": [
-    {
-      "sha": "9f4459fe65da7c46bd3243c390e2be49e3b3d44c",
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/9f4459fe65da7c46bd3243c390e2be49e3b3d44c",
-      "html_url": "https://github.com/symfony/symfony/commit/9f4459fe65da7c46bd3243c390e2be49e3b3d44c"
+    "author": {
+        "date": "2018-03-11T18:23:24Z",
+        "email": "fabien.potencier@gmail.com",
+        "name": "Fabien Potencier"
     },
-    {
-      "sha": "6a5f071bff7f4692a08374ed1259c0fd06acd1a7",
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/6a5f071bff7f4692a08374ed1259c0fd06acd1a7",
-      "html_url": "https://github.com/symfony/symfony/commit/6a5f071bff7f4692a08374ed1259c0fd06acd1a7"
+    "committer": {
+        "date": "2018-03-11T18:23:24Z",
+        "email": "fabien.potencier@gmail.com",
+        "name": "Fabien Potencier"
+    },
+    "html_url": "https://github.com/symfony/symfony/commit/59f308117569f4a40f4a2c4e4e561d8c5d62c664",
+    "message": "minor #26487 [DI] Remove dead dumper check (ro0NL)\n\nThis PR was merged into the 4.0 branch.\n\nDiscussion\n----------\n\n[DI] Remove dead dumper check\n\n| Q             | A\n| ------------- | ---\n| Branch?       | 4.0\n| Bug fix?      | yes\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes    <!-- please add some, will be required by reviewers -->\n| Fixed tickets | #...   <!-- #-prefixed issue number(s), if any -->\n| License       | MIT\n| Doc PR        | symfony/symfony-docs#... <!-- required for new features -->\n\nA container is always compiled when dumped.\n\nCommits\n-------\n\n6a5f071bff [DI] Remove dead dumper check",
+    "parents": [
+        {
+            "html_url": "https://github.com/symfony/symfony/commit/9f4459fe65da7c46bd3243c390e2be49e3b3d44c",
+            "sha": "9f4459fe65da7c46bd3243c390e2be49e3b3d44c",
+            "url": "https://api.github.com/repos/symfony/symfony/git/commits/9f4459fe65da7c46bd3243c390e2be49e3b3d44c"
+        },
+        {
+            "html_url": "https://github.com/symfony/symfony/commit/6a5f071bff7f4692a08374ed1259c0fd06acd1a7",
+            "sha": "6a5f071bff7f4692a08374ed1259c0fd06acd1a7",
+            "url": "https://api.github.com/repos/symfony/symfony/git/commits/6a5f071bff7f4692a08374ed1259c0fd06acd1a7"
+        }
+    ],
+    "sha": "59f308117569f4a40f4a2c4e4e561d8c5d62c664",
+    "tree": {
+        "sha": "7da132d9e6eebe6ed812c2c7eb5cf4da9ad16e42",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/7da132d9e6eebe6ed812c2c7eb5cf4da9ad16e42"
+    },
+    "url": "https://api.github.com/repos/symfony/symfony/git/commits/59f308117569f4a40f4a2c4e4e561d8c5d62c664",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

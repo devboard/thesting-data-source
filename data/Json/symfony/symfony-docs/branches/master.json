@@ -1,99 +1,97 @@
 {
-  "name": "master",
-  "commit": {
-    "sha": "9abccc8dd367f96b0a93b50a7938650cc4293756",
+    "_links": {
+        "html": "https://github.com/symfony/symfony-docs/tree/master",
+        "self": "https://api.github.com/repos/symfony/symfony-docs/branches/master"
+    },
     "commit": {
-      "author": {
-        "name": "Javier Eguiluz",
-        "email": "javier.eguiluz@gmail.com",
-        "date": "2018-03-11T17:43:08Z"
-      },
-      "committer": {
-        "name": "Javier Eguiluz",
-        "email": "javier.eguiluz@gmail.com",
-        "date": "2018-03-11T17:43:08Z"
-      },
-      "message": "Merge branch '4.0'\n\n* 4.0:\n  Fix the explanation about registering commands\n  Add a 2nd argument to create()\n  Update http_kernel_httpkernelinterface.rst\n  Fix FQCN in PHP example for expression language\n  Fix FQCN in XML example for expression language",
-      "tree": {
-        "sha": "f7d805e5afd37d194b28ea2269c7224800c840be",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/f7d805e5afd37d194b28ea2269c7224800c840be"
-      },
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/9abccc8dd367f96b0a93b50a7938650cc4293756",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
+        "author": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/73419?v=4",
+            "events_url": "https://api.github.com/users/javiereguiluz/events{/privacy}",
+            "followers_url": "https://api.github.com/users/javiereguiluz/followers",
+            "following_url": "https://api.github.com/users/javiereguiluz/following{/other_user}",
+            "gists_url": "https://api.github.com/users/javiereguiluz/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/javiereguiluz",
+            "id": 73419,
+            "login": "javiereguiluz",
+            "organizations_url": "https://api.github.com/users/javiereguiluz/orgs",
+            "received_events_url": "https://api.github.com/users/javiereguiluz/received_events",
+            "repos_url": "https://api.github.com/users/javiereguiluz/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/javiereguiluz/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/javiereguiluz/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/javiereguiluz"
+        },
+        "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/9abccc8dd367f96b0a93b50a7938650cc4293756/comments",
+        "commit": {
+            "author": {
+                "date": "2018-03-11T17:43:08Z",
+                "email": "javier.eguiluz@gmail.com",
+                "name": "Javier Eguiluz"
+            },
+            "comment_count": 0,
+            "committer": {
+                "date": "2018-03-11T17:43:08Z",
+                "email": "javier.eguiluz@gmail.com",
+                "name": "Javier Eguiluz"
+            },
+            "message": "Merge branch '4.0'\n\n* 4.0:\n  Fix the explanation about registering commands\n  Add a 2nd argument to create()\n  Update http_kernel_httpkernelinterface.rst\n  Fix FQCN in PHP example for expression language\n  Fix FQCN in XML example for expression language",
+            "tree": {
+                "sha": "f7d805e5afd37d194b28ea2269c7224800c840be",
+                "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/f7d805e5afd37d194b28ea2269c7224800c840be"
+            },
+            "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/9abccc8dd367f96b0a93b50a7938650cc4293756",
+            "verification": {
+                "payload": null,
+                "reason": "unsigned",
+                "signature": null,
+                "verified": false
+            }
+        },
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/73419?v=4",
+            "events_url": "https://api.github.com/users/javiereguiluz/events{/privacy}",
+            "followers_url": "https://api.github.com/users/javiereguiluz/followers",
+            "following_url": "https://api.github.com/users/javiereguiluz/following{/other_user}",
+            "gists_url": "https://api.github.com/users/javiereguiluz/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/javiereguiluz",
+            "id": 73419,
+            "login": "javiereguiluz",
+            "organizations_url": "https://api.github.com/users/javiereguiluz/orgs",
+            "received_events_url": "https://api.github.com/users/javiereguiluz/received_events",
+            "repos_url": "https://api.github.com/users/javiereguiluz/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/javiereguiluz/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/javiereguiluz/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/javiereguiluz"
+        },
+        "html_url": "https://github.com/symfony/symfony-docs/commit/9abccc8dd367f96b0a93b50a7938650cc4293756",
+        "parents": [
+            {
+                "html_url": "https://github.com/symfony/symfony-docs/commit/e82895aab3643452799f5428addde0d881132ae7",
+                "sha": "e82895aab3643452799f5428addde0d881132ae7",
+                "url": "https://api.github.com/repos/symfony/symfony-docs/commits/e82895aab3643452799f5428addde0d881132ae7"
+            },
+            {
+                "html_url": "https://github.com/symfony/symfony-docs/commit/1ffb8dc48b0b465eb8d6db5fcf36f51664433271",
+                "sha": "1ffb8dc48b0b465eb8d6db5fcf36f51664433271",
+                "url": "https://api.github.com/repos/symfony/symfony-docs/commits/1ffb8dc48b0b465eb8d6db5fcf36f51664433271"
+            }
+        ],
+        "sha": "9abccc8dd367f96b0a93b50a7938650cc4293756",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/9abccc8dd367f96b0a93b50a7938650cc4293756"
     },
-    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/9abccc8dd367f96b0a93b50a7938650cc4293756",
-    "html_url": "https://github.com/symfony/symfony-docs/commit/9abccc8dd367f96b0a93b50a7938650cc4293756",
-    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/9abccc8dd367f96b0a93b50a7938650cc4293756/comments",
-    "author": {
-      "login": "javiereguiluz",
-      "id": 73419,
-      "avatar_url": "https://avatars3.githubusercontent.com/u/73419?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/javiereguiluz",
-      "html_url": "https://github.com/javiereguiluz",
-      "followers_url": "https://api.github.com/users/javiereguiluz/followers",
-      "following_url": "https://api.github.com/users/javiereguiluz/following{/other_user}",
-      "gists_url": "https://api.github.com/users/javiereguiluz/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/javiereguiluz/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/javiereguiluz/subscriptions",
-      "organizations_url": "https://api.github.com/users/javiereguiluz/orgs",
-      "repos_url": "https://api.github.com/users/javiereguiluz/repos",
-      "events_url": "https://api.github.com/users/javiereguiluz/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/javiereguiluz/received_events",
-      "type": "User",
-      "site_admin": false
+    "name": "master",
+    "protected": false,
+    "protection": {
+        "enabled": false,
+        "required_status_checks": {
+            "contexts": [],
+            "enforcement_level": "off"
+        }
     },
-    "committer": {
-      "login": "javiereguiluz",
-      "id": 73419,
-      "avatar_url": "https://avatars3.githubusercontent.com/u/73419?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/javiereguiluz",
-      "html_url": "https://github.com/javiereguiluz",
-      "followers_url": "https://api.github.com/users/javiereguiluz/followers",
-      "following_url": "https://api.github.com/users/javiereguiluz/following{/other_user}",
-      "gists_url": "https://api.github.com/users/javiereguiluz/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/javiereguiluz/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/javiereguiluz/subscriptions",
-      "organizations_url": "https://api.github.com/users/javiereguiluz/orgs",
-      "repos_url": "https://api.github.com/users/javiereguiluz/repos",
-      "events_url": "https://api.github.com/users/javiereguiluz/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/javiereguiluz/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "e82895aab3643452799f5428addde0d881132ae7",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/e82895aab3643452799f5428addde0d881132ae7",
-        "html_url": "https://github.com/symfony/symfony-docs/commit/e82895aab3643452799f5428addde0d881132ae7"
-      },
-      {
-        "sha": "1ffb8dc48b0b465eb8d6db5fcf36f51664433271",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/1ffb8dc48b0b465eb8d6db5fcf36f51664433271",
-        "html_url": "https://github.com/symfony/symfony-docs/commit/1ffb8dc48b0b465eb8d6db5fcf36f51664433271"
-      }
-    ]
-  },
-  "_links": {
-    "self": "https://api.github.com/repos/symfony/symfony-docs/branches/master",
-    "html": "https://github.com/symfony/symfony-docs/tree/master"
-  },
-  "protected": false,
-  "protection": {
-    "enabled": false,
-    "required_status_checks": {
-      "enforcement_level": "off",
-      "contexts": [
-
-      ]
-    }
-  },
-  "protection_url": "https://api.github.com/repos/symfony/symfony-docs/branches/master/protection"
+    "protection_url": "https://api.github.com/repos/symfony/symfony-docs/branches/master/protection"
 }

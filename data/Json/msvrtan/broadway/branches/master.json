@@ -1,99 +1,97 @@
 {
-  "name": "master",
-  "commit": {
-    "sha": "a12589f209f3870744ad171a7cf2ea0add612f6c",
+    "_links": {
+        "html": "https://github.com/msvrtan/broadway/tree/master",
+        "self": "https://api.github.com/repos/msvrtan/broadway/branches/master"
+    },
     "commit": {
-      "author": {
-        "name": "Willem-Jan",
-        "email": "wjzijderveld@gmail.com",
-        "date": "2016-07-29T20:39:50Z"
-      },
-      "committer": {
-        "name": "Willem-Jan",
-        "email": "wjzijderveld@gmail.com",
-        "date": "2016-07-29T20:39:50Z"
-      },
-      "message": "Merge branch 'es-search-type'\n\n* es-search-type:\n  [ReadModel] Add type to ElasticSearch query",
-      "tree": {
-        "sha": "63e97576e9c6a163cee61370e262f96444383eb6",
-        "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/63e97576e9c6a163cee61370e262f96444383eb6"
-      },
-      "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/a12589f209f3870744ad171a7cf2ea0add612f6c",
-      "comment_count": 0,
-      "verification": {
-        "verified": true,
-        "reason": "valid",
-        "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJXm78XAAoJELw2dHGwGOTmb7YIAIcOrA0L1yz9qb8s78GR8Rz0\n2hWkggMbh2WxsGkS+MuJkXfYWyvNYdfDIeEIlYQvmN6gPqObFamnAS8AXXjkIBcm\nX5LQdBuT+LksVIJQl5SsNTGvxfZU9QvkOd0bP/3QpIfrEGLzmsAgNv5O8kmkDHLc\nBJzzEOBa5kzQ8yr8fdtKwCAonVG/TcfyOnDnyBKMLxUUQG1pvz/MOXUj7kZ/uk0L\nEYEBdmFBinwEou4yo/vYiobKFSY/P1Bz2wGrlBEE8c3INgsLHuoU6fcp2N+8vWb0\n+rdglwCyX0KwFX/bZ0JZJGz8okM6pFEK8IZ9fdYiIC+EaxnaxL532dJ5kTAM4N0=\n=cQOX\n-----END PGP SIGNATURE-----",
-        "payload": "tree 63e97576e9c6a163cee61370e262f96444383eb6\nparent e29fa20305913594ddc69bbec05ba3d49e075bd0\nparent c65103c15ba1048d8f72419a718f78cf51452e67\nauthor Willem-Jan <wjzijderveld@gmail.com> 1469824790 +0200\ncommitter Willem-Jan <wjzijderveld@gmail.com> 1469824790 +0200\n\nMerge branch 'es-search-type'\n\n* es-search-type:\n  [ReadModel] Add type to ElasticSearch query\n"
-      }
+        "author": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/450201?v=4",
+            "events_url": "https://api.github.com/users/wjzijderveld/events{/privacy}",
+            "followers_url": "https://api.github.com/users/wjzijderveld/followers",
+            "following_url": "https://api.github.com/users/wjzijderveld/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wjzijderveld/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/wjzijderveld",
+            "id": 450201,
+            "login": "wjzijderveld",
+            "organizations_url": "https://api.github.com/users/wjzijderveld/orgs",
+            "received_events_url": "https://api.github.com/users/wjzijderveld/received_events",
+            "repos_url": "https://api.github.com/users/wjzijderveld/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/wjzijderveld/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wjzijderveld/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/wjzijderveld"
+        },
+        "comments_url": "https://api.github.com/repos/msvrtan/broadway/commits/a12589f209f3870744ad171a7cf2ea0add612f6c/comments",
+        "commit": {
+            "author": {
+                "date": "2016-07-29T20:39:50Z",
+                "email": "wjzijderveld@gmail.com",
+                "name": "Willem-Jan"
+            },
+            "comment_count": 0,
+            "committer": {
+                "date": "2016-07-29T20:39:50Z",
+                "email": "wjzijderveld@gmail.com",
+                "name": "Willem-Jan"
+            },
+            "message": "Merge branch 'es-search-type'\n\n* es-search-type:\n  [ReadModel] Add type to ElasticSearch query",
+            "tree": {
+                "sha": "63e97576e9c6a163cee61370e262f96444383eb6",
+                "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/63e97576e9c6a163cee61370e262f96444383eb6"
+            },
+            "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/a12589f209f3870744ad171a7cf2ea0add612f6c",
+            "verification": {
+                "payload": "tree 63e97576e9c6a163cee61370e262f96444383eb6\nparent e29fa20305913594ddc69bbec05ba3d49e075bd0\nparent c65103c15ba1048d8f72419a718f78cf51452e67\nauthor Willem-Jan <wjzijderveld@gmail.com> 1469824790 +0200\ncommitter Willem-Jan <wjzijderveld@gmail.com> 1469824790 +0200\n\nMerge branch 'es-search-type'\n\n* es-search-type:\n  [ReadModel] Add type to ElasticSearch query\n",
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJXm78XAAoJELw2dHGwGOTmb7YIAIcOrA0L1yz9qb8s78GR8Rz0\n2hWkggMbh2WxsGkS+MuJkXfYWyvNYdfDIeEIlYQvmN6gPqObFamnAS8AXXjkIBcm\nX5LQdBuT+LksVIJQl5SsNTGvxfZU9QvkOd0bP/3QpIfrEGLzmsAgNv5O8kmkDHLc\nBJzzEOBa5kzQ8yr8fdtKwCAonVG/TcfyOnDnyBKMLxUUQG1pvz/MOXUj7kZ/uk0L\nEYEBdmFBinwEou4yo/vYiobKFSY/P1Bz2wGrlBEE8c3INgsLHuoU6fcp2N+8vWb0\n+rdglwCyX0KwFX/bZ0JZJGz8okM6pFEK8IZ9fdYiIC+EaxnaxL532dJ5kTAM4N0=\n=cQOX\n-----END PGP SIGNATURE-----",
+                "verified": true
+            }
+        },
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/450201?v=4",
+            "events_url": "https://api.github.com/users/wjzijderveld/events{/privacy}",
+            "followers_url": "https://api.github.com/users/wjzijderveld/followers",
+            "following_url": "https://api.github.com/users/wjzijderveld/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wjzijderveld/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/wjzijderveld",
+            "id": 450201,
+            "login": "wjzijderveld",
+            "organizations_url": "https://api.github.com/users/wjzijderveld/orgs",
+            "received_events_url": "https://api.github.com/users/wjzijderveld/received_events",
+            "repos_url": "https://api.github.com/users/wjzijderveld/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/wjzijderveld/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wjzijderveld/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/wjzijderveld"
+        },
+        "html_url": "https://github.com/msvrtan/broadway/commit/a12589f209f3870744ad171a7cf2ea0add612f6c",
+        "parents": [
+            {
+                "html_url": "https://github.com/msvrtan/broadway/commit/e29fa20305913594ddc69bbec05ba3d49e075bd0",
+                "sha": "e29fa20305913594ddc69bbec05ba3d49e075bd0",
+                "url": "https://api.github.com/repos/msvrtan/broadway/commits/e29fa20305913594ddc69bbec05ba3d49e075bd0"
+            },
+            {
+                "html_url": "https://github.com/msvrtan/broadway/commit/c65103c15ba1048d8f72419a718f78cf51452e67",
+                "sha": "c65103c15ba1048d8f72419a718f78cf51452e67",
+                "url": "https://api.github.com/repos/msvrtan/broadway/commits/c65103c15ba1048d8f72419a718f78cf51452e67"
+            }
+        ],
+        "sha": "a12589f209f3870744ad171a7cf2ea0add612f6c",
+        "url": "https://api.github.com/repos/msvrtan/broadway/commits/a12589f209f3870744ad171a7cf2ea0add612f6c"
     },
-    "url": "https://api.github.com/repos/msvrtan/broadway/commits/a12589f209f3870744ad171a7cf2ea0add612f6c",
-    "html_url": "https://github.com/msvrtan/broadway/commit/a12589f209f3870744ad171a7cf2ea0add612f6c",
-    "comments_url": "https://api.github.com/repos/msvrtan/broadway/commits/a12589f209f3870744ad171a7cf2ea0add612f6c/comments",
-    "author": {
-      "login": "wjzijderveld",
-      "id": 450201,
-      "avatar_url": "https://avatars3.githubusercontent.com/u/450201?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/wjzijderveld",
-      "html_url": "https://github.com/wjzijderveld",
-      "followers_url": "https://api.github.com/users/wjzijderveld/followers",
-      "following_url": "https://api.github.com/users/wjzijderveld/following{/other_user}",
-      "gists_url": "https://api.github.com/users/wjzijderveld/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/wjzijderveld/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/wjzijderveld/subscriptions",
-      "organizations_url": "https://api.github.com/users/wjzijderveld/orgs",
-      "repos_url": "https://api.github.com/users/wjzijderveld/repos",
-      "events_url": "https://api.github.com/users/wjzijderveld/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/wjzijderveld/received_events",
-      "type": "User",
-      "site_admin": false
+    "name": "master",
+    "protected": false,
+    "protection": {
+        "enabled": false,
+        "required_status_checks": {
+            "contexts": [],
+            "enforcement_level": "off"
+        }
     },
-    "committer": {
-      "login": "wjzijderveld",
-      "id": 450201,
-      "avatar_url": "https://avatars3.githubusercontent.com/u/450201?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/wjzijderveld",
-      "html_url": "https://github.com/wjzijderveld",
-      "followers_url": "https://api.github.com/users/wjzijderveld/followers",
-      "following_url": "https://api.github.com/users/wjzijderveld/following{/other_user}",
-      "gists_url": "https://api.github.com/users/wjzijderveld/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/wjzijderveld/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/wjzijderveld/subscriptions",
-      "organizations_url": "https://api.github.com/users/wjzijderveld/orgs",
-      "repos_url": "https://api.github.com/users/wjzijderveld/repos",
-      "events_url": "https://api.github.com/users/wjzijderveld/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/wjzijderveld/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "e29fa20305913594ddc69bbec05ba3d49e075bd0",
-        "url": "https://api.github.com/repos/msvrtan/broadway/commits/e29fa20305913594ddc69bbec05ba3d49e075bd0",
-        "html_url": "https://github.com/msvrtan/broadway/commit/e29fa20305913594ddc69bbec05ba3d49e075bd0"
-      },
-      {
-        "sha": "c65103c15ba1048d8f72419a718f78cf51452e67",
-        "url": "https://api.github.com/repos/msvrtan/broadway/commits/c65103c15ba1048d8f72419a718f78cf51452e67",
-        "html_url": "https://github.com/msvrtan/broadway/commit/c65103c15ba1048d8f72419a718f78cf51452e67"
-      }
-    ]
-  },
-  "_links": {
-    "self": "https://api.github.com/repos/msvrtan/broadway/branches/master",
-    "html": "https://github.com/msvrtan/broadway/tree/master"
-  },
-  "protected": false,
-  "protection": {
-    "enabled": false,
-    "required_status_checks": {
-      "enforcement_level": "off",
-      "contexts": [
-
-      ]
-    }
-  },
-  "protection_url": "https://api.github.com/repos/msvrtan/broadway/branches/master/protection"
+    "protection_url": "https://api.github.com/repos/msvrtan/broadway/branches/master/protection"
 }

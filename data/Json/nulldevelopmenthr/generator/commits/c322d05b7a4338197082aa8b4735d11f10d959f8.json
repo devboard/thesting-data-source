@@ -1,38 +1,38 @@
 {
-  "sha": "c322d05b7a4338197082aa8b4735d11f10d959f8",
-  "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/c322d05b7a4338197082aa8b4735d11f10d959f8",
-  "html_url": "https://github.com/nulldevelopmenthr/generator/commit/c322d05b7a4338197082aa8b4735d11f10d959f8",
-  "author": {
-    "name": "Miro Svrtan",
-    "email": "msvrtan@users.noreply.github.com",
-    "date": "2016-06-19T13:02:44Z"
-  },
-  "committer": {
-    "name": "GitHub",
-    "email": "noreply@github.com",
-    "date": "2016-06-19T13:02:44Z"
-  },
-  "tree": {
-    "sha": "2ae1e004b44b48703e5c774aad9358254fa9f945",
-    "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/trees/2ae1e004b44b48703e5c774aad9358254fa9f945"
-  },
-  "message": "Merge pull request #64 from msvrtan/59-class-to-spec\n\nSpec generator",
-  "parents": [
-    {
-      "sha": "5c9933d1e063d69e920d9646e78d45418a97e2ca",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/5c9933d1e063d69e920d9646e78d45418a97e2ca",
-      "html_url": "https://github.com/nulldevelopmenthr/generator/commit/5c9933d1e063d69e920d9646e78d45418a97e2ca"
+    "author": {
+        "date": "2016-06-19T13:02:44Z",
+        "email": "msvrtan@users.noreply.github.com",
+        "name": "Miro Svrtan"
     },
-    {
-      "sha": "9ae6d8603f0f27124aed8ccca2d34be5f51144af",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/9ae6d8603f0f27124aed8ccca2d34be5f51144af",
-      "html_url": "https://github.com/nulldevelopmenthr/generator/commit/9ae6d8603f0f27124aed8ccca2d34be5f51144af"
+    "committer": {
+        "date": "2016-06-19T13:02:44Z",
+        "email": "noreply@github.com",
+        "name": "GitHub"
+    },
+    "html_url": "https://github.com/nulldevelopmenthr/generator/commit/c322d05b7a4338197082aa8b4735d11f10d959f8",
+    "message": "Merge pull request #64 from msvrtan/59-class-to-spec\n\nSpec generator",
+    "parents": [
+        {
+            "html_url": "https://github.com/nulldevelopmenthr/generator/commit/5c9933d1e063d69e920d9646e78d45418a97e2ca",
+            "sha": "5c9933d1e063d69e920d9646e78d45418a97e2ca",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/5c9933d1e063d69e920d9646e78d45418a97e2ca"
+        },
+        {
+            "html_url": "https://github.com/nulldevelopmenthr/generator/commit/9ae6d8603f0f27124aed8ccca2d34be5f51144af",
+            "sha": "9ae6d8603f0f27124aed8ccca2d34be5f51144af",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/9ae6d8603f0f27124aed8ccca2d34be5f51144af"
+        }
+    ],
+    "sha": "c322d05b7a4338197082aa8b4735d11f10d959f8",
+    "tree": {
+        "sha": "2ae1e004b44b48703e5c774aad9358254fa9f945",
+        "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/trees/2ae1e004b44b48703e5c774aad9358254fa9f945"
+    },
+    "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/c322d05b7a4338197082aa8b4735d11f10d959f8",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

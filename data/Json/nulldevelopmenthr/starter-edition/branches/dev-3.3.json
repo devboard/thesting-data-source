@@ -1,94 +1,92 @@
 {
-  "name": "dev-3.3",
-  "commit": {
-    "sha": "291e517e551cc18d3d2a2aa7d9cce22bdafcddac",
+    "_links": {
+        "html": "https://github.com/nulldevelopmenthr/starter-edition/tree/dev-3.3",
+        "self": "https://api.github.com/repos/nulldevelopmenthr/starter-edition/branches/dev-3.3"
+    },
     "commit": {
-      "author": {
-        "name": "Miro Svrtan",
-        "email": "miro@mirosvrtan.me",
-        "date": "2017-08-16T15:02:36Z"
-      },
-      "committer": {
-        "name": "Miro Svrtan",
-        "email": "msvrtan@users.noreply.github.com",
-        "date": "2017-08-16T16:41:18Z"
-      },
-      "message": "Update composer.lock for ugprading phpstan",
-      "tree": {
-        "sha": "e39387d3c3e8c2e8719640b967b7b1fb1ab98308",
-        "url": "https://api.github.com/repos/nulldevelopmenthr/starter-edition/git/trees/e39387d3c3e8c2e8719640b967b7b1fb1ab98308"
-      },
-      "url": "https://api.github.com/repos/nulldevelopmenthr/starter-edition/git/commits/291e517e551cc18d3d2a2aa7d9cce22bdafcddac",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+            "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+            "followers_url": "https://api.github.com/users/msvrtan/followers",
+            "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+            "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/msvrtan",
+            "id": 1780572,
+            "login": "msvrtan",
+            "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+            "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+            "repos_url": "https://api.github.com/users/msvrtan/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/msvrtan"
+        },
+        "comments_url": "https://api.github.com/repos/nulldevelopmenthr/starter-edition/commits/291e517e551cc18d3d2a2aa7d9cce22bdafcddac/comments",
+        "commit": {
+            "author": {
+                "date": "2017-08-16T15:02:36Z",
+                "email": "miro@mirosvrtan.me",
+                "name": "Miro Svrtan"
+            },
+            "comment_count": 0,
+            "committer": {
+                "date": "2017-08-16T16:41:18Z",
+                "email": "msvrtan@users.noreply.github.com",
+                "name": "Miro Svrtan"
+            },
+            "message": "Update composer.lock for ugprading phpstan",
+            "tree": {
+                "sha": "e39387d3c3e8c2e8719640b967b7b1fb1ab98308",
+                "url": "https://api.github.com/repos/nulldevelopmenthr/starter-edition/git/trees/e39387d3c3e8c2e8719640b967b7b1fb1ab98308"
+            },
+            "url": "https://api.github.com/repos/nulldevelopmenthr/starter-edition/git/commits/291e517e551cc18d3d2a2aa7d9cce22bdafcddac",
+            "verification": {
+                "payload": null,
+                "reason": "unsigned",
+                "signature": null,
+                "verified": false
+            }
+        },
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+            "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+            "followers_url": "https://api.github.com/users/msvrtan/followers",
+            "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+            "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/msvrtan",
+            "id": 1780572,
+            "login": "msvrtan",
+            "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+            "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+            "repos_url": "https://api.github.com/users/msvrtan/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/msvrtan"
+        },
+        "html_url": "https://github.com/nulldevelopmenthr/starter-edition/commit/291e517e551cc18d3d2a2aa7d9cce22bdafcddac",
+        "parents": [
+            {
+                "html_url": "https://github.com/nulldevelopmenthr/starter-edition/commit/080717ec51f869ed9d17fe92b7fa920f214891e3",
+                "sha": "080717ec51f869ed9d17fe92b7fa920f214891e3",
+                "url": "https://api.github.com/repos/nulldevelopmenthr/starter-edition/commits/080717ec51f869ed9d17fe92b7fa920f214891e3"
+            }
+        ],
+        "sha": "291e517e551cc18d3d2a2aa7d9cce22bdafcddac",
+        "url": "https://api.github.com/repos/nulldevelopmenthr/starter-edition/commits/291e517e551cc18d3d2a2aa7d9cce22bdafcddac"
     },
-    "url": "https://api.github.com/repos/nulldevelopmenthr/starter-edition/commits/291e517e551cc18d3d2a2aa7d9cce22bdafcddac",
-    "html_url": "https://github.com/nulldevelopmenthr/starter-edition/commit/291e517e551cc18d3d2a2aa7d9cce22bdafcddac",
-    "comments_url": "https://api.github.com/repos/nulldevelopmenthr/starter-edition/commits/291e517e551cc18d3d2a2aa7d9cce22bdafcddac/comments",
-    "author": {
-      "login": "msvrtan",
-      "id": 1780572,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/msvrtan",
-      "html_url": "https://github.com/msvrtan",
-      "followers_url": "https://api.github.com/users/msvrtan/followers",
-      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
-      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
-      "repos_url": "https://api.github.com/users/msvrtan/repos",
-      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
-      "type": "User",
-      "site_admin": false
+    "name": "dev-3.3",
+    "protected": false,
+    "protection": {
+        "enabled": false,
+        "required_status_checks": {
+            "contexts": [],
+            "enforcement_level": "off"
+        }
     },
-    "committer": {
-      "login": "msvrtan",
-      "id": 1780572,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/msvrtan",
-      "html_url": "https://github.com/msvrtan",
-      "followers_url": "https://api.github.com/users/msvrtan/followers",
-      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
-      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
-      "repos_url": "https://api.github.com/users/msvrtan/repos",
-      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "080717ec51f869ed9d17fe92b7fa920f214891e3",
-        "url": "https://api.github.com/repos/nulldevelopmenthr/starter-edition/commits/080717ec51f869ed9d17fe92b7fa920f214891e3",
-        "html_url": "https://github.com/nulldevelopmenthr/starter-edition/commit/080717ec51f869ed9d17fe92b7fa920f214891e3"
-      }
-    ]
-  },
-  "_links": {
-    "self": "https://api.github.com/repos/nulldevelopmenthr/starter-edition/branches/dev-3.3",
-    "html": "https://github.com/nulldevelopmenthr/starter-edition/tree/dev-3.3"
-  },
-  "protected": false,
-  "protection": {
-    "enabled": false,
-    "required_status_checks": {
-      "enforcement_level": "off",
-      "contexts": [
-
-      ]
-    }
-  },
-  "protection_url": "https://api.github.com/repos/nulldevelopmenthr/starter-edition/branches/dev-3.3/protection"
+    "protection_url": "https://api.github.com/repos/nulldevelopmenthr/starter-edition/branches/dev-3.3/protection"
 }

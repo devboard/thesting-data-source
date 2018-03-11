@@ -1,94 +1,92 @@
 {
-  "name": "mergez",
-  "commit": {
-    "sha": "e20788b9f6f2350e704fa62967c0fde3aabfe19b",
+    "_links": {
+        "html": "https://github.com/msvrtan/user-edition/tree/mergez",
+        "self": "https://api.github.com/repos/msvrtan/user-edition/branches/mergez"
+    },
     "commit": {
-      "author": {
-        "name": "Miro Svrtan",
-        "email": "miro@mirosvrtan.me",
-        "date": "2016-09-21T21:16:21Z"
-      },
-      "committer": {
-        "name": "Miro Svrtan",
-        "email": "miro@mirosvrtan.me",
-        "date": "2016-09-21T21:21:15Z"
-      },
-      "message": "[user-edition] Update composer.lock, package updates",
-      "tree": {
-        "sha": "bae2647b247e62924b178765a8e007682d2d9f89",
-        "url": "https://api.github.com/repos/msvrtan/user-edition/git/trees/bae2647b247e62924b178765a8e007682d2d9f89"
-      },
-      "url": "https://api.github.com/repos/msvrtan/user-edition/git/commits/e20788b9f6f2350e704fa62967c0fde3aabfe19b",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+            "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+            "followers_url": "https://api.github.com/users/msvrtan/followers",
+            "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+            "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/msvrtan",
+            "id": 1780572,
+            "login": "msvrtan",
+            "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+            "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+            "repos_url": "https://api.github.com/users/msvrtan/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/msvrtan"
+        },
+        "comments_url": "https://api.github.com/repos/msvrtan/user-edition/commits/e20788b9f6f2350e704fa62967c0fde3aabfe19b/comments",
+        "commit": {
+            "author": {
+                "date": "2016-09-21T21:16:21Z",
+                "email": "miro@mirosvrtan.me",
+                "name": "Miro Svrtan"
+            },
+            "comment_count": 0,
+            "committer": {
+                "date": "2016-09-21T21:21:15Z",
+                "email": "miro@mirosvrtan.me",
+                "name": "Miro Svrtan"
+            },
+            "message": "[user-edition] Update composer.lock, package updates",
+            "tree": {
+                "sha": "bae2647b247e62924b178765a8e007682d2d9f89",
+                "url": "https://api.github.com/repos/msvrtan/user-edition/git/trees/bae2647b247e62924b178765a8e007682d2d9f89"
+            },
+            "url": "https://api.github.com/repos/msvrtan/user-edition/git/commits/e20788b9f6f2350e704fa62967c0fde3aabfe19b",
+            "verification": {
+                "payload": null,
+                "reason": "unsigned",
+                "signature": null,
+                "verified": false
+            }
+        },
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+            "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+            "followers_url": "https://api.github.com/users/msvrtan/followers",
+            "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+            "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/msvrtan",
+            "id": 1780572,
+            "login": "msvrtan",
+            "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+            "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+            "repos_url": "https://api.github.com/users/msvrtan/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/msvrtan"
+        },
+        "html_url": "https://github.com/msvrtan/user-edition/commit/e20788b9f6f2350e704fa62967c0fde3aabfe19b",
+        "parents": [
+            {
+                "html_url": "https://github.com/msvrtan/user-edition/commit/21e31583d7a369f6d2f249c1d209d9b6ed19d8a3",
+                "sha": "21e31583d7a369f6d2f249c1d209d9b6ed19d8a3",
+                "url": "https://api.github.com/repos/msvrtan/user-edition/commits/21e31583d7a369f6d2f249c1d209d9b6ed19d8a3"
+            }
+        ],
+        "sha": "e20788b9f6f2350e704fa62967c0fde3aabfe19b",
+        "url": "https://api.github.com/repos/msvrtan/user-edition/commits/e20788b9f6f2350e704fa62967c0fde3aabfe19b"
     },
-    "url": "https://api.github.com/repos/msvrtan/user-edition/commits/e20788b9f6f2350e704fa62967c0fde3aabfe19b",
-    "html_url": "https://github.com/msvrtan/user-edition/commit/e20788b9f6f2350e704fa62967c0fde3aabfe19b",
-    "comments_url": "https://api.github.com/repos/msvrtan/user-edition/commits/e20788b9f6f2350e704fa62967c0fde3aabfe19b/comments",
-    "author": {
-      "login": "msvrtan",
-      "id": 1780572,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/msvrtan",
-      "html_url": "https://github.com/msvrtan",
-      "followers_url": "https://api.github.com/users/msvrtan/followers",
-      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
-      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
-      "repos_url": "https://api.github.com/users/msvrtan/repos",
-      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
-      "type": "User",
-      "site_admin": false
+    "name": "mergez",
+    "protected": false,
+    "protection": {
+        "enabled": false,
+        "required_status_checks": {
+            "contexts": [],
+            "enforcement_level": "off"
+        }
     },
-    "committer": {
-      "login": "msvrtan",
-      "id": 1780572,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/msvrtan",
-      "html_url": "https://github.com/msvrtan",
-      "followers_url": "https://api.github.com/users/msvrtan/followers",
-      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
-      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
-      "repos_url": "https://api.github.com/users/msvrtan/repos",
-      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "21e31583d7a369f6d2f249c1d209d9b6ed19d8a3",
-        "url": "https://api.github.com/repos/msvrtan/user-edition/commits/21e31583d7a369f6d2f249c1d209d9b6ed19d8a3",
-        "html_url": "https://github.com/msvrtan/user-edition/commit/21e31583d7a369f6d2f249c1d209d9b6ed19d8a3"
-      }
-    ]
-  },
-  "_links": {
-    "self": "https://api.github.com/repos/msvrtan/user-edition/branches/mergez",
-    "html": "https://github.com/msvrtan/user-edition/tree/mergez"
-  },
-  "protected": false,
-  "protection": {
-    "enabled": false,
-    "required_status_checks": {
-      "enforcement_level": "off",
-      "contexts": [
-
-      ]
-    }
-  },
-  "protection_url": "https://api.github.com/repos/msvrtan/user-edition/branches/mergez/protection"
+    "protection_url": "https://api.github.com/repos/msvrtan/user-edition/branches/mergez/protection"
 }

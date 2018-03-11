@@ -1,29 +1,27 @@
 {
-  "sha": "c0e4a095428f36b81f0bd4239d353f71918cbef3",
-  "url": "https://api.github.com/repos/octocat/octocat.github.io/git/commits/c0e4a095428f36b81f0bd4239d353f71918cbef3",
-  "html_url": "https://github.com/octocat/octocat.github.io/commit/c0e4a095428f36b81f0bd4239d353f71918cbef3",
-  "author": {
-    "name": "The Octocat",
-    "email": "octocat@nowhere.com",
-    "date": "2014-04-26T20:14:28Z"
-  },
-  "committer": {
-    "name": "The Octocat",
-    "email": "octocat@nowhere.com",
-    "date": "2014-04-26T20:14:28Z"
-  },
-  "tree": {
-    "sha": "fa6eea9d9db7666e2be0187c6f77be603de32a9b",
-    "url": "https://api.github.com/repos/octocat/octocat.github.io/git/trees/fa6eea9d9db7666e2be0187c6f77be603de32a9b"
-  },
-  "message": "Replace master branch with page content via GitHub",
-  "parents": [
-
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
+    "author": {
+        "date": "2014-04-26T20:14:28Z",
+        "email": "octocat@nowhere.com",
+        "name": "The Octocat"
+    },
+    "committer": {
+        "date": "2014-04-26T20:14:28Z",
+        "email": "octocat@nowhere.com",
+        "name": "The Octocat"
+    },
+    "html_url": "https://github.com/octocat/octocat.github.io/commit/c0e4a095428f36b81f0bd4239d353f71918cbef3",
+    "message": "Replace master branch with page content via GitHub",
+    "parents": [],
+    "sha": "c0e4a095428f36b81f0bd4239d353f71918cbef3",
+    "tree": {
+        "sha": "fa6eea9d9db7666e2be0187c6f77be603de32a9b",
+        "url": "https://api.github.com/repos/octocat/octocat.github.io/git/trees/fa6eea9d9db7666e2be0187c6f77be603de32a9b"
+    },
+    "url": "https://api.github.com/repos/octocat/octocat.github.io/git/commits/c0e4a095428f36b81f0bd4239d353f71918cbef3",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
+    }
 }

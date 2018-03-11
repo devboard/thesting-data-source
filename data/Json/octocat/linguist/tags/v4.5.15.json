@@ -1,1 +1,9 @@
-{"name":"v4.5.15","zipball_url":"https:\/\/api.github.com\/repos\/octocat\/linguist\/zipball\/v4.5.15","tarball_url":"https:\/\/api.github.com\/repos\/octocat\/linguist\/tarball\/v4.5.15","commit":{"sha":"9aa24a216af95a4d304752bd9c4839cf71b140e6","url":"https:\/\/api.github.com\/repos\/octocat\/linguist\/commits\/9aa24a216af95a4d304752bd9c4839cf71b140e6"}}
+{
+    "commit": {
+        "sha": "9aa24a216af95a4d304752bd9c4839cf71b140e6",
+        "url": "https://api.github.com/repos/octocat/linguist/commits/9aa24a216af95a4d304752bd9c4839cf71b140e6"
+    },
+    "name": "v4.5.15",
+    "tarball_url": "https://api.github.com/repos/octocat/linguist/tarball/v4.5.15",
+    "zipball_url": "https://api.github.com/repos/octocat/linguist/zipball/v4.5.15"
+}

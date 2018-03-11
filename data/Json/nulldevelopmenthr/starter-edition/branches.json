@@ -1,23 +1,23 @@
 [
-  {
-    "name": "dev-3.3",
-    "commit": {
-      "sha": "291e517e551cc18d3d2a2aa7d9cce22bdafcddac",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/starter-edition/commits/291e517e551cc18d3d2a2aa7d9cce22bdafcddac"
+    {
+        "commit": {
+            "sha": "291e517e551cc18d3d2a2aa7d9cce22bdafcddac",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/starter-edition/commits/291e517e551cc18d3d2a2aa7d9cce22bdafcddac"
+        },
+        "name": "dev-3.3"
+    },
+    {
+        "commit": {
+            "sha": "33b2a2a1c7311d0192ea9ad2657abd4a5d706192",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/starter-edition/commits/33b2a2a1c7311d0192ea9ad2657abd4a5d706192"
+        },
+        "name": "flat"
+    },
+    {
+        "commit": {
+            "sha": "291e517e551cc18d3d2a2aa7d9cce22bdafcddac",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/starter-edition/commits/291e517e551cc18d3d2a2aa7d9cce22bdafcddac"
+        },
+        "name": "master"
     }
-  },
-  {
-    "name": "flat",
-    "commit": {
-      "sha": "33b2a2a1c7311d0192ea9ad2657abd4a5d706192",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/starter-edition/commits/33b2a2a1c7311d0192ea9ad2657abd4a5d706192"
-    }
-  },
-  {
-    "name": "master",
-    "commit": {
-      "sha": "291e517e551cc18d3d2a2aa7d9cce22bdafcddac",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/starter-edition/commits/291e517e551cc18d3d2a2aa7d9cce22bdafcddac"
-    }
-  }
 ]

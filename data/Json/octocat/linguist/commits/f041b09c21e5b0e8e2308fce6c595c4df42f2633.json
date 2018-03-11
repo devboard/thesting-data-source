@@ -1,38 +1,38 @@
 {
-  "sha": "f041b09c21e5b0e8e2308fce6c595c4df42f2633",
-  "url": "https://api.github.com/repos/octocat/linguist/git/commits/f041b09c21e5b0e8e2308fce6c595c4df42f2633",
-  "html_url": "https://github.com/octocat/linguist/commit/f041b09c21e5b0e8e2308fce6c595c4df42f2633",
-  "author": {
-    "name": "Ted Nyman",
-    "email": "ted@ted.io",
-    "date": "2015-04-01T21:42:14Z"
-  },
-  "committer": {
-    "name": "Ted Nyman",
-    "email": "ted@ted.io",
-    "date": "2015-04-01T21:42:14Z"
-  },
-  "tree": {
-    "sha": "d3c6aa5eade7b2073b204a6fd04a70d4e65e0b1f",
-    "url": "https://api.github.com/repos/octocat/linguist/git/trees/d3c6aa5eade7b2073b204a6fd04a70d4e65e0b1f"
-  },
-  "message": "Merge branch 'master' into an-example-comparison-for-docs",
-  "parents": [
-    {
-      "sha": "b227816e917ae7c3156925a109183b5939c381b0",
-      "url": "https://api.github.com/repos/octocat/linguist/git/commits/b227816e917ae7c3156925a109183b5939c381b0",
-      "html_url": "https://github.com/octocat/linguist/commit/b227816e917ae7c3156925a109183b5939c381b0"
+    "author": {
+        "date": "2015-04-01T21:42:14Z",
+        "email": "ted@ted.io",
+        "name": "Ted Nyman"
     },
-    {
-      "sha": "893bd7e2049bade408877f5ef691b2888d90cf2a",
-      "url": "https://api.github.com/repos/octocat/linguist/git/commits/893bd7e2049bade408877f5ef691b2888d90cf2a",
-      "html_url": "https://github.com/octocat/linguist/commit/893bd7e2049bade408877f5ef691b2888d90cf2a"
+    "committer": {
+        "date": "2015-04-01T21:42:14Z",
+        "email": "ted@ted.io",
+        "name": "Ted Nyman"
+    },
+    "html_url": "https://github.com/octocat/linguist/commit/f041b09c21e5b0e8e2308fce6c595c4df42f2633",
+    "message": "Merge branch 'master' into an-example-comparison-for-docs",
+    "parents": [
+        {
+            "html_url": "https://github.com/octocat/linguist/commit/b227816e917ae7c3156925a109183b5939c381b0",
+            "sha": "b227816e917ae7c3156925a109183b5939c381b0",
+            "url": "https://api.github.com/repos/octocat/linguist/git/commits/b227816e917ae7c3156925a109183b5939c381b0"
+        },
+        {
+            "html_url": "https://github.com/octocat/linguist/commit/893bd7e2049bade408877f5ef691b2888d90cf2a",
+            "sha": "893bd7e2049bade408877f5ef691b2888d90cf2a",
+            "url": "https://api.github.com/repos/octocat/linguist/git/commits/893bd7e2049bade408877f5ef691b2888d90cf2a"
+        }
+    ],
+    "sha": "f041b09c21e5b0e8e2308fce6c595c4df42f2633",
+    "tree": {
+        "sha": "d3c6aa5eade7b2073b204a6fd04a70d4e65e0b1f",
+        "url": "https://api.github.com/repos/octocat/linguist/git/trees/d3c6aa5eade7b2073b204a6fd04a70d4e65e0b1f"
+    },
+    "url": "https://api.github.com/repos/octocat/linguist/git/commits/f041b09c21e5b0e8e2308fce6c595c4df42f2633",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

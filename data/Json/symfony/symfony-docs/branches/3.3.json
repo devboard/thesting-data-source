@@ -1,94 +1,92 @@
 {
-  "name": "3.3",
-  "commit": {
-    "sha": "c831050da831267f05875d52dd3123e8058146a4",
+    "_links": {
+        "html": "https://github.com/symfony/symfony-docs/tree/3.3",
+        "self": "https://api.github.com/repos/symfony/symfony-docs/branches/3.3"
+    },
     "commit": {
-      "author": {
-        "name": "Javier Eguiluz",
-        "email": "javier.eguiluz@gmail.com",
-        "date": "2018-01-30T09:53:20Z"
-      },
-      "committer": {
-        "name": "Christian Flothmann",
-        "email": "christian.flothmann@sensiolabs.de",
-        "date": "2018-01-31T12:29:17Z"
-      },
-      "message": "minor #9167 Improved the docs about multiple Webpack configs (javiereguiluz)\n\nThis PR was merged into the 3.4 branch.\n\nDiscussion\n----------\n\nImproved the docs about multiple Webpack configs\n\nThis fixes #9166.\n\nCommits\n-------\n\n68c92e901 Improved the docs about multiple Webpack configs",
-      "tree": {
-        "sha": "ae8f68e324c0751e108e245d143c4cf16e19ada2",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/ae8f68e324c0751e108e245d143c4cf16e19ada2"
-      },
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/c831050da831267f05875d52dd3123e8058146a4",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
+        "author": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/73419?v=4",
+            "events_url": "https://api.github.com/users/javiereguiluz/events{/privacy}",
+            "followers_url": "https://api.github.com/users/javiereguiluz/followers",
+            "following_url": "https://api.github.com/users/javiereguiluz/following{/other_user}",
+            "gists_url": "https://api.github.com/users/javiereguiluz/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/javiereguiluz",
+            "id": 73419,
+            "login": "javiereguiluz",
+            "organizations_url": "https://api.github.com/users/javiereguiluz/orgs",
+            "received_events_url": "https://api.github.com/users/javiereguiluz/received_events",
+            "repos_url": "https://api.github.com/users/javiereguiluz/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/javiereguiluz/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/javiereguiluz/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/javiereguiluz"
+        },
+        "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/c831050da831267f05875d52dd3123e8058146a4/comments",
+        "commit": {
+            "author": {
+                "date": "2018-01-30T09:53:20Z",
+                "email": "javier.eguiluz@gmail.com",
+                "name": "Javier Eguiluz"
+            },
+            "comment_count": 0,
+            "committer": {
+                "date": "2018-01-31T12:29:17Z",
+                "email": "christian.flothmann@sensiolabs.de",
+                "name": "Christian Flothmann"
+            },
+            "message": "minor #9167 Improved the docs about multiple Webpack configs (javiereguiluz)\n\nThis PR was merged into the 3.4 branch.\n\nDiscussion\n----------\n\nImproved the docs about multiple Webpack configs\n\nThis fixes #9166.\n\nCommits\n-------\n\n68c92e901 Improved the docs about multiple Webpack configs",
+            "tree": {
+                "sha": "ae8f68e324c0751e108e245d143c4cf16e19ada2",
+                "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/ae8f68e324c0751e108e245d143c4cf16e19ada2"
+            },
+            "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/c831050da831267f05875d52dd3123e8058146a4",
+            "verification": {
+                "payload": null,
+                "reason": "unsigned",
+                "signature": null,
+                "verified": false
+            }
+        },
+        "committer": {
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1957048?v=4",
+            "events_url": "https://api.github.com/users/xabbuh/events{/privacy}",
+            "followers_url": "https://api.github.com/users/xabbuh/followers",
+            "following_url": "https://api.github.com/users/xabbuh/following{/other_user}",
+            "gists_url": "https://api.github.com/users/xabbuh/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/xabbuh",
+            "id": 1957048,
+            "login": "xabbuh",
+            "organizations_url": "https://api.github.com/users/xabbuh/orgs",
+            "received_events_url": "https://api.github.com/users/xabbuh/received_events",
+            "repos_url": "https://api.github.com/users/xabbuh/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/xabbuh/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/xabbuh/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/xabbuh"
+        },
+        "html_url": "https://github.com/symfony/symfony-docs/commit/c831050da831267f05875d52dd3123e8058146a4",
+        "parents": [
+            {
+                "html_url": "https://github.com/symfony/symfony-docs/commit/7a9a193acf7bc6da68336d47df4b91b1dc60243c",
+                "sha": "7a9a193acf7bc6da68336d47df4b91b1dc60243c",
+                "url": "https://api.github.com/repos/symfony/symfony-docs/commits/7a9a193acf7bc6da68336d47df4b91b1dc60243c"
+            }
+        ],
+        "sha": "c831050da831267f05875d52dd3123e8058146a4",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/c831050da831267f05875d52dd3123e8058146a4"
     },
-    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/c831050da831267f05875d52dd3123e8058146a4",
-    "html_url": "https://github.com/symfony/symfony-docs/commit/c831050da831267f05875d52dd3123e8058146a4",
-    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/c831050da831267f05875d52dd3123e8058146a4/comments",
-    "author": {
-      "login": "javiereguiluz",
-      "id": 73419,
-      "avatar_url": "https://avatars3.githubusercontent.com/u/73419?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/javiereguiluz",
-      "html_url": "https://github.com/javiereguiluz",
-      "followers_url": "https://api.github.com/users/javiereguiluz/followers",
-      "following_url": "https://api.github.com/users/javiereguiluz/following{/other_user}",
-      "gists_url": "https://api.github.com/users/javiereguiluz/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/javiereguiluz/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/javiereguiluz/subscriptions",
-      "organizations_url": "https://api.github.com/users/javiereguiluz/orgs",
-      "repos_url": "https://api.github.com/users/javiereguiluz/repos",
-      "events_url": "https://api.github.com/users/javiereguiluz/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/javiereguiluz/received_events",
-      "type": "User",
-      "site_admin": false
+    "name": "3.3",
+    "protected": false,
+    "protection": {
+        "enabled": false,
+        "required_status_checks": {
+            "contexts": [],
+            "enforcement_level": "off"
+        }
     },
-    "committer": {
-      "login": "xabbuh",
-      "id": 1957048,
-      "avatar_url": "https://avatars0.githubusercontent.com/u/1957048?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/xabbuh",
-      "html_url": "https://github.com/xabbuh",
-      "followers_url": "https://api.github.com/users/xabbuh/followers",
-      "following_url": "https://api.github.com/users/xabbuh/following{/other_user}",
-      "gists_url": "https://api.github.com/users/xabbuh/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/xabbuh/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/xabbuh/subscriptions",
-      "organizations_url": "https://api.github.com/users/xabbuh/orgs",
-      "repos_url": "https://api.github.com/users/xabbuh/repos",
-      "events_url": "https://api.github.com/users/xabbuh/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/xabbuh/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "7a9a193acf7bc6da68336d47df4b91b1dc60243c",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/7a9a193acf7bc6da68336d47df4b91b1dc60243c",
-        "html_url": "https://github.com/symfony/symfony-docs/commit/7a9a193acf7bc6da68336d47df4b91b1dc60243c"
-      }
-    ]
-  },
-  "_links": {
-    "self": "https://api.github.com/repos/symfony/symfony-docs/branches/3.3",
-    "html": "https://github.com/symfony/symfony-docs/tree/3.3"
-  },
-  "protected": false,
-  "protection": {
-    "enabled": false,
-    "required_status_checks": {
-      "enforcement_level": "off",
-      "contexts": [
-
-      ]
-    }
-  },
-  "protection_url": "https://api.github.com/repos/symfony/symfony-docs/branches/3.3/protection"
+    "protection_url": "https://api.github.com/repos/symfony/symfony-docs/branches/3.3/protection"
 }

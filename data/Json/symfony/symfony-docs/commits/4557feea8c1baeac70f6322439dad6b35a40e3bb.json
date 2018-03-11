@@ -1,33 +1,33 @@
 {
-  "sha": "4557feea8c1baeac70f6322439dad6b35a40e3bb",
-  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/4557feea8c1baeac70f6322439dad6b35a40e3bb",
-  "html_url": "https://github.com/symfony/symfony-docs/commit/4557feea8c1baeac70f6322439dad6b35a40e3bb",
-  "author": {
-    "name": "Ryan Weaver",
-    "email": "ryan@thatsquality.com",
-    "date": "2013-05-16T03:04:52Z"
-  },
-  "committer": {
-    "name": "Ryan Weaver",
-    "email": "ryan@thatsquality.com",
-    "date": "2013-06-10T12:10:50Z"
-  },
-  "tree": {
-    "sha": "cdb75538849d931d8d2b5754079661e057182e12",
-    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/cdb75538849d931d8d2b5754079661e057182e12"
-  },
-  "message": "[#2619] Tweaks for new proxy/lazy services entry\n(cherry picked from commit d7ea3a540a5dc425bf1d16f4113746975404da38)",
-  "parents": [
-    {
-      "sha": "bcc2fddc68f374ba9588d81c1b244f7b1d851a64",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/bcc2fddc68f374ba9588d81c1b244f7b1d851a64",
-      "html_url": "https://github.com/symfony/symfony-docs/commit/bcc2fddc68f374ba9588d81c1b244f7b1d851a64"
+    "author": {
+        "date": "2013-05-16T03:04:52Z",
+        "email": "ryan@thatsquality.com",
+        "name": "Ryan Weaver"
+    },
+    "committer": {
+        "date": "2013-06-10T12:10:50Z",
+        "email": "ryan@thatsquality.com",
+        "name": "Ryan Weaver"
+    },
+    "html_url": "https://github.com/symfony/symfony-docs/commit/4557feea8c1baeac70f6322439dad6b35a40e3bb",
+    "message": "[#2619] Tweaks for new proxy/lazy services entry\n(cherry picked from commit d7ea3a540a5dc425bf1d16f4113746975404da38)",
+    "parents": [
+        {
+            "html_url": "https://github.com/symfony/symfony-docs/commit/bcc2fddc68f374ba9588d81c1b244f7b1d851a64",
+            "sha": "bcc2fddc68f374ba9588d81c1b244f7b1d851a64",
+            "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/bcc2fddc68f374ba9588d81c1b244f7b1d851a64"
+        }
+    ],
+    "sha": "4557feea8c1baeac70f6322439dad6b35a40e3bb",
+    "tree": {
+        "sha": "cdb75538849d931d8d2b5754079661e057182e12",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/cdb75538849d931d8d2b5754079661e057182e12"
+    },
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/4557feea8c1baeac70f6322439dad6b35a40e3bb",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

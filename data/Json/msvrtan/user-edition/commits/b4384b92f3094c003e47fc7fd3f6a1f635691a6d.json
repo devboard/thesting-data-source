@@ -1,33 +1,33 @@
 {
-  "sha": "b4384b92f3094c003e47fc7fd3f6a1f635691a6d",
-  "url": "https://api.github.com/repos/msvrtan/user-edition/git/commits/b4384b92f3094c003e47fc7fd3f6a1f635691a6d",
-  "html_url": "https://github.com/msvrtan/user-edition/commit/b4384b92f3094c003e47fc7fd3f6a1f635691a6d",
-  "author": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2016-03-06T23:27:35Z"
-  },
-  "committer": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2017-06-10T10:33:42Z"
-  },
-  "tree": {
-    "sha": "ed08881acd356bcca7a76fceb8bb28254c9e9793",
-    "url": "https://api.github.com/repos/msvrtan/user-edition/git/trees/ed08881acd356bcca7a76fceb8bb28254c9e9793"
-  },
-  "message": "[user-edition] Updated composer.lock for FOSUserBundle",
-  "parents": [
-    {
-      "sha": "b654be9069b70212660418cebffe48b42394b32e",
-      "url": "https://api.github.com/repos/msvrtan/user-edition/git/commits/b654be9069b70212660418cebffe48b42394b32e",
-      "html_url": "https://github.com/msvrtan/user-edition/commit/b654be9069b70212660418cebffe48b42394b32e"
+    "author": {
+        "date": "2016-03-06T23:27:35Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "committer": {
+        "date": "2017-06-10T10:33:42Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "html_url": "https://github.com/msvrtan/user-edition/commit/b4384b92f3094c003e47fc7fd3f6a1f635691a6d",
+    "message": "[user-edition] Updated composer.lock for FOSUserBundle",
+    "parents": [
+        {
+            "html_url": "https://github.com/msvrtan/user-edition/commit/b654be9069b70212660418cebffe48b42394b32e",
+            "sha": "b654be9069b70212660418cebffe48b42394b32e",
+            "url": "https://api.github.com/repos/msvrtan/user-edition/git/commits/b654be9069b70212660418cebffe48b42394b32e"
+        }
+    ],
+    "sha": "b4384b92f3094c003e47fc7fd3f6a1f635691a6d",
+    "tree": {
+        "sha": "ed08881acd356bcca7a76fceb8bb28254c9e9793",
+        "url": "https://api.github.com/repos/msvrtan/user-edition/git/trees/ed08881acd356bcca7a76fceb8bb28254c9e9793"
+    },
+    "url": "https://api.github.com/repos/msvrtan/user-edition/git/commits/b4384b92f3094c003e47fc7fd3f6a1f635691a6d",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

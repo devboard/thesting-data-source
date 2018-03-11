@@ -1,100 +1,100 @@
 {
-  "name": "2.8",
-  "commit": {
-    "sha": "b0bbdefbdb50a01731e86d0103c29875e2a75ea4",
+    "_links": {
+        "html": "https://github.com/symfony/symfony/tree/2.8",
+        "self": "https://api.github.com/repos/symfony/symfony/branches/2.8"
+    },
     "commit": {
-      "author": {
-        "name": "Fabien Potencier",
-        "email": "fabien.potencier@gmail.com",
-        "date": "2018-03-10T18:19:36Z"
-      },
-      "committer": {
-        "name": "Fabien Potencier",
-        "email": "fabien.potencier@gmail.com",
-        "date": "2018-03-10T18:19:36Z"
-      },
-      "message": "Merge branch '2.7' into 2.8\n\n* 2.7:\n  Php Inspections (EA Ultimate): address some of one-time used local variables\n  [Intl] Load locale aliases to support alias fallbacks\n  [CssSelector] Fix CSS identifiers parsing - they can start with dash",
-      "tree": {
-        "sha": "48005835e0e96e66c8d8ed36a7945d55135fe3de",
-        "url": "https://api.github.com/repos/symfony/symfony/git/trees/48005835e0e96e66c8d8ed36a7945d55135fe3de"
-      },
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/b0bbdefbdb50a01731e86d0103c29875e2a75ea4",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
+        "author": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
+            "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+            "followers_url": "https://api.github.com/users/fabpot/followers",
+            "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+            "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/fabpot",
+            "id": 47313,
+            "login": "fabpot",
+            "organizations_url": "https://api.github.com/users/fabpot/orgs",
+            "received_events_url": "https://api.github.com/users/fabpot/received_events",
+            "repos_url": "https://api.github.com/users/fabpot/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/fabpot"
+        },
+        "comments_url": "https://api.github.com/repos/symfony/symfony/commits/b0bbdefbdb50a01731e86d0103c29875e2a75ea4/comments",
+        "commit": {
+            "author": {
+                "date": "2018-03-10T18:19:36Z",
+                "email": "fabien.potencier@gmail.com",
+                "name": "Fabien Potencier"
+            },
+            "comment_count": 0,
+            "committer": {
+                "date": "2018-03-10T18:19:36Z",
+                "email": "fabien.potencier@gmail.com",
+                "name": "Fabien Potencier"
+            },
+            "message": "Merge branch '2.7' into 2.8\n\n* 2.7:\n  Php Inspections (EA Ultimate): address some of one-time used local variables\n  [Intl] Load locale aliases to support alias fallbacks\n  [CssSelector] Fix CSS identifiers parsing - they can start with dash",
+            "tree": {
+                "sha": "48005835e0e96e66c8d8ed36a7945d55135fe3de",
+                "url": "https://api.github.com/repos/symfony/symfony/git/trees/48005835e0e96e66c8d8ed36a7945d55135fe3de"
+            },
+            "url": "https://api.github.com/repos/symfony/symfony/git/commits/b0bbdefbdb50a01731e86d0103c29875e2a75ea4",
+            "verification": {
+                "payload": null,
+                "reason": "unsigned",
+                "signature": null,
+                "verified": false
+            }
+        },
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
+            "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+            "followers_url": "https://api.github.com/users/fabpot/followers",
+            "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+            "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/fabpot",
+            "id": 47313,
+            "login": "fabpot",
+            "organizations_url": "https://api.github.com/users/fabpot/orgs",
+            "received_events_url": "https://api.github.com/users/fabpot/received_events",
+            "repos_url": "https://api.github.com/users/fabpot/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/fabpot"
+        },
+        "html_url": "https://github.com/symfony/symfony/commit/b0bbdefbdb50a01731e86d0103c29875e2a75ea4",
+        "parents": [
+            {
+                "html_url": "https://github.com/symfony/symfony/commit/5757a8538d8cdb11a2b0faad843097f719421b1d",
+                "sha": "5757a8538d8cdb11a2b0faad843097f719421b1d",
+                "url": "https://api.github.com/repos/symfony/symfony/commits/5757a8538d8cdb11a2b0faad843097f719421b1d"
+            },
+            {
+                "html_url": "https://github.com/symfony/symfony/commit/ed63ab62549ababd7cbac219dffbd7368df3ba95",
+                "sha": "ed63ab62549ababd7cbac219dffbd7368df3ba95",
+                "url": "https://api.github.com/repos/symfony/symfony/commits/ed63ab62549ababd7cbac219dffbd7368df3ba95"
+            }
+        ],
+        "sha": "b0bbdefbdb50a01731e86d0103c29875e2a75ea4",
+        "url": "https://api.github.com/repos/symfony/symfony/commits/b0bbdefbdb50a01731e86d0103c29875e2a75ea4"
     },
-    "url": "https://api.github.com/repos/symfony/symfony/commits/b0bbdefbdb50a01731e86d0103c29875e2a75ea4",
-    "html_url": "https://github.com/symfony/symfony/commit/b0bbdefbdb50a01731e86d0103c29875e2a75ea4",
-    "comments_url": "https://api.github.com/repos/symfony/symfony/commits/b0bbdefbdb50a01731e86d0103c29875e2a75ea4/comments",
-    "author": {
-      "login": "fabpot",
-      "id": 47313,
-      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/fabpot",
-      "html_url": "https://github.com/fabpot",
-      "followers_url": "https://api.github.com/users/fabpot/followers",
-      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
-      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
-      "organizations_url": "https://api.github.com/users/fabpot/orgs",
-      "repos_url": "https://api.github.com/users/fabpot/repos",
-      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/fabpot/received_events",
-      "type": "User",
-      "site_admin": false
+    "name": "2.8",
+    "protected": true,
+    "protection": {
+        "enabled": true,
+        "required_status_checks": {
+            "contexts": [
+                "continuous-integration/travis-ci",
+                "fabbot.io"
+            ],
+            "enforcement_level": "off"
+        }
     },
-    "committer": {
-      "login": "fabpot",
-      "id": 47313,
-      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/fabpot",
-      "html_url": "https://github.com/fabpot",
-      "followers_url": "https://api.github.com/users/fabpot/followers",
-      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
-      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
-      "organizations_url": "https://api.github.com/users/fabpot/orgs",
-      "repos_url": "https://api.github.com/users/fabpot/repos",
-      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/fabpot/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "5757a8538d8cdb11a2b0faad843097f719421b1d",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/5757a8538d8cdb11a2b0faad843097f719421b1d",
-        "html_url": "https://github.com/symfony/symfony/commit/5757a8538d8cdb11a2b0faad843097f719421b1d"
-      },
-      {
-        "sha": "ed63ab62549ababd7cbac219dffbd7368df3ba95",
-        "url": "https://api.github.com/repos/symfony/symfony/commits/ed63ab62549ababd7cbac219dffbd7368df3ba95",
-        "html_url": "https://github.com/symfony/symfony/commit/ed63ab62549ababd7cbac219dffbd7368df3ba95"
-      }
-    ]
-  },
-  "_links": {
-    "self": "https://api.github.com/repos/symfony/symfony/branches/2.8",
-    "html": "https://github.com/symfony/symfony/tree/2.8"
-  },
-  "protected": true,
-  "protection": {
-    "enabled": true,
-    "required_status_checks": {
-      "enforcement_level": "off",
-      "contexts": [
-        "continuous-integration/travis-ci",
-        "fabbot.io"
-      ]
-    }
-  },
-  "protection_url": "https://api.github.com/repos/symfony/symfony/branches/2.8/protection"
+    "protection_url": "https://api.github.com/repos/symfony/symfony/branches/2.8/protection"
 }

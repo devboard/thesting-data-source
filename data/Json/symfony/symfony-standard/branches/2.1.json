@@ -1,94 +1,92 @@
 {
-  "name": "2.1",
-  "commit": {
-    "sha": "d188f8926162ae1870df40047e0f3ddee5c133e0",
+    "_links": {
+        "html": "https://github.com/symfony/symfony-standard/tree/2.1",
+        "self": "https://api.github.com/repos/symfony/symfony-standard/branches/2.1"
+    },
     "commit": {
-      "author": {
-        "name": "Fabien Potencier",
-        "email": "fabien.potencier@gmail.com",
-        "date": "2013-10-10T11:54:08Z"
-      },
-      "committer": {
-        "name": "Fabien Potencier",
-        "email": "fabien.potencier@gmail.com",
-        "date": "2013-10-10T11:56:37Z"
-      },
-      "message": "updated VENDORS for 2.1.13",
-      "tree": {
-        "sha": "d5e2719299c08d80b1543af5e221fc10c9046661",
-        "url": "https://api.github.com/repos/symfony/symfony-standard/git/trees/d5e2719299c08d80b1543af5e221fc10c9046661"
-      },
-      "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/d188f8926162ae1870df40047e0f3ddee5c133e0",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
+        "author": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
+            "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+            "followers_url": "https://api.github.com/users/fabpot/followers",
+            "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+            "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/fabpot",
+            "id": 47313,
+            "login": "fabpot",
+            "organizations_url": "https://api.github.com/users/fabpot/orgs",
+            "received_events_url": "https://api.github.com/users/fabpot/received_events",
+            "repos_url": "https://api.github.com/users/fabpot/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/fabpot"
+        },
+        "comments_url": "https://api.github.com/repos/symfony/symfony-standard/commits/d188f8926162ae1870df40047e0f3ddee5c133e0/comments",
+        "commit": {
+            "author": {
+                "date": "2013-10-10T11:54:08Z",
+                "email": "fabien.potencier@gmail.com",
+                "name": "Fabien Potencier"
+            },
+            "comment_count": 0,
+            "committer": {
+                "date": "2013-10-10T11:56:37Z",
+                "email": "fabien.potencier@gmail.com",
+                "name": "Fabien Potencier"
+            },
+            "message": "updated VENDORS for 2.1.13",
+            "tree": {
+                "sha": "d5e2719299c08d80b1543af5e221fc10c9046661",
+                "url": "https://api.github.com/repos/symfony/symfony-standard/git/trees/d5e2719299c08d80b1543af5e221fc10c9046661"
+            },
+            "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/d188f8926162ae1870df40047e0f3ddee5c133e0",
+            "verification": {
+                "payload": null,
+                "reason": "unsigned",
+                "signature": null,
+                "verified": false
+            }
+        },
+        "committer": {
+            "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
+            "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
+            "followers_url": "https://api.github.com/users/fabpot/followers",
+            "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
+            "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/fabpot",
+            "id": 47313,
+            "login": "fabpot",
+            "organizations_url": "https://api.github.com/users/fabpot/orgs",
+            "received_events_url": "https://api.github.com/users/fabpot/received_events",
+            "repos_url": "https://api.github.com/users/fabpot/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/fabpot"
+        },
+        "html_url": "https://github.com/symfony/symfony-standard/commit/d188f8926162ae1870df40047e0f3ddee5c133e0",
+        "parents": [
+            {
+                "html_url": "https://github.com/symfony/symfony-standard/commit/20f518c3191bf1f497e74f5c9d0e298b14dd8ed4",
+                "sha": "20f518c3191bf1f497e74f5c9d0e298b14dd8ed4",
+                "url": "https://api.github.com/repos/symfony/symfony-standard/commits/20f518c3191bf1f497e74f5c9d0e298b14dd8ed4"
+            }
+        ],
+        "sha": "d188f8926162ae1870df40047e0f3ddee5c133e0",
+        "url": "https://api.github.com/repos/symfony/symfony-standard/commits/d188f8926162ae1870df40047e0f3ddee5c133e0"
     },
-    "url": "https://api.github.com/repos/symfony/symfony-standard/commits/d188f8926162ae1870df40047e0f3ddee5c133e0",
-    "html_url": "https://github.com/symfony/symfony-standard/commit/d188f8926162ae1870df40047e0f3ddee5c133e0",
-    "comments_url": "https://api.github.com/repos/symfony/symfony-standard/commits/d188f8926162ae1870df40047e0f3ddee5c133e0/comments",
-    "author": {
-      "login": "fabpot",
-      "id": 47313,
-      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/fabpot",
-      "html_url": "https://github.com/fabpot",
-      "followers_url": "https://api.github.com/users/fabpot/followers",
-      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
-      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
-      "organizations_url": "https://api.github.com/users/fabpot/orgs",
-      "repos_url": "https://api.github.com/users/fabpot/repos",
-      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/fabpot/received_events",
-      "type": "User",
-      "site_admin": false
+    "name": "2.1",
+    "protected": false,
+    "protection": {
+        "enabled": false,
+        "required_status_checks": {
+            "contexts": [],
+            "enforcement_level": "off"
+        }
     },
-    "committer": {
-      "login": "fabpot",
-      "id": 47313,
-      "avatar_url": "https://avatars3.githubusercontent.com/u/47313?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/fabpot",
-      "html_url": "https://github.com/fabpot",
-      "followers_url": "https://api.github.com/users/fabpot/followers",
-      "following_url": "https://api.github.com/users/fabpot/following{/other_user}",
-      "gists_url": "https://api.github.com/users/fabpot/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/fabpot/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/fabpot/subscriptions",
-      "organizations_url": "https://api.github.com/users/fabpot/orgs",
-      "repos_url": "https://api.github.com/users/fabpot/repos",
-      "events_url": "https://api.github.com/users/fabpot/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/fabpot/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "20f518c3191bf1f497e74f5c9d0e298b14dd8ed4",
-        "url": "https://api.github.com/repos/symfony/symfony-standard/commits/20f518c3191bf1f497e74f5c9d0e298b14dd8ed4",
-        "html_url": "https://github.com/symfony/symfony-standard/commit/20f518c3191bf1f497e74f5c9d0e298b14dd8ed4"
-      }
-    ]
-  },
-  "_links": {
-    "self": "https://api.github.com/repos/symfony/symfony-standard/branches/2.1",
-    "html": "https://github.com/symfony/symfony-standard/tree/2.1"
-  },
-  "protected": false,
-  "protection": {
-    "enabled": false,
-    "required_status_checks": {
-      "enforcement_level": "off",
-      "contexts": [
-
-      ]
-    }
-  },
-  "protection_url": "https://api.github.com/repos/symfony/symfony-standard/branches/2.1/protection"
+    "protection_url": "https://api.github.com/repos/symfony/symfony-standard/branches/2.1/protection"
 }

@@ -1,94 +1,92 @@
 {
-  "name": "properly-paralelize-travis-ci",
-  "commit": {
-    "sha": "06dc755bf9b7357c204ae82da7c1d605f6adcc27",
+    "_links": {
+        "html": "https://github.com/msvrtan/starter-edition/tree/properly-paralelize-travis-ci",
+        "self": "https://api.github.com/repos/msvrtan/starter-edition/branches/properly-paralelize-travis-ci"
+    },
     "commit": {
-      "author": {
-        "name": "Miro Svrtan",
-        "email": "miro@mirosvrtan.me",
-        "date": "2016-05-20T17:18:24Z"
-      },
-      "committer": {
-        "name": "Miro Svrtan",
-        "email": "miro@mirosvrtan.me",
-        "date": "2016-05-20T17:18:24Z"
-      },
-      "message": "[starter-edition] Running multi job TravisCI",
-      "tree": {
-        "sha": "d874d2a47f629147533e54d7b6baed91368b7f3f",
-        "url": "https://api.github.com/repos/msvrtan/starter-edition/git/trees/d874d2a47f629147533e54d7b6baed91368b7f3f"
-      },
-      "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/06dc755bf9b7357c204ae82da7c1d605f6adcc27",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+            "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+            "followers_url": "https://api.github.com/users/msvrtan/followers",
+            "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+            "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/msvrtan",
+            "id": 1780572,
+            "login": "msvrtan",
+            "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+            "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+            "repos_url": "https://api.github.com/users/msvrtan/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/msvrtan"
+        },
+        "comments_url": "https://api.github.com/repos/msvrtan/starter-edition/commits/06dc755bf9b7357c204ae82da7c1d605f6adcc27/comments",
+        "commit": {
+            "author": {
+                "date": "2016-05-20T17:18:24Z",
+                "email": "miro@mirosvrtan.me",
+                "name": "Miro Svrtan"
+            },
+            "comment_count": 0,
+            "committer": {
+                "date": "2016-05-20T17:18:24Z",
+                "email": "miro@mirosvrtan.me",
+                "name": "Miro Svrtan"
+            },
+            "message": "[starter-edition] Running multi job TravisCI",
+            "tree": {
+                "sha": "d874d2a47f629147533e54d7b6baed91368b7f3f",
+                "url": "https://api.github.com/repos/msvrtan/starter-edition/git/trees/d874d2a47f629147533e54d7b6baed91368b7f3f"
+            },
+            "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/06dc755bf9b7357c204ae82da7c1d605f6adcc27",
+            "verification": {
+                "payload": null,
+                "reason": "unsigned",
+                "signature": null,
+                "verified": false
+            }
+        },
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+            "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+            "followers_url": "https://api.github.com/users/msvrtan/followers",
+            "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+            "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/msvrtan",
+            "id": 1780572,
+            "login": "msvrtan",
+            "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+            "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+            "repos_url": "https://api.github.com/users/msvrtan/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/msvrtan"
+        },
+        "html_url": "https://github.com/msvrtan/starter-edition/commit/06dc755bf9b7357c204ae82da7c1d605f6adcc27",
+        "parents": [
+            {
+                "html_url": "https://github.com/msvrtan/starter-edition/commit/a11b1c71faea3f16636e2562a8fdb8effa0912ba",
+                "sha": "a11b1c71faea3f16636e2562a8fdb8effa0912ba",
+                "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/a11b1c71faea3f16636e2562a8fdb8effa0912ba"
+            }
+        ],
+        "sha": "06dc755bf9b7357c204ae82da7c1d605f6adcc27",
+        "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/06dc755bf9b7357c204ae82da7c1d605f6adcc27"
     },
-    "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/06dc755bf9b7357c204ae82da7c1d605f6adcc27",
-    "html_url": "https://github.com/msvrtan/starter-edition/commit/06dc755bf9b7357c204ae82da7c1d605f6adcc27",
-    "comments_url": "https://api.github.com/repos/msvrtan/starter-edition/commits/06dc755bf9b7357c204ae82da7c1d605f6adcc27/comments",
-    "author": {
-      "login": "msvrtan",
-      "id": 1780572,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/msvrtan",
-      "html_url": "https://github.com/msvrtan",
-      "followers_url": "https://api.github.com/users/msvrtan/followers",
-      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
-      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
-      "repos_url": "https://api.github.com/users/msvrtan/repos",
-      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
-      "type": "User",
-      "site_admin": false
+    "name": "properly-paralelize-travis-ci",
+    "protected": false,
+    "protection": {
+        "enabled": false,
+        "required_status_checks": {
+            "contexts": [],
+            "enforcement_level": "off"
+        }
     },
-    "committer": {
-      "login": "msvrtan",
-      "id": 1780572,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/msvrtan",
-      "html_url": "https://github.com/msvrtan",
-      "followers_url": "https://api.github.com/users/msvrtan/followers",
-      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
-      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
-      "repos_url": "https://api.github.com/users/msvrtan/repos",
-      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "a11b1c71faea3f16636e2562a8fdb8effa0912ba",
-        "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/a11b1c71faea3f16636e2562a8fdb8effa0912ba",
-        "html_url": "https://github.com/msvrtan/starter-edition/commit/a11b1c71faea3f16636e2562a8fdb8effa0912ba"
-      }
-    ]
-  },
-  "_links": {
-    "self": "https://api.github.com/repos/msvrtan/starter-edition/branches/properly-paralelize-travis-ci",
-    "html": "https://github.com/msvrtan/starter-edition/tree/properly-paralelize-travis-ci"
-  },
-  "protected": false,
-  "protection": {
-    "enabled": false,
-    "required_status_checks": {
-      "enforcement_level": "off",
-      "contexts": [
-
-      ]
-    }
-  },
-  "protection_url": "https://api.github.com/repos/msvrtan/starter-edition/branches/properly-paralelize-travis-ci/protection"
+    "protection_url": "https://api.github.com/repos/msvrtan/starter-edition/branches/properly-paralelize-travis-ci/protection"
 }

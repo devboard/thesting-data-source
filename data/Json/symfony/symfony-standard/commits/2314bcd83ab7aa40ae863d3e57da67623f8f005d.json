@@ -1,33 +1,33 @@
 {
-  "sha": "2314bcd83ab7aa40ae863d3e57da67623f8f005d",
-  "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/2314bcd83ab7aa40ae863d3e57da67623f8f005d",
-  "html_url": "https://github.com/symfony/symfony-standard/commit/2314bcd83ab7aa40ae863d3e57da67623f8f005d",
-  "author": {
-    "name": "Fabien Potencier",
-    "email": "fabien.potencier@gmail.com",
-    "date": "2017-02-06T13:28:41Z"
-  },
-  "committer": {
-    "name": "Fabien Potencier",
-    "email": "fabien.potencier@gmail.com",
-    "date": "2017-02-06T13:28:41Z"
-  },
-  "tree": {
-    "sha": "3334c068a15f7a45837fe3805fb7b4114ca2df63",
-    "url": "https://api.github.com/repos/symfony/symfony-standard/git/trees/3334c068a15f7a45837fe3805fb7b4114ca2df63"
-  },
-  "message": "updated VENDORS for 3.2.3",
-  "parents": [
-    {
-      "sha": "d68e2e0819e1443d53f0a1a10655c21e03e43ba0",
-      "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/d68e2e0819e1443d53f0a1a10655c21e03e43ba0",
-      "html_url": "https://github.com/symfony/symfony-standard/commit/d68e2e0819e1443d53f0a1a10655c21e03e43ba0"
+    "author": {
+        "date": "2017-02-06T13:28:41Z",
+        "email": "fabien.potencier@gmail.com",
+        "name": "Fabien Potencier"
+    },
+    "committer": {
+        "date": "2017-02-06T13:28:41Z",
+        "email": "fabien.potencier@gmail.com",
+        "name": "Fabien Potencier"
+    },
+    "html_url": "https://github.com/symfony/symfony-standard/commit/2314bcd83ab7aa40ae863d3e57da67623f8f005d",
+    "message": "updated VENDORS for 3.2.3",
+    "parents": [
+        {
+            "html_url": "https://github.com/symfony/symfony-standard/commit/d68e2e0819e1443d53f0a1a10655c21e03e43ba0",
+            "sha": "d68e2e0819e1443d53f0a1a10655c21e03e43ba0",
+            "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/d68e2e0819e1443d53f0a1a10655c21e03e43ba0"
+        }
+    ],
+    "sha": "2314bcd83ab7aa40ae863d3e57da67623f8f005d",
+    "tree": {
+        "sha": "3334c068a15f7a45837fe3805fb7b4114ca2df63",
+        "url": "https://api.github.com/repos/symfony/symfony-standard/git/trees/3334c068a15f7a45837fe3805fb7b4114ca2df63"
+    },
+    "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/2314bcd83ab7aa40ae863d3e57da67623f8f005d",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

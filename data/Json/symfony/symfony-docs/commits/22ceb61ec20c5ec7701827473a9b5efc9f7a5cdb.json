@@ -1,38 +1,38 @@
 {
-  "sha": "22ceb61ec20c5ec7701827473a9b5efc9f7a5cdb",
-  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/22ceb61ec20c5ec7701827473a9b5efc9f7a5cdb",
-  "html_url": "https://github.com/symfony/symfony-docs/commit/22ceb61ec20c5ec7701827473a9b5efc9f7a5cdb",
-  "author": {
-    "name": "Christian Flothmann",
-    "email": "christian.flothmann@sensiolabs.de",
-    "date": "2017-08-01T07:48:50Z"
-  },
-  "committer": {
-    "name": "Christian Flothmann",
-    "email": "christian.flothmann@sensiolabs.de",
-    "date": "2017-08-01T07:48:50Z"
-  },
-  "tree": {
-    "sha": "db0356ca48533c07b352681e21dfd211431c71d0",
-    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/db0356ca48533c07b352681e21dfd211431c71d0"
-  },
-  "message": "Merge branch '2.8' into 3.2\n\n* 2.8:\n  Explained the explicit typing in YAML documents",
-  "parents": [
-    {
-      "sha": "6737f8041a7a8bb7339b1f0b0f9ef4006a2f0eb9",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/6737f8041a7a8bb7339b1f0b0f9ef4006a2f0eb9",
-      "html_url": "https://github.com/symfony/symfony-docs/commit/6737f8041a7a8bb7339b1f0b0f9ef4006a2f0eb9"
+    "author": {
+        "date": "2017-08-01T07:48:50Z",
+        "email": "christian.flothmann@sensiolabs.de",
+        "name": "Christian Flothmann"
     },
-    {
-      "sha": "712fd4c47714e10dbc616f70c9d2dd7f5f1c6dbf",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/712fd4c47714e10dbc616f70c9d2dd7f5f1c6dbf",
-      "html_url": "https://github.com/symfony/symfony-docs/commit/712fd4c47714e10dbc616f70c9d2dd7f5f1c6dbf"
+    "committer": {
+        "date": "2017-08-01T07:48:50Z",
+        "email": "christian.flothmann@sensiolabs.de",
+        "name": "Christian Flothmann"
+    },
+    "html_url": "https://github.com/symfony/symfony-docs/commit/22ceb61ec20c5ec7701827473a9b5efc9f7a5cdb",
+    "message": "Merge branch '2.8' into 3.2\n\n* 2.8:\n  Explained the explicit typing in YAML documents",
+    "parents": [
+        {
+            "html_url": "https://github.com/symfony/symfony-docs/commit/6737f8041a7a8bb7339b1f0b0f9ef4006a2f0eb9",
+            "sha": "6737f8041a7a8bb7339b1f0b0f9ef4006a2f0eb9",
+            "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/6737f8041a7a8bb7339b1f0b0f9ef4006a2f0eb9"
+        },
+        {
+            "html_url": "https://github.com/symfony/symfony-docs/commit/712fd4c47714e10dbc616f70c9d2dd7f5f1c6dbf",
+            "sha": "712fd4c47714e10dbc616f70c9d2dd7f5f1c6dbf",
+            "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/712fd4c47714e10dbc616f70c9d2dd7f5f1c6dbf"
+        }
+    ],
+    "sha": "22ceb61ec20c5ec7701827473a9b5efc9f7a5cdb",
+    "tree": {
+        "sha": "db0356ca48533c07b352681e21dfd211431c71d0",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/db0356ca48533c07b352681e21dfd211431c71d0"
+    },
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/22ceb61ec20c5ec7701827473a9b5efc9f7a5cdb",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

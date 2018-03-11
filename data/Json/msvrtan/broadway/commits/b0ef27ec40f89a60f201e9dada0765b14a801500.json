@@ -1,38 +1,38 @@
 {
-  "sha": "b0ef27ec40f89a60f201e9dada0765b14a801500",
-  "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/b0ef27ec40f89a60f201e9dada0765b14a801500",
-  "html_url": "https://github.com/msvrtan/broadway/commit/b0ef27ec40f89a60f201e9dada0765b14a801500",
-  "author": {
-    "name": "othillo",
-    "email": "othillo@qandidate.com",
-    "date": "2014-09-23T15:31:03Z"
-  },
-  "committer": {
-    "name": "othillo",
-    "email": "othillo@qandidate.com",
-    "date": "2014-09-23T15:31:03Z"
-  },
-  "tree": {
-    "sha": "aa33bccdaa320e9b8d554a034a43faa23ceb80e0",
-    "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/aa33bccdaa320e9b8d554a034a43faa23ceb80e0"
-  },
-  "message": "Merge pull request #59 from fritsjanb/uuid-fix\n\nRemove Uuid component from readme + fix SagaScenarioTestCase",
-  "parents": [
-    {
-      "sha": "993f488033be661292456c2367e7f88c5fda33a5",
-      "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/993f488033be661292456c2367e7f88c5fda33a5",
-      "html_url": "https://github.com/msvrtan/broadway/commit/993f488033be661292456c2367e7f88c5fda33a5"
+    "author": {
+        "date": "2014-09-23T15:31:03Z",
+        "email": "othillo@qandidate.com",
+        "name": "othillo"
     },
-    {
-      "sha": "643b9b0420a7c20e924fcfd091c7ae293de726ad",
-      "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/643b9b0420a7c20e924fcfd091c7ae293de726ad",
-      "html_url": "https://github.com/msvrtan/broadway/commit/643b9b0420a7c20e924fcfd091c7ae293de726ad"
+    "committer": {
+        "date": "2014-09-23T15:31:03Z",
+        "email": "othillo@qandidate.com",
+        "name": "othillo"
+    },
+    "html_url": "https://github.com/msvrtan/broadway/commit/b0ef27ec40f89a60f201e9dada0765b14a801500",
+    "message": "Merge pull request #59 from fritsjanb/uuid-fix\n\nRemove Uuid component from readme + fix SagaScenarioTestCase",
+    "parents": [
+        {
+            "html_url": "https://github.com/msvrtan/broadway/commit/993f488033be661292456c2367e7f88c5fda33a5",
+            "sha": "993f488033be661292456c2367e7f88c5fda33a5",
+            "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/993f488033be661292456c2367e7f88c5fda33a5"
+        },
+        {
+            "html_url": "https://github.com/msvrtan/broadway/commit/643b9b0420a7c20e924fcfd091c7ae293de726ad",
+            "sha": "643b9b0420a7c20e924fcfd091c7ae293de726ad",
+            "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/643b9b0420a7c20e924fcfd091c7ae293de726ad"
+        }
+    ],
+    "sha": "b0ef27ec40f89a60f201e9dada0765b14a801500",
+    "tree": {
+        "sha": "aa33bccdaa320e9b8d554a034a43faa23ceb80e0",
+        "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/aa33bccdaa320e9b8d554a034a43faa23ceb80e0"
+    },
+    "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/b0ef27ec40f89a60f201e9dada0765b14a801500",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

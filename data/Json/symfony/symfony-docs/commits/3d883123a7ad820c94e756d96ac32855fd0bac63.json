@@ -1,33 +1,33 @@
 {
-  "sha": "3d883123a7ad820c94e756d96ac32855fd0bac63",
-  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/3d883123a7ad820c94e756d96ac32855fd0bac63",
-  "html_url": "https://github.com/symfony/symfony-docs/commit/3d883123a7ad820c94e756d96ac32855fd0bac63",
-  "author": {
-    "name": "WouterJ",
-    "email": "waldio.webdesign@gmail.com",
-    "date": "2014-10-26T13:52:09Z"
-  },
-  "committer": {
-    "name": "WouterJ",
-    "email": "waldio.webdesign@gmail.com",
-    "date": "2014-10-26T13:52:09Z"
-  },
-  "tree": {
-    "sha": "fa74e1a0d442647ff2673eac18ec3360fdb5857d",
-    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/fa74e1a0d442647ff2673eac18ec3360fdb5857d"
-  },
-  "message": "Reverted fb5e82",
-  "parents": [
-    {
-      "sha": "2731d7283331340244bb9641d25d1e88ba4a1f4f",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/2731d7283331340244bb9641d25d1e88ba4a1f4f",
-      "html_url": "https://github.com/symfony/symfony-docs/commit/2731d7283331340244bb9641d25d1e88ba4a1f4f"
+    "author": {
+        "date": "2014-10-26T13:52:09Z",
+        "email": "waldio.webdesign@gmail.com",
+        "name": "WouterJ"
+    },
+    "committer": {
+        "date": "2014-10-26T13:52:09Z",
+        "email": "waldio.webdesign@gmail.com",
+        "name": "WouterJ"
+    },
+    "html_url": "https://github.com/symfony/symfony-docs/commit/3d883123a7ad820c94e756d96ac32855fd0bac63",
+    "message": "Reverted fb5e82",
+    "parents": [
+        {
+            "html_url": "https://github.com/symfony/symfony-docs/commit/2731d7283331340244bb9641d25d1e88ba4a1f4f",
+            "sha": "2731d7283331340244bb9641d25d1e88ba4a1f4f",
+            "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/2731d7283331340244bb9641d25d1e88ba4a1f4f"
+        }
+    ],
+    "sha": "3d883123a7ad820c94e756d96ac32855fd0bac63",
+    "tree": {
+        "sha": "fa74e1a0d442647ff2673eac18ec3360fdb5857d",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/fa74e1a0d442647ff2673eac18ec3360fdb5857d"
+    },
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/3d883123a7ad820c94e756d96ac32855fd0bac63",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

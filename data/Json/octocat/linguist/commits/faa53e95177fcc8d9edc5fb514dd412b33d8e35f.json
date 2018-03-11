@@ -1,33 +1,33 @@
 {
-  "sha": "faa53e95177fcc8d9edc5fb514dd412b33d8e35f",
-  "url": "https://api.github.com/repos/octocat/linguist/git/commits/faa53e95177fcc8d9edc5fb514dd412b33d8e35f",
-  "html_url": "https://github.com/octocat/linguist/commit/faa53e95177fcc8d9edc5fb514dd412b33d8e35f",
-  "author": {
-    "name": "Brandon Keepers",
-    "email": "bkeepers@github.com",
-    "date": "2016-04-17T22:17:32Z"
-  },
-  "committer": {
-    "name": "Brandon Keepers",
-    "email": "bkeepers@github.com",
-    "date": "2016-04-17T22:17:32Z"
-  },
-  "tree": {
-    "sha": "f0a26a2ea4176f920b36bc61ccf16c0fe27dc916",
-    "url": "https://api.github.com/repos/octocat/linguist/git/trees/f0a26a2ea4176f920b36bc61ccf16c0fe27dc916"
-  },
-  "message": "Remove submodule tests",
-  "parents": [
-    {
-      "sha": "b7e16900301d9582e6200b3e6b93e6bc00a06ce1",
-      "url": "https://api.github.com/repos/octocat/linguist/git/commits/b7e16900301d9582e6200b3e6b93e6bc00a06ce1",
-      "html_url": "https://github.com/octocat/linguist/commit/b7e16900301d9582e6200b3e6b93e6bc00a06ce1"
+    "author": {
+        "date": "2016-04-17T22:17:32Z",
+        "email": "bkeepers@github.com",
+        "name": "Brandon Keepers"
+    },
+    "committer": {
+        "date": "2016-04-17T22:17:32Z",
+        "email": "bkeepers@github.com",
+        "name": "Brandon Keepers"
+    },
+    "html_url": "https://github.com/octocat/linguist/commit/faa53e95177fcc8d9edc5fb514dd412b33d8e35f",
+    "message": "Remove submodule tests",
+    "parents": [
+        {
+            "html_url": "https://github.com/octocat/linguist/commit/b7e16900301d9582e6200b3e6b93e6bc00a06ce1",
+            "sha": "b7e16900301d9582e6200b3e6b93e6bc00a06ce1",
+            "url": "https://api.github.com/repos/octocat/linguist/git/commits/b7e16900301d9582e6200b3e6b93e6bc00a06ce1"
+        }
+    ],
+    "sha": "faa53e95177fcc8d9edc5fb514dd412b33d8e35f",
+    "tree": {
+        "sha": "f0a26a2ea4176f920b36bc61ccf16c0fe27dc916",
+        "url": "https://api.github.com/repos/octocat/linguist/git/trees/f0a26a2ea4176f920b36bc61ccf16c0fe27dc916"
+    },
+    "url": "https://api.github.com/repos/octocat/linguist/git/commits/faa53e95177fcc8d9edc5fb514dd412b33d8e35f",
+    "verification": {
+        "payload": "tree f0a26a2ea4176f920b36bc61ccf16c0fe27dc916\nparent b7e16900301d9582e6200b3e6b93e6bc00a06ce1\nauthor Brandon Keepers <bkeepers@github.com> 1460931452 -0400\ncommitter Brandon Keepers <bkeepers@github.com> 1460931452 -0400\n\nRemove submodule tests\n",
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJXFAt8AAoJEPlTM5bV+sv2Fp0QAKq2lDkZF0DkO0VcDqwXMheO\nrfz8swaMOV/u1tn0rSVOLmvIsWyWTB4Di4m6BW0Fe3EDB+M+FhBcIPmcvHuyirvs\nz7PM5XZtPLW2qnjSTrGK5t11I8Td+aqq5KhZOEjzAWfJ16fg7JsEDL7TbK+4rt/+\n4OPoobZ922vUKvNmfrMZUoWlSF8z2k3fDmJqk6LmVCq7adIOeCX4EAF0Pk4GVIC2\nMI8hPf77oRkvSUG8oMuh8bWEJkku07W4H8yg5Kc8hrFMrlj4gFxH/7J7kqKzChbH\nPhmwglObku9sP2viD8G9+0Awd/+gdm1VeOWXsFMQ1ahGb4jnGAovAv3qQjum/MWO\nNjJUIdmozjjWEnpbTP1eXWDT2046cPLWR+8Nfc1h/fXooqRQPxASol05mwQq7Mo2\nVY6BI0vlDnOEpZNHhEVJM9cosvPd3eOMj/66eeE0CHv08/qentRKuc2FEzSX70m4\nsJ9IRE6QXkt/SuGUkSJoFvOlepNY2PI/OvdS3QYckzMdZ/yVaMDkcISvtOxW6vZF\nQ6HRcvYSOEyp3vOb9Vk71lVrB1NENbEJjQU3m7qrWCHD5nYYtaKz94d5KohZO7W/\nNQAvzbW1ftfz886bNBNcMxBnhlg8XfQMGMif1I3drgzhqcIlcviPOFKoT5bMISAA\nW4dZbijCjozAQFeodVnM\n=R28T\n-----END PGP SIGNATURE-----",
+        "verified": true
     }
-  ],
-  "verification": {
-    "verified": true,
-    "reason": "valid",
-    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJXFAt8AAoJEPlTM5bV+sv2Fp0QAKq2lDkZF0DkO0VcDqwXMheO\nrfz8swaMOV/u1tn0rSVOLmvIsWyWTB4Di4m6BW0Fe3EDB+M+FhBcIPmcvHuyirvs\nz7PM5XZtPLW2qnjSTrGK5t11I8Td+aqq5KhZOEjzAWfJ16fg7JsEDL7TbK+4rt/+\n4OPoobZ922vUKvNmfrMZUoWlSF8z2k3fDmJqk6LmVCq7adIOeCX4EAF0Pk4GVIC2\nMI8hPf77oRkvSUG8oMuh8bWEJkku07W4H8yg5Kc8hrFMrlj4gFxH/7J7kqKzChbH\nPhmwglObku9sP2viD8G9+0Awd/+gdm1VeOWXsFMQ1ahGb4jnGAovAv3qQjum/MWO\nNjJUIdmozjjWEnpbTP1eXWDT2046cPLWR+8Nfc1h/fXooqRQPxASol05mwQq7Mo2\nVY6BI0vlDnOEpZNHhEVJM9cosvPd3eOMj/66eeE0CHv08/qentRKuc2FEzSX70m4\nsJ9IRE6QXkt/SuGUkSJoFvOlepNY2PI/OvdS3QYckzMdZ/yVaMDkcISvtOxW6vZF\nQ6HRcvYSOEyp3vOb9Vk71lVrB1NENbEJjQU3m7qrWCHD5nYYtaKz94d5KohZO7W/\nNQAvzbW1ftfz886bNBNcMxBnhlg8XfQMGMif1I3drgzhqcIlcviPOFKoT5bMISAA\nW4dZbijCjozAQFeodVnM\n=R28T\n-----END PGP SIGNATURE-----",
-    "payload": "tree f0a26a2ea4176f920b36bc61ccf16c0fe27dc916\nparent b7e16900301d9582e6200b3e6b93e6bc00a06ce1\nauthor Brandon Keepers <bkeepers@github.com> 1460931452 -0400\ncommitter Brandon Keepers <bkeepers@github.com> 1460931452 -0400\n\nRemove submodule tests\n"
-  }
 }

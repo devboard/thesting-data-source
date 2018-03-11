@@ -1,94 +1,92 @@
 {
-  "name": "test/attributes",
-  "commit": {
-    "sha": "d4c8fb8a28e91f97a7e53428a365c0abbac36d3d",
+    "_links": {
+        "html": "https://github.com/octocat/linguist/tree/test/attributes",
+        "self": "https://api.github.com/repos/octocat/linguist/branches/test/attributes"
+    },
     "commit": {
-      "author": {
-        "name": "Adam Roben",
-        "email": "adam@roben.org",
-        "date": "2015-02-12T15:11:53Z"
-      },
-      "committer": {
-        "name": "Adam Roben",
-        "email": "adam@roben.org",
-        "date": "2015-02-12T15:11:53Z"
-      },
-      "message": "Add some linguist-documentation attributes",
-      "tree": {
-        "sha": "2bfedfc07845c231af2043ba0d3714317e132261",
-        "url": "https://api.github.com/repos/octocat/linguist/git/trees/2bfedfc07845c231af2043ba0d3714317e132261"
-      },
-      "url": "https://api.github.com/repos/octocat/linguist/git/commits/d4c8fb8a28e91f97a7e53428a365c0abbac36d3d",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
+        "author": {
+            "avatar_url": "https://avatars2.githubusercontent.com/u/917945?v=4",
+            "events_url": "https://api.github.com/users/aroben/events{/privacy}",
+            "followers_url": "https://api.github.com/users/aroben/followers",
+            "following_url": "https://api.github.com/users/aroben/following{/other_user}",
+            "gists_url": "https://api.github.com/users/aroben/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/aroben",
+            "id": 917945,
+            "login": "aroben",
+            "organizations_url": "https://api.github.com/users/aroben/orgs",
+            "received_events_url": "https://api.github.com/users/aroben/received_events",
+            "repos_url": "https://api.github.com/users/aroben/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/aroben/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/aroben/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/aroben"
+        },
+        "comments_url": "https://api.github.com/repos/octocat/linguist/commits/d4c8fb8a28e91f97a7e53428a365c0abbac36d3d/comments",
+        "commit": {
+            "author": {
+                "date": "2015-02-12T15:11:53Z",
+                "email": "adam@roben.org",
+                "name": "Adam Roben"
+            },
+            "comment_count": 0,
+            "committer": {
+                "date": "2015-02-12T15:11:53Z",
+                "email": "adam@roben.org",
+                "name": "Adam Roben"
+            },
+            "message": "Add some linguist-documentation attributes",
+            "tree": {
+                "sha": "2bfedfc07845c231af2043ba0d3714317e132261",
+                "url": "https://api.github.com/repos/octocat/linguist/git/trees/2bfedfc07845c231af2043ba0d3714317e132261"
+            },
+            "url": "https://api.github.com/repos/octocat/linguist/git/commits/d4c8fb8a28e91f97a7e53428a365c0abbac36d3d",
+            "verification": {
+                "payload": null,
+                "reason": "unsigned",
+                "signature": null,
+                "verified": false
+            }
+        },
+        "committer": {
+            "avatar_url": "https://avatars2.githubusercontent.com/u/917945?v=4",
+            "events_url": "https://api.github.com/users/aroben/events{/privacy}",
+            "followers_url": "https://api.github.com/users/aroben/followers",
+            "following_url": "https://api.github.com/users/aroben/following{/other_user}",
+            "gists_url": "https://api.github.com/users/aroben/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/aroben",
+            "id": 917945,
+            "login": "aroben",
+            "organizations_url": "https://api.github.com/users/aroben/orgs",
+            "received_events_url": "https://api.github.com/users/aroben/received_events",
+            "repos_url": "https://api.github.com/users/aroben/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/aroben/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/aroben/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/aroben"
+        },
+        "html_url": "https://github.com/octocat/linguist/commit/d4c8fb8a28e91f97a7e53428a365c0abbac36d3d",
+        "parents": [
+            {
+                "html_url": "https://github.com/octocat/linguist/commit/351c1cc8fd57340839bdb400d7812332af80e9bd",
+                "sha": "351c1cc8fd57340839bdb400d7812332af80e9bd",
+                "url": "https://api.github.com/repos/octocat/linguist/commits/351c1cc8fd57340839bdb400d7812332af80e9bd"
+            }
+        ],
+        "sha": "d4c8fb8a28e91f97a7e53428a365c0abbac36d3d",
+        "url": "https://api.github.com/repos/octocat/linguist/commits/d4c8fb8a28e91f97a7e53428a365c0abbac36d3d"
     },
-    "url": "https://api.github.com/repos/octocat/linguist/commits/d4c8fb8a28e91f97a7e53428a365c0abbac36d3d",
-    "html_url": "https://github.com/octocat/linguist/commit/d4c8fb8a28e91f97a7e53428a365c0abbac36d3d",
-    "comments_url": "https://api.github.com/repos/octocat/linguist/commits/d4c8fb8a28e91f97a7e53428a365c0abbac36d3d/comments",
-    "author": {
-      "login": "aroben",
-      "id": 917945,
-      "avatar_url": "https://avatars2.githubusercontent.com/u/917945?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/aroben",
-      "html_url": "https://github.com/aroben",
-      "followers_url": "https://api.github.com/users/aroben/followers",
-      "following_url": "https://api.github.com/users/aroben/following{/other_user}",
-      "gists_url": "https://api.github.com/users/aroben/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/aroben/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/aroben/subscriptions",
-      "organizations_url": "https://api.github.com/users/aroben/orgs",
-      "repos_url": "https://api.github.com/users/aroben/repos",
-      "events_url": "https://api.github.com/users/aroben/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/aroben/received_events",
-      "type": "User",
-      "site_admin": false
+    "name": "test/attributes",
+    "protected": false,
+    "protection": {
+        "enabled": false,
+        "required_status_checks": {
+            "contexts": [],
+            "enforcement_level": "off"
+        }
     },
-    "committer": {
-      "login": "aroben",
-      "id": 917945,
-      "avatar_url": "https://avatars2.githubusercontent.com/u/917945?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/aroben",
-      "html_url": "https://github.com/aroben",
-      "followers_url": "https://api.github.com/users/aroben/followers",
-      "following_url": "https://api.github.com/users/aroben/following{/other_user}",
-      "gists_url": "https://api.github.com/users/aroben/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/aroben/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/aroben/subscriptions",
-      "organizations_url": "https://api.github.com/users/aroben/orgs",
-      "repos_url": "https://api.github.com/users/aroben/repos",
-      "events_url": "https://api.github.com/users/aroben/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/aroben/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "351c1cc8fd57340839bdb400d7812332af80e9bd",
-        "url": "https://api.github.com/repos/octocat/linguist/commits/351c1cc8fd57340839bdb400d7812332af80e9bd",
-        "html_url": "https://github.com/octocat/linguist/commit/351c1cc8fd57340839bdb400d7812332af80e9bd"
-      }
-    ]
-  },
-  "_links": {
-    "self": "https://api.github.com/repos/octocat/linguist/branches/test/attributes",
-    "html": "https://github.com/octocat/linguist/tree/test/attributes"
-  },
-  "protected": false,
-  "protection": {
-    "enabled": false,
-    "required_status_checks": {
-      "enforcement_level": "off",
-      "contexts": [
-
-      ]
-    }
-  },
-  "protection_url": "https://api.github.com/repos/octocat/linguist/branches/test/attributes/protection"
+    "protection_url": "https://api.github.com/repos/octocat/linguist/branches/test/attributes/protection"
 }

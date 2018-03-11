@@ -1,38 +1,38 @@
 {
-  "sha": "a6386100a27dce7c5c922f4d5f0b9d16508deec2",
-  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/a6386100a27dce7c5c922f4d5f0b9d16508deec2",
-  "html_url": "https://github.com/symfony/symfony-docs/commit/a6386100a27dce7c5c922f4d5f0b9d16508deec2",
-  "author": {
-    "name": "Christian Flothmann",
-    "email": "christian.flothmann@sensiolabs.de",
-    "date": "2017-02-03T16:11:38Z"
-  },
-  "committer": {
-    "name": "Christian Flothmann",
-    "email": "christian.flothmann@sensiolabs.de",
-    "date": "2017-02-03T16:11:38Z"
-  },
-  "tree": {
-    "sha": "9d96cbf0a71602c6c49f21335bc6bb9dfc721665",
-    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/9d96cbf0a71602c6c49f21335bc6bb9dfc721665"
-  },
-  "message": "Merge branch '2.8' into 3.1\n\n* 2.8:\n  [#7427] fix line length\n  Add apcu cache driver to doctrine config reference\n  Change type of arguments min and max\n  [#7383] minor rewording\n  Added a note about not using the ClassLoader component\n  Update guard_authentication.rst\n  More clear description of factory service creation\n  [#7376] minor wording improvement\n  Added a tip about the expanded YAML syntax\n  Added a minor help note about Request::setTrustedProxies\n  Fix Apache 2.4 UDS instructions\n  See #7362 bundles/override > Rewrite translations block",
-  "parents": [
-    {
-      "sha": "d6516cd6b78c85909e7cc3afbb05b1e246513fbb",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/d6516cd6b78c85909e7cc3afbb05b1e246513fbb",
-      "html_url": "https://github.com/symfony/symfony-docs/commit/d6516cd6b78c85909e7cc3afbb05b1e246513fbb"
+    "author": {
+        "date": "2017-02-03T16:11:38Z",
+        "email": "christian.flothmann@sensiolabs.de",
+        "name": "Christian Flothmann"
     },
-    {
-      "sha": "4a77589fa23dd9de78cfeb3114d00507c5f48c59",
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/4a77589fa23dd9de78cfeb3114d00507c5f48c59",
-      "html_url": "https://github.com/symfony/symfony-docs/commit/4a77589fa23dd9de78cfeb3114d00507c5f48c59"
+    "committer": {
+        "date": "2017-02-03T16:11:38Z",
+        "email": "christian.flothmann@sensiolabs.de",
+        "name": "Christian Flothmann"
+    },
+    "html_url": "https://github.com/symfony/symfony-docs/commit/a6386100a27dce7c5c922f4d5f0b9d16508deec2",
+    "message": "Merge branch '2.8' into 3.1\n\n* 2.8:\n  [#7427] fix line length\n  Add apcu cache driver to doctrine config reference\n  Change type of arguments min and max\n  [#7383] minor rewording\n  Added a note about not using the ClassLoader component\n  Update guard_authentication.rst\n  More clear description of factory service creation\n  [#7376] minor wording improvement\n  Added a tip about the expanded YAML syntax\n  Added a minor help note about Request::setTrustedProxies\n  Fix Apache 2.4 UDS instructions\n  See #7362 bundles/override > Rewrite translations block",
+    "parents": [
+        {
+            "html_url": "https://github.com/symfony/symfony-docs/commit/d6516cd6b78c85909e7cc3afbb05b1e246513fbb",
+            "sha": "d6516cd6b78c85909e7cc3afbb05b1e246513fbb",
+            "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/d6516cd6b78c85909e7cc3afbb05b1e246513fbb"
+        },
+        {
+            "html_url": "https://github.com/symfony/symfony-docs/commit/4a77589fa23dd9de78cfeb3114d00507c5f48c59",
+            "sha": "4a77589fa23dd9de78cfeb3114d00507c5f48c59",
+            "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/4a77589fa23dd9de78cfeb3114d00507c5f48c59"
+        }
+    ],
+    "sha": "a6386100a27dce7c5c922f4d5f0b9d16508deec2",
+    "tree": {
+        "sha": "9d96cbf0a71602c6c49f21335bc6bb9dfc721665",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/9d96cbf0a71602c6c49f21335bc6bb9dfc721665"
+    },
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/a6386100a27dce7c5c922f4d5f0b9d16508deec2",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

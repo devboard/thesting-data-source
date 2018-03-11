@@ -1,33 +1,33 @@
 {
-  "sha": "73cecef15e1d364d591fec95d3c819003182fdcd",
-  "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/73cecef15e1d364d591fec95d3c819003182fdcd",
-  "html_url": "https://github.com/nulldevelopmenthr/generator/commit/73cecef15e1d364d591fec95d3c819003182fdcd",
-  "author": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2017-01-08T13:16:28Z"
-  },
-  "committer": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2017-01-08T13:16:28Z"
-  },
-  "tree": {
-    "sha": "c1013f319d3226413c48ca90586d39b5f98cfe10",
-    "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/trees/c1013f319d3226413c48ca90586d39b5f98cfe10"
-  },
-  "message": "Upgrade phpspec.yml for phpspec 3.*",
-  "parents": [
-    {
-      "sha": "243322c4a3f2e7e559be44180c638a21311680e3",
-      "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/243322c4a3f2e7e559be44180c638a21311680e3",
-      "html_url": "https://github.com/nulldevelopmenthr/generator/commit/243322c4a3f2e7e559be44180c638a21311680e3"
+    "author": {
+        "date": "2017-01-08T13:16:28Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "committer": {
+        "date": "2017-01-08T13:16:28Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "html_url": "https://github.com/nulldevelopmenthr/generator/commit/73cecef15e1d364d591fec95d3c819003182fdcd",
+    "message": "Upgrade phpspec.yml for phpspec 3.*",
+    "parents": [
+        {
+            "html_url": "https://github.com/nulldevelopmenthr/generator/commit/243322c4a3f2e7e559be44180c638a21311680e3",
+            "sha": "243322c4a3f2e7e559be44180c638a21311680e3",
+            "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/243322c4a3f2e7e559be44180c638a21311680e3"
+        }
+    ],
+    "sha": "73cecef15e1d364d591fec95d3c819003182fdcd",
+    "tree": {
+        "sha": "c1013f319d3226413c48ca90586d39b5f98cfe10",
+        "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/trees/c1013f319d3226413c48ca90586d39b5f98cfe10"
+    },
+    "url": "https://api.github.com/repos/nulldevelopmenthr/generator/git/commits/73cecef15e1d364d591fec95d3c819003182fdcd",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

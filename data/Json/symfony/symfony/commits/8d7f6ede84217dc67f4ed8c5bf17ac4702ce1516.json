@@ -1,38 +1,38 @@
 {
-  "sha": "8d7f6ede84217dc67f4ed8c5bf17ac4702ce1516",
-  "url": "https://api.github.com/repos/symfony/symfony/git/commits/8d7f6ede84217dc67f4ed8c5bf17ac4702ce1516",
-  "html_url": "https://github.com/symfony/symfony/commit/8d7f6ede84217dc67f4ed8c5bf17ac4702ce1516",
-  "author": {
-    "name": "Christophe Coevoet",
-    "email": "stof@notk.org",
-    "date": "2017-11-17T14:27:47Z"
-  },
-  "committer": {
-    "name": "Christophe Coevoet",
-    "email": "stof@notk.org",
-    "date": "2017-11-17T14:27:47Z"
-  },
-  "tree": {
-    "sha": "4cd6515c4ff73c7691c23fafb8d201117409f187",
-    "url": "https://api.github.com/repos/symfony/symfony/git/trees/4cd6515c4ff73c7691c23fafb8d201117409f187"
-  },
-  "message": "bug #24991 [DependencyInjection] Single typed argument can be applied on multiple parameters (nicolas-grekas, sroze)\n\nThis PR was merged into the 3.4 branch.\n\nDiscussion\n----------\n\n[DependencyInjection] Single typed argument can be applied on multiple parameters\n\n| Q             | A\n| ------------- | ---\n| Branch?       | master\n| Bug fix?      | yes\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets | ø\n| License       | MIT\n| Doc PR        | ø\n\nI'm @nicolas-grekas' test writer today. This makes the argument resolution working when injecting the same type multiple times (sub-set of PR #24978)\n\nCommits\n-------\n\nd51265447d Test that named arguments are prioritized over typehinted\nbf7eeef3fb Prove that change is working with tests\n2176be74d8 [DI] Fix by-type args injection",
-  "parents": [
-    {
-      "sha": "2f19ddbd47867ec5fdde228e015f44eacedd4299",
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/2f19ddbd47867ec5fdde228e015f44eacedd4299",
-      "html_url": "https://github.com/symfony/symfony/commit/2f19ddbd47867ec5fdde228e015f44eacedd4299"
+    "author": {
+        "date": "2017-11-17T14:27:47Z",
+        "email": "stof@notk.org",
+        "name": "Christophe Coevoet"
     },
-    {
-      "sha": "d51265447ddc9e786f5cfb055448e4cf05912cf4",
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/d51265447ddc9e786f5cfb055448e4cf05912cf4",
-      "html_url": "https://github.com/symfony/symfony/commit/d51265447ddc9e786f5cfb055448e4cf05912cf4"
+    "committer": {
+        "date": "2017-11-17T14:27:47Z",
+        "email": "stof@notk.org",
+        "name": "Christophe Coevoet"
+    },
+    "html_url": "https://github.com/symfony/symfony/commit/8d7f6ede84217dc67f4ed8c5bf17ac4702ce1516",
+    "message": "bug #24991 [DependencyInjection] Single typed argument can be applied on multiple parameters (nicolas-grekas, sroze)\n\nThis PR was merged into the 3.4 branch.\n\nDiscussion\n----------\n\n[DependencyInjection] Single typed argument can be applied on multiple parameters\n\n| Q             | A\n| ------------- | ---\n| Branch?       | master\n| Bug fix?      | yes\n| New feature?  | no\n| BC breaks?    | no\n| Deprecations? | no\n| Tests pass?   | yes\n| Fixed tickets | \u00f8\n| License       | MIT\n| Doc PR        | \u00f8\n\nI'm @nicolas-grekas' test writer today. This makes the argument resolution working when injecting the same type multiple times (sub-set of PR #24978)\n\nCommits\n-------\n\nd51265447d Test that named arguments are prioritized over typehinted\nbf7eeef3fb Prove that change is working with tests\n2176be74d8 [DI] Fix by-type args injection",
+    "parents": [
+        {
+            "html_url": "https://github.com/symfony/symfony/commit/2f19ddbd47867ec5fdde228e015f44eacedd4299",
+            "sha": "2f19ddbd47867ec5fdde228e015f44eacedd4299",
+            "url": "https://api.github.com/repos/symfony/symfony/git/commits/2f19ddbd47867ec5fdde228e015f44eacedd4299"
+        },
+        {
+            "html_url": "https://github.com/symfony/symfony/commit/d51265447ddc9e786f5cfb055448e4cf05912cf4",
+            "sha": "d51265447ddc9e786f5cfb055448e4cf05912cf4",
+            "url": "https://api.github.com/repos/symfony/symfony/git/commits/d51265447ddc9e786f5cfb055448e4cf05912cf4"
+        }
+    ],
+    "sha": "8d7f6ede84217dc67f4ed8c5bf17ac4702ce1516",
+    "tree": {
+        "sha": "4cd6515c4ff73c7691c23fafb8d201117409f187",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/4cd6515c4ff73c7691c23fafb8d201117409f187"
+    },
+    "url": "https://api.github.com/repos/symfony/symfony/git/commits/8d7f6ede84217dc67f4ed8c5bf17ac4702ce1516",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

@@ -1,44 +1,44 @@
 [
-  {
-    "name": "0.3.x",
-    "commit": {
-      "sha": "905b94d3c8eda452f0945ce173e22b63be8c97a6",
-      "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/commits/905b94d3c8eda452f0945ce173e22b63be8c97a6"
+    {
+        "commit": {
+            "sha": "905b94d3c8eda452f0945ce173e22b63be8c97a6",
+            "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/commits/905b94d3c8eda452f0945ce173e22b63be8c97a6"
+        },
+        "name": "0.3.x"
+    },
+    {
+        "commit": {
+            "sha": "370a455f0e679243b97b66b38a120a3e33bfd1fb",
+            "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/commits/370a455f0e679243b97b66b38a120a3e33bfd1fb"
+        },
+        "name": "0.4.x"
+    },
+    {
+        "commit": {
+            "sha": "214023c12d389ee074248411f8e26d5d6e42a3c9",
+            "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/commits/214023c12d389ee074248411f8e26d5d6e42a3c9"
+        },
+        "name": "adding-bundle"
+    },
+    {
+        "commit": {
+            "sha": "8dfbe7f010caef3f02c92aa6c9adc9e1d99e01ca",
+            "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/commits/8dfbe7f010caef3f02c92aa6c9adc9e1d99e01ca"
+        },
+        "name": "dev"
+    },
+    {
+        "commit": {
+            "sha": "370a455f0e679243b97b66b38a120a3e33bfd1fb",
+            "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/commits/370a455f0e679243b97b66b38a120a3e33bfd1fb"
+        },
+        "name": "master"
+    },
+    {
+        "commit": {
+            "sha": "ca0f4ed011d2c546dcefa2a7f3d4cb92a805a7f7",
+            "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/commits/ca0f4ed011d2c546dcefa2a7f3d4cb92a805a7f7"
+        },
+        "name": "testing-out-bundle-via-version-branch"
     }
-  },
-  {
-    "name": "0.4.x",
-    "commit": {
-      "sha": "370a455f0e679243b97b66b38a120a3e33bfd1fb",
-      "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/commits/370a455f0e679243b97b66b38a120a3e33bfd1fb"
-    }
-  },
-  {
-    "name": "adding-bundle",
-    "commit": {
-      "sha": "214023c12d389ee074248411f8e26d5d6e42a3c9",
-      "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/commits/214023c12d389ee074248411f8e26d5d6e42a3c9"
-    }
-  },
-  {
-    "name": "dev",
-    "commit": {
-      "sha": "8dfbe7f010caef3f02c92aa6c9adc9e1d99e01ca",
-      "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/commits/8dfbe7f010caef3f02c92aa6c9adc9e1d99e01ca"
-    }
-  },
-  {
-    "name": "master",
-    "commit": {
-      "sha": "370a455f0e679243b97b66b38a120a3e33bfd1fb",
-      "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/commits/370a455f0e679243b97b66b38a120a3e33bfd1fb"
-    }
-  },
-  {
-    "name": "testing-out-bundle-via-version-branch",
-    "commit": {
-      "sha": "ca0f4ed011d2c546dcefa2a7f3d4cb92a805a7f7",
-      "url": "https://api.github.com/repos/msvrtan/skeleton-sandbox/commits/ca0f4ed011d2c546dcefa2a7f3d4cb92a805a7f7"
-    }
-  }
 ]

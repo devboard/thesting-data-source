@@ -1,38 +1,38 @@
 {
-  "sha": "24cc86498d1c26919ed5c81e5c6da9e738306511",
-  "url": "https://api.github.com/repos/symfony/symfony/git/commits/24cc86498d1c26919ed5c81e5c6da9e738306511",
-  "html_url": "https://github.com/symfony/symfony/commit/24cc86498d1c26919ed5c81e5c6da9e738306511",
-  "author": {
-    "name": "Fabien Potencier",
-    "email": "fabien.potencier@gmail.com",
-    "date": "2011-03-29T09:29:33Z"
-  },
-  "committer": {
-    "name": "Fabien Potencier",
-    "email": "fabien.potencier@gmail.com",
-    "date": "2011-03-29T09:29:33Z"
-  },
-  "tree": {
-    "sha": "00c585ab028eb87cb2a010567ff14aaa64e7cd57",
-    "url": "https://api.github.com/repos/symfony/symfony/git/trees/00c585ab028eb87cb2a010567ff14aaa64e7cd57"
-  },
-  "message": "Merge remote branch 'hidenorigoto/translate-UPDATE-file'\n\n* hidenorigoto/translate-UPDATE-file:\n  translated UPDATE.md file into Japanese",
-  "parents": [
-    {
-      "sha": "9ce549d313b98c6b7477776e2f036999388ea463",
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/9ce549d313b98c6b7477776e2f036999388ea463",
-      "html_url": "https://github.com/symfony/symfony/commit/9ce549d313b98c6b7477776e2f036999388ea463"
+    "author": {
+        "date": "2011-03-29T09:29:33Z",
+        "email": "fabien.potencier@gmail.com",
+        "name": "Fabien Potencier"
     },
-    {
-      "sha": "5c93687289c6312bf29850bb0fb778acb2e89f5d",
-      "url": "https://api.github.com/repos/symfony/symfony/git/commits/5c93687289c6312bf29850bb0fb778acb2e89f5d",
-      "html_url": "https://github.com/symfony/symfony/commit/5c93687289c6312bf29850bb0fb778acb2e89f5d"
+    "committer": {
+        "date": "2011-03-29T09:29:33Z",
+        "email": "fabien.potencier@gmail.com",
+        "name": "Fabien Potencier"
+    },
+    "html_url": "https://github.com/symfony/symfony/commit/24cc86498d1c26919ed5c81e5c6da9e738306511",
+    "message": "Merge remote branch 'hidenorigoto/translate-UPDATE-file'\n\n* hidenorigoto/translate-UPDATE-file:\n  translated UPDATE.md file into Japanese",
+    "parents": [
+        {
+            "html_url": "https://github.com/symfony/symfony/commit/9ce549d313b98c6b7477776e2f036999388ea463",
+            "sha": "9ce549d313b98c6b7477776e2f036999388ea463",
+            "url": "https://api.github.com/repos/symfony/symfony/git/commits/9ce549d313b98c6b7477776e2f036999388ea463"
+        },
+        {
+            "html_url": "https://github.com/symfony/symfony/commit/5c93687289c6312bf29850bb0fb778acb2e89f5d",
+            "sha": "5c93687289c6312bf29850bb0fb778acb2e89f5d",
+            "url": "https://api.github.com/repos/symfony/symfony/git/commits/5c93687289c6312bf29850bb0fb778acb2e89f5d"
+        }
+    ],
+    "sha": "24cc86498d1c26919ed5c81e5c6da9e738306511",
+    "tree": {
+        "sha": "00c585ab028eb87cb2a010567ff14aaa64e7cd57",
+        "url": "https://api.github.com/repos/symfony/symfony/git/trees/00c585ab028eb87cb2a010567ff14aaa64e7cd57"
+    },
+    "url": "https://api.github.com/repos/symfony/symfony/git/commits/24cc86498d1c26919ed5c81e5c6da9e738306511",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

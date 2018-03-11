@@ -1,33 +1,33 @@
 {
-  "sha": "3a9796cf19902af0f7e677391b340f1ae4128433",
-  "url": "https://api.github.com/repos/octocat/octocat.github.io/git/commits/3a9796cf19902af0f7e677391b340f1ae4128433",
-  "html_url": "https://github.com/octocat/octocat.github.io/commit/3a9796cf19902af0f7e677391b340f1ae4128433",
-  "author": {
-    "name": "The Octocat",
-    "email": "octocat@nowhere.com",
-    "date": "2015-11-14T22:22:36Z"
-  },
-  "committer": {
-    "name": "The Octocat",
-    "email": "octocat@nowhere.com",
-    "date": "2015-11-14T22:22:36Z"
-  },
-  "tree": {
-    "sha": "3fafbb15b5ef6b944e738a0272ddb8b3a4088b0b",
-    "url": "https://api.github.com/repos/octocat/octocat.github.io/git/trees/3fafbb15b5ef6b944e738a0272ddb8b3a4088b0b"
-  },
-  "message": "Replace master branch with page content via GitHub",
-  "parents": [
-    {
-      "sha": "e2daa5755ee24217f39a10dc6b94988c19e0f109",
-      "url": "https://api.github.com/repos/octocat/octocat.github.io/git/commits/e2daa5755ee24217f39a10dc6b94988c19e0f109",
-      "html_url": "https://github.com/octocat/octocat.github.io/commit/e2daa5755ee24217f39a10dc6b94988c19e0f109"
+    "author": {
+        "date": "2015-11-14T22:22:36Z",
+        "email": "octocat@nowhere.com",
+        "name": "The Octocat"
+    },
+    "committer": {
+        "date": "2015-11-14T22:22:36Z",
+        "email": "octocat@nowhere.com",
+        "name": "The Octocat"
+    },
+    "html_url": "https://github.com/octocat/octocat.github.io/commit/3a9796cf19902af0f7e677391b340f1ae4128433",
+    "message": "Replace master branch with page content via GitHub",
+    "parents": [
+        {
+            "html_url": "https://github.com/octocat/octocat.github.io/commit/e2daa5755ee24217f39a10dc6b94988c19e0f109",
+            "sha": "e2daa5755ee24217f39a10dc6b94988c19e0f109",
+            "url": "https://api.github.com/repos/octocat/octocat.github.io/git/commits/e2daa5755ee24217f39a10dc6b94988c19e0f109"
+        }
+    ],
+    "sha": "3a9796cf19902af0f7e677391b340f1ae4128433",
+    "tree": {
+        "sha": "3fafbb15b5ef6b944e738a0272ddb8b3a4088b0b",
+        "url": "https://api.github.com/repos/octocat/octocat.github.io/git/trees/3fafbb15b5ef6b944e738a0272ddb8b3a4088b0b"
+    },
+    "url": "https://api.github.com/repos/octocat/octocat.github.io/git/commits/3a9796cf19902af0f7e677391b340f1ae4128433",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

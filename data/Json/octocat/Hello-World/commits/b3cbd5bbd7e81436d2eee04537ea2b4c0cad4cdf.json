@@ -1,33 +1,33 @@
 {
-  "sha": "b3cbd5bbd7e81436d2eee04537ea2b4c0cad4cdf",
-  "url": "https://api.github.com/repos/octocat/Hello-World/git/commits/b3cbd5bbd7e81436d2eee04537ea2b4c0cad4cdf",
-  "html_url": "https://github.com/octocat/Hello-World/commit/b3cbd5bbd7e81436d2eee04537ea2b4c0cad4cdf",
-  "author": {
-    "name": "The Octocat",
-    "email": "octocat@nowhere.com",
-    "date": "2014-06-10T22:22:26Z"
-  },
-  "committer": {
-    "name": "The Octocat",
-    "email": "octocat@nowhere.com",
-    "date": "2014-06-10T22:22:26Z"
-  },
-  "tree": {
-    "sha": "a99769c0f635bfd0610ee7a6c2f2b864fa23f3dc",
-    "url": "https://api.github.com/repos/octocat/Hello-World/git/trees/a99769c0f635bfd0610ee7a6c2f2b864fa23f3dc"
-  },
-  "message": "Create CONTRIBUTING.md",
-  "parents": [
-    {
-      "sha": "7fd1a60b01f91b314f59955a4e4d4e80d8edf11d",
-      "url": "https://api.github.com/repos/octocat/Hello-World/git/commits/7fd1a60b01f91b314f59955a4e4d4e80d8edf11d",
-      "html_url": "https://github.com/octocat/Hello-World/commit/7fd1a60b01f91b314f59955a4e4d4e80d8edf11d"
+    "author": {
+        "date": "2014-06-10T22:22:26Z",
+        "email": "octocat@nowhere.com",
+        "name": "The Octocat"
+    },
+    "committer": {
+        "date": "2014-06-10T22:22:26Z",
+        "email": "octocat@nowhere.com",
+        "name": "The Octocat"
+    },
+    "html_url": "https://github.com/octocat/Hello-World/commit/b3cbd5bbd7e81436d2eee04537ea2b4c0cad4cdf",
+    "message": "Create CONTRIBUTING.md",
+    "parents": [
+        {
+            "html_url": "https://github.com/octocat/Hello-World/commit/7fd1a60b01f91b314f59955a4e4d4e80d8edf11d",
+            "sha": "7fd1a60b01f91b314f59955a4e4d4e80d8edf11d",
+            "url": "https://api.github.com/repos/octocat/Hello-World/git/commits/7fd1a60b01f91b314f59955a4e4d4e80d8edf11d"
+        }
+    ],
+    "sha": "b3cbd5bbd7e81436d2eee04537ea2b4c0cad4cdf",
+    "tree": {
+        "sha": "a99769c0f635bfd0610ee7a6c2f2b864fa23f3dc",
+        "url": "https://api.github.com/repos/octocat/Hello-World/git/trees/a99769c0f635bfd0610ee7a6c2f2b864fa23f3dc"
+    },
+    "url": "https://api.github.com/repos/octocat/Hello-World/git/commits/b3cbd5bbd7e81436d2eee04537ea2b4c0cad4cdf",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

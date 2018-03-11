@@ -1,99 +1,97 @@
 {
-  "name": "2.6",
-  "commit": {
-    "sha": "149576e043a8b47f3ef51fb81825ccc65fb4f0ec",
+    "_links": {
+        "html": "https://github.com/symfony/symfony-docs/tree/2.6",
+        "self": "https://api.github.com/repos/symfony/symfony-docs/branches/2.6"
+    },
     "commit": {
-      "author": {
-        "name": "WouterJ",
-        "email": "waldio.webdesign@gmail.com",
-        "date": "2015-07-29T15:09:46Z"
-      },
-      "committer": {
-        "name": "WouterJ",
-        "email": "waldio.webdesign@gmail.com",
-        "date": "2015-07-29T15:09:46Z"
-      },
-      "message": "feature #5310 Fix missing note about debug.dump_destination (nicolas-grekas)\n\nThis PR was merged into the 2.6 branch.\n\nDiscussion\n----------\n\nFix missing note about debug.dump_destination\n\n| Q             | A\n| ------------- | ---\n| Doc fix?      | yes\n| New docs?     | yes\n| Applies to    | all\n| Fixed tickets | #5275\n\nCommits\n-------\n\ndae2811 Fix missing note about debug.dump_destination",
-      "tree": {
-        "sha": "6e40bf11f1ede1148284d83f9e8c80a4a505995d",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/6e40bf11f1ede1148284d83f9e8c80a4a505995d"
-      },
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/149576e043a8b47f3ef51fb81825ccc65fb4f0ec",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
+        "author": {
+            "avatar_url": "https://avatars2.githubusercontent.com/u/749025?v=4",
+            "events_url": "https://api.github.com/users/wouterj/events{/privacy}",
+            "followers_url": "https://api.github.com/users/wouterj/followers",
+            "following_url": "https://api.github.com/users/wouterj/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wouterj/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/wouterj",
+            "id": 749025,
+            "login": "wouterj",
+            "organizations_url": "https://api.github.com/users/wouterj/orgs",
+            "received_events_url": "https://api.github.com/users/wouterj/received_events",
+            "repos_url": "https://api.github.com/users/wouterj/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/wouterj/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wouterj/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/wouterj"
+        },
+        "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/149576e043a8b47f3ef51fb81825ccc65fb4f0ec/comments",
+        "commit": {
+            "author": {
+                "date": "2015-07-29T15:09:46Z",
+                "email": "waldio.webdesign@gmail.com",
+                "name": "WouterJ"
+            },
+            "comment_count": 0,
+            "committer": {
+                "date": "2015-07-29T15:09:46Z",
+                "email": "waldio.webdesign@gmail.com",
+                "name": "WouterJ"
+            },
+            "message": "feature #5310 Fix missing note about debug.dump_destination (nicolas-grekas)\n\nThis PR was merged into the 2.6 branch.\n\nDiscussion\n----------\n\nFix missing note about debug.dump_destination\n\n| Q             | A\n| ------------- | ---\n| Doc fix?      | yes\n| New docs?     | yes\n| Applies to    | all\n| Fixed tickets | #5275\n\nCommits\n-------\n\ndae2811 Fix missing note about debug.dump_destination",
+            "tree": {
+                "sha": "6e40bf11f1ede1148284d83f9e8c80a4a505995d",
+                "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/6e40bf11f1ede1148284d83f9e8c80a4a505995d"
+            },
+            "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/149576e043a8b47f3ef51fb81825ccc65fb4f0ec",
+            "verification": {
+                "payload": null,
+                "reason": "unsigned",
+                "signature": null,
+                "verified": false
+            }
+        },
+        "committer": {
+            "avatar_url": "https://avatars2.githubusercontent.com/u/749025?v=4",
+            "events_url": "https://api.github.com/users/wouterj/events{/privacy}",
+            "followers_url": "https://api.github.com/users/wouterj/followers",
+            "following_url": "https://api.github.com/users/wouterj/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wouterj/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/wouterj",
+            "id": 749025,
+            "login": "wouterj",
+            "organizations_url": "https://api.github.com/users/wouterj/orgs",
+            "received_events_url": "https://api.github.com/users/wouterj/received_events",
+            "repos_url": "https://api.github.com/users/wouterj/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/wouterj/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wouterj/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/wouterj"
+        },
+        "html_url": "https://github.com/symfony/symfony-docs/commit/149576e043a8b47f3ef51fb81825ccc65fb4f0ec",
+        "parents": [
+            {
+                "html_url": "https://github.com/symfony/symfony-docs/commit/f67c353b576d5b1e65d72b36db939b85f1833913",
+                "sha": "f67c353b576d5b1e65d72b36db939b85f1833913",
+                "url": "https://api.github.com/repos/symfony/symfony-docs/commits/f67c353b576d5b1e65d72b36db939b85f1833913"
+            },
+            {
+                "html_url": "https://github.com/symfony/symfony-docs/commit/dae28115f5b9395e7a28c0ee125c4f755efeeb9a",
+                "sha": "dae28115f5b9395e7a28c0ee125c4f755efeeb9a",
+                "url": "https://api.github.com/repos/symfony/symfony-docs/commits/dae28115f5b9395e7a28c0ee125c4f755efeeb9a"
+            }
+        ],
+        "sha": "149576e043a8b47f3ef51fb81825ccc65fb4f0ec",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/149576e043a8b47f3ef51fb81825ccc65fb4f0ec"
     },
-    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/149576e043a8b47f3ef51fb81825ccc65fb4f0ec",
-    "html_url": "https://github.com/symfony/symfony-docs/commit/149576e043a8b47f3ef51fb81825ccc65fb4f0ec",
-    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/149576e043a8b47f3ef51fb81825ccc65fb4f0ec/comments",
-    "author": {
-      "login": "wouterj",
-      "id": 749025,
-      "avatar_url": "https://avatars2.githubusercontent.com/u/749025?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/wouterj",
-      "html_url": "https://github.com/wouterj",
-      "followers_url": "https://api.github.com/users/wouterj/followers",
-      "following_url": "https://api.github.com/users/wouterj/following{/other_user}",
-      "gists_url": "https://api.github.com/users/wouterj/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/wouterj/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/wouterj/subscriptions",
-      "organizations_url": "https://api.github.com/users/wouterj/orgs",
-      "repos_url": "https://api.github.com/users/wouterj/repos",
-      "events_url": "https://api.github.com/users/wouterj/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/wouterj/received_events",
-      "type": "User",
-      "site_admin": false
+    "name": "2.6",
+    "protected": false,
+    "protection": {
+        "enabled": false,
+        "required_status_checks": {
+            "contexts": [],
+            "enforcement_level": "off"
+        }
     },
-    "committer": {
-      "login": "wouterj",
-      "id": 749025,
-      "avatar_url": "https://avatars2.githubusercontent.com/u/749025?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/wouterj",
-      "html_url": "https://github.com/wouterj",
-      "followers_url": "https://api.github.com/users/wouterj/followers",
-      "following_url": "https://api.github.com/users/wouterj/following{/other_user}",
-      "gists_url": "https://api.github.com/users/wouterj/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/wouterj/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/wouterj/subscriptions",
-      "organizations_url": "https://api.github.com/users/wouterj/orgs",
-      "repos_url": "https://api.github.com/users/wouterj/repos",
-      "events_url": "https://api.github.com/users/wouterj/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/wouterj/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "f67c353b576d5b1e65d72b36db939b85f1833913",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/f67c353b576d5b1e65d72b36db939b85f1833913",
-        "html_url": "https://github.com/symfony/symfony-docs/commit/f67c353b576d5b1e65d72b36db939b85f1833913"
-      },
-      {
-        "sha": "dae28115f5b9395e7a28c0ee125c4f755efeeb9a",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/dae28115f5b9395e7a28c0ee125c4f755efeeb9a",
-        "html_url": "https://github.com/symfony/symfony-docs/commit/dae28115f5b9395e7a28c0ee125c4f755efeeb9a"
-      }
-    ]
-  },
-  "_links": {
-    "self": "https://api.github.com/repos/symfony/symfony-docs/branches/2.6",
-    "html": "https://github.com/symfony/symfony-docs/tree/2.6"
-  },
-  "protected": false,
-  "protection": {
-    "enabled": false,
-    "required_status_checks": {
-      "enforcement_level": "off",
-      "contexts": [
-
-      ]
-    }
-  },
-  "protection_url": "https://api.github.com/repos/symfony/symfony-docs/branches/2.6/protection"
+    "protection_url": "https://api.github.com/repos/symfony/symfony-docs/branches/2.6/protection"
 }

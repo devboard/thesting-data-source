@@ -1,38 +1,38 @@
 {
-  "sha": "9f8247b3e7d0f349f67b11cbfe94d1d333fb2134",
-  "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/9f8247b3e7d0f349f67b11cbfe94d1d333fb2134",
-  "html_url": "https://github.com/msvrtan/broadway/commit/9f8247b3e7d0f349f67b11cbfe94d1d333fb2134",
-  "author": {
-    "name": "Willem-Jan Zijderveld",
-    "email": "wjzijderveld@gmail.com",
-    "date": "2015-06-29T07:43:39Z"
-  },
-  "committer": {
-    "name": "Willem-Jan Zijderveld",
-    "email": "wjzijderveld@gmail.com",
-    "date": "2015-06-29T07:43:39Z"
-  },
-  "tree": {
-    "sha": "043217a4d1d722bff5c454c1d4c37fa4bf034e71",
-    "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/043217a4d1d722bff5c454c1d4c37fa4bf034e71"
-  },
-  "message": "Merge pull request #165 from tPl0ch/feature-select-connection\n\nIt's now possible to select the connection in the Bundle's Schema commands",
-  "parents": [
-    {
-      "sha": "a71079253ee099e6584d60902c0e28867cd878a4",
-      "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/a71079253ee099e6584d60902c0e28867cd878a4",
-      "html_url": "https://github.com/msvrtan/broadway/commit/a71079253ee099e6584d60902c0e28867cd878a4"
+    "author": {
+        "date": "2015-06-29T07:43:39Z",
+        "email": "wjzijderveld@gmail.com",
+        "name": "Willem-Jan Zijderveld"
     },
-    {
-      "sha": "b957ae9e069540d4a882451f32e193086cebebf3",
-      "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/b957ae9e069540d4a882451f32e193086cebebf3",
-      "html_url": "https://github.com/msvrtan/broadway/commit/b957ae9e069540d4a882451f32e193086cebebf3"
+    "committer": {
+        "date": "2015-06-29T07:43:39Z",
+        "email": "wjzijderveld@gmail.com",
+        "name": "Willem-Jan Zijderveld"
+    },
+    "html_url": "https://github.com/msvrtan/broadway/commit/9f8247b3e7d0f349f67b11cbfe94d1d333fb2134",
+    "message": "Merge pull request #165 from tPl0ch/feature-select-connection\n\nIt's now possible to select the connection in the Bundle's Schema commands",
+    "parents": [
+        {
+            "html_url": "https://github.com/msvrtan/broadway/commit/a71079253ee099e6584d60902c0e28867cd878a4",
+            "sha": "a71079253ee099e6584d60902c0e28867cd878a4",
+            "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/a71079253ee099e6584d60902c0e28867cd878a4"
+        },
+        {
+            "html_url": "https://github.com/msvrtan/broadway/commit/b957ae9e069540d4a882451f32e193086cebebf3",
+            "sha": "b957ae9e069540d4a882451f32e193086cebebf3",
+            "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/b957ae9e069540d4a882451f32e193086cebebf3"
+        }
+    ],
+    "sha": "9f8247b3e7d0f349f67b11cbfe94d1d333fb2134",
+    "tree": {
+        "sha": "043217a4d1d722bff5c454c1d4c37fa4bf034e71",
+        "url": "https://api.github.com/repos/msvrtan/broadway/git/trees/043217a4d1d722bff5c454c1d4c37fa4bf034e71"
+    },
+    "url": "https://api.github.com/repos/msvrtan/broadway/git/commits/9f8247b3e7d0f349f67b11cbfe94d1d333fb2134",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

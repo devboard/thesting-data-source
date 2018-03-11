@@ -1,1 +1,9 @@
-{"name":"v0.6.1","zipball_url":"https:\/\/api.github.com\/repos\/nulldevelopmenthr\/generator\/zipball\/v0.6.1","tarball_url":"https:\/\/api.github.com\/repos\/nulldevelopmenthr\/generator\/tarball\/v0.6.1","commit":{"sha":"26b700ed5c91cb683d06d7eae9b2c0161ea1dd9f","url":"https:\/\/api.github.com\/repos\/nulldevelopmenthr\/generator\/commits\/26b700ed5c91cb683d06d7eae9b2c0161ea1dd9f"}}
+{
+    "commit": {
+        "sha": "26b700ed5c91cb683d06d7eae9b2c0161ea1dd9f",
+        "url": "https://api.github.com/repos/nulldevelopmenthr/generator/commits/26b700ed5c91cb683d06d7eae9b2c0161ea1dd9f"
+    },
+    "name": "v0.6.1",
+    "tarball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/tarball/v0.6.1",
+    "zipball_url": "https://api.github.com/repos/nulldevelopmenthr/generator/zipball/v0.6.1"
+}

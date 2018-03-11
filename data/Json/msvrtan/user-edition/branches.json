@@ -1,44 +1,44 @@
 [
-  {
-    "name": "adding-fos-user-bundle",
-    "commit": {
-      "sha": "851a630d2ef037713e88fe69e9522d933010c37d",
-      "url": "https://api.github.com/repos/msvrtan/user-edition/commits/851a630d2ef037713e88fe69e9522d933010c37d"
+    {
+        "commit": {
+            "sha": "851a630d2ef037713e88fe69e9522d933010c37d",
+            "url": "https://api.github.com/repos/msvrtan/user-edition/commits/851a630d2ef037713e88fe69e9522d933010c37d"
+        },
+        "name": "adding-fos-user-bundle"
+    },
+    {
+        "commit": {
+            "sha": "6d23c4c8569f032cf834abd459fe589915658827",
+            "url": "https://api.github.com/repos/msvrtan/user-edition/commits/6d23c4c8569f032cf834abd459fe589915658827"
+        },
+        "name": "dev"
+    },
+    {
+        "commit": {
+            "sha": "1e93967775f3cf52b6473900441c8edd8a68828a",
+            "url": "https://api.github.com/repos/msvrtan/user-edition/commits/1e93967775f3cf52b6473900441c8edd8a68828a"
+        },
+        "name": "master"
+    },
+    {
+        "commit": {
+            "sha": "e20788b9f6f2350e704fa62967c0fde3aabfe19b",
+            "url": "https://api.github.com/repos/msvrtan/user-edition/commits/e20788b9f6f2350e704fa62967c0fde3aabfe19b"
+        },
+        "name": "mergez"
+    },
+    {
+        "commit": {
+            "sha": "1e93967775f3cf52b6473900441c8edd8a68828a",
+            "url": "https://api.github.com/repos/msvrtan/user-edition/commits/1e93967775f3cf52b6473900441c8edd8a68828a"
+        },
+        "name": "rebajz"
+    },
+    {
+        "commit": {
+            "sha": "b4384b92f3094c003e47fc7fd3f6a1f635691a6d",
+            "url": "https://api.github.com/repos/msvrtan/user-edition/commits/b4384b92f3094c003e47fc7fd3f6a1f635691a6d"
+        },
+        "name": "rebased-version"
     }
-  },
-  {
-    "name": "dev",
-    "commit": {
-      "sha": "6d23c4c8569f032cf834abd459fe589915658827",
-      "url": "https://api.github.com/repos/msvrtan/user-edition/commits/6d23c4c8569f032cf834abd459fe589915658827"
-    }
-  },
-  {
-    "name": "master",
-    "commit": {
-      "sha": "1e93967775f3cf52b6473900441c8edd8a68828a",
-      "url": "https://api.github.com/repos/msvrtan/user-edition/commits/1e93967775f3cf52b6473900441c8edd8a68828a"
-    }
-  },
-  {
-    "name": "mergez",
-    "commit": {
-      "sha": "e20788b9f6f2350e704fa62967c0fde3aabfe19b",
-      "url": "https://api.github.com/repos/msvrtan/user-edition/commits/e20788b9f6f2350e704fa62967c0fde3aabfe19b"
-    }
-  },
-  {
-    "name": "rebajz",
-    "commit": {
-      "sha": "1e93967775f3cf52b6473900441c8edd8a68828a",
-      "url": "https://api.github.com/repos/msvrtan/user-edition/commits/1e93967775f3cf52b6473900441c8edd8a68828a"
-    }
-  },
-  {
-    "name": "rebased-version",
-    "commit": {
-      "sha": "b4384b92f3094c003e47fc7fd3f6a1f635691a6d",
-      "url": "https://api.github.com/repos/msvrtan/user-edition/commits/b4384b92f3094c003e47fc7fd3f6a1f635691a6d"
-    }
-  }
 ]

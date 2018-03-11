@@ -1,94 +1,92 @@
 {
-  "name": "shippable-docker",
-  "commit": {
-    "sha": "8dfdc660f75a7310f859369495e1431a80da22aa",
+    "_links": {
+        "html": "https://github.com/msvrtan/starter-edition/tree/shippable-docker",
+        "self": "https://api.github.com/repos/msvrtan/starter-edition/branches/shippable-docker"
+    },
     "commit": {
-      "author": {
-        "name": "Miro Svrtan",
-        "email": "miro@mirosvrtan.me",
-        "date": "2016-10-23T01:56:14Z"
-      },
-      "committer": {
-        "name": "Miro Svrtan",
-        "email": "miro@mirosvrtan.me",
-        "date": "2016-10-23T11:49:30Z"
-      },
-      "message": "working on running docker on shippable",
-      "tree": {
-        "sha": "7d604ccd81ffaea0addfed98614ed76f6a9eb6cc",
-        "url": "https://api.github.com/repos/msvrtan/starter-edition/git/trees/7d604ccd81ffaea0addfed98614ed76f6a9eb6cc"
-      },
-      "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/8dfdc660f75a7310f859369495e1431a80da22aa",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+            "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+            "followers_url": "https://api.github.com/users/msvrtan/followers",
+            "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+            "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/msvrtan",
+            "id": 1780572,
+            "login": "msvrtan",
+            "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+            "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+            "repos_url": "https://api.github.com/users/msvrtan/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/msvrtan"
+        },
+        "comments_url": "https://api.github.com/repos/msvrtan/starter-edition/commits/8dfdc660f75a7310f859369495e1431a80da22aa/comments",
+        "commit": {
+            "author": {
+                "date": "2016-10-23T01:56:14Z",
+                "email": "miro@mirosvrtan.me",
+                "name": "Miro Svrtan"
+            },
+            "comment_count": 0,
+            "committer": {
+                "date": "2016-10-23T11:49:30Z",
+                "email": "miro@mirosvrtan.me",
+                "name": "Miro Svrtan"
+            },
+            "message": "working on running docker on shippable",
+            "tree": {
+                "sha": "7d604ccd81ffaea0addfed98614ed76f6a9eb6cc",
+                "url": "https://api.github.com/repos/msvrtan/starter-edition/git/trees/7d604ccd81ffaea0addfed98614ed76f6a9eb6cc"
+            },
+            "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/8dfdc660f75a7310f859369495e1431a80da22aa",
+            "verification": {
+                "payload": null,
+                "reason": "unsigned",
+                "signature": null,
+                "verified": false
+            }
+        },
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+            "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+            "followers_url": "https://api.github.com/users/msvrtan/followers",
+            "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+            "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/msvrtan",
+            "id": 1780572,
+            "login": "msvrtan",
+            "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+            "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+            "repos_url": "https://api.github.com/users/msvrtan/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/msvrtan"
+        },
+        "html_url": "https://github.com/msvrtan/starter-edition/commit/8dfdc660f75a7310f859369495e1431a80da22aa",
+        "parents": [
+            {
+                "html_url": "https://github.com/msvrtan/starter-edition/commit/5789089dcd5d9e580a811eb85ce4ca09e44c416d",
+                "sha": "5789089dcd5d9e580a811eb85ce4ca09e44c416d",
+                "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/5789089dcd5d9e580a811eb85ce4ca09e44c416d"
+            }
+        ],
+        "sha": "8dfdc660f75a7310f859369495e1431a80da22aa",
+        "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/8dfdc660f75a7310f859369495e1431a80da22aa"
     },
-    "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/8dfdc660f75a7310f859369495e1431a80da22aa",
-    "html_url": "https://github.com/msvrtan/starter-edition/commit/8dfdc660f75a7310f859369495e1431a80da22aa",
-    "comments_url": "https://api.github.com/repos/msvrtan/starter-edition/commits/8dfdc660f75a7310f859369495e1431a80da22aa/comments",
-    "author": {
-      "login": "msvrtan",
-      "id": 1780572,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/msvrtan",
-      "html_url": "https://github.com/msvrtan",
-      "followers_url": "https://api.github.com/users/msvrtan/followers",
-      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
-      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
-      "repos_url": "https://api.github.com/users/msvrtan/repos",
-      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
-      "type": "User",
-      "site_admin": false
+    "name": "shippable-docker",
+    "protected": false,
+    "protection": {
+        "enabled": false,
+        "required_status_checks": {
+            "contexts": [],
+            "enforcement_level": "off"
+        }
     },
-    "committer": {
-      "login": "msvrtan",
-      "id": 1780572,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/msvrtan",
-      "html_url": "https://github.com/msvrtan",
-      "followers_url": "https://api.github.com/users/msvrtan/followers",
-      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
-      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
-      "repos_url": "https://api.github.com/users/msvrtan/repos",
-      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "5789089dcd5d9e580a811eb85ce4ca09e44c416d",
-        "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/5789089dcd5d9e580a811eb85ce4ca09e44c416d",
-        "html_url": "https://github.com/msvrtan/starter-edition/commit/5789089dcd5d9e580a811eb85ce4ca09e44c416d"
-      }
-    ]
-  },
-  "_links": {
-    "self": "https://api.github.com/repos/msvrtan/starter-edition/branches/shippable-docker",
-    "html": "https://github.com/msvrtan/starter-edition/tree/shippable-docker"
-  },
-  "protected": false,
-  "protection": {
-    "enabled": false,
-    "required_status_checks": {
-      "enforcement_level": "off",
-      "contexts": [
-
-      ]
-    }
-  },
-  "protection_url": "https://api.github.com/repos/msvrtan/starter-edition/branches/shippable-docker/protection"
+    "protection_url": "https://api.github.com/repos/msvrtan/starter-edition/branches/shippable-docker/protection"
 }

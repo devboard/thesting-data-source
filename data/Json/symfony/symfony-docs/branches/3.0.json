@@ -1,99 +1,97 @@
 {
-  "name": "3.0",
-  "commit": {
-    "sha": "49492b7dc1c4961350c200004c106c7b562e6ed7",
+    "_links": {
+        "html": "https://github.com/symfony/symfony-docs/tree/3.0",
+        "self": "https://api.github.com/repos/symfony/symfony-docs/branches/3.0"
+    },
     "commit": {
-      "author": {
-        "name": "Ryan Weaver",
-        "email": "ryan@thatsquality.com",
-        "date": "2016-09-18T23:42:01Z"
-      },
-      "committer": {
-        "name": "Ryan Weaver",
-        "email": "ryan@thatsquality.com",
-        "date": "2016-09-18T23:42:01Z"
-      },
-      "message": "Merge remote-tracking branch 'origin/3.0' into 3.0\n\n* origin/3.0:\n  Remove reference to profiler lifetime property that was removed in 3.x",
-      "tree": {
-        "sha": "7360793f20f4910a4e8dd71a2fdefa774532ba4e",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/7360793f20f4910a4e8dd71a2fdefa774532ba4e"
-      },
-      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/49492b7dc1c4961350c200004c106c7b562e6ed7",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/121003?v=4",
+            "events_url": "https://api.github.com/users/weaverryan/events{/privacy}",
+            "followers_url": "https://api.github.com/users/weaverryan/followers",
+            "following_url": "https://api.github.com/users/weaverryan/following{/other_user}",
+            "gists_url": "https://api.github.com/users/weaverryan/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/weaverryan",
+            "id": 121003,
+            "login": "weaverryan",
+            "organizations_url": "https://api.github.com/users/weaverryan/orgs",
+            "received_events_url": "https://api.github.com/users/weaverryan/received_events",
+            "repos_url": "https://api.github.com/users/weaverryan/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/weaverryan/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/weaverryan/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/weaverryan"
+        },
+        "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/49492b7dc1c4961350c200004c106c7b562e6ed7/comments",
+        "commit": {
+            "author": {
+                "date": "2016-09-18T23:42:01Z",
+                "email": "ryan@thatsquality.com",
+                "name": "Ryan Weaver"
+            },
+            "comment_count": 0,
+            "committer": {
+                "date": "2016-09-18T23:42:01Z",
+                "email": "ryan@thatsquality.com",
+                "name": "Ryan Weaver"
+            },
+            "message": "Merge remote-tracking branch 'origin/3.0' into 3.0\n\n* origin/3.0:\n  Remove reference to profiler lifetime property that was removed in 3.x",
+            "tree": {
+                "sha": "7360793f20f4910a4e8dd71a2fdefa774532ba4e",
+                "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/7360793f20f4910a4e8dd71a2fdefa774532ba4e"
+            },
+            "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/49492b7dc1c4961350c200004c106c7b562e6ed7",
+            "verification": {
+                "payload": null,
+                "reason": "unsigned",
+                "signature": null,
+                "verified": false
+            }
+        },
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/121003?v=4",
+            "events_url": "https://api.github.com/users/weaverryan/events{/privacy}",
+            "followers_url": "https://api.github.com/users/weaverryan/followers",
+            "following_url": "https://api.github.com/users/weaverryan/following{/other_user}",
+            "gists_url": "https://api.github.com/users/weaverryan/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/weaverryan",
+            "id": 121003,
+            "login": "weaverryan",
+            "organizations_url": "https://api.github.com/users/weaverryan/orgs",
+            "received_events_url": "https://api.github.com/users/weaverryan/received_events",
+            "repos_url": "https://api.github.com/users/weaverryan/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/weaverryan/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/weaverryan/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/weaverryan"
+        },
+        "html_url": "https://github.com/symfony/symfony-docs/commit/49492b7dc1c4961350c200004c106c7b562e6ed7",
+        "parents": [
+            {
+                "html_url": "https://github.com/symfony/symfony-docs/commit/78ae2a7aa68382a455713ac7f69b10eb5d7978d0",
+                "sha": "78ae2a7aa68382a455713ac7f69b10eb5d7978d0",
+                "url": "https://api.github.com/repos/symfony/symfony-docs/commits/78ae2a7aa68382a455713ac7f69b10eb5d7978d0"
+            },
+            {
+                "html_url": "https://github.com/symfony/symfony-docs/commit/d59b5605f5de5d523702d6b1129ae1197c53069e",
+                "sha": "d59b5605f5de5d523702d6b1129ae1197c53069e",
+                "url": "https://api.github.com/repos/symfony/symfony-docs/commits/d59b5605f5de5d523702d6b1129ae1197c53069e"
+            }
+        ],
+        "sha": "49492b7dc1c4961350c200004c106c7b562e6ed7",
+        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/49492b7dc1c4961350c200004c106c7b562e6ed7"
     },
-    "url": "https://api.github.com/repos/symfony/symfony-docs/commits/49492b7dc1c4961350c200004c106c7b562e6ed7",
-    "html_url": "https://github.com/symfony/symfony-docs/commit/49492b7dc1c4961350c200004c106c7b562e6ed7",
-    "comments_url": "https://api.github.com/repos/symfony/symfony-docs/commits/49492b7dc1c4961350c200004c106c7b562e6ed7/comments",
-    "author": {
-      "login": "weaverryan",
-      "id": 121003,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/121003?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/weaverryan",
-      "html_url": "https://github.com/weaverryan",
-      "followers_url": "https://api.github.com/users/weaverryan/followers",
-      "following_url": "https://api.github.com/users/weaverryan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/weaverryan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/weaverryan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/weaverryan/subscriptions",
-      "organizations_url": "https://api.github.com/users/weaverryan/orgs",
-      "repos_url": "https://api.github.com/users/weaverryan/repos",
-      "events_url": "https://api.github.com/users/weaverryan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/weaverryan/received_events",
-      "type": "User",
-      "site_admin": false
+    "name": "3.0",
+    "protected": false,
+    "protection": {
+        "enabled": false,
+        "required_status_checks": {
+            "contexts": [],
+            "enforcement_level": "off"
+        }
     },
-    "committer": {
-      "login": "weaverryan",
-      "id": 121003,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/121003?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/weaverryan",
-      "html_url": "https://github.com/weaverryan",
-      "followers_url": "https://api.github.com/users/weaverryan/followers",
-      "following_url": "https://api.github.com/users/weaverryan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/weaverryan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/weaverryan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/weaverryan/subscriptions",
-      "organizations_url": "https://api.github.com/users/weaverryan/orgs",
-      "repos_url": "https://api.github.com/users/weaverryan/repos",
-      "events_url": "https://api.github.com/users/weaverryan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/weaverryan/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "78ae2a7aa68382a455713ac7f69b10eb5d7978d0",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/78ae2a7aa68382a455713ac7f69b10eb5d7978d0",
-        "html_url": "https://github.com/symfony/symfony-docs/commit/78ae2a7aa68382a455713ac7f69b10eb5d7978d0"
-      },
-      {
-        "sha": "d59b5605f5de5d523702d6b1129ae1197c53069e",
-        "url": "https://api.github.com/repos/symfony/symfony-docs/commits/d59b5605f5de5d523702d6b1129ae1197c53069e",
-        "html_url": "https://github.com/symfony/symfony-docs/commit/d59b5605f5de5d523702d6b1129ae1197c53069e"
-      }
-    ]
-  },
-  "_links": {
-    "self": "https://api.github.com/repos/symfony/symfony-docs/branches/3.0",
-    "html": "https://github.com/symfony/symfony-docs/tree/3.0"
-  },
-  "protected": false,
-  "protection": {
-    "enabled": false,
-    "required_status_checks": {
-      "enforcement_level": "off",
-      "contexts": [
-
-      ]
-    }
-  },
-  "protection_url": "https://api.github.com/repos/symfony/symfony-docs/branches/3.0/protection"
+    "protection_url": "https://api.github.com/repos/symfony/symfony-docs/branches/3.0/protection"
 }

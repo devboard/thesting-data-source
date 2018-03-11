@@ -1,38 +1,38 @@
 {
-  "sha": "6d23c4c8569f032cf834abd459fe589915658827",
-  "url": "https://api.github.com/repos/msvrtan/user-edition/git/commits/6d23c4c8569f032cf834abd459fe589915658827",
-  "html_url": "https://github.com/msvrtan/user-edition/commit/6d23c4c8569f032cf834abd459fe589915658827",
-  "author": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2017-06-09T21:18:23Z"
-  },
-  "committer": {
-    "name": "Miro Svrtan",
-    "email": "miro@mirosvrtan.me",
-    "date": "2017-06-09T21:18:23Z"
-  },
-  "tree": {
-    "sha": "174d65189aa4811af30b64fa561b8aa697de2b9a",
-    "url": "https://api.github.com/repos/msvrtan/user-edition/git/trees/174d65189aa4811af30b64fa561b8aa697de2b9a"
-  },
-  "message": "Merge remote-tracking branch 'starter/master' into dev",
-  "parents": [
-    {
-      "sha": "1e93967775f3cf52b6473900441c8edd8a68828a",
-      "url": "https://api.github.com/repos/msvrtan/user-edition/git/commits/1e93967775f3cf52b6473900441c8edd8a68828a",
-      "html_url": "https://github.com/msvrtan/user-edition/commit/1e93967775f3cf52b6473900441c8edd8a68828a"
+    "author": {
+        "date": "2017-06-09T21:18:23Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
     },
-    {
-      "sha": "2f6418d306ffb014ae6d3febc748b0439138699c",
-      "url": "https://api.github.com/repos/msvrtan/user-edition/git/commits/2f6418d306ffb014ae6d3febc748b0439138699c",
-      "html_url": "https://github.com/msvrtan/user-edition/commit/2f6418d306ffb014ae6d3febc748b0439138699c"
+    "committer": {
+        "date": "2017-06-09T21:18:23Z",
+        "email": "miro@mirosvrtan.me",
+        "name": "Miro Svrtan"
+    },
+    "html_url": "https://github.com/msvrtan/user-edition/commit/6d23c4c8569f032cf834abd459fe589915658827",
+    "message": "Merge remote-tracking branch 'starter/master' into dev",
+    "parents": [
+        {
+            "html_url": "https://github.com/msvrtan/user-edition/commit/1e93967775f3cf52b6473900441c8edd8a68828a",
+            "sha": "1e93967775f3cf52b6473900441c8edd8a68828a",
+            "url": "https://api.github.com/repos/msvrtan/user-edition/git/commits/1e93967775f3cf52b6473900441c8edd8a68828a"
+        },
+        {
+            "html_url": "https://github.com/msvrtan/user-edition/commit/2f6418d306ffb014ae6d3febc748b0439138699c",
+            "sha": "2f6418d306ffb014ae6d3febc748b0439138699c",
+            "url": "https://api.github.com/repos/msvrtan/user-edition/git/commits/2f6418d306ffb014ae6d3febc748b0439138699c"
+        }
+    ],
+    "sha": "6d23c4c8569f032cf834abd459fe589915658827",
+    "tree": {
+        "sha": "174d65189aa4811af30b64fa561b8aa697de2b9a",
+        "url": "https://api.github.com/repos/msvrtan/user-edition/git/trees/174d65189aa4811af30b64fa561b8aa697de2b9a"
+    },
+    "url": "https://api.github.com/repos/msvrtan/user-edition/git/commits/6d23c4c8569f032cf834abd459fe589915658827",
+    "verification": {
+        "payload": null,
+        "reason": "unsigned",
+        "signature": null,
+        "verified": false
     }
-  ],
-  "verification": {
-    "verified": false,
-    "reason": "unsigned",
-    "signature": null,
-    "payload": null
-  }
 }

@@ -1,94 +1,92 @@
 {
-  "name": "i25-run-docker-on-circleci",
-  "commit": {
-    "sha": "e786cf1f47297ed9fc25dc3ccaa11b65e564fe43",
+    "_links": {
+        "html": "https://github.com/msvrtan/starter-edition/tree/i25-run-docker-on-circleci",
+        "self": "https://api.github.com/repos/msvrtan/starter-edition/branches/i25-run-docker-on-circleci"
+    },
     "commit": {
-      "author": {
-        "name": "Miro Svrtan",
-        "email": "miro@mirosvrtan.me",
-        "date": "2016-10-22T20:27:38Z"
-      },
-      "committer": {
-        "name": "Miro Svrtan",
-        "email": "miro@mirosvrtan.me",
-        "date": "2016-10-23T01:55:44Z"
-      },
-      "message": "Misc circle stuff",
-      "tree": {
-        "sha": "1334e8278fc9c343d93254b81f85bdc456fae0d5",
-        "url": "https://api.github.com/repos/msvrtan/starter-edition/git/trees/1334e8278fc9c343d93254b81f85bdc456fae0d5"
-      },
-      "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/e786cf1f47297ed9fc25dc3ccaa11b65e564fe43",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
+        "author": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+            "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+            "followers_url": "https://api.github.com/users/msvrtan/followers",
+            "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+            "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/msvrtan",
+            "id": 1780572,
+            "login": "msvrtan",
+            "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+            "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+            "repos_url": "https://api.github.com/users/msvrtan/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/msvrtan"
+        },
+        "comments_url": "https://api.github.com/repos/msvrtan/starter-edition/commits/e786cf1f47297ed9fc25dc3ccaa11b65e564fe43/comments",
+        "commit": {
+            "author": {
+                "date": "2016-10-22T20:27:38Z",
+                "email": "miro@mirosvrtan.me",
+                "name": "Miro Svrtan"
+            },
+            "comment_count": 0,
+            "committer": {
+                "date": "2016-10-23T01:55:44Z",
+                "email": "miro@mirosvrtan.me",
+                "name": "Miro Svrtan"
+            },
+            "message": "Misc circle stuff",
+            "tree": {
+                "sha": "1334e8278fc9c343d93254b81f85bdc456fae0d5",
+                "url": "https://api.github.com/repos/msvrtan/starter-edition/git/trees/1334e8278fc9c343d93254b81f85bdc456fae0d5"
+            },
+            "url": "https://api.github.com/repos/msvrtan/starter-edition/git/commits/e786cf1f47297ed9fc25dc3ccaa11b65e564fe43",
+            "verification": {
+                "payload": null,
+                "reason": "unsigned",
+                "signature": null,
+                "verified": false
+            }
+        },
+        "committer": {
+            "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
+            "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
+            "followers_url": "https://api.github.com/users/msvrtan/followers",
+            "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
+            "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/msvrtan",
+            "id": 1780572,
+            "login": "msvrtan",
+            "organizations_url": "https://api.github.com/users/msvrtan/orgs",
+            "received_events_url": "https://api.github.com/users/msvrtan/received_events",
+            "repos_url": "https://api.github.com/users/msvrtan/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/msvrtan"
+        },
+        "html_url": "https://github.com/msvrtan/starter-edition/commit/e786cf1f47297ed9fc25dc3ccaa11b65e564fe43",
+        "parents": [
+            {
+                "html_url": "https://github.com/msvrtan/starter-edition/commit/748f08a4fa80e66db2761c7edf7c962bfc9ca2e6",
+                "sha": "748f08a4fa80e66db2761c7edf7c962bfc9ca2e6",
+                "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/748f08a4fa80e66db2761c7edf7c962bfc9ca2e6"
+            }
+        ],
+        "sha": "e786cf1f47297ed9fc25dc3ccaa11b65e564fe43",
+        "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/e786cf1f47297ed9fc25dc3ccaa11b65e564fe43"
     },
-    "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/e786cf1f47297ed9fc25dc3ccaa11b65e564fe43",
-    "html_url": "https://github.com/msvrtan/starter-edition/commit/e786cf1f47297ed9fc25dc3ccaa11b65e564fe43",
-    "comments_url": "https://api.github.com/repos/msvrtan/starter-edition/commits/e786cf1f47297ed9fc25dc3ccaa11b65e564fe43/comments",
-    "author": {
-      "login": "msvrtan",
-      "id": 1780572,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/msvrtan",
-      "html_url": "https://github.com/msvrtan",
-      "followers_url": "https://api.github.com/users/msvrtan/followers",
-      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
-      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
-      "repos_url": "https://api.github.com/users/msvrtan/repos",
-      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
-      "type": "User",
-      "site_admin": false
+    "name": "i25-run-docker-on-circleci",
+    "protected": false,
+    "protection": {
+        "enabled": false,
+        "required_status_checks": {
+            "contexts": [],
+            "enforcement_level": "off"
+        }
     },
-    "committer": {
-      "login": "msvrtan",
-      "id": 1780572,
-      "avatar_url": "https://avatars1.githubusercontent.com/u/1780572?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/msvrtan",
-      "html_url": "https://github.com/msvrtan",
-      "followers_url": "https://api.github.com/users/msvrtan/followers",
-      "following_url": "https://api.github.com/users/msvrtan/following{/other_user}",
-      "gists_url": "https://api.github.com/users/msvrtan/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/msvrtan/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/msvrtan/subscriptions",
-      "organizations_url": "https://api.github.com/users/msvrtan/orgs",
-      "repos_url": "https://api.github.com/users/msvrtan/repos",
-      "events_url": "https://api.github.com/users/msvrtan/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/msvrtan/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "748f08a4fa80e66db2761c7edf7c962bfc9ca2e6",
-        "url": "https://api.github.com/repos/msvrtan/starter-edition/commits/748f08a4fa80e66db2761c7edf7c962bfc9ca2e6",
-        "html_url": "https://github.com/msvrtan/starter-edition/commit/748f08a4fa80e66db2761c7edf7c962bfc9ca2e6"
-      }
-    ]
-  },
-  "_links": {
-    "self": "https://api.github.com/repos/msvrtan/starter-edition/branches/i25-run-docker-on-circleci",
-    "html": "https://github.com/msvrtan/starter-edition/tree/i25-run-docker-on-circleci"
-  },
-  "protected": false,
-  "protection": {
-    "enabled": false,
-    "required_status_checks": {
-      "enforcement_level": "off",
-      "contexts": [
-
-      ]
-    }
-  },
-  "protection_url": "https://api.github.com/repos/msvrtan/starter-edition/branches/i25-run-docker-on-circleci/protection"
+    "protection_url": "https://api.github.com/repos/msvrtan/starter-edition/branches/i25-run-docker-on-circleci/protection"
 }

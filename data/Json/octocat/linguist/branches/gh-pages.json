@@ -1,90 +1,86 @@
 {
-  "name": "gh-pages",
-  "commit": {
-    "sha": "d265c67479376c9b987cd730f6787d1b7de37f0a",
+    "_links": {
+        "html": "https://github.com/octocat/linguist/tree/gh-pages",
+        "self": "https://api.github.com/repos/octocat/linguist/branches/gh-pages"
+    },
     "commit": {
-      "author": {
-        "name": "Brandon Keepers",
-        "email": "brandon@opensoul.org",
-        "date": "2015-03-08T18:33:10Z"
-      },
-      "committer": {
-        "name": "Brandon Keepers",
-        "email": "brandon@opensoul.org",
-        "date": "2015-03-08T18:34:35Z"
-      },
-      "message": "Hack up a page to show language colors",
-      "tree": {
-        "sha": "4d0b685262ebd73adca4563d83fe963ef0623839",
-        "url": "https://api.github.com/repos/octocat/linguist/git/trees/4d0b685262ebd73adca4563d83fe963ef0623839"
-      },
-      "url": "https://api.github.com/repos/octocat/linguist/git/commits/d265c67479376c9b987cd730f6787d1b7de37f0a",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
+        "author": {
+            "avatar_url": "https://avatars0.githubusercontent.com/u/173?v=4",
+            "events_url": "https://api.github.com/users/bkeepers/events{/privacy}",
+            "followers_url": "https://api.github.com/users/bkeepers/followers",
+            "following_url": "https://api.github.com/users/bkeepers/following{/other_user}",
+            "gists_url": "https://api.github.com/users/bkeepers/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/bkeepers",
+            "id": 173,
+            "login": "bkeepers",
+            "organizations_url": "https://api.github.com/users/bkeepers/orgs",
+            "received_events_url": "https://api.github.com/users/bkeepers/received_events",
+            "repos_url": "https://api.github.com/users/bkeepers/repos",
+            "site_admin": true,
+            "starred_url": "https://api.github.com/users/bkeepers/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/bkeepers/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/bkeepers"
+        },
+        "comments_url": "https://api.github.com/repos/octocat/linguist/commits/d265c67479376c9b987cd730f6787d1b7de37f0a/comments",
+        "commit": {
+            "author": {
+                "date": "2015-03-08T18:33:10Z",
+                "email": "brandon@opensoul.org",
+                "name": "Brandon Keepers"
+            },
+            "comment_count": 0,
+            "committer": {
+                "date": "2015-03-08T18:34:35Z",
+                "email": "brandon@opensoul.org",
+                "name": "Brandon Keepers"
+            },
+            "message": "Hack up a page to show language colors",
+            "tree": {
+                "sha": "4d0b685262ebd73adca4563d83fe963ef0623839",
+                "url": "https://api.github.com/repos/octocat/linguist/git/trees/4d0b685262ebd73adca4563d83fe963ef0623839"
+            },
+            "url": "https://api.github.com/repos/octocat/linguist/git/commits/d265c67479376c9b987cd730f6787d1b7de37f0a",
+            "verification": {
+                "payload": null,
+                "reason": "unsigned",
+                "signature": null,
+                "verified": false
+            }
+        },
+        "committer": {
+            "avatar_url": "https://avatars0.githubusercontent.com/u/173?v=4",
+            "events_url": "https://api.github.com/users/bkeepers/events{/privacy}",
+            "followers_url": "https://api.github.com/users/bkeepers/followers",
+            "following_url": "https://api.github.com/users/bkeepers/following{/other_user}",
+            "gists_url": "https://api.github.com/users/bkeepers/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/bkeepers",
+            "id": 173,
+            "login": "bkeepers",
+            "organizations_url": "https://api.github.com/users/bkeepers/orgs",
+            "received_events_url": "https://api.github.com/users/bkeepers/received_events",
+            "repos_url": "https://api.github.com/users/bkeepers/repos",
+            "site_admin": true,
+            "starred_url": "https://api.github.com/users/bkeepers/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/bkeepers/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/bkeepers"
+        },
+        "html_url": "https://github.com/octocat/linguist/commit/d265c67479376c9b987cd730f6787d1b7de37f0a",
+        "parents": [],
+        "sha": "d265c67479376c9b987cd730f6787d1b7de37f0a",
+        "url": "https://api.github.com/repos/octocat/linguist/commits/d265c67479376c9b987cd730f6787d1b7de37f0a"
     },
-    "url": "https://api.github.com/repos/octocat/linguist/commits/d265c67479376c9b987cd730f6787d1b7de37f0a",
-    "html_url": "https://github.com/octocat/linguist/commit/d265c67479376c9b987cd730f6787d1b7de37f0a",
-    "comments_url": "https://api.github.com/repos/octocat/linguist/commits/d265c67479376c9b987cd730f6787d1b7de37f0a/comments",
-    "author": {
-      "login": "bkeepers",
-      "id": 173,
-      "avatar_url": "https://avatars0.githubusercontent.com/u/173?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bkeepers",
-      "html_url": "https://github.com/bkeepers",
-      "followers_url": "https://api.github.com/users/bkeepers/followers",
-      "following_url": "https://api.github.com/users/bkeepers/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bkeepers/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bkeepers/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bkeepers/subscriptions",
-      "organizations_url": "https://api.github.com/users/bkeepers/orgs",
-      "repos_url": "https://api.github.com/users/bkeepers/repos",
-      "events_url": "https://api.github.com/users/bkeepers/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bkeepers/received_events",
-      "type": "User",
-      "site_admin": true
+    "name": "gh-pages",
+    "protected": false,
+    "protection": {
+        "enabled": false,
+        "required_status_checks": {
+            "contexts": [],
+            "enforcement_level": "off"
+        }
     },
-    "committer": {
-      "login": "bkeepers",
-      "id": 173,
-      "avatar_url": "https://avatars0.githubusercontent.com/u/173?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bkeepers",
-      "html_url": "https://github.com/bkeepers",
-      "followers_url": "https://api.github.com/users/bkeepers/followers",
-      "following_url": "https://api.github.com/users/bkeepers/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bkeepers/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bkeepers/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bkeepers/subscriptions",
-      "organizations_url": "https://api.github.com/users/bkeepers/orgs",
-      "repos_url": "https://api.github.com/users/bkeepers/repos",
-      "events_url": "https://api.github.com/users/bkeepers/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bkeepers/received_events",
-      "type": "User",
-      "site_admin": true
-    },
-    "parents": [
-
-    ]
-  },
-  "_links": {
-    "self": "https://api.github.com/repos/octocat/linguist/branches/gh-pages",
-    "html": "https://github.com/octocat/linguist/tree/gh-pages"
-  },
-  "protected": false,
-  "protection": {
-    "enabled": false,
-    "required_status_checks": {
-      "enforcement_level": "off",
-      "contexts": [
-
-      ]
-    }
-  },
-  "protection_url": "https://api.github.com/repos/octocat/linguist/branches/gh-pages/protection"
+    "protection_url": "https://api.github.com/repos/octocat/linguist/branches/gh-pages/protection"
 }
