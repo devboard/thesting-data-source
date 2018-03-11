@@ -1,0 +1,38 @@
+{
+  "sha": "95f93481f2ae3bca2943d38225969c3f803383dc",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/95f93481f2ae3bca2943d38225969c3f803383dc",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/95f93481f2ae3bca2943d38225969c3f803383dc",
+  "author": {
+    "name": "Javier Eguiluz",
+    "email": "javier.eguiluz@gmail.com",
+    "date": "2018-03-11T11:32:50Z"
+  },
+  "committer": {
+    "name": "Javier Eguiluz",
+    "email": "javier.eguiluz@gmail.com",
+    "date": "2018-03-11T11:32:50Z"
+  },
+  "tree": {
+    "sha": "1a39065f01a9a3c804a7e5327bf4ec0bb2b15fcb",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/1a39065f01a9a3c804a7e5327bf4ec0bb2b15fcb"
+  },
+  "message": "minor #9419 Fix the explanation about registering commands (javiereguiluz)\n\nThis PR was squashed before being merged into the 2.7 branch (closes #9419).\n\nDiscussion\n----------\n\nFix the explanation about registering commands\n\nA question to @xabbuh: we should merge this in 2.7, 2.8 and 3.4, right?\n\nCommits\n-------\n\n0b101d8ab Fix the explanation about registering commands",
+  "parents": [
+    {
+      "sha": "b963109e85f58e96aba22da93a19c499d91046e0",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/b963109e85f58e96aba22da93a19c499d91046e0",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/b963109e85f58e96aba22da93a19c499d91046e0"
+    },
+    {
+      "sha": "0b101d8abfb18906d2713c45055f88463e6abfb9",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/0b101d8abfb18906d2713c45055f88463e6abfb9",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/0b101d8abfb18906d2713c45055f88463e6abfb9"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

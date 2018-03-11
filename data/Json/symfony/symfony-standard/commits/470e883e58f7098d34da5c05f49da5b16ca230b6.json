@@ -1,0 +1,33 @@
+{
+  "sha": "470e883e58f7098d34da5c05f49da5b16ca230b6",
+  "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/470e883e58f7098d34da5c05f49da5b16ca230b6",
+  "html_url": "https://github.com/symfony/symfony-standard/commit/470e883e58f7098d34da5c05f49da5b16ca230b6",
+  "author": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2018-01-29T12:20:03Z"
+  },
+  "committer": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2018-01-29T12:20:03Z"
+  },
+  "tree": {
+    "sha": "16404cad0187a44d49489094ff5a3cebeb4a03ac",
+    "url": "https://api.github.com/repos/symfony/symfony-standard/git/trees/16404cad0187a44d49489094ff5a3cebeb4a03ac"
+  },
+  "message": "updated VENDORS for 3.3.16",
+  "parents": [
+    {
+      "sha": "9884ed0ec1cc0631f55862e8343bc153dd9ac351",
+      "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/9884ed0ec1cc0631f55862e8343bc153dd9ac351",
+      "html_url": "https://github.com/symfony/symfony-standard/commit/9884ed0ec1cc0631f55862e8343bc153dd9ac351"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

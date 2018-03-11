@@ -1,0 +1,33 @@
+{
+  "sha": "81fa66a9a619f7f8fb87fe42ec66b4479ea3bd37",
+  "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/81fa66a9a619f7f8fb87fe42ec66b4479ea3bd37",
+  "html_url": "https://github.com/symfony/symfony-standard/commit/81fa66a9a619f7f8fb87fe42ec66b4479ea3bd37",
+  "author": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2018-03-01T19:37:08Z"
+  },
+  "committer": {
+    "name": "Fabien Potencier",
+    "email": "fabien.potencier@gmail.com",
+    "date": "2018-03-01T19:37:08Z"
+  },
+  "tree": {
+    "sha": "af42de8ac1b64c529f3a83ceb96eda4c5ac584dd",
+    "url": "https://api.github.com/repos/symfony/symfony-standard/git/trees/af42de8ac1b64c529f3a83ceb96eda4c5ac584dd"
+  },
+  "message": "updated VENDORS for 3.4.5",
+  "parents": [
+    {
+      "sha": "f3b73e75ab4e38ddf768004ef32cdc705402ccc4",
+      "url": "https://api.github.com/repos/symfony/symfony-standard/git/commits/f3b73e75ab4e38ddf768004ef32cdc705402ccc4",
+      "html_url": "https://github.com/symfony/symfony-standard/commit/f3b73e75ab4e38ddf768004ef32cdc705402ccc4"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

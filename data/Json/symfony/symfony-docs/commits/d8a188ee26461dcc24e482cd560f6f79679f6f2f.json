@@ -1,0 +1,38 @@
+{
+  "sha": "d8a188ee26461dcc24e482cd560f6f79679f6f2f",
+  "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/d8a188ee26461dcc24e482cd560f6f79679f6f2f",
+  "html_url": "https://github.com/symfony/symfony-docs/commit/d8a188ee26461dcc24e482cd560f6f79679f6f2f",
+  "author": {
+    "name": "Javier Eguiluz",
+    "email": "javier.eguiluz@gmail.com",
+    "date": "2018-03-11T17:38:59Z"
+  },
+  "committer": {
+    "name": "Javier Eguiluz",
+    "email": "javier.eguiluz@gmail.com",
+    "date": "2018-03-11T17:38:59Z"
+  },
+  "tree": {
+    "sha": "05e95def008b199c8d77efe6cdba128d8b5e694b",
+    "url": "https://api.github.com/repos/symfony/symfony-docs/git/trees/05e95def008b199c8d77efe6cdba128d8b5e694b"
+  },
+  "message": "Merge branch '2.7' into 2.8\n\n* 2.7:\n  Fix the explanation about registering commands\n  Add a 2nd argument to create()",
+  "parents": [
+    {
+      "sha": "2b3c6d9faa54847a99762119d34fa5814ecf02b4",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/2b3c6d9faa54847a99762119d34fa5814ecf02b4",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/2b3c6d9faa54847a99762119d34fa5814ecf02b4"
+    },
+    {
+      "sha": "95f93481f2ae3bca2943d38225969c3f803383dc",
+      "url": "https://api.github.com/repos/symfony/symfony-docs/git/commits/95f93481f2ae3bca2943d38225969c3f803383dc",
+      "html_url": "https://github.com/symfony/symfony-docs/commit/95f93481f2ae3bca2943d38225969c3f803383dc"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}
